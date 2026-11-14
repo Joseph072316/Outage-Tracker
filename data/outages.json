@@ -1,6 +1,20 @@
 {
- "checked": 1794672136689,
+ "checked": 1794674475923,
  "outages": [
+  {
+   "key": "jackson:606488",
+   "utility": "Jackson EMC",
+   "lat": 34.22360961692395,
+   "lon": -83.46721616386361,
+   "county": "Jackson",
+   "location": "near Commerce (30529)",
+   "first_seen": 1794674475923,
+   "customers": 1,
+   "start": 1794673912887,
+   "cause": null,
+   "last_seen": 1794674475923,
+   "cleared": null
+  },
   {
    "key": "jackson:606485",
    "utility": "Jackson EMC",
@@ -20,8 +34,8 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1794672136689
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1794674475923
   },
   "walton": {
    "name": "Walton EMC",
