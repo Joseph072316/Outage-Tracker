@@ -1,0 +1,43 @@
+{
+ "checked": 1794665883613,
+ "outages": [
+  {
+   "key": "jackson:606485",
+   "utility": "Jackson EMC",
+   "lat": 34.0431314688598,
+   "lon": -83.30516008658589,
+   "county": "Madison",
+   "location": "Lee Drive (30646)",
+   "first_seen": 1794665883613,
+   "customers": 3,
+   "start": 1794663116000,
+   "cause": null,
+   "last_seen": 1794665883613,
+   "cleared": null
+  }
+ ],
+ "sources": {
+  "jackson": {
+   "name": "Jackson EMC",
+   "state": "ok",
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1794665883613
+  },
+  "walton": {
+   "name": "Walton EMC",
+   "state": "not_connected",
+   "message": "Data source not hooked up yet"
+  },
+  "rayle": {
+   "name": "Rayle EMC",
+   "state": "not_connected",
+   "message": "Data source not hooked up yet"
+  },
+  "gapower": {
+   "name": "Georgia Power",
+   "state": "not_connected",
+   "message": "Data source not hooked up yet"
+  }
+ },
+ "skipped": {}
+}
