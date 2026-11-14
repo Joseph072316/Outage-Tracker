@@ -1,5 +1,5 @@
 {
- "checked": 1794669690632,
+ "checked": 1794672136689,
  "outages": [
   {
    "key": "jackson:606485",
@@ -13,15 +13,15 @@
    "start": 1794663116000,
    "cause": null,
    "last_seen": 1794669690632,
-   "cleared": null
+   "cleared": 1794672136689
   }
  ],
  "sources": {
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1794669690632
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1794672136689
   },
   "walton": {
    "name": "Walton EMC",
