@@ -1,0 +1,26 @@
+name: Update outages
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: update-outages
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pull outage data
+        run: python3 update.py
+      - name: Save it
+        run: |
+          git config user.name "outage-bot"
+          git config user.email "outage-bot@users.noreply.github.com"
+          git add data/outages.json
+          git commit -m "update outages" || exit 0
+          git pull --rebase
+          git push
