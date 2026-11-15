@@ -1,5 +1,5 @@
 {
- "checked": 1794770566189,
+ "checked": 1794772833948,
  "outages": [
   {
    "key": "gapower:34.1880,-83.7215",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1794767480177,
    "cause": null,
-   "last_seen": 1794770566189,
+   "last_seen": 1794772833948,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1794767480177,
    "cause": null,
-   "last_seen": 1794770566189,
+   "last_seen": 1794772833948,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 1,
    "start": 1794765463003,
    "cause": null,
-   "last_seen": 1794770566189,
+   "last_seen": 1794772833948,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 1,
    "start": 1794761057799,
    "cause": null,
-   "last_seen": 1794770566189,
+   "last_seen": 1794772833948,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 4,
    "start": 1794752124379,
    "cause": null,
-   "last_seen": 1794770566189,
+   "last_seen": 1794772833948,
    "cleared": null
   },
   {
@@ -189,26 +189,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794770566189
+   "last_ok": 1794772833948
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1794770566189
+   "last_ok": 1794772833948
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794770566189
+   "last_ok": 1794772833948
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794770566189
+   "last_ok": 1794772833948
   }
  },
  "skipped": {
@@ -216,6 +216,7 @@
   "gapower:34.2532,-83.5609": 1794754507607,
   "gapower:34.2905,-83.8242": 1794763244222,
   "rayle:2026-11-15-0128": 1794765463003,
-  "gapower:34.2263,-83.8926": 1794767480177
+  "gapower:34.2263,-83.8926": 1794767480177,
+  "gapower:34.3280,-83.1711": 1794772833948
  }
 }
