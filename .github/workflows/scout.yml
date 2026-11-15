@@ -17,13 +17,8 @@ jobs:
           const puppeteer = require('puppeteer-core');
           const fs = require('fs');
           const pages = [
-            'https://outagemap.georgiapower.com/',
-            'https://www.outageentry.com/Outages/outage.php?Client=walton',
-            'https://www.waltonemc.com/outages-maps',
-            'https://waltonemc.outagemap.coop/',
-            'https://rayleemc.outagemap.coop/',
-            'https://www.rayleemc.com/',
-            'https://www.raylemc.com/'
+            'https://www.outageentry.com/Outage/outage.php?Client=walton',
+            'https://outage.rayleemc.com/'
           ];
           (async () => {
             const browser = await puppeteer.launch({ executablePath: '/usr/bin/google-chrome', args: ['--no-sandbox'] });
@@ -36,9 +31,9 @@ jobs:
                 const req = r.request();
                 const t = req.resourceType();
                 if (['image', 'font', 'stylesheet', 'media'].includes(t)) return;
-                const item = { url: r.url(), type: t, status: r.status(), ct: r.headers()['content-type'] || '' };
+                const item = { url: r.url(), type: t, status: r.status(), ct: r.headers()['content-type'] || '', method: req.method(), post: (req.postData() || '').slice(0, 3000) };
                 if (['xhr', 'fetch', 'document', 'script', 'other'].includes(t) && !/\.js(\?|$)/.test(r.url())) {
-                  try { item.body = (await r.text()).slice(0, 4000); } catch (e) {}
+                  try { item.body = (await r.text()).slice(0, 8000); } catch (e) {}
                 }
                 rec.requests.push(item);
               });
@@ -52,7 +47,7 @@ jobs:
               await p.close();
             }
             await browser.close();
-            fs.writeFileSync(process.env.GITHUB_WORKSPACE + '/scout-results.json', JSON.stringify(out, null, 1));
+            fs.writeFileSync(process.env.GITHUB_WORKSPACE + '/scout-results2.json', JSON.stringify(out, null, 1));
           })();
           EOF
           node s.js
@@ -60,7 +55,7 @@ jobs:
         run: |
           git config user.name "outage-bot"
           git config user.email "outage-bot@users.noreply.github.com"
-          git add scout-results.json
+          git add scout-results2.json
           git commit -m "scout results" || exit 0
           git pull --rebase
           git push
