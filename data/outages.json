@@ -1,20 +1,6 @@
 {
- "checked": 1794752124379,
+ "checked": 1794754507607,
  "outages": [
-  {
-   "key": "walton:C1207435",
-   "utility": "Walton EMC",
-   "lat": 33.83999032149235,
-   "lon": -83.62142716010224,
-   "county": "Walton",
-   "location": "Bethany Church Road near Mount Vernon (30656)",
-   "first_seen": 1794752124379,
-   "customers": 1,
-   "start": 1794752124379,
-   "cause": null,
-   "last_seen": 1794752124379,
-   "cleared": null
-  },
   {
    "key": "gapower:33.6571,-83.7115",
    "utility": "Georgia Power",
@@ -26,7 +12,7 @@
    "customers": 5,
    "start": 1794752124379,
    "cause": null,
-   "last_seen": 1794752124379,
+   "last_seen": 1794754507607,
    "cleared": null
   },
   {
@@ -40,8 +26,22 @@
    "customers": 4,
    "start": 1794752124379,
    "cause": null,
-   "last_seen": 1794752124379,
+   "last_seen": 1794754507607,
    "cleared": null
+  },
+  {
+   "key": "walton:C1207435",
+   "utility": "Walton EMC",
+   "lat": 33.83999032149235,
+   "lon": -83.62142716010224,
+   "county": "Walton",
+   "location": "Bethany Church Road near Mount Vernon (30656)",
+   "first_seen": 1794752124379,
+   "customers": 1,
+   "start": 1794752124379,
+   "cause": null,
+   "last_seen": 1794752124379,
+   "cleared": 1794754507607
   },
   {
    "key": "jackson:606488",
@@ -77,29 +77,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794752124379
+   "last_ok": 1794754507607
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1794752124379
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1794754507607
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794752124379
+   "last_ok": 1794754507607
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794752124379
+   "last_ok": 1794754507607
   }
  },
  "skipped": {
-  "gapower:34.0147,-83.7175": 1794752124379
+  "gapower:34.0147,-83.7175": 1794752124379,
+  "gapower:34.2532,-83.5609": 1794754507607
  }
 }
