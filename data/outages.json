@@ -1,6 +1,48 @@
 {
- "checked": 1794749259522,
+ "checked": 1794752124379,
  "outages": [
+  {
+   "key": "walton:C1207435",
+   "utility": "Walton EMC",
+   "lat": 33.83999032149235,
+   "lon": -83.62142716010224,
+   "county": "Walton",
+   "location": "Bethany Church Road near Mount Vernon (30656)",
+   "first_seen": 1794752124379,
+   "customers": 1,
+   "start": 1794752124379,
+   "cause": null,
+   "last_seen": 1794752124379,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.6571,-83.7115",
+   "utility": "Georgia Power",
+   "lat": 33.65711,
+   "lon": -83.71152,
+   "county": "Walton",
+   "location": "Oak Drive near Social Circle (30025)",
+   "first_seen": 1794752124379,
+   "customers": 5,
+   "start": 1794752124379,
+   "cause": null,
+   "last_seen": 1794752124379,
+   "cleared": null
+  },
+  {
+   "key": "gapower:34.2322,-83.4524",
+   "utility": "Georgia Power",
+   "lat": 34.23216,
+   "lon": -83.45237,
+   "county": "Jackson",
+   "location": "Homer Road near Commerce (30529)",
+   "first_seen": 1794752124379,
+   "customers": 4,
+   "start": 1794752124379,
+   "cause": null,
+   "last_seen": 1794752124379,
+   "cleared": null
+  },
   {
    "key": "jackson:606488",
    "utility": "Jackson EMC",
@@ -35,26 +77,29 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794749259522
+   "last_ok": 1794752124379
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1794749259522
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1794752124379
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794749259522
+   "last_ok": 1794752124379
   },
   "gapower": {
    "name": "Georgia Power",
-   "state": "error",
-   "message": "'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte",
-   "last_error": 1794749259522
+   "state": "ok",
+   "message": "2 outage(s) in your counties",
+   "last_error": 1794749259522,
+   "last_ok": 1794752124379
   }
  },
- "skipped": {}
+ "skipped": {
+  "gapower:34.0147,-83.7175": 1794752124379
+ }
 }
