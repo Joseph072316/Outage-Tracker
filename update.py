@@ -52,7 +52,7 @@ TIMEOUT = 30
 def get_json(url):
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, "Accept": "application/json"})
     with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
-        return json.loads(resp.read().decode("utf-8"))
+        return json.loads(__import__("gzip").decompress(r) if (r := resp.read())[:2] == b"\x1f\x8b" else r)
 
 
 def now_ms():
