@@ -1,18 +1,18 @@
 {
- "checked": 1794784588414,
+ "checked": 1794787004468,
  "outages": [
   {
-   "key": "walton:C1207453",
+   "key": "walton:C1207454",
    "utility": "Walton EMC",
-   "lat": 33.87835060732509,
-   "lon": -83.43929045891697,
-   "county": "Oconee",
-   "location": "Bouldercrest Circle near Lake Forest (30677)",
-   "first_seen": 1794784588414,
+   "lat": 33.78991635768827,
+   "lon": -83.84899009743347,
+   "county": "Walton",
+   "location": "Youth Monroe Road near Youth (30052)",
+   "first_seen": 1794787004468,
    "customers": 1,
-   "start": 1794784588414,
+   "start": 1794787004468,
    "cause": null,
-   "last_seen": 1794784588414,
+   "last_seen": 1794787004468,
    "cleared": null
   },
   {
@@ -26,8 +26,22 @@
    "customers": 4,
    "start": 1794752124379,
    "cause": null,
-   "last_seen": 1794784588414,
+   "last_seen": 1794787004468,
    "cleared": null
+  },
+  {
+   "key": "walton:C1207453",
+   "utility": "Walton EMC",
+   "lat": 33.87835060732509,
+   "lon": -83.43929045891697,
+   "county": "Oconee",
+   "location": "Bouldercrest Circle near Lake Forest (30677)",
+   "first_seen": 1794784588414,
+   "customers": 1,
+   "start": 1794784588414,
+   "cause": null,
+   "last_seen": 1794784588414,
+   "cleared": 1794787004468
   },
   {
    "key": "gapower:34.1876,-83.7227",
@@ -245,26 +259,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794784588414
+   "last_ok": 1794787004468
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794784588414
+   "last_ok": 1794787004468
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794784588414
+   "last_ok": 1794787004468
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794784588414
+   "last_ok": 1794787004468
   }
  },
  "skipped": {
