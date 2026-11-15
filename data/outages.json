@@ -1,5 +1,5 @@
 {
- "checked": 1794745793403,
+ "checked": 1794749259522,
  "outages": [
   {
    "key": "jackson:606488",
@@ -35,22 +35,25 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794745793403
+   "last_ok": 1794749259522
   },
   "walton": {
    "name": "Walton EMC",
-   "state": "not_connected",
-   "message": "Data source not hooked up yet"
+   "state": "ok",
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1794749259522
   },
   "rayle": {
    "name": "Rayle EMC",
-   "state": "not_connected",
-   "message": "Data source not hooked up yet"
+   "state": "ok",
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1794749259522
   },
   "gapower": {
    "name": "Georgia Power",
-   "state": "not_connected",
-   "message": "Data source not hooked up yet"
+   "state": "error",
+   "message": "'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte",
+   "last_error": 1794749259522
   }
  },
  "skipped": {}
