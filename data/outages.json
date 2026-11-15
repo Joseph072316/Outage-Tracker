@@ -1,5 +1,5 @@
 {
- "checked": 1794767480177,
+ "checked": 1794770566189,
  "outages": [
   {
    "key": "gapower:34.1880,-83.7215",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1794767480177,
    "cause": null,
-   "last_seen": 1794767480177,
+   "last_seen": 1794770566189,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1794767480177,
    "cause": null,
-   "last_seen": 1794767480177,
+   "last_seen": 1794770566189,
    "cleared": null
   },
   {
@@ -40,7 +40,35 @@
    "customers": 1,
    "start": 1794765463003,
    "cause": null,
-   "last_seen": 1794767480177,
+   "last_seen": 1794770566189,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1207441",
+   "utility": "Walton EMC",
+   "lat": 33.79492098725902,
+   "lon": -83.84416831203792,
+   "county": "Walton",
+   "location": "Raymond Drive (30052)",
+   "first_seen": 1794761057799,
+   "customers": 1,
+   "start": 1794761057799,
+   "cause": null,
+   "last_seen": 1794770566189,
+   "cleared": null
+  },
+  {
+   "key": "gapower:34.2322,-83.4524",
+   "utility": "Georgia Power",
+   "lat": 34.23216,
+   "lon": -83.45237,
+   "county": "Jackson",
+   "location": "Homer Road near Commerce (30529)",
+   "first_seen": 1794752124379,
+   "customers": 4,
+   "start": 1794752124379,
+   "cause": null,
+   "last_seen": 1794770566189,
    "cleared": null
   },
   {
@@ -55,21 +83,7 @@
    "start": 1794763244222,
    "cause": null,
    "last_seen": 1794767480177,
-   "cleared": null
-  },
-  {
-   "key": "walton:C1207441",
-   "utility": "Walton EMC",
-   "lat": 33.79492098725902,
-   "lon": -83.84416831203792,
-   "county": "Walton",
-   "location": "Raymond Drive (30052)",
-   "first_seen": 1794761057799,
-   "customers": 1,
-   "start": 1794761057799,
-   "cause": null,
-   "last_seen": 1794767480177,
-   "cleared": null
+   "cleared": 1794770566189
   },
   {
    "key": "gapower:33.6611,-83.7143",
@@ -83,21 +97,7 @@
    "start": 1794761057799,
    "cause": null,
    "last_seen": 1794767480177,
-   "cleared": null
-  },
-  {
-   "key": "gapower:34.2322,-83.4524",
-   "utility": "Georgia Power",
-   "lat": 34.23216,
-   "lon": -83.45237,
-   "county": "Jackson",
-   "location": "Homer Road near Commerce (30529)",
-   "first_seen": 1794752124379,
-   "customers": 4,
-   "start": 1794752124379,
-   "cause": null,
-   "last_seen": 1794767480177,
-   "cleared": null
+   "cleared": 1794770566189
   },
   {
    "key": "gapower:33.9312,-83.4348",
@@ -182,20 +182,6 @@
    "cause": null,
    "last_seen": 1794752124379,
    "cleared": 1794754507607
-  },
-  {
-   "key": "jackson:606488",
-   "utility": "Jackson EMC",
-   "lat": 34.22360961692395,
-   "lon": -83.46721616386361,
-   "county": "Jackson",
-   "location": "near Commerce (30529)",
-   "first_seen": 1794674475923,
-   "customers": 1,
-   "start": 1794673912887,
-   "cause": null,
-   "last_seen": 1794680927437,
-   "cleared": 1794683737383
   }
  ],
  "sources": {
@@ -203,26 +189,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794767480177
+   "last_ok": 1794770566189
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1794767480177
+   "last_ok": 1794770566189
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794767480177
+   "last_ok": 1794770566189
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "5 outage(s) in your counties",
+   "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794767480177
+   "last_ok": 1794770566189
   }
  },
  "skipped": {
