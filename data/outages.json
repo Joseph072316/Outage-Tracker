@@ -1,32 +1,60 @@
 {
- "checked": 1794758813152,
+ "checked": 1794761057799,
  "outages": [
   {
-   "key": "rayle:2026-11-15-0127",
-   "utility": "Rayle EMC",
-   "lat": 33.97031781549184,
-   "lon": -83.24461575587998,
-   "county": "Oglethorpe",
-   "location": "Skyview Drive (30683)",
-   "first_seen": 1794758813152,
-   "customers": 4,
-   "start": 1794757320000,
+   "key": "walton:C1207441",
+   "utility": "Walton EMC",
+   "lat": 33.79492098725902,
+   "lon": -83.84416831203792,
+   "county": "Walton",
+   "location": "Raymond Drive (30052)",
+   "first_seen": 1794761057799,
+   "customers": 1,
+   "start": 1794761057799,
    "cause": null,
-   "last_seen": 1794758813152,
+   "last_seen": 1794761057799,
    "cleared": null
   },
   {
-   "key": "gapower:33.6571,-83.7115",
+   "key": "gapower:33.6611,-83.7143",
    "utility": "Georgia Power",
-   "lat": 33.65711,
-   "lon": -83.71152,
+   "lat": 33.66107,
+   "lon": -83.71435,
    "county": "Walton",
-   "location": "Oak Drive near Social Circle (30025)",
-   "first_seen": 1794752124379,
-   "customers": 5,
-   "start": 1794752124379,
+   "location": "Oak Drive Northeast near Social Circle (30025)",
+   "first_seen": 1794761057799,
+   "customers": 4,
+   "start": 1794761057799,
    "cause": null,
-   "last_seen": 1794758813152,
+   "last_seen": 1794761057799,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.9312,-83.4348",
+   "utility": "Georgia Power",
+   "lat": 33.93116,
+   "lon": -83.4348,
+   "county": "Clarke",
+   "location": "Saint Ives Way near Athens (30606)",
+   "first_seen": 1794761057799,
+   "customers": 4,
+   "start": 1794761057799,
+   "cause": null,
+   "last_seen": 1794761057799,
+   "cleared": null
+  },
+  {
+   "key": "jackson:606515",
+   "utility": "Jackson EMC",
+   "lat": 34.03580666234273,
+   "lon": -83.26138518278465,
+   "county": "Madison",
+   "location": "Morrison Lane (30628)",
+   "first_seen": 1794761057799,
+   "customers": 1,
+   "start": 1794760630614,
+   "cause": null,
+   "last_seen": 1794761057799,
    "cleared": null
   },
   {
@@ -40,8 +68,22 @@
    "customers": 4,
    "start": 1794752124379,
    "cause": null,
-   "last_seen": 1794758813152,
+   "last_seen": 1794761057799,
    "cleared": null
+  },
+  {
+   "key": "rayle:2026-11-15-0127",
+   "utility": "Rayle EMC",
+   "lat": 33.97031781549184,
+   "lon": -83.24461575587998,
+   "county": "Oglethorpe",
+   "location": "Skyview Drive (30683)",
+   "first_seen": 1794758813152,
+   "customers": 4,
+   "start": 1794757320000,
+   "cause": null,
+   "last_seen": 1794758813152,
+   "cleared": 1794761057799
   },
   {
    "key": "rayle:2026-11-15-0126",
@@ -56,6 +98,20 @@
    "cause": null,
    "last_seen": 1794756437078,
    "cleared": 1794758813152
+  },
+  {
+   "key": "gapower:33.6571,-83.7115",
+   "utility": "Georgia Power",
+   "lat": 33.65711,
+   "lon": -83.71152,
+   "county": "Walton",
+   "location": "Oak Drive near Social Circle (30025)",
+   "first_seen": 1794752124379,
+   "customers": 5,
+   "start": 1794752124379,
+   "cause": null,
+   "last_seen": 1794758813152,
+   "cleared": 1794761057799
   },
   {
    "key": "walton:C1207435",
@@ -90,27 +146,27 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1794758813152
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1794761057799
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1794758813152
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1794761057799
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1794758813152
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1794761057799
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
+   "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794758813152
+   "last_ok": 1794761057799
   }
  },
  "skipped": {
