@@ -1,5 +1,5 @@
 {
- "checked": 1794852617810,
+ "checked": 1794852691970,
  "outages": [
   {
    "key": "gapower:33.9573,-83.3427",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1794850817038,
    "cause": null,
-   "last_seen": 1794852617810,
+   "last_seen": 1794852691970,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1794850222652,
    "cause": null,
-   "last_seen": 1794852617810,
+   "last_seen": 1794852691970,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 1,
    "start": 1794847966000,
    "cause": null,
-   "last_seen": 1794852617810,
+   "last_seen": 1794852691970,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 91,
    "start": 1794846018005,
    "cause": null,
-   "last_seen": 1794852617810,
+   "last_seen": 1794852691970,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 4,
    "start": 1794846018005,
    "cause": null,
-   "last_seen": 1794852617810,
+   "last_seen": 1794852691970,
    "cleared": null
   },
   {
@@ -82,7 +82,7 @@
    "customers": 4,
    "start": 1794844825706,
    "cause": null,
-   "last_seen": 1794852617810,
+   "last_seen": 1794852691970,
    "cleared": null
   },
   {
@@ -96,7 +96,7 @@
    "customers": 1,
    "start": 1794844223712,
    "cause": null,
-   "last_seen": 1794852617810,
+   "last_seen": 1794852691970,
    "cleared": null
   },
   {
@@ -110,7 +110,7 @@
    "customers": 4,
    "start": 1794840019482,
    "cause": null,
-   "last_seen": 1794852617810,
+   "last_seen": 1794852691970,
    "cleared": null
   },
   {
@@ -124,7 +124,7 @@
    "customers": 6,
    "start": 1794839423197,
    "cause": null,
-   "last_seen": 1794852617810,
+   "last_seen": 1794852691970,
    "cleared": null
   },
   {
@@ -138,7 +138,7 @@
    "customers": 4,
    "start": 1794836419007,
    "cause": null,
-   "last_seen": 1794852617810,
+   "last_seen": 1794852691970,
    "cleared": null
   },
   {
@@ -152,7 +152,7 @@
    "customers": 4,
    "start": 1794752124379,
    "cause": null,
-   "last_seen": 1794852617810,
+   "last_seen": 1794852691970,
    "cleared": null
   },
   {
@@ -1127,26 +1127,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794852617810
+   "last_ok": 1794852691970
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794852617810
+   "last_ok": 1794852691970
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794852617810
+   "last_ok": 1794852691970
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "9 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794852617810
+   "last_ok": 1794852691970
   }
  },
  "skipped": {
@@ -1172,6 +1172,7 @@
   "gapower:34.3480,-83.8158": 1794847819609,
   "gapower:34.0106,-83.8231": 1794848430714,
   "gapower:33.5773,-83.4768": 1794849617761,
-  "gapower:34.2932,-83.7974": 1794852023751
+  "gapower:34.2932,-83.7974": 1794852023751,
+  "walton:C1207763": 1794852691970
  }
 }
