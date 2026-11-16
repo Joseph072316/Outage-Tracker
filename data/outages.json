@@ -1,5 +1,5 @@
 {
- "checked": 1794805817292,
+ "checked": 1794806415306,
  "outages": [
   {
    "key": "walton:G1207702",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1794803416821,
    "cause": "Broken C2 c/o 2930 Snows Mill Rd",
-   "last_seen": 1794805817292,
+   "last_seen": 1794806415306,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1794752124379,
    "cause": null,
-   "last_seen": 1794805817292,
+   "last_seen": 1794806415306,
    "cleared": null
   },
   {
@@ -371,26 +371,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794805817292
+   "last_ok": 1794806415306
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794805817292
+   "last_ok": 1794806415306
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794805817292
+   "last_ok": 1794806415306
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794805817292
+   "last_ok": 1794806415306
   }
  },
  "skipped": {
