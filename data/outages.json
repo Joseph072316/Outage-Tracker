@@ -1,5 +1,5 @@
 {
- "checked": 1794841818949,
+ "checked": 1794842425895,
  "outages": [
   {
    "key": "gapower:33.6578,-83.7101",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1794840616333,
    "cause": null,
-   "last_seen": 1794841818949,
+   "last_seen": 1794842425895,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 55,
    "start": 1794840035000,
    "cause": null,
-   "last_seen": 1794841818949,
+   "last_seen": 1794842425895,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 4,
    "start": 1794840019482,
    "cause": null,
-   "last_seen": 1794841818949,
+   "last_seen": 1794842425895,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 6,
    "start": 1794839423197,
    "cause": null,
-   "last_seen": 1794841818949,
+   "last_seen": 1794842425895,
    "cleared": null
   },
   {
@@ -68,21 +68,7 @@
    "customers": 4,
    "start": 1794839423197,
    "cause": null,
-   "last_seen": 1794841818949,
-   "cleared": null
-  },
-  {
-   "key": "jackson:606547",
-   "utility": "Jackson EMC",
-   "lat": 34.12427236688486,
-   "lon": -83.65279911843571,
-   "county": "Jackson",
-   "location": "Old Pendergrass Road (30549)",
-   "first_seen": 1794839423197,
-   "customers": 1,
-   "start": 1794838931966,
-   "cause": null,
-   "last_seen": 1794841818949,
+   "last_seen": 1794842425895,
    "cleared": null
   },
   {
@@ -96,7 +82,7 @@
    "customers": 4,
    "start": 1794837367000,
    "cause": "Planned",
-   "last_seen": 1794841818949,
+   "last_seen": 1794842425895,
    "cleared": null
   },
   {
@@ -110,7 +96,7 @@
    "customers": 4,
    "start": 1794837014739,
    "cause": null,
-   "last_seen": 1794841818949,
+   "last_seen": 1794842425895,
    "cleared": null
   },
   {
@@ -124,7 +110,7 @@
    "customers": 4,
    "start": 1794836419007,
    "cause": null,
-   "last_seen": 1794841818949,
+   "last_seen": 1794842425895,
    "cleared": null
   },
   {
@@ -138,7 +124,7 @@
    "customers": 4,
    "start": 1794752124379,
    "cause": null,
-   "last_seen": 1794841818949,
+   "last_seen": 1794842425895,
    "cleared": null
   },
   {
@@ -154,6 +140,20 @@
    "cause": null,
    "last_seen": 1794839423197,
    "cleared": 1794840019482
+  },
+  {
+   "key": "jackson:606547",
+   "utility": "Jackson EMC",
+   "lat": 34.12427236688486,
+   "lon": -83.65279911843571,
+   "county": "Jackson",
+   "location": "Old Pendergrass Road (30549)",
+   "first_seen": 1794839423197,
+   "customers": 1,
+   "start": 1794838931966,
+   "cause": null,
+   "last_seen": 1794841818949,
+   "cleared": 1794842425895
   },
   {
    "key": "jackson:606542",
@@ -1028,27 +1028,27 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1794841818949
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1794842425895
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794841818949
+   "last_ok": 1794842425895
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794841818949
+   "last_ok": 1794842425895
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "7 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794841818949
+   "last_ok": 1794842425895
   }
  },
  "skipped": {
@@ -1066,6 +1066,7 @@
   "gapower:34.0086,-83.8195": 1794840019482,
   "gapower:34.2757,-83.8370": 1794840616333,
   "gapower:34.0019,-83.7021": 1794841227570,
-  "gapower:34.0124,-83.7113": 1794841227570
+  "gapower:34.0124,-83.7113": 1794841227570,
+  "gapower:33.5837,-83.4771": 1794842425895
  }
 }
