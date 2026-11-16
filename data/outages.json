@@ -1,5 +1,5 @@
 {
- "checked": 1794864017627,
+ "checked": 1794864622499,
  "outages": [
   {
    "key": "walton:C1207779",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1794864017627,
    "cause": null,
-   "last_seen": 1794864017627,
+   "last_seen": 1794864622499,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 1,
    "start": 1794863836000,
    "cause": null,
-   "last_seen": 1794864017627,
+   "last_seen": 1794864622499,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 1,
    "start": 1794863503000,
    "cause": null,
-   "last_seen": 1794864017627,
+   "last_seen": 1794864622499,
    "cleared": null
   },
   {
@@ -54,21 +54,7 @@
    "customers": 5,
    "start": 1794863417434,
    "cause": null,
-   "last_seen": 1794864017627,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.9231,-83.2120",
-   "utility": "Georgia Power",
-   "lat": 33.92311,
-   "lon": -83.21201,
-   "county": "Oglethorpe",
-   "location": "Meyer Farm Road near Arnoldsville (30683)",
-   "first_seen": 1794860417961,
-   "customers": 4,
-   "start": 1794860417961,
-   "cause": null,
-   "last_seen": 1794864017627,
+   "last_seen": 1794864622499,
    "cleared": null
   },
   {
@@ -82,7 +68,7 @@
    "customers": 4,
    "start": 1794840019482,
    "cause": null,
-   "last_seen": 1794864017627,
+   "last_seen": 1794864622499,
    "cleared": null
   },
   {
@@ -96,7 +82,7 @@
    "customers": 4,
    "start": 1794752124379,
    "cause": null,
-   "last_seen": 1794864017627,
+   "last_seen": 1794864622499,
    "cleared": null
   },
   {
@@ -112,6 +98,20 @@
    "cause": null,
    "last_seen": 1794863417434,
    "cleared": 1794864017627
+  },
+  {
+   "key": "gapower:33.9231,-83.2120",
+   "utility": "Georgia Power",
+   "lat": 33.92311,
+   "lon": -83.21201,
+   "county": "Oglethorpe",
+   "location": "Meyer Farm Road near Arnoldsville (30683)",
+   "first_seen": 1794860417961,
+   "customers": 4,
+   "start": 1794860417961,
+   "cause": null,
+   "last_seen": 1794864017627,
+   "cleared": 1794864622499
   },
   {
    "key": "gapower:34.0691,-83.7493",
@@ -1262,20 +1262,6 @@
    "cleared": 1794781924991
   },
   {
-   "key": "walton:C1207442",
-   "utility": "Walton EMC",
-   "lat": 33.79906932975228,
-   "lon": -83.66681717881002,
-   "county": "Walton",
-   "location": "GA 83 near Good Hope (30641)",
-   "first_seen": 1794765463003,
-   "customers": 1,
-   "start": 1794765463003,
-   "cause": null,
-   "last_seen": 1794775207010,
-   "cleared": 1794777623166
-  },
-  {
    "key": "walton:C1207441",
    "utility": "Walton EMC",
    "lat": 33.79492098725902,
@@ -1295,26 +1281,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794864017627
+   "last_ok": 1794864622499
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794864017627
+   "last_ok": 1794864622499
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1794864017627
+   "last_ok": 1794864622499
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "4 outage(s) in your counties",
+   "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794864017627
+   "last_ok": 1794864622499
   }
  },
  "skipped": {
@@ -1344,6 +1330,8 @@
   "gapower:33.5891,-83.4755": 1794855016744,
   "gapower:34.3000,-83.1253": 1794855016744,
   "gapower:34.2912,-83.1201": 1794855016744,
-  "gapower:34.2875,-83.8782": 1794860417961
+  "gapower:34.2875,-83.8782": 1794860417961,
+  "gapower:33.9983,-83.7493": 1794864622499,
+  "gapower:34.2885,-83.8322": 1794864622499
  }
 }
