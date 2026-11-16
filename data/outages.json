@@ -1,20 +1,6 @@
 {
- "checked": 1794856241263,
+ "checked": 1794856817280,
  "outages": [
-  {
-   "key": "gapower:34.0738,-83.5652",
-   "utility": "Georgia Power",
-   "lat": 34.07379,
-   "lon": -83.56516,
-   "county": "Jackson",
-   "location": "Major Damon J. Gause Bypass near Arcade (30549)",
-   "first_seen": 1794856217965,
-   "customers": 4,
-   "start": 1794856217965,
-   "cause": null,
-   "last_seen": 1794856241263,
-   "cleared": null
-  },
   {
    "key": "gapower:34.0684,-83.7502",
    "utility": "Georgia Power",
@@ -26,7 +12,7 @@
    "customers": 4,
    "start": 1794856217965,
    "cause": null,
-   "last_seen": 1794856241263,
+   "last_seen": 1794856817280,
    "cleared": null
   },
   {
@@ -40,7 +26,7 @@
    "customers": 2,
    "start": 1794854814000,
    "cause": "Planned",
-   "last_seen": 1794856241263,
+   "last_seen": 1794856817280,
    "cleared": null
   },
   {
@@ -54,7 +40,7 @@
    "customers": 5,
    "start": 1794854421864,
    "cause": null,
-   "last_seen": 1794856241263,
+   "last_seen": 1794856817280,
    "cleared": null
   },
   {
@@ -68,7 +54,7 @@
    "customers": 1,
    "start": 1794847966000,
    "cause": null,
-   "last_seen": 1794856241263,
+   "last_seen": 1794856817280,
    "cleared": null
   },
   {
@@ -82,7 +68,7 @@
    "customers": 91,
    "start": 1794846018005,
    "cause": null,
-   "last_seen": 1794856241263,
+   "last_seen": 1794856817280,
    "cleared": null
   },
   {
@@ -96,7 +82,7 @@
    "customers": 4,
    "start": 1794844825706,
    "cause": null,
-   "last_seen": 1794856241263,
+   "last_seen": 1794856817280,
    "cleared": null
   },
   {
@@ -110,7 +96,7 @@
    "customers": 1,
    "start": 1794844223712,
    "cause": null,
-   "last_seen": 1794856241263,
+   "last_seen": 1794856817280,
    "cleared": null
   },
   {
@@ -124,7 +110,7 @@
    "customers": 4,
    "start": 1794840019482,
    "cause": null,
-   "last_seen": 1794856241263,
+   "last_seen": 1794856817280,
    "cleared": null
   },
   {
@@ -138,7 +124,7 @@
    "customers": 4,
    "start": 1794836419007,
    "cause": null,
-   "last_seen": 1794856241263,
+   "last_seen": 1794856817280,
    "cleared": null
   },
   {
@@ -152,8 +138,22 @@
    "customers": 4,
    "start": 1794752124379,
    "cause": null,
-   "last_seen": 1794856241263,
+   "last_seen": 1794856817280,
    "cleared": null
+  },
+  {
+   "key": "gapower:34.0738,-83.5652",
+   "utility": "Georgia Power",
+   "lat": 34.07379,
+   "lon": -83.56516,
+   "county": "Jackson",
+   "location": "Major Damon J. Gause Bypass near Arcade (30549)",
+   "first_seen": 1794856217965,
+   "customers": 4,
+   "start": 1794856217965,
+   "cause": null,
+   "last_seen": 1794856241263,
+   "cleared": 1794856817280
   },
   {
    "key": "gapower:33.9591,-83.3967",
@@ -1197,26 +1197,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794856241263
+   "last_ok": 1794856817280
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794856241263
+   "last_ok": 1794856817280
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794856241263
+   "last_ok": 1794856817280
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "8 outage(s) in your counties",
+   "message": "7 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794856241263
+   "last_ok": 1794856817280
   }
  },
  "skipped": {
