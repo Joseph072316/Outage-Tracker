@@ -1,6 +1,62 @@
 {
- "checked": 1794838817494,
+ "checked": 1794839423197,
  "outages": [
+  {
+   "key": "gapower:33.6547,-83.7185",
+   "utility": "Georgia Power",
+   "lat": 33.65474,
+   "lon": -83.71847,
+   "county": "Walton",
+   "location": "East Sycamore Street near Social Circle (30025)",
+   "first_seen": 1794839423197,
+   "customers": 6,
+   "start": 1794839423197,
+   "cause": null,
+   "last_seen": 1794839423197,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.4416,-83.2467",
+   "utility": "Georgia Power",
+   "lat": 33.44159,
+   "lon": -83.24671,
+   "county": "Greene",
+   "location": "Katherine Lane near Lake Oconee (30642)",
+   "first_seen": 1794839423197,
+   "customers": 4,
+   "start": 1794839423197,
+   "cause": null,
+   "last_seen": 1794839423197,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.9602,-83.3552",
+   "utility": "Georgia Power",
+   "lat": 33.96021,
+   "lon": -83.35519,
+   "county": "Clarke",
+   "location": "East Carver Drive near Athens (30601)",
+   "first_seen": 1794839423197,
+   "customers": 4,
+   "start": 1794839423197,
+   "cause": null,
+   "last_seen": 1794839423197,
+   "cleared": null
+  },
+  {
+   "key": "jackson:606547",
+   "utility": "Jackson EMC",
+   "lat": 34.12427236688486,
+   "lon": -83.65279911843571,
+   "county": "Jackson",
+   "location": "Old Pendergrass Road (30549)",
+   "first_seen": 1794839423197,
+   "customers": 1,
+   "start": 1794838931966,
+   "cause": null,
+   "last_seen": 1794839423197,
+   "cleared": null
+  },
   {
    "key": "jackson:606542",
    "utility": "Jackson EMC",
@@ -12,7 +68,7 @@
    "customers": 8,
    "start": 1794838263000,
    "cause": "Planned",
-   "last_seen": 1794838817494,
+   "last_seen": 1794839423197,
    "cleared": null
   },
   {
@@ -26,7 +82,7 @@
    "customers": 4,
    "start": 1794837367000,
    "cause": "Planned",
-   "last_seen": 1794838817494,
+   "last_seen": 1794839423197,
    "cleared": null
   },
   {
@@ -40,7 +96,35 @@
    "customers": 1,
    "start": 1794837313000,
    "cause": "Planned",
-   "last_seen": 1794838817494,
+   "last_seen": 1794839423197,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.9215,-83.3255",
+   "utility": "Georgia Power",
+   "lat": 33.92152,
+   "lon": -83.32548,
+   "county": "Clarke",
+   "location": "Cedar Shoals Drive near Athens (30605)",
+   "first_seen": 1794836419007,
+   "customers": 4,
+   "start": 1794836419007,
+   "cause": null,
+   "last_seen": 1794839423197,
+   "cleared": null
+  },
+  {
+   "key": "gapower:34.2322,-83.4524",
+   "utility": "Georgia Power",
+   "lat": 34.23216,
+   "lon": -83.45237,
+   "county": "Jackson",
+   "location": "Homer Road near Commerce (30529)",
+   "first_seen": 1794752124379,
+   "customers": 4,
+   "start": 1794752124379,
+   "cause": null,
+   "last_seen": 1794839423197,
    "cleared": null
   },
   {
@@ -55,35 +139,7 @@
    "start": 1794837014739,
    "cause": null,
    "last_seen": 1794838817494,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.9215,-83.3255",
-   "utility": "Georgia Power",
-   "lat": 33.92152,
-   "lon": -83.32548,
-   "county": "Clarke",
-   "location": "Cedar Shoals Drive near Athens (30605)",
-   "first_seen": 1794836419007,
-   "customers": 4,
-   "start": 1794836419007,
-   "cause": null,
-   "last_seen": 1794838817494,
-   "cleared": null
-  },
-  {
-   "key": "gapower:34.2322,-83.4524",
-   "utility": "Georgia Power",
-   "lat": 34.23216,
-   "lon": -83.45237,
-   "county": "Jackson",
-   "location": "Homer Road near Commerce (30529)",
-   "first_seen": 1794752124379,
-   "customers": 4,
-   "start": 1794752124379,
-   "cause": null,
-   "last_seen": 1794838817494,
-   "cleared": null
+   "cleared": 1794839423197
   },
   {
    "key": "gapower:34.1726,-83.2898",
@@ -944,27 +1000,27 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "3 outage(s) in your counties",
-   "last_ok": 1794838817494
+   "message": "4 outage(s) in your counties",
+   "last_ok": 1794839423197
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794838817494
+   "last_ok": 1794839423197
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794838817494
+   "last_ok": 1794839423197
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "3 outage(s) in your counties",
+   "message": "5 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794838817494
+   "last_ok": 1794839423197
   }
  },
  "skipped": {
