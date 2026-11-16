@@ -1,6 +1,20 @@
 {
- "checked": 1794865817430,
+ "checked": 1794866423456,
  "outages": [
+  {
+   "key": "gapower:33.8373,-83.8886",
+   "utility": "Georgia Power",
+   "lat": 33.83727,
+   "lon": -83.88863,
+   "county": "Walton",
+   "location": "Homer Moon Drive near Loganville (30502)",
+   "first_seen": 1794866423456,
+   "customers": 4,
+   "start": 1794866423456,
+   "cause": null,
+   "last_seen": 1794866423456,
+   "cleared": null
+  },
   {
    "key": "jackson:606603",
    "utility": "Jackson EMC",
@@ -12,7 +26,7 @@
    "customers": 1,
    "start": 1794864041000,
    "cause": "Planned",
-   "last_seen": 1794865817430,
+   "last_seen": 1794866423456,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 1,
    "start": 1794864017627,
    "cause": null,
-   "last_seen": 1794865817430,
+   "last_seen": 1794866423456,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 1,
    "start": 1794863836000,
    "cause": null,
-   "last_seen": 1794865817430,
+   "last_seen": 1794866423456,
    "cleared": null
   },
   {
@@ -54,7 +68,7 @@
    "customers": 1,
    "start": 1794863503000,
    "cause": null,
-   "last_seen": 1794865817430,
+   "last_seen": 1794866423456,
    "cleared": null
   },
   {
@@ -68,7 +82,7 @@
    "customers": 4,
    "start": 1794840019482,
    "cause": null,
-   "last_seen": 1794865817430,
+   "last_seen": 1794866423456,
    "cleared": null
   },
   {
@@ -82,7 +96,7 @@
    "customers": 4,
    "start": 1794752124379,
    "cause": null,
-   "last_seen": 1794865817430,
+   "last_seen": 1794866423456,
    "cleared": null
   },
   {
@@ -1274,20 +1288,6 @@
    "cause": null,
    "last_seen": 1794779973730,
    "cleared": 1794781924991
-  },
-  {
-   "key": "walton:C1207441",
-   "utility": "Walton EMC",
-   "lat": 33.79492098725902,
-   "lon": -83.84416831203792,
-   "county": "Walton",
-   "location": "Raymond Drive (30052)",
-   "first_seen": 1794761057799,
-   "customers": 1,
-   "start": 1794761057799,
-   "cause": null,
-   "last_seen": 1794777623166,
-   "cleared": 1794779973730
   }
  ],
  "sources": {
@@ -1295,26 +1295,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794865817430
+   "last_ok": 1794866423456
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794865817430
+   "last_ok": 1794866423456
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1794865817430
+   "last_ok": 1794866423456
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
+   "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794865817430
+   "last_ok": 1794866423456
   }
  },
  "skipped": {
