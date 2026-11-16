@@ -1,5 +1,5 @@
 {
- "checked": 1794796961849,
+ "checked": 1794797416441,
  "outages": [
   {
    "key": "walton:D1207627",
@@ -12,7 +12,7 @@
    "customers": 734,
    "start": 1794796961849,
    "cause": null,
-   "last_seen": 1794796961849,
+   "last_seen": 1794797416441,
    "cleared": null
   },
   {
@@ -26,7 +26,21 @@
    "customers": 1,
    "start": 1794795310454,
    "cause": null,
-   "last_seen": 1794796961849,
+   "last_seen": 1794797416441,
+   "cleared": null
+  },
+  {
+   "key": "gapower:34.2322,-83.4524",
+   "utility": "Georgia Power",
+   "lat": 34.23216,
+   "lon": -83.45237,
+   "county": "Jackson",
+   "location": "Homer Road near Commerce (30529)",
+   "first_seen": 1794752124379,
+   "customers": 4,
+   "start": 1794752124379,
+   "cause": null,
+   "last_seen": 1794797416441,
    "cleared": null
   },
   {
@@ -41,21 +55,7 @@
    "start": 1794795310454,
    "cause": null,
    "last_seen": 1794796961849,
-   "cleared": null
-  },
-  {
-   "key": "gapower:34.2322,-83.4524",
-   "utility": "Georgia Power",
-   "lat": 34.23216,
-   "lon": -83.45237,
-   "county": "Jackson",
-   "location": "Homer Road near Commerce (30529)",
-   "first_seen": 1794752124379,
-   "customers": 4,
-   "start": 1794752124379,
-   "cause": null,
-   "last_seen": 1794796961849,
-   "cleared": null
+   "cleared": 1794797416441
   },
   {
    "key": "walton:C1207459",
@@ -357,26 +357,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794796961849
+   "last_ok": 1794797416441
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "3 outage(s) in your counties",
-   "last_ok": 1794796961849
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1794797416441
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794796961849
+   "last_ok": 1794797416441
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794796961849
+   "last_ok": 1794797416441
   }
  },
  "skipped": {
