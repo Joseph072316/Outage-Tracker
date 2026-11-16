@@ -1,18 +1,74 @@
 {
- "checked": 1794790214724,
+ "checked": 1794795310454,
  "outages": [
   {
-   "key": "gapower:33.9458,-83.3404",
-   "utility": "Georgia Power",
-   "lat": 33.94582,
-   "lon": -83.34041,
-   "county": "Clarke",
-   "location": "Hughes Street near Athens (30605)",
-   "first_seen": 1794790214724,
-   "customers": 4,
-   "start": 1794790214724,
+   "key": "walton:C1207456",
+   "utility": "Walton EMC",
+   "lat": 33.876744767147336,
+   "lon": -83.83266901558412,
+   "county": "Walton",
+   "location": "Bullock Bridge Road near Windsor (30656)",
+   "first_seen": 1794795310454,
+   "customers": 1,
+   "start": 1794795310454,
    "cause": null,
-   "last_seen": 1794790214724,
+   "last_seen": 1794795310454,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1207459",
+   "utility": "Walton EMC",
+   "lat": 33.80786364783848,
+   "lon": -83.62494395066469,
+   "county": "Walton",
+   "location": "Bearden Road (30641)",
+   "first_seen": 1794795310454,
+   "customers": 1,
+   "start": 1794795310454,
+   "cause": null,
+   "last_seen": 1794795310454,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1207458",
+   "utility": "Walton EMC",
+   "lat": 33.81207762994947,
+   "lon": -83.64972134853407,
+   "county": "Walton",
+   "location": "Snows Mill Road near Monroe (30656)",
+   "first_seen": 1794795310454,
+   "customers": 1,
+   "start": 1794795310454,
+   "cause": null,
+   "last_seen": 1794795310454,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1207457",
+   "utility": "Walton EMC",
+   "lat": 33.82346737690123,
+   "lon": -83.54395945887059,
+   "county": "Walton",
+   "location": "Emmett Harper Road (30655)",
+   "first_seen": 1794795310454,
+   "customers": 1,
+   "start": 1794795310454,
+   "cause": null,
+   "last_seen": 1794795310454,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1207455",
+   "utility": "Walton EMC",
+   "lat": 33.90258267403942,
+   "lon": -83.31328950701058,
+   "county": "Clarke",
+   "location": "Tamarack Drive near Athens (30605)",
+   "first_seen": 1794795310454,
+   "customers": 1,
+   "start": 1794795310454,
+   "cause": null,
+   "last_seen": 1794795310454,
    "cleared": null
   },
   {
@@ -26,8 +82,22 @@
    "customers": 4,
    "start": 1794752124379,
    "cause": null,
-   "last_seen": 1794790214724,
+   "last_seen": 1794795310454,
    "cleared": null
+  },
+  {
+   "key": "gapower:33.9458,-83.3404",
+   "utility": "Georgia Power",
+   "lat": 33.94582,
+   "lon": -83.34041,
+   "county": "Clarke",
+   "location": "Hughes Street near Athens (30605)",
+   "first_seen": 1794790214724,
+   "customers": 4,
+   "start": 1794790214724,
+   "cause": null,
+   "last_seen": 1794790214724,
+   "cleared": 1794795310454
   },
   {
    "key": "walton:C1207454",
@@ -273,26 +343,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794790214724
+   "last_ok": 1794795310454
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1794790214724
+   "message": "5 outage(s) in your counties",
+   "last_ok": 1794795310454
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794790214724
+   "last_ok": 1794795310454
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
+   "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794790214724
+   "last_ok": 1794795310454
   }
  },
  "skipped": {
