@@ -1,5 +1,5 @@
 {
- "checked": 1794868221577,
+ "checked": 1794868818106,
  "outages": [
   {
    "key": "gapower:33.9849,-83.3463",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1794868221577,
    "cause": null,
-   "last_seen": 1794868221577,
+   "last_seen": 1794868818106,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1794867616552,
    "cause": null,
-   "last_seen": 1794868221577,
+   "last_seen": 1794868818106,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 4,
    "start": 1794867016637,
    "cause": null,
-   "last_seen": 1794868221577,
+   "last_seen": 1794868818106,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 4,
    "start": 1794866423456,
    "cause": null,
-   "last_seen": 1794868221577,
+   "last_seen": 1794868818106,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 1,
    "start": 1794864017627,
    "cause": null,
-   "last_seen": 1794868221577,
+   "last_seen": 1794868818106,
    "cleared": null
   },
   {
@@ -82,7 +82,7 @@
    "customers": 1,
    "start": 1794863503000,
    "cause": null,
-   "last_seen": 1794868221577,
+   "last_seen": 1794868818106,
    "cleared": null
   },
   {
@@ -1290,48 +1290,6 @@
    "cleared": 1794784588414
   },
   {
-   "key": "rayle:2026-11-15-0129",
-   "utility": "Rayle EMC",
-   "lat": 33.81170188188966,
-   "lon": -83.16110199810504,
-   "county": "Oglethorpe",
-   "location": "Union Point Road near Lexington (30630)",
-   "first_seen": 1794777623166,
-   "customers": 1,
-   "start": 1794775500000,
-   "cause": null,
-   "last_seen": 1794779973730,
-   "cleared": 1794781924991
-  },
-  {
-   "key": "gapower:34.1880,-83.7215",
-   "utility": "Georgia Power",
-   "lat": 34.18795,
-   "lon": -83.72151,
-   "county": "Jackson",
-   "location": "Main Street near Talmo (30575)",
-   "first_seen": 1794767480177,
-   "customers": 4,
-   "start": 1794767480177,
-   "cause": null,
-   "last_seen": 1794779973730,
-   "cleared": 1794781924991
-  },
-  {
-   "key": "gapower:34.1872,-83.7239",
-   "utility": "Georgia Power",
-   "lat": 34.18715,
-   "lon": -83.7239,
-   "county": "Jackson",
-   "location": "Main Street near Talmo (30567)",
-   "first_seen": 1794767480177,
-   "customers": 4,
-   "start": 1794767480177,
-   "cause": null,
-   "last_seen": 1794779973730,
-   "cleared": 1794781924991
-  },
-  {
    "key": "gapower:34.2322,-83.4524",
    "utility": "Georgia Power",
    "lat": 34.23216,
@@ -1351,30 +1309,29 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794868221577
+   "last_ok": 1794868818106
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794868221577
+   "last_ok": 1794868818106
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794868221577
+   "last_ok": 1794868818106
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "4 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794868221577
+   "last_ok": 1794868818106
   }
  },
  "skipped": {
-  "gapower:34.2817,-83.8217": 1794781924991,
   "gapower:34.0081,-83.7305": 1794784588414,
   "gapower:33.8545,-83.8956": 1794807019484,
   "gapower:33.9879,-83.7002": 1794808822350,
