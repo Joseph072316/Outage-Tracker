@@ -1,18 +1,18 @@
 {
- "checked": 1794802815561,
+ "checked": 1794803416821,
  "outages": [
   {
-   "key": "walton:D1207627",
+   "key": "walton:G1207702",
    "utility": "Walton EMC",
-   "lat": 33.83342710973319,
-   "lon": -83.64145538874618,
+   "lat": 33.821033386341696,
+   "lon": -83.62273756313924,
    "county": "Walton",
-   "location": "Mount Vernon Road Northwest near Mount Vernon (30656)",
-   "first_seen": 1794796961849,
-   "customers": 734,
-   "start": 1794796961849,
-   "cause": null,
-   "last_seen": 1794802815561,
+   "location": "Thompson Road (30656)",
+   "first_seen": 1794803416821,
+   "customers": 4,
+   "start": 1794803416821,
+   "cause": "Broken C2 c/o 2930 Snows Mill Rd",
+   "last_seen": 1794803416821,
    "cleared": null
   },
   {
@@ -26,8 +26,22 @@
    "customers": 4,
    "start": 1794752124379,
    "cause": null,
-   "last_seen": 1794802815561,
+   "last_seen": 1794803416821,
    "cleared": null
+  },
+  {
+   "key": "walton:D1207627",
+   "utility": "Walton EMC",
+   "lat": 33.83342710973319,
+   "lon": -83.64145538874618,
+   "county": "Walton",
+   "location": "Mount Vernon Road Northwest near Mount Vernon (30656)",
+   "first_seen": 1794796961849,
+   "customers": 734,
+   "start": 1794796961849,
+   "cause": null,
+   "last_seen": 1794802815561,
+   "cleared": 1794803416821
   },
   {
    "key": "walton:C1207456",
@@ -357,26 +371,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794802815561
+   "last_ok": 1794803416821
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794802815561
+   "last_ok": 1794803416821
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794802815561
+   "last_ok": 1794803416821
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794802815561
+   "last_ok": 1794803416821
   }
  },
  "skipped": {
