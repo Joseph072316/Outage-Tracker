@@ -1,6 +1,20 @@
 {
- "checked": 1794836419007,
+ "checked": 1794837014739,
  "outages": [
+  {
+   "key": "gapower:33.9203,-83.3335",
+   "utility": "Georgia Power",
+   "lat": 33.92031,
+   "lon": -83.33352,
+   "county": "Clarke",
+   "location": "Takeda Way near Athens (30605)",
+   "first_seen": 1794837014739,
+   "customers": 4,
+   "start": 1794837014739,
+   "cause": null,
+   "last_seen": 1794837014739,
+   "cleared": null
+  },
   {
    "key": "gapower:33.9215,-83.3255",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 4,
    "start": 1794836419007,
    "cause": null,
-   "last_seen": 1794836419007,
+   "last_seen": 1794837014739,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 4,
    "start": 1794835217081,
    "cause": null,
-   "last_seen": 1794836419007,
+   "last_seen": 1794837014739,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 4,
    "start": 1794752124379,
    "cause": null,
-   "last_seen": 1794836419007,
+   "last_seen": 1794837014739,
    "cleared": null
   },
   {
@@ -889,26 +903,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794836419007
+   "last_ok": 1794837014739
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794836419007
+   "last_ok": 1794837014739
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794836419007
+   "last_ok": 1794837014739
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "3 outage(s) in your counties",
+   "message": "4 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794836419007
+   "last_ok": 1794837014739
   }
  },
  "skipped": {
@@ -923,6 +937,7 @@
   "gapower:33.8545,-83.8956": 1794807019484,
   "gapower:33.9879,-83.7002": 1794808822350,
   "gapower:34.2014,-83.9274": 1794833420387,
-  "gapower:34.3047,-83.8247": 1794836419007
+  "gapower:34.3047,-83.8247": 1794836419007,
+  "gapower:34.0124,-83.7123": 1794837014739
  }
 }
