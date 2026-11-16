@@ -1,6 +1,20 @@
 {
- "checked": 1794832819094,
+ "checked": 1794833420387,
  "outages": [
+  {
+   "key": "gapower:34.2322,-83.4524",
+   "utility": "Georgia Power",
+   "lat": 34.23216,
+   "lon": -83.45237,
+   "county": "Jackson",
+   "location": "Homer Road near Commerce (30529)",
+   "first_seen": 1794752124379,
+   "customers": 4,
+   "start": 1794752124379,
+   "cause": null,
+   "last_seen": 1794833420387,
+   "cleared": null
+  },
   {
    "key": "walton:C1207755",
    "utility": "Walton EMC",
@@ -13,21 +27,7 @@
    "start": 1794831626519,
    "cause": null,
    "last_seen": 1794832819094,
-   "cleared": null
-  },
-  {
-   "key": "gapower:34.2322,-83.4524",
-   "utility": "Georgia Power",
-   "lat": 34.23216,
-   "lon": -83.45237,
-   "county": "Jackson",
-   "location": "Homer Road near Commerce (30529)",
-   "first_seen": 1794752124379,
-   "customers": 4,
-   "start": 1794752124379,
-   "cause": null,
-   "last_seen": 1794832819094,
-   "cleared": null
+   "cleared": 1794833420387
   },
   {
    "key": "walton:G1207753",
@@ -861,26 +861,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794832819094
+   "last_ok": 1794833420387
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1794832819094
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1794833420387
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794832819094
+   "last_ok": 1794833420387
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794832819094
+   "last_ok": 1794833420387
   }
  },
  "skipped": {
@@ -893,6 +893,7 @@
   "gapower:34.2817,-83.8217": 1794781924991,
   "gapower:34.0081,-83.7305": 1794784588414,
   "gapower:33.8545,-83.8956": 1794807019484,
-  "gapower:33.9879,-83.7002": 1794808822350
+  "gapower:33.9879,-83.7002": 1794808822350,
+  "gapower:34.2014,-83.9274": 1794833420387
  }
 }
