@@ -1,5 +1,5 @@
 {
- "checked": 1794860417961,
+ "checked": 1794861030745,
  "outages": [
   {
    "key": "gapower:33.9231,-83.2120",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1794860417961,
    "cause": null,
-   "last_seen": 1794860417961,
+   "last_seen": 1794861030745,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1794860417961,
    "cause": null,
-   "last_seen": 1794860417961,
+   "last_seen": 1794861030745,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 4,
    "start": 1794860417961,
    "cause": null,
-   "last_seen": 1794860417961,
+   "last_seen": 1794861030745,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 1,
    "start": 1794847966000,
    "cause": null,
-   "last_seen": 1794860417961,
+   "last_seen": 1794861030745,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 91,
    "start": 1794846018005,
    "cause": null,
-   "last_seen": 1794860417961,
+   "last_seen": 1794861030745,
    "cleared": null
   },
   {
@@ -82,7 +82,7 @@
    "customers": 4,
    "start": 1794840019482,
    "cause": null,
-   "last_seen": 1794860417961,
+   "last_seen": 1794861030745,
    "cleared": null
   },
   {
@@ -96,7 +96,7 @@
    "customers": 4,
    "start": 1794752124379,
    "cause": null,
-   "last_seen": 1794860417961,
+   "last_seen": 1794861030745,
    "cleared": null
   },
   {
@@ -1225,26 +1225,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794860417961
+   "last_ok": 1794861030745
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794860417961
+   "last_ok": 1794861030745
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794860417961
+   "last_ok": 1794861030745
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "6 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794860417961
+   "last_ok": 1794861030745
   }
  },
  "skipped": {
