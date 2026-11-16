@@ -1,6 +1,20 @@
 {
- "checked": 1794865069214,
+ "checked": 1794865217684,
  "outages": [
+  {
+   "key": "jackson:606603",
+   "utility": "Jackson EMC",
+   "lat": 34.21597358502857,
+   "lon": -83.70715617628534,
+   "county": "Jackson",
+   "location": "Old State Road (30575)",
+   "first_seen": 1794865217684,
+   "customers": 1,
+   "start": 1794864041000,
+   "cause": "Planned",
+   "last_seen": 1794865217684,
+   "cleared": null
+  },
   {
    "key": "walton:C1207779",
    "utility": "Walton EMC",
@@ -12,7 +26,7 @@
    "customers": 1,
    "start": 1794864017627,
    "cause": null,
-   "last_seen": 1794865069214,
+   "last_seen": 1794865217684,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 1,
    "start": 1794863836000,
    "cause": null,
-   "last_seen": 1794865069214,
+   "last_seen": 1794865217684,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 1,
    "start": 1794863503000,
    "cause": null,
-   "last_seen": 1794865069214,
+   "last_seen": 1794865217684,
    "cleared": null
   },
   {
@@ -54,7 +68,7 @@
    "customers": 5,
    "start": 1794863417434,
    "cause": null,
-   "last_seen": 1794865069214,
+   "last_seen": 1794865217684,
    "cleared": null
   },
   {
@@ -68,7 +82,7 @@
    "customers": 4,
    "start": 1794840019482,
    "cause": null,
-   "last_seen": 1794865069214,
+   "last_seen": 1794865217684,
    "cleared": null
   },
   {
@@ -82,7 +96,7 @@
    "customers": 4,
    "start": 1794752124379,
    "cause": null,
-   "last_seen": 1794865069214,
+   "last_seen": 1794865217684,
    "cleared": null
   },
   {
@@ -1280,27 +1294,27 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1794865069214
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1794865217684
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794865069214
+   "last_ok": 1794865217684
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1794865069214
+   "last_ok": 1794865217684
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794865069214
+   "last_ok": 1794865217684
   }
  },
  "skipped": {
