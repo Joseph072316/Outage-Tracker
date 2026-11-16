@@ -1,20 +1,6 @@
 {
- "checked": 1794844825706,
+ "checked": 1794844977689,
  "outages": [
-  {
-   "key": "walton:C1207762",
-   "utility": "Walton EMC",
-   "lat": 33.708104546777676,
-   "lon": -83.78765993244127,
-   "county": "Walton",
-   "location": "Greendale Road (30025)",
-   "first_seen": 1794844825706,
-   "customers": 1,
-   "start": 1794844825706,
-   "cause": null,
-   "last_seen": 1794844825706,
-   "cleared": null
-  },
   {
    "key": "gapower:33.8945,-83.3587",
    "utility": "Georgia Power",
@@ -26,7 +12,7 @@
    "customers": 4,
    "start": 1794844825706,
    "cause": null,
-   "last_seen": 1794844825706,
+   "last_seen": 1794844977689,
    "cleared": null
   },
   {
@@ -40,7 +26,7 @@
    "customers": 1,
    "start": 1794844223712,
    "cause": null,
-   "last_seen": 1794844825706,
+   "last_seen": 1794844977689,
    "cleared": null
   },
   {
@@ -54,7 +40,7 @@
    "customers": 1,
    "start": 1794843404502,
    "cause": null,
-   "last_seen": 1794844825706,
+   "last_seen": 1794844977689,
    "cleared": null
   },
   {
@@ -68,7 +54,7 @@
    "customers": 4,
    "start": 1794843024315,
    "cause": null,
-   "last_seen": 1794844825706,
+   "last_seen": 1794844977689,
    "cleared": null
   },
   {
@@ -82,7 +68,7 @@
    "customers": 4,
    "start": 1794840616333,
    "cause": null,
-   "last_seen": 1794844825706,
+   "last_seen": 1794844977689,
    "cleared": null
   },
   {
@@ -96,7 +82,7 @@
    "customers": 55,
    "start": 1794840035000,
    "cause": null,
-   "last_seen": 1794844825706,
+   "last_seen": 1794844977689,
    "cleared": null
   },
   {
@@ -110,7 +96,7 @@
    "customers": 4,
    "start": 1794840019482,
    "cause": null,
-   "last_seen": 1794844825706,
+   "last_seen": 1794844977689,
    "cleared": null
   },
   {
@@ -124,7 +110,7 @@
    "customers": 6,
    "start": 1794839423197,
    "cause": null,
-   "last_seen": 1794844825706,
+   "last_seen": 1794844977689,
    "cleared": null
   },
   {
@@ -138,7 +124,7 @@
    "customers": 4,
    "start": 1794839423197,
    "cause": null,
-   "last_seen": 1794844825706,
+   "last_seen": 1794844977689,
    "cleared": null
   },
   {
@@ -152,7 +138,7 @@
    "customers": 4,
    "start": 1794837014739,
    "cause": null,
-   "last_seen": 1794844825706,
+   "last_seen": 1794844977689,
    "cleared": null
   },
   {
@@ -166,7 +152,7 @@
    "customers": 4,
    "start": 1794836419007,
    "cause": null,
-   "last_seen": 1794844825706,
+   "last_seen": 1794844977689,
    "cleared": null
   },
   {
@@ -180,8 +166,22 @@
    "customers": 4,
    "start": 1794752124379,
    "cause": null,
-   "last_seen": 1794844825706,
+   "last_seen": 1794844977689,
    "cleared": null
+  },
+  {
+   "key": "walton:C1207762",
+   "utility": "Walton EMC",
+   "lat": 33.708104546777676,
+   "lon": -83.78765993244127,
+   "county": "Walton",
+   "location": "Greendale Road (30025)",
+   "first_seen": 1794844825706,
+   "customers": 1,
+   "start": 1794844825706,
+   "cause": null,
+   "last_seen": 1794844825706,
+   "cleared": 1794844977689
   },
   {
    "key": "gapower:33.9602,-83.3552",
@@ -1099,26 +1099,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794844825706
+   "last_ok": 1794844977689
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1794844825706
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1794844977689
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794844825706
+   "last_ok": 1794844977689
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "9 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794844825706
+   "last_ok": 1794844977689
   }
  },
  "skipped": {
