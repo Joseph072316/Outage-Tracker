@@ -1,6 +1,20 @@
 {
- "checked": 1794795310454,
+ "checked": 1794796961849,
  "outages": [
+  {
+   "key": "walton:D1207627",
+   "utility": "Walton EMC",
+   "lat": 33.83342710973319,
+   "lon": -83.64145538874618,
+   "county": "Walton",
+   "location": "Mount Vernon Road Northwest near Mount Vernon (30656)",
+   "first_seen": 1794796961849,
+   "customers": 734,
+   "start": 1794796961849,
+   "cause": null,
+   "last_seen": 1794796961849,
+   "cleared": null
+  },
   {
    "key": "walton:C1207456",
    "utility": "Walton EMC",
@@ -12,7 +26,35 @@
    "customers": 1,
    "start": 1794795310454,
    "cause": null,
-   "last_seen": 1794795310454,
+   "last_seen": 1794796961849,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1207455",
+   "utility": "Walton EMC",
+   "lat": 33.90258267403942,
+   "lon": -83.31328950701058,
+   "county": "Clarke",
+   "location": "Tamarack Drive near Athens (30605)",
+   "first_seen": 1794795310454,
+   "customers": 1,
+   "start": 1794795310454,
+   "cause": null,
+   "last_seen": 1794796961849,
+   "cleared": null
+  },
+  {
+   "key": "gapower:34.2322,-83.4524",
+   "utility": "Georgia Power",
+   "lat": 34.23216,
+   "lon": -83.45237,
+   "county": "Jackson",
+   "location": "Homer Road near Commerce (30529)",
+   "first_seen": 1794752124379,
+   "customers": 4,
+   "start": 1794752124379,
+   "cause": null,
+   "last_seen": 1794796961849,
    "cleared": null
   },
   {
@@ -27,7 +69,7 @@
    "start": 1794795310454,
    "cause": null,
    "last_seen": 1794795310454,
-   "cleared": null
+   "cleared": 1794796961849
   },
   {
    "key": "walton:C1207458",
@@ -41,7 +83,7 @@
    "start": 1794795310454,
    "cause": null,
    "last_seen": 1794795310454,
-   "cleared": null
+   "cleared": 1794796961849
   },
   {
    "key": "walton:C1207457",
@@ -55,35 +97,7 @@
    "start": 1794795310454,
    "cause": null,
    "last_seen": 1794795310454,
-   "cleared": null
-  },
-  {
-   "key": "walton:C1207455",
-   "utility": "Walton EMC",
-   "lat": 33.90258267403942,
-   "lon": -83.31328950701058,
-   "county": "Clarke",
-   "location": "Tamarack Drive near Athens (30605)",
-   "first_seen": 1794795310454,
-   "customers": 1,
-   "start": 1794795310454,
-   "cause": null,
-   "last_seen": 1794795310454,
-   "cleared": null
-  },
-  {
-   "key": "gapower:34.2322,-83.4524",
-   "utility": "Georgia Power",
-   "lat": 34.23216,
-   "lon": -83.45237,
-   "county": "Jackson",
-   "location": "Homer Road near Commerce (30529)",
-   "first_seen": 1794752124379,
-   "customers": 4,
-   "start": 1794752124379,
-   "cause": null,
-   "last_seen": 1794795310454,
-   "cleared": null
+   "cleared": 1794796961849
   },
   {
    "key": "gapower:33.9458,-83.3404",
@@ -343,26 +357,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794795310454
+   "last_ok": 1794796961849
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "5 outage(s) in your counties",
-   "last_ok": 1794795310454
+   "message": "3 outage(s) in your counties",
+   "last_ok": 1794796961849
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794795310454
+   "last_ok": 1794796961849
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794795310454
+   "last_ok": 1794796961849
   }
  },
  "skipped": {
