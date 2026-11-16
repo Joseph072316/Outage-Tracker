@@ -1,6 +1,20 @@
 {
- "checked": 1794839423197,
+ "checked": 1794840019482,
  "outages": [
+  {
+   "key": "gapower:34.2558,-83.5647",
+   "utility": "Georgia Power",
+   "lat": 34.25582,
+   "lon": -83.56466,
+   "county": "Jackson",
+   "location": "Park Street near Maysville (30558)",
+   "first_seen": 1794840019482,
+   "customers": 4,
+   "start": 1794840019482,
+   "cause": null,
+   "last_seen": 1794840019482,
+   "cleared": null
+  },
   {
    "key": "gapower:33.6547,-83.7185",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 6,
    "start": 1794839423197,
    "cause": null,
-   "last_seen": 1794839423197,
+   "last_seen": 1794840019482,
    "cleared": null
   },
   {
@@ -26,7 +40,91 @@
    "customers": 4,
    "start": 1794839423197,
    "cause": null,
-   "last_seen": 1794839423197,
+   "last_seen": 1794840019482,
+   "cleared": null
+  },
+  {
+   "key": "jackson:606547",
+   "utility": "Jackson EMC",
+   "lat": 34.12427236688486,
+   "lon": -83.65279911843571,
+   "county": "Jackson",
+   "location": "Old Pendergrass Road (30549)",
+   "first_seen": 1794839423197,
+   "customers": 1,
+   "start": 1794838931966,
+   "cause": null,
+   "last_seen": 1794840019482,
+   "cleared": null
+  },
+  {
+   "key": "jackson:606542",
+   "utility": "Jackson EMC",
+   "lat": 34.05236101522129,
+   "lon": -83.4121853695508,
+   "county": "Jackson",
+   "location": "Commerce Road near Center (30607)",
+   "first_seen": 1794838817494,
+   "customers": 8,
+   "start": 1794838263000,
+   "cause": "Planned",
+   "last_seen": 1794840019482,
+   "cleared": null
+  },
+  {
+   "key": "jackson:606533",
+   "utility": "Jackson EMC",
+   "lat": 34.01883211901632,
+   "lon": -83.50566405802928,
+   "county": "Jackson",
+   "location": "Lebanon Church Road near Attica (30608)",
+   "first_seen": 1794838817494,
+   "customers": 4,
+   "start": 1794837367000,
+   "cause": "Planned",
+   "last_seen": 1794840019482,
+   "cleared": null
+  },
+  {
+   "key": "jackson:606530",
+   "utility": "Jackson EMC",
+   "lat": 34.099587159515465,
+   "lon": -83.78610012346476,
+   "county": "Jackson",
+   "location": "Josh Pirkle Road near Braselton (30517)",
+   "first_seen": 1794838817494,
+   "customers": 1,
+   "start": 1794837313000,
+   "cause": "Planned",
+   "last_seen": 1794840019482,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.9215,-83.3255",
+   "utility": "Georgia Power",
+   "lat": 33.92152,
+   "lon": -83.32548,
+   "county": "Clarke",
+   "location": "Cedar Shoals Drive near Athens (30605)",
+   "first_seen": 1794836419007,
+   "customers": 4,
+   "start": 1794836419007,
+   "cause": null,
+   "last_seen": 1794840019482,
+   "cleared": null
+  },
+  {
+   "key": "gapower:34.2322,-83.4524",
+   "utility": "Georgia Power",
+   "lat": 34.23216,
+   "lon": -83.45237,
+   "county": "Jackson",
+   "location": "Homer Road near Commerce (30529)",
+   "first_seen": 1794752124379,
+   "customers": 4,
+   "start": 1794752124379,
+   "cause": null,
+   "last_seen": 1794840019482,
    "cleared": null
   },
   {
@@ -41,91 +139,7 @@
    "start": 1794839423197,
    "cause": null,
    "last_seen": 1794839423197,
-   "cleared": null
-  },
-  {
-   "key": "jackson:606547",
-   "utility": "Jackson EMC",
-   "lat": 34.12427236688486,
-   "lon": -83.65279911843571,
-   "county": "Jackson",
-   "location": "Old Pendergrass Road (30549)",
-   "first_seen": 1794839423197,
-   "customers": 1,
-   "start": 1794838931966,
-   "cause": null,
-   "last_seen": 1794839423197,
-   "cleared": null
-  },
-  {
-   "key": "jackson:606542",
-   "utility": "Jackson EMC",
-   "lat": 34.05236101522129,
-   "lon": -83.4121853695508,
-   "county": "Jackson",
-   "location": "Commerce Road near Center (30607)",
-   "first_seen": 1794838817494,
-   "customers": 8,
-   "start": 1794838263000,
-   "cause": "Planned",
-   "last_seen": 1794839423197,
-   "cleared": null
-  },
-  {
-   "key": "jackson:606533",
-   "utility": "Jackson EMC",
-   "lat": 34.01883211901632,
-   "lon": -83.50566405802928,
-   "county": "Jackson",
-   "location": "Lebanon Church Road near Attica (30608)",
-   "first_seen": 1794838817494,
-   "customers": 4,
-   "start": 1794837367000,
-   "cause": "Planned",
-   "last_seen": 1794839423197,
-   "cleared": null
-  },
-  {
-   "key": "jackson:606530",
-   "utility": "Jackson EMC",
-   "lat": 34.099587159515465,
-   "lon": -83.78610012346476,
-   "county": "Jackson",
-   "location": "Josh Pirkle Road near Braselton (30517)",
-   "first_seen": 1794838817494,
-   "customers": 1,
-   "start": 1794837313000,
-   "cause": "Planned",
-   "last_seen": 1794839423197,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.9215,-83.3255",
-   "utility": "Georgia Power",
-   "lat": 33.92152,
-   "lon": -83.32548,
-   "county": "Clarke",
-   "location": "Cedar Shoals Drive near Athens (30605)",
-   "first_seen": 1794836419007,
-   "customers": 4,
-   "start": 1794836419007,
-   "cause": null,
-   "last_seen": 1794839423197,
-   "cleared": null
-  },
-  {
-   "key": "gapower:34.2322,-83.4524",
-   "utility": "Georgia Power",
-   "lat": 34.23216,
-   "lon": -83.45237,
-   "county": "Jackson",
-   "location": "Homer Road near Commerce (30529)",
-   "first_seen": 1794752124379,
-   "customers": 4,
-   "start": 1794752124379,
-   "cause": null,
-   "last_seen": 1794839423197,
-   "cleared": null
+   "cleared": 1794840019482
   },
   {
    "key": "gapower:33.9203,-83.3335",
@@ -1001,26 +1015,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "4 outage(s) in your counties",
-   "last_ok": 1794839423197
+   "last_ok": 1794840019482
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794839423197
+   "last_ok": 1794840019482
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794839423197
+   "last_ok": 1794840019482
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "5 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794839423197
+   "last_ok": 1794840019482
   }
  },
  "skipped": {
@@ -1035,6 +1049,7 @@
   "gapower:33.9879,-83.7002": 1794808822350,
   "gapower:34.2014,-83.9274": 1794833420387,
   "gapower:34.3047,-83.8247": 1794836419007,
-  "gapower:34.0124,-83.7123": 1794837014739
+  "gapower:34.0124,-83.7123": 1794837014739,
+  "gapower:34.0086,-83.8195": 1794840019482
  }
 }
