@@ -1,6 +1,20 @@
 {
- "checked": 1794849617761,
+ "checked": 1794850222652,
  "outages": [
+  {
+   "key": "gapower:33.8765,-83.1185",
+   "utility": "Georgia Power",
+   "lat": 33.87651,
+   "lon": -83.11854,
+   "county": "Oglethorpe",
+   "location": "Athens Road near Crawford (30630)",
+   "first_seen": 1794850222652,
+   "customers": 4,
+   "start": 1794850222652,
+   "cause": null,
+   "last_seen": 1794850222652,
+   "cleared": null
+  },
   {
    "key": "gapower:33.9294,-83.2746",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 24,
    "start": 1794849226421,
    "cause": null,
-   "last_seen": 1794849617761,
+   "last_seen": 1794850222652,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 1,
    "start": 1794847966000,
    "cause": null,
-   "last_seen": 1794849617761,
+   "last_seen": 1794850222652,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 4,
    "start": 1794846018005,
    "cause": null,
-   "last_seen": 1794849617761,
+   "last_seen": 1794850222652,
    "cleared": null
   },
   {
@@ -54,7 +68,7 @@
    "customers": 91,
    "start": 1794846018005,
    "cause": null,
-   "last_seen": 1794849617761,
+   "last_seen": 1794850222652,
    "cleared": null
   },
   {
@@ -68,7 +82,7 @@
    "customers": 4,
    "start": 1794846018005,
    "cause": null,
-   "last_seen": 1794849617761,
+   "last_seen": 1794850222652,
    "cleared": null
   },
   {
@@ -82,7 +96,77 @@
    "customers": 4,
    "start": 1794844825706,
    "cause": null,
-   "last_seen": 1794849617761,
+   "last_seen": 1794850222652,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1207761",
+   "utility": "Walton EMC",
+   "lat": 33.80766266740322,
+   "lon": -83.66193577735807,
+   "county": "Walton",
+   "location": "Snows Mill Road near Monroe (30656)",
+   "first_seen": 1794844223712,
+   "customers": 1,
+   "start": 1794844223712,
+   "cause": null,
+   "last_seen": 1794850222652,
+   "cleared": null
+  },
+  {
+   "key": "gapower:34.2558,-83.5647",
+   "utility": "Georgia Power",
+   "lat": 34.25582,
+   "lon": -83.56466,
+   "county": "Jackson",
+   "location": "Park Street near Maysville (30558)",
+   "first_seen": 1794840019482,
+   "customers": 4,
+   "start": 1794840019482,
+   "cause": null,
+   "last_seen": 1794850222652,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.6547,-83.7185",
+   "utility": "Georgia Power",
+   "lat": 33.65474,
+   "lon": -83.71847,
+   "county": "Walton",
+   "location": "East Sycamore Street near Social Circle (30025)",
+   "first_seen": 1794839423197,
+   "customers": 6,
+   "start": 1794839423197,
+   "cause": null,
+   "last_seen": 1794850222652,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.9215,-83.3255",
+   "utility": "Georgia Power",
+   "lat": 33.92152,
+   "lon": -83.32548,
+   "county": "Clarke",
+   "location": "Cedar Shoals Drive near Athens (30605)",
+   "first_seen": 1794836419007,
+   "customers": 4,
+   "start": 1794836419007,
+   "cause": null,
+   "last_seen": 1794850222652,
+   "cleared": null
+  },
+  {
+   "key": "gapower:34.2322,-83.4524",
+   "utility": "Georgia Power",
+   "lat": 34.23216,
+   "lon": -83.45237,
+   "county": "Jackson",
+   "location": "Homer Road near Commerce (30529)",
+   "first_seen": 1794752124379,
+   "customers": 4,
+   "start": 1794752124379,
+   "cause": null,
+   "last_seen": 1794850222652,
    "cleared": null
   },
   {
@@ -97,77 +181,7 @@
    "start": 1794844825706,
    "cause": null,
    "last_seen": 1794849617761,
-   "cleared": null
-  },
-  {
-   "key": "walton:C1207761",
-   "utility": "Walton EMC",
-   "lat": 33.80766266740322,
-   "lon": -83.66193577735807,
-   "county": "Walton",
-   "location": "Snows Mill Road near Monroe (30656)",
-   "first_seen": 1794844223712,
-   "customers": 1,
-   "start": 1794844223712,
-   "cause": null,
-   "last_seen": 1794849617761,
-   "cleared": null
-  },
-  {
-   "key": "gapower:34.2558,-83.5647",
-   "utility": "Georgia Power",
-   "lat": 34.25582,
-   "lon": -83.56466,
-   "county": "Jackson",
-   "location": "Park Street near Maysville (30558)",
-   "first_seen": 1794840019482,
-   "customers": 4,
-   "start": 1794840019482,
-   "cause": null,
-   "last_seen": 1794849617761,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.6547,-83.7185",
-   "utility": "Georgia Power",
-   "lat": 33.65474,
-   "lon": -83.71847,
-   "county": "Walton",
-   "location": "East Sycamore Street near Social Circle (30025)",
-   "first_seen": 1794839423197,
-   "customers": 6,
-   "start": 1794839423197,
-   "cause": null,
-   "last_seen": 1794849617761,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.9215,-83.3255",
-   "utility": "Georgia Power",
-   "lat": 33.92152,
-   "lon": -83.32548,
-   "county": "Clarke",
-   "location": "Cedar Shoals Drive near Athens (30605)",
-   "first_seen": 1794836419007,
-   "customers": 4,
-   "start": 1794836419007,
-   "cause": null,
-   "last_seen": 1794849617761,
-   "cleared": null
-  },
-  {
-   "key": "gapower:34.2322,-83.4524",
-   "utility": "Georgia Power",
-   "lat": 34.23216,
-   "lon": -83.45237,
-   "county": "Jackson",
-   "location": "Homer Road near Commerce (30529)",
-   "first_seen": 1794752124379,
-   "customers": 4,
-   "start": 1794752124379,
-   "cause": null,
-   "last_seen": 1794849617761,
-   "cleared": null
+   "cleared": 1794850222652
   },
   {
    "key": "jackson:606565",
@@ -1092,34 +1106,6 @@
    "cause": null,
    "last_seen": 1794767480177,
    "cleared": 1794770566189
-  },
-  {
-   "key": "gapower:33.9312,-83.4348",
-   "utility": "Georgia Power",
-   "lat": 33.93116,
-   "lon": -83.4348,
-   "county": "Clarke",
-   "location": "Saint Ives Way near Athens (30606)",
-   "first_seen": 1794761057799,
-   "customers": 4,
-   "start": 1794761057799,
-   "cause": null,
-   "last_seen": 1794761057799,
-   "cleared": 1794763244222
-  },
-  {
-   "key": "jackson:606515",
-   "utility": "Jackson EMC",
-   "lat": 34.03580666234273,
-   "lon": -83.26138518278465,
-   "county": "Madison",
-   "location": "Morrison Lane (30628)",
-   "first_seen": 1794761057799,
-   "customers": 1,
-   "start": 1794760630614,
-   "cause": null,
-   "last_seen": 1794761057799,
-   "cleared": 1794763244222
   }
  ],
  "sources": {
@@ -1127,30 +1113,29 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794849617761
+   "last_ok": 1794850222652
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1794849617761
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1794850222652
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794849617761
+   "last_ok": 1794850222652
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "9 outage(s) in your counties",
+   "message": "10 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794849617761
+   "last_ok": 1794850222652
   }
  },
  "skipped": {
-  "gapower:34.2905,-83.8242": 1794763244222,
   "rayle:2026-11-15-0128": 1794765463003,
   "gapower:34.2263,-83.8926": 1794767480177,
   "gapower:34.3280,-83.1711": 1794772833948,
