@@ -1,6 +1,48 @@
 {
- "checked": 1794859655328,
+ "checked": 1794860417961,
  "outages": [
+  {
+   "key": "gapower:33.9231,-83.2120",
+   "utility": "Georgia Power",
+   "lat": 33.92311,
+   "lon": -83.21201,
+   "county": "Oglethorpe",
+   "location": "Meyer Farm Road near Arnoldsville (30683)",
+   "first_seen": 1794860417961,
+   "customers": 4,
+   "start": 1794860417961,
+   "cause": null,
+   "last_seen": 1794860417961,
+   "cleared": null
+  },
+  {
+   "key": "gapower:34.0691,-83.7493",
+   "utility": "Georgia Power",
+   "lat": 34.06906,
+   "lon": -83.74934,
+   "county": "Jackson",
+   "location": "Platte Drive near Hoschton",
+   "first_seen": 1794860417961,
+   "customers": 4,
+   "start": 1794860417961,
+   "cause": null,
+   "last_seen": 1794860417961,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.9445,-83.4239",
+   "utility": "Georgia Power",
+   "lat": 33.94447,
+   "lon": -83.42394,
+   "county": "Clarke",
+   "location": "Sycamore Drive near Athens (30606)",
+   "first_seen": 1794860417961,
+   "customers": 4,
+   "start": 1794860417961,
+   "cause": null,
+   "last_seen": 1794860417961,
+   "cleared": null
+  },
   {
    "key": "rayle:2026-11-16-0133",
    "utility": "Rayle EMC",
@@ -12,7 +54,7 @@
    "customers": 1,
    "start": 1794847966000,
    "cause": null,
-   "last_seen": 1794859655328,
+   "last_seen": 1794860417961,
    "cleared": null
   },
   {
@@ -26,21 +68,7 @@
    "customers": 91,
    "start": 1794846018005,
    "cause": null,
-   "last_seen": 1794859655328,
-   "cleared": null
-  },
-  {
-   "key": "walton:C1207762",
-   "utility": "Walton EMC",
-   "lat": 33.708104546777676,
-   "lon": -83.78765993244127,
-   "county": "Walton",
-   "location": "Greendale Road (30025)",
-   "first_seen": 1794844825706,
-   "customers": 1,
-   "start": 1794844825706,
-   "cause": null,
-   "last_seen": 1794859655328,
+   "last_seen": 1794860417961,
    "cleared": null
   },
   {
@@ -54,7 +82,7 @@
    "customers": 4,
    "start": 1794840019482,
    "cause": null,
-   "last_seen": 1794859655328,
+   "last_seen": 1794860417961,
    "cleared": null
   },
   {
@@ -68,7 +96,7 @@
    "customers": 4,
    "start": 1794752124379,
    "cause": null,
-   "last_seen": 1794859655328,
+   "last_seen": 1794860417961,
    "cleared": null
   },
   {
@@ -224,6 +252,20 @@
    "cause": null,
    "last_seen": 1794852023751,
    "cleared": 1794852617810
+  },
+  {
+   "key": "walton:C1207762",
+   "utility": "Walton EMC",
+   "lat": 33.708104546777676,
+   "lon": -83.78765993244127,
+   "county": "Walton",
+   "location": "Greendale Road (30025)",
+   "first_seen": 1794844825706,
+   "customers": 1,
+   "start": 1794844825706,
+   "cause": null,
+   "last_seen": 1794859655328,
+   "cleared": 1794860417961
   },
   {
    "key": "gapower:33.8945,-83.3587",
@@ -1183,26 +1225,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794859655328
+   "last_ok": 1794860417961
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1794859655328
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1794860417961
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794859655328
+   "last_ok": 1794860417961
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "3 outage(s) in your counties",
+   "message": "6 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794859655328
+   "last_ok": 1794860417961
   }
  },
  "skipped": {
@@ -1231,6 +1273,7 @@
   "walton:D1207765": 1794853217188,
   "gapower:33.5891,-83.4755": 1794855016744,
   "gapower:34.3000,-83.1253": 1794855016744,
-  "gapower:34.2912,-83.1201": 1794855016744
+  "gapower:34.2912,-83.1201": 1794855016744,
+  "gapower:34.2875,-83.8782": 1794860417961
  }
 }
