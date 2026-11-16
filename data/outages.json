@@ -1,5 +1,5 @@
 {
- "checked": 1794808216000,
+ "checked": 1794808483640,
  "outages": [
   {
    "key": "jackson:606525",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1794806565386,
    "cause": null,
-   "last_seen": 1794808216000,
+   "last_seen": 1794808483640,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1794803416821,
    "cause": "Broken C2 c/o 2930 Snows Mill Rd",
-   "last_seen": 1794808216000,
+   "last_seen": 1794808483640,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 4,
    "start": 1794752124379,
    "cause": null,
-   "last_seen": 1794808216000,
+   "last_seen": 1794808483640,
    "cleared": null
   },
   {
@@ -385,26 +385,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794808216000
+   "last_ok": 1794808483640
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794808216000
+   "last_ok": 1794808483640
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794808216000
+   "last_ok": 1794808483640
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794808216000
+   "last_ok": 1794808483640
   }
  },
  "skipped": {
