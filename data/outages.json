@@ -1,6 +1,34 @@
 {
- "checked": 1794840019482,
+ "checked": 1794840616333,
  "outages": [
+  {
+   "key": "gapower:33.6578,-83.7101",
+   "utility": "Georgia Power",
+   "lat": 33.65777,
+   "lon": -83.71009,
+   "county": "Walton",
+   "location": "Cherry Street near Social Circle (30025)",
+   "first_seen": 1794840616333,
+   "customers": 4,
+   "start": 1794840616333,
+   "cause": null,
+   "last_seen": 1794840616333,
+   "cleared": null
+  },
+  {
+   "key": "rayle:2026-11-16-0130",
+   "utility": "Rayle EMC",
+   "lat": 33.45104294386137,
+   "lon": -83.17067361432795,
+   "county": "Greene",
+   "location": "Granite Cove Drive",
+   "first_seen": 1794840616333,
+   "customers": 23,
+   "start": 1794840035000,
+   "cause": null,
+   "last_seen": 1794840616333,
+   "cleared": null
+  },
   {
    "key": "gapower:34.2558,-83.5647",
    "utility": "Georgia Power",
@@ -12,7 +40,7 @@
    "customers": 4,
    "start": 1794840019482,
    "cause": null,
-   "last_seen": 1794840019482,
+   "last_seen": 1794840616333,
    "cleared": null
   },
   {
@@ -26,7 +54,7 @@
    "customers": 6,
    "start": 1794839423197,
    "cause": null,
-   "last_seen": 1794840019482,
+   "last_seen": 1794840616333,
    "cleared": null
   },
   {
@@ -40,7 +68,7 @@
    "customers": 4,
    "start": 1794839423197,
    "cause": null,
-   "last_seen": 1794840019482,
+   "last_seen": 1794840616333,
    "cleared": null
   },
   {
@@ -54,7 +82,7 @@
    "customers": 1,
    "start": 1794838931966,
    "cause": null,
-   "last_seen": 1794840019482,
+   "last_seen": 1794840616333,
    "cleared": null
   },
   {
@@ -68,7 +96,7 @@
    "customers": 8,
    "start": 1794838263000,
    "cause": "Planned",
-   "last_seen": 1794840019482,
+   "last_seen": 1794840616333,
    "cleared": null
   },
   {
@@ -82,7 +110,7 @@
    "customers": 4,
    "start": 1794837367000,
    "cause": "Planned",
-   "last_seen": 1794840019482,
+   "last_seen": 1794840616333,
    "cleared": null
   },
   {
@@ -96,7 +124,21 @@
    "customers": 1,
    "start": 1794837313000,
    "cause": "Planned",
-   "last_seen": 1794840019482,
+   "last_seen": 1794840616333,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.9203,-83.3335",
+   "utility": "Georgia Power",
+   "lat": 33.92031,
+   "lon": -83.33352,
+   "county": "Clarke",
+   "location": "Takeda Way near Athens (30605)",
+   "first_seen": 1794837014739,
+   "customers": 4,
+   "start": 1794837014739,
+   "cause": null,
+   "last_seen": 1794840616333,
    "cleared": null
   },
   {
@@ -110,7 +152,7 @@
    "customers": 4,
    "start": 1794836419007,
    "cause": null,
-   "last_seen": 1794840019482,
+   "last_seen": 1794840616333,
    "cleared": null
   },
   {
@@ -124,7 +166,7 @@
    "customers": 4,
    "start": 1794752124379,
    "cause": null,
-   "last_seen": 1794840019482,
+   "last_seen": 1794840616333,
    "cleared": null
   },
   {
@@ -140,20 +182,6 @@
    "cause": null,
    "last_seen": 1794839423197,
    "cleared": 1794840019482
-  },
-  {
-   "key": "gapower:33.9203,-83.3335",
-   "utility": "Georgia Power",
-   "lat": 33.92031,
-   "lon": -83.33352,
-   "county": "Clarke",
-   "location": "Takeda Way near Athens (30605)",
-   "first_seen": 1794837014739,
-   "customers": 4,
-   "start": 1794837014739,
-   "cause": null,
-   "last_seen": 1794838817494,
-   "cleared": 1794839423197
   },
   {
    "key": "gapower:34.1726,-83.2898",
@@ -1015,26 +1043,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "4 outage(s) in your counties",
-   "last_ok": 1794840019482
+   "last_ok": 1794840616333
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794840019482
+   "last_ok": 1794840616333
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1794840019482
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1794840616333
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "5 outage(s) in your counties",
+   "message": "7 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794840019482
+   "last_ok": 1794840616333
   }
  },
  "skipped": {
@@ -1050,6 +1078,7 @@
   "gapower:34.2014,-83.9274": 1794833420387,
   "gapower:34.3047,-83.8247": 1794836419007,
   "gapower:34.0124,-83.7123": 1794837014739,
-  "gapower:34.0086,-83.8195": 1794840019482
+  "gapower:34.0086,-83.8195": 1794840019482,
+  "gapower:34.2757,-83.8370": 1794840616333
  }
 }
