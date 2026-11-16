@@ -1,6 +1,20 @@
 {
- "checked": 1794855016744,
+ "checked": 1794855625941,
  "outages": [
+  {
+   "key": "jackson:606586",
+   "utility": "Jackson EMC",
+   "lat": 34.1419395454923,
+   "lon": -83.21259767969734,
+   "county": "Madison",
+   "location": "Irvin Kirk Road (30633)",
+   "first_seen": 1794855625941,
+   "customers": 2,
+   "start": 1794854814000,
+   "cause": "Planned",
+   "last_seen": 1794855625941,
+   "cleared": null
+  },
   {
    "key": "gapower:33.6597,-83.7147",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 5,
    "start": 1794854421864,
    "cause": null,
-   "last_seen": 1794855016744,
+   "last_seen": 1794855625941,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 1,
    "start": 1794847966000,
    "cause": null,
-   "last_seen": 1794855016744,
+   "last_seen": 1794855625941,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 91,
    "start": 1794846018005,
    "cause": null,
-   "last_seen": 1794855016744,
+   "last_seen": 1794855625941,
    "cleared": null
   },
   {
@@ -54,7 +68,7 @@
    "customers": 4,
    "start": 1794844825706,
    "cause": null,
-   "last_seen": 1794855016744,
+   "last_seen": 1794855625941,
    "cleared": null
   },
   {
@@ -68,7 +82,7 @@
    "customers": 1,
    "start": 1794844223712,
    "cause": null,
-   "last_seen": 1794855016744,
+   "last_seen": 1794855625941,
    "cleared": null
   },
   {
@@ -82,21 +96,7 @@
    "customers": 4,
    "start": 1794840019482,
    "cause": null,
-   "last_seen": 1794855016744,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.6547,-83.7185",
-   "utility": "Georgia Power",
-   "lat": 33.65474,
-   "lon": -83.71847,
-   "county": "Walton",
-   "location": "East Sycamore Street near Social Circle (30025)",
-   "first_seen": 1794839423197,
-   "customers": 6,
-   "start": 1794839423197,
-   "cause": null,
-   "last_seen": 1794855016744,
+   "last_seen": 1794855625941,
    "cleared": null
   },
   {
@@ -110,7 +110,7 @@
    "customers": 4,
    "start": 1794836419007,
    "cause": null,
-   "last_seen": 1794855016744,
+   "last_seen": 1794855625941,
    "cleared": null
   },
   {
@@ -124,7 +124,7 @@
    "customers": 4,
    "start": 1794752124379,
    "cause": null,
-   "last_seen": 1794855016744,
+   "last_seen": 1794855625941,
    "cleared": null
   },
   {
@@ -280,6 +280,20 @@
    "cause": null,
    "last_seen": 1794845417368,
    "cleared": 1794846018005
+  },
+  {
+   "key": "gapower:33.6547,-83.7185",
+   "utility": "Georgia Power",
+   "lat": 33.65474,
+   "lon": -83.71847,
+   "county": "Walton",
+   "location": "East Sycamore Street near Social Circle (30025)",
+   "first_seen": 1794839423197,
+   "customers": 6,
+   "start": 1794839423197,
+   "cause": null,
+   "last_seen": 1794855016744,
+   "cleared": 1794855625941
   },
   {
    "key": "gapower:33.4416,-83.2467",
@@ -1154,27 +1168,27 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1794855016744
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1794855625941
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794855016744
+   "last_ok": 1794855625941
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794855016744
+   "last_ok": 1794855625941
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "7 outage(s) in your counties",
+   "message": "6 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794855016744
+   "last_ok": 1794855625941
   }
  },
  "skipped": {
