@@ -1,6 +1,20 @@
 {
- "checked": 1794861623083,
+ "checked": 1794862218185,
  "outages": [
+  {
+   "key": "jackson:606601",
+   "utility": "Jackson EMC",
+   "lat": 34.023612136496965,
+   "lon": -83.23857695771768,
+   "county": "Madison",
+   "location": "Madison Avenue near Patterson (30628)",
+   "first_seen": 1794862218185,
+   "customers": 1,
+   "start": 1794861857767,
+   "cause": null,
+   "last_seen": 1794862218185,
+   "cleared": null
+  },
   {
    "key": "gapower:33.9231,-83.2120",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 4,
    "start": 1794860417961,
    "cause": null,
-   "last_seen": 1794861623083,
+   "last_seen": 1794862218185,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 1,
    "start": 1794847966000,
    "cause": null,
-   "last_seen": 1794861623083,
+   "last_seen": 1794862218185,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 4,
    "start": 1794840019482,
    "cause": null,
-   "last_seen": 1794861623083,
+   "last_seen": 1794862218185,
    "cleared": null
   },
   {
@@ -54,7 +68,7 @@
    "customers": 4,
    "start": 1794752124379,
    "cause": null,
-   "last_seen": 1794861623083,
+   "last_seen": 1794862218185,
    "cleared": null
   },
   {
@@ -1224,27 +1238,27 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1794861623083
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1794862218185
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794861623083
+   "last_ok": 1794862218185
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794861623083
+   "last_ok": 1794862218185
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794861623083
+   "last_ok": 1794862218185
   }
  },
  "skipped": {
