@@ -1,6 +1,20 @@
 {
- "checked": 1794867945966,
+ "checked": 1794868221577,
  "outages": [
+  {
+   "key": "gapower:33.9849,-83.3463",
+   "utility": "Georgia Power",
+   "lat": 33.98491,
+   "lon": -83.34631,
+   "county": "Clarke",
+   "location": "Collins Industrial Boulevard near Athens (30601)",
+   "first_seen": 1794868221577,
+   "customers": 4,
+   "start": 1794868221577,
+   "cause": null,
+   "last_seen": 1794868221577,
+   "cleared": null
+  },
   {
    "key": "gapower:33.5699,-83.1118",
    "utility": "Georgia Power",
@@ -12,7 +26,63 @@
    "customers": 4,
    "start": 1794867616552,
    "cause": null,
-   "last_seen": 1794867945966,
+   "last_seen": 1794868221577,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.9560,-83.4331",
+   "utility": "Georgia Power",
+   "lat": 33.95596,
+   "lon": -83.43308,
+   "county": "Clarke",
+   "location": "Sherwood Drive near Athens (30606)",
+   "first_seen": 1794867016637,
+   "customers": 4,
+   "start": 1794867016637,
+   "cause": null,
+   "last_seen": 1794868221577,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.8373,-83.8886",
+   "utility": "Georgia Power",
+   "lat": 33.83727,
+   "lon": -83.88863,
+   "county": "Walton",
+   "location": "Homer Moon Drive near Loganville (30502)",
+   "first_seen": 1794866423456,
+   "customers": 4,
+   "start": 1794866423456,
+   "cause": null,
+   "last_seen": 1794868221577,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1207779",
+   "utility": "Walton EMC",
+   "lat": 33.77396574041936,
+   "lon": -83.64415505670726,
+   "county": "Walton",
+   "location": "Laboon Road (30655)",
+   "first_seen": 1794864017627,
+   "customers": 1,
+   "start": 1794864017627,
+   "cause": null,
+   "last_seen": 1794868221577,
+   "cleared": null
+  },
+  {
+   "key": "rayle:2026-11-16-0134",
+   "utility": "Rayle EMC",
+   "lat": 33.62830129546141,
+   "lon": -83.06251027771809,
+   "county": "Greene",
+   "location": "GA 44 near Union Point",
+   "first_seen": 1794864017627,
+   "customers": 1,
+   "start": 1794863503000,
+   "cause": null,
+   "last_seen": 1794868221577,
    "cleared": null
   },
   {
@@ -27,63 +97,7 @@
    "start": 1794867616552,
    "cause": null,
    "last_seen": 1794867945966,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.9560,-83.4331",
-   "utility": "Georgia Power",
-   "lat": 33.95596,
-   "lon": -83.43308,
-   "county": "Clarke",
-   "location": "Sherwood Drive near Athens (30606)",
-   "first_seen": 1794867016637,
-   "customers": 4,
-   "start": 1794867016637,
-   "cause": null,
-   "last_seen": 1794867945966,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.8373,-83.8886",
-   "utility": "Georgia Power",
-   "lat": 33.83727,
-   "lon": -83.88863,
-   "county": "Walton",
-   "location": "Homer Moon Drive near Loganville (30502)",
-   "first_seen": 1794866423456,
-   "customers": 4,
-   "start": 1794866423456,
-   "cause": null,
-   "last_seen": 1794867945966,
-   "cleared": null
-  },
-  {
-   "key": "walton:C1207779",
-   "utility": "Walton EMC",
-   "lat": 33.77396574041936,
-   "lon": -83.64415505670726,
-   "county": "Walton",
-   "location": "Laboon Road (30655)",
-   "first_seen": 1794864017627,
-   "customers": 1,
-   "start": 1794864017627,
-   "cause": null,
-   "last_seen": 1794867945966,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-16-0134",
-   "utility": "Rayle EMC",
-   "lat": 33.62830129546141,
-   "lon": -83.06251027771809,
-   "county": "Greene",
-   "location": "GA 44 near Union Point",
-   "first_seen": 1794864017627,
-   "customers": 1,
-   "start": 1794863503000,
-   "cause": null,
-   "last_seen": 1794867945966,
-   "cleared": null
+   "cleared": 1794868221577
   },
   {
    "key": "jackson:606603",
@@ -1337,26 +1351,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794867945966
+   "last_ok": 1794868221577
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794867945966
+   "last_ok": 1794868221577
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794867945966
+   "last_ok": 1794868221577
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "4 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794867945966
+   "last_ok": 1794868221577
   }
  },
  "skipped": {
