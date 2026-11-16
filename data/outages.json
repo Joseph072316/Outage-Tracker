@@ -1,5 +1,5 @@
 {
- "checked": 1794846018005,
+ "checked": 1794846623099,
  "outages": [
   {
    "key": "gapower:33.5622,-83.1763",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1794846018005,
    "cause": null,
-   "last_seen": 1794846018005,
+   "last_seen": 1794846623099,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 91,
    "start": 1794846018005,
    "cause": null,
-   "last_seen": 1794846018005,
+   "last_seen": 1794846623099,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 4,
    "start": 1794846018005,
    "cause": null,
-   "last_seen": 1794846018005,
+   "last_seen": 1794846623099,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 4,
    "start": 1794844825706,
    "cause": null,
-   "last_seen": 1794846018005,
+   "last_seen": 1794846623099,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 1,
    "start": 1794844825706,
    "cause": null,
-   "last_seen": 1794846018005,
+   "last_seen": 1794846623099,
    "cleared": null
   },
   {
@@ -82,7 +82,77 @@
    "customers": 1,
    "start": 1794844223712,
    "cause": null,
-   "last_seen": 1794846018005,
+   "last_seen": 1794846623099,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.6578,-83.7101",
+   "utility": "Georgia Power",
+   "lat": 33.65777,
+   "lon": -83.71009,
+   "county": "Walton",
+   "location": "Cherry Street near Social Circle (30025)",
+   "first_seen": 1794840616333,
+   "customers": 4,
+   "start": 1794840616333,
+   "cause": null,
+   "last_seen": 1794846623099,
+   "cleared": null
+  },
+  {
+   "key": "gapower:34.2558,-83.5647",
+   "utility": "Georgia Power",
+   "lat": 34.25582,
+   "lon": -83.56466,
+   "county": "Jackson",
+   "location": "Park Street near Maysville (30558)",
+   "first_seen": 1794840019482,
+   "customers": 4,
+   "start": 1794840019482,
+   "cause": null,
+   "last_seen": 1794846623099,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.6547,-83.7185",
+   "utility": "Georgia Power",
+   "lat": 33.65474,
+   "lon": -83.71847,
+   "county": "Walton",
+   "location": "East Sycamore Street near Social Circle (30025)",
+   "first_seen": 1794839423197,
+   "customers": 6,
+   "start": 1794839423197,
+   "cause": null,
+   "last_seen": 1794846623099,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.9215,-83.3255",
+   "utility": "Georgia Power",
+   "lat": 33.92152,
+   "lon": -83.32548,
+   "county": "Clarke",
+   "location": "Cedar Shoals Drive near Athens (30605)",
+   "first_seen": 1794836419007,
+   "customers": 4,
+   "start": 1794836419007,
+   "cause": null,
+   "last_seen": 1794846623099,
+   "cleared": null
+  },
+  {
+   "key": "gapower:34.2322,-83.4524",
+   "utility": "Georgia Power",
+   "lat": 34.23216,
+   "lon": -83.45237,
+   "county": "Jackson",
+   "location": "Homer Road near Commerce (30529)",
+   "first_seen": 1794752124379,
+   "customers": 4,
+   "start": 1794752124379,
+   "cause": null,
+   "last_seen": 1794846623099,
    "cleared": null
   },
   {
@@ -97,77 +167,7 @@
    "start": 1794843404502,
    "cause": null,
    "last_seen": 1794846018005,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.6578,-83.7101",
-   "utility": "Georgia Power",
-   "lat": 33.65777,
-   "lon": -83.71009,
-   "county": "Walton",
-   "location": "Cherry Street near Social Circle (30025)",
-   "first_seen": 1794840616333,
-   "customers": 4,
-   "start": 1794840616333,
-   "cause": null,
-   "last_seen": 1794846018005,
-   "cleared": null
-  },
-  {
-   "key": "gapower:34.2558,-83.5647",
-   "utility": "Georgia Power",
-   "lat": 34.25582,
-   "lon": -83.56466,
-   "county": "Jackson",
-   "location": "Park Street near Maysville (30558)",
-   "first_seen": 1794840019482,
-   "customers": 4,
-   "start": 1794840019482,
-   "cause": null,
-   "last_seen": 1794846018005,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.6547,-83.7185",
-   "utility": "Georgia Power",
-   "lat": 33.65474,
-   "lon": -83.71847,
-   "county": "Walton",
-   "location": "East Sycamore Street near Social Circle (30025)",
-   "first_seen": 1794839423197,
-   "customers": 6,
-   "start": 1794839423197,
-   "cause": null,
-   "last_seen": 1794846018005,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.9215,-83.3255",
-   "utility": "Georgia Power",
-   "lat": 33.92152,
-   "lon": -83.32548,
-   "county": "Clarke",
-   "location": "Cedar Shoals Drive near Athens (30605)",
-   "first_seen": 1794836419007,
-   "customers": 4,
-   "start": 1794836419007,
-   "cause": null,
-   "last_seen": 1794846018005,
-   "cleared": null
-  },
-  {
-   "key": "gapower:34.2322,-83.4524",
-   "utility": "Georgia Power",
-   "lat": 34.23216,
-   "lon": -83.45237,
-   "county": "Jackson",
-   "location": "Homer Road near Commerce (30529)",
-   "first_seen": 1794752124379,
-   "customers": 4,
-   "start": 1794752124379,
-   "cause": null,
-   "last_seen": 1794846018005,
-   "cleared": null
+   "cleared": 1794846623099
   },
   {
    "key": "gapower:33.9355,-83.3357",
@@ -1126,27 +1126,27 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1794846018005
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1794846623099
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1794846018005
+   "last_ok": 1794846623099
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794846018005
+   "last_ok": 1794846623099
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "9 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794846018005
+   "last_ok": 1794846623099
   }
  },
  "skipped": {
@@ -1168,6 +1168,7 @@
   "gapower:33.5837,-83.4771": 1794842425895,
   "rayle:2026-11-16-0132": 1794843024315,
   "gapower:33.9944,-83.9005": 1794844825706,
-  "gapower:33.9940,-83.9000": 1794844825706
+  "gapower:33.9940,-83.9000": 1794844825706,
+  "gapower:33.9325,-83.7333": 1794846623099
  }
 }
