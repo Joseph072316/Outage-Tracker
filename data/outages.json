@@ -1,18 +1,18 @@
 {
- "checked": 1794858018689,
+ "checked": 1794858618117,
  "outages": [
   {
-   "key": "gapower:34.0684,-83.7502",
-   "utility": "Georgia Power",
-   "lat": 34.06836,
-   "lon": -83.75018,
-   "county": "Jackson",
-   "location": "Platte Drive near Hoschton",
-   "first_seen": 1794856217965,
-   "customers": 4,
-   "start": 1794856217965,
+   "key": "walton:C1207777",
+   "utility": "Walton EMC",
+   "lat": 33.805174231450316,
+   "lon": -83.7989754637143,
+   "county": "Walton",
+   "location": "Middleton Court",
+   "first_seen": 1794858618117,
+   "customers": 1,
+   "start": 1794858618117,
    "cause": null,
-   "last_seen": 1794858018689,
+   "last_seen": 1794858618117,
    "cleared": null
   },
   {
@@ -26,21 +26,7 @@
    "customers": 2,
    "start": 1794854814000,
    "cause": "Planned",
-   "last_seen": 1794858018689,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.6597,-83.7147",
-   "utility": "Georgia Power",
-   "lat": 33.6597,
-   "lon": -83.71471,
-   "county": "Walton",
-   "location": "Elm Avenue Northeast near Social Circle (30025)",
-   "first_seen": 1794854421864,
-   "customers": 5,
-   "start": 1794854421864,
-   "cause": null,
-   "last_seen": 1794858018689,
+   "last_seen": 1794858618117,
    "cleared": null
   },
   {
@@ -54,7 +40,7 @@
    "customers": 1,
    "start": 1794847966000,
    "cause": null,
-   "last_seen": 1794858018689,
+   "last_seen": 1794858618117,
    "cleared": null
   },
   {
@@ -68,7 +54,7 @@
    "customers": 91,
    "start": 1794846018005,
    "cause": null,
-   "last_seen": 1794858018689,
+   "last_seen": 1794858618117,
    "cleared": null
   },
   {
@@ -82,7 +68,7 @@
    "customers": 1,
    "start": 1794844825706,
    "cause": null,
-   "last_seen": 1794858018689,
+   "last_seen": 1794858618117,
    "cleared": null
   },
   {
@@ -96,7 +82,7 @@
    "customers": 1,
    "start": 1794844223712,
    "cause": null,
-   "last_seen": 1794858018689,
+   "last_seen": 1794858618117,
    "cleared": null
   },
   {
@@ -110,7 +96,7 @@
    "customers": 4,
    "start": 1794840019482,
    "cause": null,
-   "last_seen": 1794858018689,
+   "last_seen": 1794858618117,
    "cleared": null
   },
   {
@@ -124,7 +110,7 @@
    "customers": 4,
    "start": 1794836419007,
    "cause": null,
-   "last_seen": 1794858018689,
+   "last_seen": 1794858618117,
    "cleared": null
   },
   {
@@ -138,8 +124,22 @@
    "customers": 4,
    "start": 1794752124379,
    "cause": null,
-   "last_seen": 1794858018689,
+   "last_seen": 1794858618117,
    "cleared": null
+  },
+  {
+   "key": "gapower:34.0684,-83.7502",
+   "utility": "Georgia Power",
+   "lat": 34.06836,
+   "lon": -83.75018,
+   "county": "Jackson",
+   "location": "Platte Drive near Hoschton",
+   "first_seen": 1794856217965,
+   "customers": 4,
+   "start": 1794856217965,
+   "cause": null,
+   "last_seen": 1794858018689,
+   "cleared": 1794858618117
   },
   {
    "key": "gapower:34.0738,-83.5652",
@@ -154,6 +154,20 @@
    "cause": null,
    "last_seen": 1794856241263,
    "cleared": 1794856817280
+  },
+  {
+   "key": "gapower:33.6597,-83.7147",
+   "utility": "Georgia Power",
+   "lat": 33.6597,
+   "lon": -83.71471,
+   "county": "Walton",
+   "location": "Elm Avenue Northeast near Social Circle (30025)",
+   "first_seen": 1794854421864,
+   "customers": 5,
+   "start": 1794854421864,
+   "cause": null,
+   "last_seen": 1794858018689,
+   "cleared": 1794858618117
   },
   {
    "key": "gapower:33.9591,-83.3967",
@@ -1169,26 +1183,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794858018689
+   "last_ok": 1794858618117
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1794858018689
+   "message": "3 outage(s) in your counties",
+   "last_ok": 1794858618117
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794858018689
+   "last_ok": 1794858618117
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "6 outage(s) in your counties",
+   "message": "4 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794858018689
+   "last_ok": 1794858618117
   }
  },
  "skipped": {
