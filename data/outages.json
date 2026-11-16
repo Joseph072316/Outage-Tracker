@@ -1,5 +1,5 @@
 {
- "checked": 1794844977689,
+ "checked": 1794845417368,
  "outages": [
   {
    "key": "gapower:33.8945,-83.3587",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1794844825706,
    "cause": null,
-   "last_seen": 1794844977689,
+   "last_seen": 1794845417368,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 1,
    "start": 1794844223712,
    "cause": null,
-   "last_seen": 1794844977689,
+   "last_seen": 1794845417368,
    "cleared": null
   },
   {
@@ -40,21 +40,7 @@
    "customers": 1,
    "start": 1794843404502,
    "cause": null,
-   "last_seen": 1794844977689,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.9355,-83.3357",
-   "utility": "Georgia Power",
-   "lat": 33.93553,
-   "lon": -83.33573,
-   "county": "Clarke",
-   "location": "Ashley Circle near Athens (30605)",
-   "first_seen": 1794843024315,
-   "customers": 4,
-   "start": 1794843024315,
-   "cause": null,
-   "last_seen": 1794844977689,
+   "last_seen": 1794845417368,
    "cleared": null
   },
   {
@@ -68,7 +54,7 @@
    "customers": 4,
    "start": 1794840616333,
    "cause": null,
-   "last_seen": 1794844977689,
+   "last_seen": 1794845417368,
    "cleared": null
   },
   {
@@ -82,7 +68,7 @@
    "customers": 55,
    "start": 1794840035000,
    "cause": null,
-   "last_seen": 1794844977689,
+   "last_seen": 1794845417368,
    "cleared": null
   },
   {
@@ -96,7 +82,7 @@
    "customers": 4,
    "start": 1794840019482,
    "cause": null,
-   "last_seen": 1794844977689,
+   "last_seen": 1794845417368,
    "cleared": null
   },
   {
@@ -110,21 +96,7 @@
    "customers": 6,
    "start": 1794839423197,
    "cause": null,
-   "last_seen": 1794844977689,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.4416,-83.2467",
-   "utility": "Georgia Power",
-   "lat": 33.44159,
-   "lon": -83.24671,
-   "county": "Greene",
-   "location": "Katherine Lane near Lake Oconee (30642)",
-   "first_seen": 1794839423197,
-   "customers": 4,
-   "start": 1794839423197,
-   "cause": null,
-   "last_seen": 1794844977689,
+   "last_seen": 1794845417368,
    "cleared": null
   },
   {
@@ -138,7 +110,7 @@
    "customers": 4,
    "start": 1794837014739,
    "cause": null,
-   "last_seen": 1794844977689,
+   "last_seen": 1794845417368,
    "cleared": null
   },
   {
@@ -152,7 +124,7 @@
    "customers": 4,
    "start": 1794836419007,
    "cause": null,
-   "last_seen": 1794844977689,
+   "last_seen": 1794845417368,
    "cleared": null
   },
   {
@@ -166,7 +138,7 @@
    "customers": 4,
    "start": 1794752124379,
    "cause": null,
-   "last_seen": 1794844977689,
+   "last_seen": 1794845417368,
    "cleared": null
   },
   {
@@ -182,6 +154,34 @@
    "cause": null,
    "last_seen": 1794844825706,
    "cleared": 1794844977689
+  },
+  {
+   "key": "gapower:33.9355,-83.3357",
+   "utility": "Georgia Power",
+   "lat": 33.93553,
+   "lon": -83.33573,
+   "county": "Clarke",
+   "location": "Ashley Circle near Athens (30605)",
+   "first_seen": 1794843024315,
+   "customers": 4,
+   "start": 1794843024315,
+   "cause": null,
+   "last_seen": 1794844977689,
+   "cleared": 1794845417368
+  },
+  {
+   "key": "gapower:33.4416,-83.2467",
+   "utility": "Georgia Power",
+   "lat": 33.44159,
+   "lon": -83.24671,
+   "county": "Greene",
+   "location": "Katherine Lane near Lake Oconee (30642)",
+   "first_seen": 1794839423197,
+   "customers": 4,
+   "start": 1794839423197,
+   "cause": null,
+   "last_seen": 1794844977689,
+   "cleared": 1794845417368
   },
   {
    "key": "gapower:33.9602,-83.3552",
@@ -1066,20 +1066,6 @@
    "cleared": 1794761057799
   },
   {
-   "key": "rayle:2026-11-15-0126",
-   "utility": "Rayle EMC",
-   "lat": 33.985628194894616,
-   "lon": -83.20655782788425,
-   "county": "Oglethorpe",
-   "location": "Stonebrooke Drive",
-   "first_seen": 1794756437078,
-   "customers": 33,
-   "start": 1794754980000,
-   "cause": null,
-   "last_seen": 1794756437078,
-   "cleared": 1794758813152
-  },
-  {
    "key": "gapower:33.6571,-83.7115",
    "utility": "Georgia Power",
    "lat": 33.65711,
@@ -1099,26 +1085,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794844977689
+   "last_ok": 1794845417368
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794844977689
+   "last_ok": 1794845417368
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794844977689
+   "last_ok": 1794845417368
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "9 outage(s) in your counties",
+   "message": "7 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794844977689
+   "last_ok": 1794845417368
   }
  },
  "skipped": {
