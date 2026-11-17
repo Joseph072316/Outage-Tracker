@@ -1,60 +1,18 @@
 {
- "checked": 1794942025250,
+ "checked": 1794942621172,
  "outages": [
   {
-   "key": "jackson:606691",
-   "utility": "Jackson EMC",
-   "lat": 34.09237138195126,
-   "lon": -83.32789644643013,
-   "county": "Madison",
-   "location": "Neese Commerce Road near Neese (30646)",
-   "first_seen": 1794940818648,
-   "customers": 2,
-   "start": 1794940523000,
-   "cause": "Planned",
-   "last_seen": 1794942025250,
-   "cleared": null
-  },
-  {
-   "key": "jackson:606684",
-   "utility": "Jackson EMC",
-   "lat": 34.18004226690561,
-   "lon": -83.60644604976868,
+   "key": "gapower:34.1047,-83.7581",
+   "utility": "Georgia Power",
+   "lat": 34.10466,
+   "lon": -83.75807,
    "county": "Jackson",
-   "location": "Bill Wright Road near Jefferson (30549)",
-   "first_seen": 1794938429669,
-   "customers": 1,
-   "start": 1794937479475,
-   "cause": null,
-   "last_seen": 1794942025250,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.8987,-83.3661",
-   "utility": "Georgia Power",
-   "lat": 33.89865,
-   "lon": -83.36613,
-   "county": "Clarke",
-   "location": "South Milledge Avenue near Athens (30605)",
-   "first_seen": 1794925226122,
+   "location": "Beechwood Way near Hoschton (30517)",
+   "first_seen": 1794942621172,
    "customers": 4,
-   "start": 1794925226122,
+   "start": 1794942621172,
    "cause": null,
-   "last_seen": 1794942025250,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.8696,-83.4109",
-   "utility": "Georgia Power",
-   "lat": 33.86961,
-   "lon": -83.41089,
-   "county": "Oconee",
-   "location": "Thrasher Drive near Watkinsville (30677)",
-   "first_seen": 1794925226122,
-   "customers": 4,
-   "start": 1794925226122,
-   "cause": null,
-   "last_seen": 1794942025250,
+   "last_seen": 1794942621172,
    "cleared": null
   },
   {
@@ -68,8 +26,8 @@
    "customers": 1,
    "start": 1794940818648,
    "cause": null,
-   "last_seen": 1794941420393,
-   "cleared": 1794942025250
+   "last_seen": 1794942621172,
+   "cleared": null
   },
   {
    "key": "walton:C1207833",
@@ -82,8 +40,64 @@
    "customers": 1,
    "start": 1794939017523,
    "cause": null,
-   "last_seen": 1794941420393,
-   "cleared": 1794942025250
+   "last_seen": 1794942621172,
+   "cleared": null
+  },
+  {
+   "key": "jackson:606684",
+   "utility": "Jackson EMC",
+   "lat": 34.18004226690561,
+   "lon": -83.60644604976868,
+   "county": "Jackson",
+   "location": "Bill Wright Road near Jefferson (30549)",
+   "first_seen": 1794938429669,
+   "customers": 1,
+   "start": 1794937479475,
+   "cause": null,
+   "last_seen": 1794942621172,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.8987,-83.3661",
+   "utility": "Georgia Power",
+   "lat": 33.89865,
+   "lon": -83.36613,
+   "county": "Clarke",
+   "location": "South Milledge Avenue near Athens (30605)",
+   "first_seen": 1794925226122,
+   "customers": 4,
+   "start": 1794925226122,
+   "cause": null,
+   "last_seen": 1794942621172,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.8696,-83.4109",
+   "utility": "Georgia Power",
+   "lat": 33.86961,
+   "lon": -83.41089,
+   "county": "Oconee",
+   "location": "Thrasher Drive near Watkinsville (30677)",
+   "first_seen": 1794925226122,
+   "customers": 4,
+   "start": 1794925226122,
+   "cause": null,
+   "last_seen": 1794942621172,
+   "cleared": null
+  },
+  {
+   "key": "jackson:606691",
+   "utility": "Jackson EMC",
+   "lat": 34.09237138195126,
+   "lon": -83.32789644643013,
+   "county": "Madison",
+   "location": "Neese Commerce Road near Neese (30646)",
+   "first_seen": 1794940818648,
+   "customers": 2,
+   "start": 1794940523000,
+   "cause": "Planned",
+   "last_seen": 1794942025250,
+   "cleared": 1794942621172
   },
   {
    "key": "jackson:606657",
@@ -828,20 +842,6 @@
    "cleared": 1794867016637
   },
   {
-   "key": "gapower:33.6547,-83.7185",
-   "utility": "Georgia Power",
-   "lat": 33.65474,
-   "lon": -83.71847,
-   "county": "Walton",
-   "location": "East Sycamore Street near Social Circle (30025)",
-   "first_seen": 1794839423197,
-   "customers": 6,
-   "start": 1794839423197,
-   "cause": null,
-   "last_seen": 1794855016744,
-   "cleared": 1794855625941
-  },
-  {
    "key": "gapower:33.9215,-83.3255",
    "utility": "Georgia Power",
    "lat": 33.92152,
@@ -874,28 +874,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1794942025250,
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1794942621172,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1794942025250
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1794942621172
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794942025250
+   "last_ok": 1794942621172
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
+   "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794942025250
+   "last_ok": 1794942621172
   }
  },
  "skipped": {
