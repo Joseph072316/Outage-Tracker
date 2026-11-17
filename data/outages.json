@@ -1,5 +1,5 @@
 {
- "checked": 1794881417083,
+ "checked": 1794882016061,
  "outages": [
   {
    "key": "gapower:34.0631,-83.1700",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1794871217662,
    "cause": null,
-   "last_seen": 1794881417083,
+   "last_seen": 1794882016061,
    "cleared": null
   },
   {
@@ -1304,20 +1304,6 @@
    "cleared": 1794796961849
   },
   {
-   "key": "gapower:33.9458,-83.3404",
-   "utility": "Georgia Power",
-   "lat": 33.94582,
-   "lon": -83.34041,
-   "county": "Clarke",
-   "location": "Hughes Street near Athens (30605)",
-   "first_seen": 1794790214724,
-   "customers": 4,
-   "start": 1794790214724,
-   "cause": null,
-   "last_seen": 1794790214724,
-   "cleared": 1794795310454
-  },
-  {
    "key": "gapower:34.2322,-83.4524",
    "utility": "Georgia Power",
    "lat": 34.23216,
@@ -1337,26 +1323,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794881417083
+   "last_ok": 1794882016061
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794881417083
+   "last_ok": 1794882016061
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794881417083
+   "last_ok": 1794882016061
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794881417083
+   "last_ok": 1794882016061
   }
  },
  "skipped": {
