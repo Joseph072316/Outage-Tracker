@@ -1,6 +1,20 @@
 {
- "checked": 1794938429669,
+ "checked": 1794939017523,
  "outages": [
+  {
+   "key": "walton:C1207833",
+   "utility": "Walton EMC",
+   "lat": 33.84396079578478,
+   "lon": -83.48628057603023,
+   "county": "Oconee",
+   "location": "Laurel Chase Run (30621)",
+   "first_seen": 1794939017523,
+   "customers": 1,
+   "start": 1794939017523,
+   "cause": null,
+   "last_seen": 1794939017523,
+   "cleared": null
+  },
   {
    "key": "jackson:606684",
    "utility": "Jackson EMC",
@@ -12,7 +26,7 @@
    "customers": 1,
    "start": 1794937479475,
    "cause": null,
-   "last_seen": 1794938429669,
+   "last_seen": 1794939017523,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 1,
    "start": 1794934034000,
    "cause": "Planned",
-   "last_seen": 1794938429669,
+   "last_seen": 1794939017523,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 1,
    "start": 1794926356874,
    "cause": null,
-   "last_seen": 1794938429669,
+   "last_seen": 1794939017523,
    "cleared": null
   },
   {
@@ -54,7 +68,7 @@
    "customers": 4,
    "start": 1794925226122,
    "cause": null,
-   "last_seen": 1794938429669,
+   "last_seen": 1794939017523,
    "cleared": null
   },
   {
@@ -68,7 +82,7 @@
    "customers": 4,
    "start": 1794925226122,
    "cause": null,
-   "last_seen": 1794938429669,
+   "last_seen": 1794939017523,
    "cleared": null
   },
   {
@@ -917,27 +931,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1794938429669,
+   "last_ok": 1794939017523,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1794938429669
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1794939017523
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794938429669
+   "last_ok": 1794939017523
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794938429669
+   "last_ok": 1794939017523
   }
  },
  "skipped": {
@@ -959,6 +973,7 @@
   "gapower:33.6068,-83.3564": 1794932417306,
   "gapower:34.3096,-83.6366": 1794933618474,
   "gapower:34.3086,-83.6364": 1794933618474,
-  "gapower:34.3253,-83.6291": 1794934216875
+  "gapower:34.3253,-83.6291": 1794934216875,
+  "gapower:34.2932,-83.7974": 1794939017523
  }
 }
