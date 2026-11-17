@@ -1,5 +1,5 @@
 {
- "checked": 1794898834591,
+ "checked": 1794899417613,
  "outages": [
   {
    "key": "walton:C1207788",
@@ -758,20 +758,6 @@
    "cleared": 1794833420387
   },
   {
-   "key": "walton:G1207753",
-   "utility": "Walton EMC",
-   "lat": 33.81728771038179,
-   "lon": -83.6346724407921,
-   "county": "Walton",
-   "location": "Snows Mill Road near Monroe (30656)",
-   "first_seen": 1794812422341,
-   "customers": 49,
-   "start": 1794812422341,
-   "cause": "removing flying 6 from pole c/o",
-   "last_seen": 1794812422341,
-   "cleared": 1794813016485
-  },
-  {
    "key": "jackson:606525",
    "utility": "Jackson EMC",
    "lat": 34.033737141026116,
@@ -805,26 +791,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794898834591
+   "last_ok": 1794899417613
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794898834591
+   "last_ok": 1794899417613
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794898834591
+   "last_ok": 1794899417613
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794898834591
+   "last_ok": 1794899417613
   }
  },
  "skipped": {
