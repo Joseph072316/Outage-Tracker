@@ -1,5 +1,5 @@
 {
- "checked": 1794919816926,
+ "checked": 1794920426470,
  "outages": [
   {
    "key": "jackson:606616",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1794917633000,
    "cause": null,
-   "last_seen": 1794919816926,
+   "last_seen": 1794920426470,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 1,
    "start": 1794915025959,
    "cause": null,
-   "last_seen": 1794919816926,
+   "last_seen": 1794920426470,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 4,
    "start": 1794912616550,
    "cause": null,
-   "last_seen": 1794919816926,
+   "last_seen": 1794920426470,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 4,
    "start": 1794909016474,
    "cause": null,
-   "last_seen": 1794919816926,
+   "last_seen": 1794920426470,
    "cleared": null
   },
   {
@@ -800,20 +800,6 @@
    "cleared": 1794838817494
   },
   {
-   "key": "walton:C1207755",
-   "utility": "Walton EMC",
-   "lat": 33.93821927847878,
-   "lon": -83.45611069187773,
-   "county": "Clarke",
-   "location": "Atlanta Highway near Athens (30606)",
-   "first_seen": 1794831626519,
-   "customers": 1,
-   "start": 1794831626519,
-   "cause": null,
-   "last_seen": 1794832819094,
-   "cleared": 1794833420387
-  },
-  {
    "key": "gapower:34.2322,-83.4524",
    "utility": "Georgia Power",
    "lat": 34.23216,
@@ -833,31 +819,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1794919816926,
+   "last_ok": 1794920426470,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794919816926
+   "last_ok": 1794920426470
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794919816926
+   "last_ok": 1794920426470
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794919816926
+   "last_ok": 1794920426470
   }
  },
  "skipped": {
-  "gapower:34.2014,-83.9274": 1794833420387,
   "gapower:34.3047,-83.8247": 1794836419007,
   "gapower:34.0124,-83.7123": 1794837014739,
   "gapower:34.0086,-83.8195": 1794840019482,
