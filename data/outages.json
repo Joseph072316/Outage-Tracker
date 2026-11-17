@@ -1,5 +1,5 @@
 {
- "checked": 1794940818648,
+ "checked": 1794941420393,
  "outages": [
   {
    "key": "walton:C1207834",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1794940818648,
    "cause": null,
-   "last_seen": 1794940818648,
+   "last_seen": 1794941420393,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 2,
    "start": 1794940523000,
    "cause": "Planned",
-   "last_seen": 1794940818648,
+   "last_seen": 1794941420393,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 1,
    "start": 1794939017523,
    "cause": null,
-   "last_seen": 1794940818648,
+   "last_seen": 1794941420393,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 1,
    "start": 1794937479475,
    "cause": null,
-   "last_seen": 1794940818648,
+   "last_seen": 1794941420393,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 4,
    "start": 1794925226122,
    "cause": null,
-   "last_seen": 1794940818648,
+   "last_seen": 1794941420393,
    "cleared": null
   },
   {
@@ -82,7 +82,7 @@
    "customers": 4,
    "start": 1794925226122,
    "cause": null,
-   "last_seen": 1794940818648,
+   "last_seen": 1794941420393,
    "cleared": null
   },
   {
@@ -744,48 +744,6 @@
    "cleared": 1794858618117
   },
   {
-   "key": "gapower:33.9591,-83.3967",
-   "utility": "Georgia Power",
-   "lat": 33.95914,
-   "lon": -83.39673,
-   "county": "Clarke",
-   "location": "Hill Street near Athens (30606)",
-   "first_seen": 1794853217188,
-   "customers": 4,
-   "start": 1794853217188,
-   "cause": null,
-   "last_seen": 1794854421864,
-   "cleared": 1794855016744
-  },
-  {
-   "key": "gapower:33.9573,-83.3427",
-   "utility": "Georgia Power",
-   "lat": 33.95735,
-   "lon": -83.34271,
-   "county": "Clarke",
-   "location": "Produce Lane near Athens (30601)",
-   "first_seen": 1794850817038,
-   "customers": 4,
-   "start": 1794850817038,
-   "cause": null,
-   "last_seen": 1794854421864,
-   "cleared": 1794855016744
-  },
-  {
-   "key": "gapower:33.8765,-83.1185",
-   "utility": "Georgia Power",
-   "lat": 33.87651,
-   "lon": -83.11854,
-   "county": "Oglethorpe",
-   "location": "Athens Road near Crawford (30630)",
-   "first_seen": 1794850222652,
-   "customers": 4,
-   "start": 1794850222652,
-   "cause": null,
-   "last_seen": 1794853821498,
-   "cleared": 1794854421864
-  },
-  {
    "key": "rayle:2026-11-16-0133",
    "utility": "Rayle EMC",
    "lat": 33.98266361035046,
@@ -812,20 +770,6 @@
    "cause": null,
    "last_seen": 1794861030745,
    "cleared": 1794861623083
-  },
-  {
-   "key": "gapower:33.9538,-83.5417",
-   "utility": "Georgia Power",
-   "lat": 33.95384,
-   "lon": -83.54174,
-   "county": "Oconee",
-   "location": "Spetchley Way near Bogart (30622)",
-   "first_seen": 1794846018005,
-   "customers": 4,
-   "start": 1794846018005,
-   "cause": null,
-   "last_seen": 1794853821498,
-   "cleared": 1794854421864
   },
   {
    "key": "walton:C1207762",
@@ -931,33 +875,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1794940818648,
+   "last_ok": 1794941420393,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1794940818648
+   "last_ok": 1794941420393
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794940818648
+   "last_ok": 1794941420393
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794940818648
+   "last_ok": 1794941420393
   }
  },
  "skipped": {
-  "gapower:33.5891,-83.4755": 1794855016744,
-  "gapower:34.3000,-83.1253": 1794855016744,
-  "gapower:34.2912,-83.1201": 1794855016744,
   "gapower:34.2875,-83.8782": 1794860417961,
   "gapower:33.9983,-83.7493": 1794864622499,
   "gapower:34.2885,-83.8322": 1794864622499,
