@@ -1,6 +1,20 @@
 {
- "checked": 1794918016795,
+ "checked": 1794918357352,
  "outages": [
+  {
+   "key": "jackson:606616",
+   "utility": "Jackson EMC",
+   "lat": 34.085943614670235,
+   "lon": -83.11213009830743,
+   "county": "Madison",
+   "location": "Comer Paoli Road near Paoli (30629)",
+   "first_seen": 1794918357352,
+   "customers": 1,
+   "start": 1794917633000,
+   "cause": null,
+   "last_seen": 1794918357352,
+   "cleared": null
+  },
   {
    "key": "jackson:606615",
    "utility": "Jackson EMC",
@@ -12,7 +26,7 @@
    "customers": 1,
    "start": 1794915025959,
    "cause": null,
-   "last_seen": 1794918016795,
+   "last_seen": 1794918357352,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 4,
    "start": 1794912616550,
    "cause": null,
-   "last_seen": 1794918016795,
+   "last_seen": 1794918357352,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 4,
    "start": 1794909016474,
    "cause": null,
-   "last_seen": 1794918016795,
+   "last_seen": 1794918357352,
    "cleared": null
   },
   {
@@ -818,28 +832,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1794918016795,
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1794918357352,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794918016795
+   "last_ok": 1794918357352
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794918016795
+   "last_ok": 1794918357352
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794918016795
+   "last_ok": 1794918357352
   }
  },
  "skipped": {
