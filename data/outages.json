@@ -1,5 +1,5 @@
 {
- "checked": 1794934825456,
+ "checked": 1794935419156,
  "outages": [
   {
    "key": "jackson:606657",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1794934034000,
    "cause": "Planned",
-   "last_seen": 1794934825456,
+   "last_seen": 1794935419156,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 1,
    "start": 1794926356874,
    "cause": null,
-   "last_seen": 1794934825456,
+   "last_seen": 1794935419156,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 4,
    "start": 1794925226122,
    "cause": null,
-   "last_seen": 1794934825456,
+   "last_seen": 1794935419156,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 4,
    "start": 1794925226122,
    "cause": null,
-   "last_seen": 1794934825456,
+   "last_seen": 1794935419156,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 5,
    "start": 1794923417697,
    "cause": null,
-   "last_seen": 1794934825456,
+   "last_seen": 1794935419156,
    "cleared": null
   },
   {
@@ -842,20 +842,6 @@
    "cleared": 1794859226729
   },
   {
-   "key": "gapower:33.6578,-83.7101",
-   "utility": "Georgia Power",
-   "lat": 33.65777,
-   "lon": -83.71009,
-   "county": "Walton",
-   "location": "Cherry Street near Social Circle (30025)",
-   "first_seen": 1794840616333,
-   "customers": 4,
-   "start": 1794840616333,
-   "cause": null,
-   "last_seen": 1794847819609,
-   "cleared": 1794848430714
-  },
-  {
    "key": "gapower:34.2558,-83.5647",
    "utility": "Georgia Power",
    "lat": 34.25582,
@@ -917,31 +903,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794934825456,
+   "last_ok": 1794935419156,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794934825456
+   "last_ok": 1794935419156
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794934825456
+   "last_ok": 1794935419156
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794934825456
+   "last_ok": 1794935419156
   }
  },
  "skipped": {
-  "gapower:34.0106,-83.8231": 1794848430714,
   "gapower:33.5773,-83.4768": 1794849617761,
   "gapower:34.2932,-83.7974": 1794852023751,
   "walton:C1207763": 1794852691970,
