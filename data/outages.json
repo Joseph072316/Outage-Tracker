@@ -1,5 +1,5 @@
 {
- "checked": 1794924026138,
+ "checked": 1794924618286,
  "outages": [
   {
    "key": "gapower:33.6555,-83.7171",
@@ -12,7 +12,91 @@
    "customers": 7,
    "start": 1794924026138,
    "cause": null,
-   "last_seen": 1794924026138,
+   "last_seen": 1794924618286,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.6603,-83.7138",
+   "utility": "Georgia Power",
+   "lat": 33.6603,
+   "lon": -83.7138,
+   "county": "Walton",
+   "location": "Oak Drive Northeast near Social Circle (30025)",
+   "first_seen": 1794923417697,
+   "customers": 5,
+   "start": 1794923417697,
+   "cause": null,
+   "last_seen": 1794924618286,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.6582,-83.7105",
+   "utility": "Georgia Power",
+   "lat": 33.65818,
+   "lon": -83.71048,
+   "county": "Walton",
+   "location": "Cherry Street near Social Circle (30025)",
+   "first_seen": 1794923417697,
+   "customers": 4,
+   "start": 1794923417697,
+   "cause": null,
+   "last_seen": 1794924618286,
+   "cleared": null
+  },
+  {
+   "key": "gapower:34.1748,-83.2978",
+   "utility": "Georgia Power",
+   "lat": 34.17482,
+   "lon": -83.29776,
+   "county": "Madison",
+   "location": "Fitzpatrick Road near Ila (30647)",
+   "first_seen": 1794921617820,
+   "customers": 4,
+   "start": 1794921617820,
+   "cause": null,
+   "last_seen": 1794924618286,
+   "cleared": null
+  },
+  {
+   "key": "gapower:34.0759,-83.7538",
+   "utility": "Georgia Power",
+   "lat": 34.07586,
+   "lon": -83.75381,
+   "county": "Jackson",
+   "location": "Salton Way near Hoschton",
+   "first_seen": 1794921617820,
+   "customers": 4,
+   "start": 1794921617820,
+   "cause": null,
+   "last_seen": 1794924618286,
+   "cleared": null
+  },
+  {
+   "key": "jackson:606615",
+   "utility": "Jackson EMC",
+   "lat": 34.13283129715349,
+   "lon": -83.75109277683774,
+   "county": "Jackson",
+   "location": "Duck Road (30517)",
+   "first_seen": 1794915617543,
+   "customers": 1,
+   "start": 1794915025959,
+   "cause": null,
+   "last_seen": 1794924618286,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.9825,-83.3578",
+   "utility": "Georgia Power",
+   "lat": 33.98251,
+   "lon": -83.35782,
+   "county": "Clarke",
+   "location": "Pine Hollow near Athens (30601)",
+   "first_seen": 1794909016474,
+   "customers": 9,
+   "start": 1794909016474,
+   "cause": null,
+   "last_seen": 1794924618286,
    "cleared": null
   },
   {
@@ -27,91 +111,7 @@
    "start": 1794923794000,
    "cause": null,
    "last_seen": 1794924026138,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.6603,-83.7138",
-   "utility": "Georgia Power",
-   "lat": 33.6603,
-   "lon": -83.7138,
-   "county": "Walton",
-   "location": "Oak Drive Northeast near Social Circle (30025)",
-   "first_seen": 1794923417697,
-   "customers": 5,
-   "start": 1794923417697,
-   "cause": null,
-   "last_seen": 1794924026138,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.6582,-83.7105",
-   "utility": "Georgia Power",
-   "lat": 33.65818,
-   "lon": -83.71048,
-   "county": "Walton",
-   "location": "Cherry Street near Social Circle (30025)",
-   "first_seen": 1794923417697,
-   "customers": 4,
-   "start": 1794923417697,
-   "cause": null,
-   "last_seen": 1794924026138,
-   "cleared": null
-  },
-  {
-   "key": "gapower:34.1748,-83.2978",
-   "utility": "Georgia Power",
-   "lat": 34.17482,
-   "lon": -83.29776,
-   "county": "Madison",
-   "location": "Fitzpatrick Road near Ila (30647)",
-   "first_seen": 1794921617820,
-   "customers": 4,
-   "start": 1794921617820,
-   "cause": null,
-   "last_seen": 1794924026138,
-   "cleared": null
-  },
-  {
-   "key": "gapower:34.0759,-83.7538",
-   "utility": "Georgia Power",
-   "lat": 34.07586,
-   "lon": -83.75381,
-   "county": "Jackson",
-   "location": "Salton Way near Hoschton",
-   "first_seen": 1794921617820,
-   "customers": 4,
-   "start": 1794921617820,
-   "cause": null,
-   "last_seen": 1794924026138,
-   "cleared": null
-  },
-  {
-   "key": "jackson:606615",
-   "utility": "Jackson EMC",
-   "lat": 34.13283129715349,
-   "lon": -83.75109277683774,
-   "county": "Jackson",
-   "location": "Duck Road (30517)",
-   "first_seen": 1794915617543,
-   "customers": 1,
-   "start": 1794915025959,
-   "cause": null,
-   "last_seen": 1794924026138,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.9825,-83.3578",
-   "utility": "Georgia Power",
-   "lat": 33.98251,
-   "lon": -83.35782,
-   "county": "Clarke",
-   "location": "Pine Hollow near Athens (30601)",
-   "first_seen": 1794909016474,
-   "customers": 9,
-   "start": 1794909016474,
-   "cause": null,
-   "last_seen": 1794924026138,
-   "cleared": null
+   "cleared": 1794924618286
   },
   {
    "key": "gapower:33.6556,-83.7173",
@@ -917,27 +917,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794924026138,
+   "last_ok": 1794924618286,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794924026138
+   "last_ok": 1794924618286
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1794924026138
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1794924618286
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "6 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794924026138
+   "last_ok": 1794924618286
   }
  },
  "skipped": {
