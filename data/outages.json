@@ -1,18 +1,18 @@
 {
- "checked": 1794874817867,
+ "checked": 1794875420987,
  "outages": [
   {
-   "key": "walton:C1207784",
+   "key": "walton:D1207785",
    "utility": "Walton EMC",
-   "lat": 33.82032842191523,
-   "lon": -83.92483597515688,
+   "lat": 33.819769057694494,
+   "lon": -83.92522160169757,
    "county": "Walton",
    "location": "Logans Ridge (30052)",
-   "first_seen": 1794874817867,
-   "customers": 1,
-   "start": 1794874817867,
+   "first_seen": 1794875420987,
+   "customers": 3,
+   "start": 1794875420987,
    "cause": null,
-   "last_seen": 1794874817867,
+   "last_seen": 1794875420987,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1794873624810,
    "cause": null,
-   "last_seen": 1794874817867,
+   "last_seen": 1794875420987,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 4,
    "start": 1794871217662,
    "cause": null,
-   "last_seen": 1794874817867,
+   "last_seen": 1794875420987,
    "cleared": null
   },
   {
@@ -54,21 +54,7 @@
    "customers": 1,
    "start": 1794871140000,
    "cause": null,
-   "last_seen": 1794874817867,
-   "cleared": null
-  },
-  {
-   "key": "walton:C1207781",
-   "utility": "Walton EMC",
-   "lat": 33.819996153880794,
-   "lon": -83.92453071697636,
-   "county": "Walton",
-   "location": "Logans Drive (30052)",
-   "first_seen": 1794869423841,
-   "customers": 1,
-   "start": 1794869423841,
-   "cause": null,
-   "last_seen": 1794874817867,
+   "last_seen": 1794875420987,
    "cleared": null
   },
   {
@@ -82,7 +68,7 @@
    "customers": 4,
    "start": 1794868221577,
    "cause": null,
-   "last_seen": 1794874817867,
+   "last_seen": 1794875420987,
    "cleared": null
   },
   {
@@ -96,8 +82,36 @@
    "customers": 1,
    "start": 1794863503000,
    "cause": null,
-   "last_seen": 1794874817867,
+   "last_seen": 1794875420987,
    "cleared": null
+  },
+  {
+   "key": "walton:C1207784",
+   "utility": "Walton EMC",
+   "lat": 33.82032842191523,
+   "lon": -83.92483597515688,
+   "county": "Walton",
+   "location": "Logans Ridge (30052)",
+   "first_seen": 1794874817867,
+   "customers": 1,
+   "start": 1794874817867,
+   "cause": null,
+   "last_seen": 1794874817867,
+   "cleared": 1794875420987
+  },
+  {
+   "key": "walton:C1207781",
+   "utility": "Walton EMC",
+   "lat": 33.819996153880794,
+   "lon": -83.92453071697636,
+   "county": "Walton",
+   "location": "Logans Drive (30052)",
+   "first_seen": 1794869423841,
+   "customers": 1,
+   "start": 1794869423841,
+   "cause": null,
+   "last_seen": 1794874817867,
+   "cleared": 1794875420987
   },
   {
    "key": "gapower:33.5699,-83.1118",
@@ -1337,26 +1351,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794874817867
+   "last_ok": 1794875420987
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1794874817867
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1794875420987
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1794874817867
+   "last_ok": 1794875420987
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794874817867
+   "last_ok": 1794875420987
   }
  },
  "skipped": {
