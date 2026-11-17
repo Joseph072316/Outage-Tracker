@@ -1,5 +1,5 @@
 {
- "checked": 1794951021552,
+ "checked": 1794951617780,
  "outages": [
   {
    "key": "jackson:606692",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1794942792000,
    "cause": "Planned",
-   "last_seen": 1794951021552,
+   "last_seen": 1794951617780,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1794925226122,
    "cause": null,
-   "last_seen": 1794951021552,
+   "last_seen": 1794951617780,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 4,
    "start": 1794925226122,
    "cause": null,
-   "last_seen": 1794951021552,
+   "last_seen": 1794951617780,
    "cleared": null
   },
   {
@@ -688,20 +688,6 @@
    "cleared": 1794865817430
   },
   {
-   "key": "gapower:33.9231,-83.2120",
-   "utility": "Georgia Power",
-   "lat": 33.92311,
-   "lon": -83.21201,
-   "county": "Oglethorpe",
-   "location": "Meyer Farm Road near Arnoldsville (30683)",
-   "first_seen": 1794860417961,
-   "customers": 4,
-   "start": 1794860417961,
-   "cause": null,
-   "last_seen": 1794864017627,
-   "cleared": 1794864622499
-  },
-  {
    "key": "gapower:34.2558,-83.5647",
    "utility": "Georgia Power",
    "lat": 34.25582,
@@ -735,32 +721,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794951021552,
+   "last_ok": 1794951617780,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794951021552
+   "last_ok": 1794951617780
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794951021552
+   "last_ok": 1794951617780
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794951021552
+   "last_ok": 1794951617780
   }
  },
  "skipped": {
-  "gapower:33.9983,-83.7493": 1794864622499,
-  "gapower:34.2885,-83.8322": 1794864622499,
   "gapower:33.5745,-83.8905": 1794865817430,
   "gapower:34.2662,-83.1087": 1794921617820,
   "gapower:33.9777,-83.7055": 1794921617820,
