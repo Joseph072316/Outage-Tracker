@@ -1,20 +1,6 @@
 {
- "checked": 1794933021030,
+ "checked": 1794933618474,
  "outages": [
-  {
-   "key": "gapower:34.1106,-83.5730",
-   "utility": "Georgia Power",
-   "lat": 34.11064,
-   "lon": -83.57302,
-   "county": "Jackson",
-   "location": "Gordon Street near Jefferson (30549)",
-   "first_seen": 1794931817997,
-   "customers": 4,
-   "start": 1794931817997,
-   "cause": null,
-   "last_seen": 1794933021030,
-   "cleared": null
-  },
   {
    "key": "walton:C1207793",
    "utility": "Walton EMC",
@@ -26,7 +12,7 @@
    "customers": 1,
    "start": 1794926356874,
    "cause": null,
-   "last_seen": 1794933021030,
+   "last_seen": 1794933618474,
    "cleared": null
   },
   {
@@ -40,7 +26,7 @@
    "customers": 4,
    "start": 1794925226122,
    "cause": null,
-   "last_seen": 1794933021030,
+   "last_seen": 1794933618474,
    "cleared": null
   },
   {
@@ -54,7 +40,7 @@
    "customers": 4,
    "start": 1794925226122,
    "cause": null,
-   "last_seen": 1794933021030,
+   "last_seen": 1794933618474,
    "cleared": null
   },
   {
@@ -68,8 +54,22 @@
    "customers": 5,
    "start": 1794923417697,
    "cause": null,
-   "last_seen": 1794933021030,
+   "last_seen": 1794933618474,
    "cleared": null
+  },
+  {
+   "key": "gapower:34.1106,-83.5730",
+   "utility": "Georgia Power",
+   "lat": 34.11064,
+   "lon": -83.57302,
+   "county": "Jackson",
+   "location": "Gordon Street near Jefferson (30549)",
+   "first_seen": 1794931817997,
+   "customers": 4,
+   "start": 1794931817997,
+   "cause": null,
+   "last_seen": 1794933021030,
+   "cleared": 1794933618474
   },
   {
    "key": "gapower:33.9455,-83.3015",
@@ -828,20 +828,6 @@
    "cleared": 1794859226729
   },
   {
-   "key": "jackson:606565",
-   "utility": "Jackson EMC",
-   "lat": 34.07671772553491,
-   "lon": -83.27613551975196,
-   "county": "Madison",
-   "location": "Acorn Road (30646)",
-   "first_seen": 1794844223712,
-   "customers": 1,
-   "start": 1794843404502,
-   "cause": null,
-   "last_seen": 1794846018005,
-   "cleared": 1794846623099
-  },
-  {
    "key": "gapower:33.6578,-83.7101",
    "utility": "Georgia Power",
    "lat": 33.65777,
@@ -917,31 +903,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794933021030,
+   "last_ok": 1794933618474,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794933021030
+   "last_ok": 1794933618474
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794933021030
+   "last_ok": 1794933618474
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "4 outage(s) in your counties",
+   "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794933021030
+   "last_ok": 1794933618474
   }
  },
  "skipped": {
-  "gapower:33.9325,-83.7333": 1794846623099,
   "gapower:34.3305,-83.8310": 1794847819609,
   "gapower:34.3480,-83.8158": 1794847819609,
   "gapower:34.0106,-83.8231": 1794848430714,
@@ -962,6 +947,8 @@
   "gapower:33.9932,-83.7260": 1794921617820,
   "gapower:34.1887,-83.9281": 1794928818414,
   "gapower:33.9967,-83.7140": 1794931817997,
-  "gapower:33.6068,-83.3564": 1794932417306
+  "gapower:33.6068,-83.3564": 1794932417306,
+  "gapower:34.3096,-83.6366": 1794933618474,
+  "gapower:34.3086,-83.6364": 1794933618474
  }
 }
