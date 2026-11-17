@@ -1,5 +1,5 @@
 {
- "checked": 1794885616683,
+ "checked": 1794886225663,
  "outages": [
   {
    "key": "gapower:34.0352,-83.2177",
@@ -1248,20 +1248,6 @@
    "cleared": 1794803416821
   },
   {
-   "key": "walton:C1207456",
-   "utility": "Walton EMC",
-   "lat": 33.876744767147336,
-   "lon": -83.83266901558412,
-   "county": "Walton",
-   "location": "Bullock Bridge Road near Windsor (30656)",
-   "first_seen": 1794795310454,
-   "customers": 1,
-   "start": 1794795310454,
-   "cause": null,
-   "last_seen": 1794799216500,
-   "cleared": 1794799820043
-  },
-  {
    "key": "gapower:34.2322,-83.4524",
    "utility": "Georgia Power",
    "lat": 34.23216,
@@ -1281,26 +1267,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794885616683
+   "last_ok": 1794886225663
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794885616683
+   "last_ok": 1794886225663
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794885616683
+   "last_ok": 1794886225663
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794885616683
+   "last_ok": 1794886225663
   }
  },
  "skipped": {
