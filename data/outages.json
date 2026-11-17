@@ -1,5 +1,5 @@
 {
- "checked": 1794901222744,
+ "checked": 1794901817573,
  "outages": [
   {
    "key": "walton:C1207788",
@@ -758,20 +758,6 @@
    "cleared": 1794833420387
   },
   {
-   "key": "jackson:606525",
-   "utility": "Jackson EMC",
-   "lat": 34.033737141026116,
-   "lon": -83.31352340188221,
-   "county": "Madison",
-   "location": "General Daniels Avenue South near Dogsboro (30646)",
-   "first_seen": 1794807019484,
-   "customers": 1,
-   "start": 1794806565386,
-   "cause": null,
-   "last_seen": 1794814823318,
-   "cleared": 1794815415978
-  },
-  {
    "key": "gapower:34.2322,-83.4524",
    "utility": "Georgia Power",
    "lat": 34.23216,
@@ -791,27 +777,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794901222744,
+   "last_ok": 1794901817573,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794901222744
+   "last_ok": 1794901817573
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794901222744
+   "last_ok": 1794901817573
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794901222744
+   "last_ok": 1794901817573
   }
  },
  "skipped": {
