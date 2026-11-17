@@ -1,5 +1,5 @@
 {
- "checked": 1794945021144,
+ "checked": 1794945623203,
  "outages": [
   {
    "key": "jackson:606692",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1794942792000,
    "cause": "Planned",
-   "last_seen": 1794945021144,
+   "last_seen": 1794945623203,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 1,
    "start": 1794942785000,
    "cause": "Planned",
-   "last_seen": 1794945021144,
+   "last_seen": 1794945623203,
    "cleared": null
   },
   {
@@ -40,21 +40,7 @@
    "customers": 4,
    "start": 1794942621172,
    "cause": null,
-   "last_seen": 1794945021144,
-   "cleared": null
-  },
-  {
-   "key": "jackson:606684",
-   "utility": "Jackson EMC",
-   "lat": 34.18004226690561,
-   "lon": -83.60644604976868,
-   "county": "Jackson",
-   "location": "Bill Wright Road near Jefferson (30549)",
-   "first_seen": 1794938429669,
-   "customers": 1,
-   "start": 1794937479475,
-   "cause": null,
-   "last_seen": 1794945021144,
+   "last_seen": 1794945623203,
    "cleared": null
   },
   {
@@ -68,7 +54,7 @@
    "customers": 4,
    "start": 1794925226122,
    "cause": null,
-   "last_seen": 1794945021144,
+   "last_seen": 1794945623203,
    "cleared": null
   },
   {
@@ -82,7 +68,7 @@
    "customers": 4,
    "start": 1794925226122,
    "cause": null,
-   "last_seen": 1794945021144,
+   "last_seen": 1794945623203,
    "cleared": null
   },
   {
@@ -126,6 +112,20 @@
    "cause": null,
    "last_seen": 1794942621172,
    "cleared": 1794943217133
+  },
+  {
+   "key": "jackson:606684",
+   "utility": "Jackson EMC",
+   "lat": 34.18004226690561,
+   "lon": -83.60644604976868,
+   "county": "Jackson",
+   "location": "Bill Wright Road near Jefferson (30549)",
+   "first_seen": 1794938429669,
+   "customers": 1,
+   "start": 1794937479475,
+   "cause": null,
+   "last_seen": 1794945021144,
+   "cleared": 1794945623203
   },
   {
    "key": "jackson:606657",
@@ -846,28 +846,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "3 outage(s) in your counties",
-   "last_ok": 1794945021144,
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1794945623203,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794945021144
+   "last_ok": 1794945623203
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794945021144
+   "last_ok": 1794945623203
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794945021144
+   "last_ok": 1794945623203
   }
  },
  "skipped": {
