@@ -1,5 +1,5 @@
 {
- "checked": 1794897620473,
+ "checked": 1794898217307,
  "outages": [
   {
    "key": "walton:C1207788",
@@ -13,7 +13,7 @@
    "start": 1794897023398,
    "cause": null,
    "last_seen": 1794897620473,
-   "cleared": null
+   "cleared": 1794898217307
   },
   {
    "key": "gapower:34.0352,-83.2177",
@@ -1234,20 +1234,6 @@
    "cleared": 1794815415978
   },
   {
-   "key": "walton:G1207702",
-   "utility": "Walton EMC",
-   "lat": 33.821033386341696,
-   "lon": -83.62273756313924,
-   "county": "Walton",
-   "location": "Thompson Road (30656)",
-   "first_seen": 1794803416821,
-   "customers": 4,
-   "start": 1794803416821,
-   "cause": "Broken C2 c/o 2930 Snows Mill Rd",
-   "last_seen": 1794811216129,
-   "cleared": 1794811815462
-  },
-  {
    "key": "gapower:34.2322,-83.4524",
    "utility": "Georgia Power",
    "lat": 34.23216,
@@ -1267,26 +1253,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794897620473
+   "last_ok": 1794898217307
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1794897620473
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1794898217307
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794897620473
+   "last_ok": 1794898217307
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794897620473
+   "last_ok": 1794898217307
   }
  },
  "skipped": {
