@@ -1,5 +1,5 @@
 {
- "checked": 1794927626516,
+ "checked": 1794928219901,
  "outages": [
   {
    "key": "walton:C1207794",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1794927626516,
    "cause": null,
-   "last_seen": 1794927626516,
+   "last_seen": 1794928219901,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 1,
    "start": 1794926356874,
    "cause": null,
-   "last_seen": 1794927626516,
+   "last_seen": 1794928219901,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 1,
    "start": 1794926210000,
    "cause": "Planned",
-   "last_seen": 1794927626516,
+   "last_seen": 1794928219901,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 4,
    "start": 1794925226122,
    "cause": null,
-   "last_seen": 1794927626516,
+   "last_seen": 1794928219901,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 4,
    "start": 1794925226122,
    "cause": null,
-   "last_seen": 1794927626516,
+   "last_seen": 1794928219901,
    "cleared": null
   },
   {
@@ -82,7 +82,7 @@
    "customers": 5,
    "start": 1794923417697,
    "cause": null,
-   "last_seen": 1794927626516,
+   "last_seen": 1794928219901,
    "cleared": null
   },
   {
@@ -96,7 +96,7 @@
    "customers": 4,
    "start": 1794923417697,
    "cause": null,
-   "last_seen": 1794927626516,
+   "last_seen": 1794928219901,
    "cleared": null
   },
   {
@@ -110,7 +110,7 @@
    "customers": 4,
    "start": 1794921617820,
    "cause": null,
-   "last_seen": 1794927626516,
+   "last_seen": 1794928219901,
    "cleared": null
   },
   {
@@ -124,7 +124,7 @@
    "customers": 4,
    "start": 1794921617820,
    "cause": null,
-   "last_seen": 1794927626516,
+   "last_seen": 1794928219901,
    "cleared": null
   },
   {
@@ -884,20 +884,6 @@
    "cleared": 1794842425895
   },
   {
-   "key": "jackson:606542",
-   "utility": "Jackson EMC",
-   "lat": 34.05236101522129,
-   "lon": -83.4121853695508,
-   "county": "Jackson",
-   "location": "Commerce Road near Center (30607)",
-   "first_seen": 1794838817494,
-   "customers": 8,
-   "start": 1794838263000,
-   "cause": "Planned",
-   "last_seen": 1794840616333,
-   "cleared": 1794841227570
-  },
-  {
    "key": "jackson:606533",
    "utility": "Jackson EMC",
    "lat": 34.01883211901632,
@@ -910,20 +896,6 @@
    "cause": "Planned",
    "last_seen": 1794842425895,
    "cleared": 1794843024315
-  },
-  {
-   "key": "jackson:606530",
-   "utility": "Jackson EMC",
-   "lat": 34.099587159515465,
-   "lon": -83.78610012346476,
-   "county": "Jackson",
-   "location": "Josh Pirkle Road near Braselton (30517)",
-   "first_seen": 1794838817494,
-   "customers": 1,
-   "start": 1794837313000,
-   "cause": "Planned",
-   "last_seen": 1794840616333,
-   "cleared": 1794841227570
   },
   {
    "key": "gapower:33.9203,-83.3335",
@@ -973,32 +945,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794927626516,
+   "last_ok": 1794928219901,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1794927626516
+   "last_ok": 1794928219901
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794927626516
+   "last_ok": 1794928219901
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "6 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794927626516
+   "last_ok": 1794928219901
   }
  },
  "skipped": {
-  "gapower:34.0019,-83.7021": 1794841227570,
-  "gapower:34.0124,-83.7113": 1794841227570,
   "gapower:33.5837,-83.4771": 1794842425895,
   "rayle:2026-11-16-0132": 1794843024315,
   "gapower:33.9944,-83.9005": 1794844825706,
