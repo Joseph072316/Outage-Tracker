@@ -1,6 +1,20 @@
 {
- "checked": 1794958822681,
+ "checked": 1794959417401,
  "outages": [
+  {
+   "key": "jackson:606710",
+   "utility": "Jackson EMC",
+   "lat": 34.09641824430314,
+   "lon": -83.43134643456372,
+   "county": "Jackson",
+   "location": "Commerce Road (30565)",
+   "first_seen": 1794959417401,
+   "customers": 11,
+   "start": 1794958103000,
+   "cause": null,
+   "last_seen": 1794959417401,
+   "cleared": null
+  },
   {
    "key": "jackson:606705",
    "utility": "Jackson EMC",
@@ -12,7 +26,7 @@
    "customers": 1,
    "start": 1794956337110,
    "cause": null,
-   "last_seen": 1794958822681,
+   "last_seen": 1794959417401,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 1,
    "start": 1794955222394,
    "cause": null,
-   "last_seen": 1794958822681,
+   "last_seen": 1794959417401,
    "cleared": null
   },
   {
@@ -41,7 +55,7 @@
    "start": 1794955097429,
    "cause": null,
    "last_seen": 1794958822681,
-   "cleared": null
+   "cleared": 1794959417401
   },
   {
    "key": "jackson:606702",
@@ -55,21 +69,7 @@
    "start": 1794954954000,
    "cause": "Planned",
    "last_seen": 1794958822681,
-   "cleared": null
-  },
-  {
-   "key": "jackson:606692",
-   "utility": "Jackson EMC",
-   "lat": 34.01755889139076,
-   "lon": -83.50298707848224,
-   "county": "Jackson",
-   "location": "ZIP 30608",
-   "first_seen": 1794943743776,
-   "customers": 1,
-   "start": 1794942792000,
-   "cause": "Planned",
-   "last_seen": 1794958822681,
-   "cleared": null
+   "cleared": 1794959417401
   },
   {
    "key": "jackson:606701",
@@ -140,6 +140,20 @@
    "cause": "Planned",
    "last_seen": 1794948617257,
    "cleared": 1794949224585
+  },
+  {
+   "key": "jackson:606692",
+   "utility": "Jackson EMC",
+   "lat": 34.01755889139076,
+   "lon": -83.50298707848224,
+   "county": "Jackson",
+   "location": "ZIP 30608",
+   "first_seen": 1794943743776,
+   "customers": 1,
+   "start": 1794942792000,
+   "cause": "Planned",
+   "last_seen": 1794958822681,
+   "cleared": 1794959417401
   },
   {
    "key": "jackson:606693",
@@ -674,20 +688,6 @@
    "cleared": 1794874216367
   },
   {
-   "key": "gapower:33.8373,-83.8886",
-   "utility": "Georgia Power",
-   "lat": 33.83727,
-   "lon": -83.88863,
-   "county": "Walton",
-   "location": "Homer Moon Drive near Loganville (30502)",
-   "first_seen": 1794866423456,
-   "customers": 4,
-   "start": 1794866423456,
-   "cause": null,
-   "last_seen": 1794872415890,
-   "cleared": 1794873016187
-  },
-  {
    "key": "rayle:2026-11-16-0134",
    "utility": "Rayle EMC",
    "lat": 33.62830129546141,
@@ -706,28 +706,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "4 outage(s) in your counties",
-   "last_ok": 1794958822681,
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1794959417401,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794958822681
+   "last_ok": 1794959417401
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794958822681
+   "last_ok": 1794959417401
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794958822681
+   "last_ok": 1794959417401
   }
  },
  "skipped": {
