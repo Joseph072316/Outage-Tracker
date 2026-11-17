@@ -1,6 +1,20 @@
 {
- "checked": 1794896416556,
+ "checked": 1794897023398,
  "outages": [
+  {
+   "key": "walton:C1207788",
+   "utility": "Walton EMC",
+   "lat": 33.868884013411005,
+   "lon": -83.65966618159334,
+   "county": "Walton",
+   "location": "Mount Vernon Road Northwest near Mount Vernon (30656)",
+   "first_seen": 1794897023398,
+   "customers": 1,
+   "start": 1794897023398,
+   "cause": null,
+   "last_seen": 1794897023398,
+   "cleared": null
+  },
   {
    "key": "gapower:34.0352,-83.2177",
    "utility": "Georgia Power",
@@ -1253,26 +1267,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794896416556
+   "last_ok": 1794897023398
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1794896416556
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1794897023398
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794896416556
+   "last_ok": 1794897023398
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794896416556
+   "last_ok": 1794897023398
   }
  },
  "skipped": {
