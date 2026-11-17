@@ -1,5 +1,5 @@
 {
- "checked": 1794942621172,
+ "checked": 1794943217133,
  "outages": [
   {
    "key": "gapower:34.1047,-83.7581",
@@ -12,7 +12,49 @@
    "customers": 4,
    "start": 1794942621172,
    "cause": null,
-   "last_seen": 1794942621172,
+   "last_seen": 1794943217133,
+   "cleared": null
+  },
+  {
+   "key": "jackson:606684",
+   "utility": "Jackson EMC",
+   "lat": 34.18004226690561,
+   "lon": -83.60644604976868,
+   "county": "Jackson",
+   "location": "Bill Wright Road near Jefferson (30549)",
+   "first_seen": 1794938429669,
+   "customers": 1,
+   "start": 1794937479475,
+   "cause": null,
+   "last_seen": 1794943217133,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.8987,-83.3661",
+   "utility": "Georgia Power",
+   "lat": 33.89865,
+   "lon": -83.36613,
+   "county": "Clarke",
+   "location": "South Milledge Avenue near Athens (30605)",
+   "first_seen": 1794925226122,
+   "customers": 4,
+   "start": 1794925226122,
+   "cause": null,
+   "last_seen": 1794943217133,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.8696,-83.4109",
+   "utility": "Georgia Power",
+   "lat": 33.86961,
+   "lon": -83.41089,
+   "county": "Oconee",
+   "location": "Thrasher Drive near Watkinsville (30677)",
+   "first_seen": 1794925226122,
+   "customers": 4,
+   "start": 1794925226122,
+   "cause": null,
+   "last_seen": 1794943217133,
    "cleared": null
   },
   {
@@ -27,63 +69,7 @@
    "start": 1794940818648,
    "cause": null,
    "last_seen": 1794942621172,
-   "cleared": null
-  },
-  {
-   "key": "walton:C1207833",
-   "utility": "Walton EMC",
-   "lat": 33.84396079578478,
-   "lon": -83.48628057603023,
-   "county": "Oconee",
-   "location": "Laurel Chase Run (30621)",
-   "first_seen": 1794939017523,
-   "customers": 1,
-   "start": 1794939017523,
-   "cause": null,
-   "last_seen": 1794942621172,
-   "cleared": null
-  },
-  {
-   "key": "jackson:606684",
-   "utility": "Jackson EMC",
-   "lat": 34.18004226690561,
-   "lon": -83.60644604976868,
-   "county": "Jackson",
-   "location": "Bill Wright Road near Jefferson (30549)",
-   "first_seen": 1794938429669,
-   "customers": 1,
-   "start": 1794937479475,
-   "cause": null,
-   "last_seen": 1794942621172,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.8987,-83.3661",
-   "utility": "Georgia Power",
-   "lat": 33.89865,
-   "lon": -83.36613,
-   "county": "Clarke",
-   "location": "South Milledge Avenue near Athens (30605)",
-   "first_seen": 1794925226122,
-   "customers": 4,
-   "start": 1794925226122,
-   "cause": null,
-   "last_seen": 1794942621172,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.8696,-83.4109",
-   "utility": "Georgia Power",
-   "lat": 33.86961,
-   "lon": -83.41089,
-   "county": "Oconee",
-   "location": "Thrasher Drive near Watkinsville (30677)",
-   "first_seen": 1794925226122,
-   "customers": 4,
-   "start": 1794925226122,
-   "cause": null,
-   "last_seen": 1794942621172,
-   "cleared": null
+   "cleared": 1794943217133
   },
   {
    "key": "jackson:606691",
@@ -98,6 +84,20 @@
    "cause": "Planned",
    "last_seen": 1794942025250,
    "cleared": 1794942621172
+  },
+  {
+   "key": "walton:C1207833",
+   "utility": "Walton EMC",
+   "lat": 33.84396079578478,
+   "lon": -83.48628057603023,
+   "county": "Oconee",
+   "location": "Laurel Chase Run (30621)",
+   "first_seen": 1794939017523,
+   "customers": 1,
+   "start": 1794939017523,
+   "cause": null,
+   "last_seen": 1794942621172,
+   "cleared": 1794943217133
   },
   {
    "key": "jackson:606657",
@@ -875,27 +875,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794942621172,
+   "last_ok": 1794943217133,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1794942621172
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1794943217133
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794942621172
+   "last_ok": 1794943217133
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794942621172
+   "last_ok": 1794943217133
   }
  },
  "skipped": {
