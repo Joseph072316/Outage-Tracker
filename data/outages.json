@@ -1,5 +1,5 @@
 {
- "checked": 1794879019742,
+ "checked": 1794879616905,
  "outages": [
   {
    "key": "gapower:33.9080,-83.3396",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1794873624810,
    "cause": null,
-   "last_seen": 1794879019742,
+   "last_seen": 1794879616905,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1794871217662,
    "cause": null,
-   "last_seen": 1794879019742,
+   "last_seen": 1794879616905,
    "cleared": null
   },
   {
@@ -40,21 +40,7 @@
    "customers": 4,
    "start": 1794868221577,
    "cause": null,
-   "last_seen": 1794879019742,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-16-0134",
-   "utility": "Rayle EMC",
-   "lat": 33.62830129546141,
-   "lon": -83.06251027771809,
-   "county": "Greene",
-   "location": "GA 44 near Union Point",
-   "first_seen": 1794864017627,
-   "customers": 1,
-   "start": 1794863503000,
-   "cause": null,
-   "last_seen": 1794879019742,
+   "last_seen": 1794879616905,
    "cleared": null
   },
   {
@@ -210,6 +196,20 @@
    "cause": null,
    "last_seen": 1794866423456,
    "cleared": 1794867016637
+  },
+  {
+   "key": "rayle:2026-11-16-0134",
+   "utility": "Rayle EMC",
+   "lat": 33.62830129546141,
+   "lon": -83.06251027771809,
+   "county": "Greene",
+   "location": "GA 44 near Union Point",
+   "first_seen": 1794864017627,
+   "customers": 1,
+   "start": 1794863503000,
+   "cause": null,
+   "last_seen": 1794879019742,
+   "cleared": 1794879616905
   },
   {
    "key": "gapower:33.9445,-83.3473",
@@ -1337,26 +1337,26 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794879019742
+   "last_ok": 1794879616905
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794879019742
+   "last_ok": 1794879616905
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1794879019742
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1794879616905
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794879019742
+   "last_ok": 1794879616905
   }
  },
  "skipped": {
