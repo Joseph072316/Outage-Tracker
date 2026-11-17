@@ -1,5 +1,5 @@
 {
- "checked": 1794899417613,
+ "checked": 1794900016445,
  "outages": [
   {
    "key": "walton:C1207788",
@@ -789,28 +789,29 @@
  "sources": {
   "jackson": {
    "name": "Jackson EMC",
-   "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1794899417613
+   "state": "error",
+   "message": "<urlopen error [Errno 104] Connection reset by peer>",
+   "last_ok": 1794899417613,
+   "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794899417613
+   "last_ok": 1794900016445
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794899417613
+   "last_ok": 1794900016445
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794899417613
+   "last_ok": 1794900016445
   }
  },
  "skipped": {
