@@ -1,18 +1,18 @@
 {
- "checked": 1794948617257,
+ "checked": 1794949224585,
  "outages": [
   {
-   "key": "jackson:606697",
-   "utility": "Jackson EMC",
-   "lat": 34.01949478548717,
-   "lon": -83.50313979208056,
-   "county": "Jackson",
-   "location": "Lebanon Church Road near Attica (30608)",
-   "first_seen": 1794948016533,
+   "key": "rayle:2026-11-17-0140",
+   "utility": "Rayle EMC",
+   "lat": 33.677084058445146,
+   "lon": -83.0483677458146,
+   "county": "Greene",
+   "location": "Woodville Road near Temperance Bell (30669)",
+   "first_seen": 1794949224585,
    "customers": 1,
-   "start": 1794947137000,
-   "cause": "Planned",
-   "last_seen": 1794948617257,
+   "start": 1794948908000,
+   "cause": null,
+   "last_seen": 1794949224585,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 1,
    "start": 1794942792000,
    "cause": "Planned",
-   "last_seen": 1794948617257,
+   "last_seen": 1794949224585,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 4,
    "start": 1794925226122,
    "cause": null,
-   "last_seen": 1794948617257,
+   "last_seen": 1794949224585,
    "cleared": null
   },
   {
@@ -54,8 +54,22 @@
    "customers": 4,
    "start": 1794925226122,
    "cause": null,
-   "last_seen": 1794948617257,
+   "last_seen": 1794949224585,
    "cleared": null
+  },
+  {
+   "key": "jackson:606697",
+   "utility": "Jackson EMC",
+   "lat": 34.01949478548717,
+   "lon": -83.50313979208056,
+   "county": "Jackson",
+   "location": "Lebanon Church Road near Attica (30608)",
+   "first_seen": 1794948016533,
+   "customers": 1,
+   "start": 1794947137000,
+   "cause": "Planned",
+   "last_seen": 1794948617257,
+   "cleared": 1794949224585
   },
   {
    "key": "jackson:606693",
@@ -748,28 +762,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1794948617257,
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1794949224585,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794948617257
+   "last_ok": 1794949224585
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1794948617257
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1794949224585
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794948617257
+   "last_ok": 1794949224585
   }
  },
  "skipped": {
