@@ -1,5 +1,5 @@
 {
- "checked": 1794930616847,
+ "checked": 1794931230668,
  "outages": [
   {
    "key": "gapower:33.9455,-83.3015",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1794930616847,
    "cause": null,
-   "last_seen": 1794930616847,
+   "last_seen": 1794931230668,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 158,
    "start": 1794929392002,
    "cause": null,
-   "last_seen": 1794930616847,
+   "last_seen": 1794931230668,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 6,
    "start": 1794929073000,
    "cause": "Planned",
-   "last_seen": 1794930616847,
+   "last_seen": 1794931230668,
    "cleared": null
   },
   {
@@ -54,21 +54,7 @@
    "customers": 1,
    "start": 1794926356874,
    "cause": null,
-   "last_seen": 1794930616847,
-   "cleared": null
-  },
-  {
-   "key": "jackson:606630",
-   "utility": "Jackson EMC",
-   "lat": 34.14462350322866,
-   "lon": -83.1580699419437,
-   "county": "Madison",
-   "location": "Cedar Grove Church Road near Cedar Grove (30629)",
-   "first_seen": 1794927018423,
-   "customers": 1,
-   "start": 1794926210000,
-   "cause": "Planned",
-   "last_seen": 1794930616847,
+   "last_seen": 1794931230668,
    "cleared": null
   },
   {
@@ -82,7 +68,7 @@
    "customers": 4,
    "start": 1794925226122,
    "cause": null,
-   "last_seen": 1794930616847,
+   "last_seen": 1794931230668,
    "cleared": null
   },
   {
@@ -96,7 +82,7 @@
    "customers": 4,
    "start": 1794925226122,
    "cause": null,
-   "last_seen": 1794930616847,
+   "last_seen": 1794931230668,
    "cleared": null
   },
   {
@@ -110,7 +96,7 @@
    "customers": 5,
    "start": 1794923417697,
    "cause": null,
-   "last_seen": 1794930616847,
+   "last_seen": 1794931230668,
    "cleared": null
   },
   {
@@ -124,7 +110,7 @@
    "customers": 4,
    "start": 1794923417697,
    "cause": null,
-   "last_seen": 1794930616847,
+   "last_seen": 1794931230668,
    "cleared": null
   },
   {
@@ -138,7 +124,7 @@
    "customers": 4,
    "start": 1794921617820,
    "cause": null,
-   "last_seen": 1794930616847,
+   "last_seen": 1794931230668,
    "cleared": null
   },
   {
@@ -154,6 +140,20 @@
    "cause": null,
    "last_seen": 1794928818414,
    "cleared": 1794929392002
+  },
+  {
+   "key": "jackson:606630",
+   "utility": "Jackson EMC",
+   "lat": 34.14462350322866,
+   "lon": -83.1580699419437,
+   "county": "Madison",
+   "location": "Cedar Grove Church Road near Cedar Grove (30629)",
+   "first_seen": 1794927018423,
+   "customers": 1,
+   "start": 1794926210000,
+   "cause": "Planned",
+   "last_seen": 1794930616847,
+   "cleared": 1794931230668
   },
   {
    "key": "jackson:606623",
@@ -958,33 +958,31 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1794930616847,
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1794931230668,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1794930616847
+   "last_ok": 1794931230668
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794930616847
+   "last_ok": 1794931230668
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "6 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794930616847
+   "last_ok": 1794931230668
   }
  },
  "skipped": {
-  "gapower:33.9944,-83.9005": 1794844825706,
-  "gapower:33.9940,-83.9000": 1794844825706,
   "gapower:33.9325,-83.7333": 1794846623099,
   "gapower:34.3305,-83.8310": 1794847819609,
   "gapower:34.3480,-83.8158": 1794847819609,
