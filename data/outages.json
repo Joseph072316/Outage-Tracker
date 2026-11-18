@@ -1,18 +1,18 @@
 {
- "checked": 1795026621957,
+ "checked": 1795027216480,
  "outages": [
   {
-   "key": "walton:C1207883",
+   "key": "walton:D1207884",
    "utility": "Walton EMC",
-   "lat": 33.6234547374343,
-   "lon": -83.68331725290972,
+   "lat": 33.62317535142192,
+   "lon": -83.6830762128667,
    "county": "Walton",
    "location": "US 278;GA 12 near Social Circle (30025)",
-   "first_seen": 1795026621957,
-   "customers": 1,
-   "start": 1795026621957,
+   "first_seen": 1795027216480,
+   "customers": 3,
+   "start": 1795027216480,
    "cause": null,
-   "last_seen": 1795026621957,
+   "last_seen": 1795027216480,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1795026621957,
    "cause": null,
-   "last_seen": 1795026621957,
+   "last_seen": 1795027216480,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 1,
    "start": 1795026201000,
    "cause": "Planned",
-   "last_seen": 1795026621957,
+   "last_seen": 1795027216480,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 4,
    "start": 1795021818641,
    "cause": null,
-   "last_seen": 1795026621957,
+   "last_seen": 1795027216480,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 1,
    "start": 1795019964000,
    "cause": "Planned",
-   "last_seen": 1795026621957,
+   "last_seen": 1795027216480,
    "cleared": null
   },
   {
@@ -82,7 +82,7 @@
    "customers": 4,
    "start": 1795017022114,
    "cause": null,
-   "last_seen": 1795026621957,
+   "last_seen": 1795027216480,
    "cleared": null
   },
   {
@@ -96,8 +96,22 @@
    "customers": 4,
    "start": 1795014024880,
    "cause": null,
-   "last_seen": 1795026621957,
+   "last_seen": 1795027216480,
    "cleared": null
+  },
+  {
+   "key": "walton:C1207883",
+   "utility": "Walton EMC",
+   "lat": 33.6234547374343,
+   "lon": -83.68331725290972,
+   "county": "Walton",
+   "location": "US 278;GA 12 near Social Circle (30025)",
+   "first_seen": 1795026621957,
+   "customers": 1,
+   "start": 1795026621957,
+   "cause": null,
+   "last_seen": 1795026621957,
+   "cleared": 1795027216480
   },
   {
    "key": "gapower:33.6600,-83.7117",
@@ -576,20 +590,6 @@
    "cleared": 1794945623203
   },
   {
-   "key": "jackson:606657",
-   "utility": "Jackson EMC",
-   "lat": 34.111882319638575,
-   "lon": -83.43777837199893,
-   "county": "Jackson",
-   "location": "Jefferson Drive near Nicholson (30565)",
-   "first_seen": 1794934825456,
-   "customers": 1,
-   "start": 1794934034000,
-   "cause": "Planned",
-   "last_seen": 1794939644636,
-   "cleared": 1794940222251
-  },
-  {
    "key": "gapower:33.8696,-83.4109",
    "utility": "Georgia Power",
    "lat": 33.86961,
@@ -623,32 +623,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795026621957,
+   "last_ok": 1795027216480,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795026621957
+   "last_ok": 1795027216480
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795026621957
+   "last_ok": 1795027216480
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "4 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795026621957
+   "last_ok": 1795027216480
   }
  },
  "skipped": {
-  "gapower:33.5127,-83.6971": 1794940222251,
-  "gapower:33.6065,-83.3574": 1794940222251,
   "gapower:33.5689,-83.9030": 1794946217523,
   "gapower:34.3154,-83.8405": 1794956429504,
   "gapower:34.3343,-83.6705": 1795006223739,
