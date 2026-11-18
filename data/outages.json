@@ -1,5 +1,5 @@
 {
- "checked": 1795022418300,
+ "checked": 1795023023082,
  "outages": [
   {
    "key": "gapower:34.1106,-83.5730",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795021818641,
    "cause": null,
-   "last_seen": 1795022418300,
+   "last_seen": 1795023023082,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 1,
    "start": 1795019964000,
    "cause": "Planned",
-   "last_seen": 1795022418300,
+   "last_seen": 1795023023082,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 4,
    "start": 1795017625227,
    "cause": null,
-   "last_seen": 1795022418300,
+   "last_seen": 1795023023082,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 4,
    "start": 1795017022114,
    "cause": null,
-   "last_seen": 1795022418300,
+   "last_seen": 1795023023082,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 4,
    "start": 1795017022114,
    "cause": null,
-   "last_seen": 1795022418300,
+   "last_seen": 1795023023082,
    "cleared": null
   },
   {
@@ -82,7 +82,7 @@
    "customers": 4,
    "start": 1795014024880,
    "cause": null,
-   "last_seen": 1795022418300,
+   "last_seen": 1795023023082,
    "cleared": null
   },
   {
@@ -96,21 +96,7 @@
    "customers": 140,
    "start": 1795013416609,
    "cause": null,
-   "last_seen": 1795022418300,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.9587,-83.3806",
-   "utility": "Georgia Power",
-   "lat": 33.95874,
-   "lon": -83.38063,
-   "county": "Clarke",
-   "location": "Pulaski Street near Athens (30609)",
-   "first_seen": 1794999629448,
-   "customers": 7,
-   "start": 1794999629448,
-   "cause": null,
-   "last_seen": 1795022418300,
+   "last_seen": 1795023023082,
    "cleared": null
   },
   {
@@ -266,6 +252,20 @@
    "cause": "Planned",
    "last_seen": 1795011019057,
    "cleared": 1795011618155
+  },
+  {
+   "key": "gapower:33.9587,-83.3806",
+   "utility": "Georgia Power",
+   "lat": 33.95874,
+   "lon": -83.38063,
+   "county": "Clarke",
+   "location": "Pulaski Street near Athens (30609)",
+   "first_seen": 1794999629448,
+   "customers": 7,
+   "start": 1794999629448,
+   "cause": null,
+   "last_seen": 1795022418300,
+   "cleared": 1795023023082
   },
   {
    "key": "gapower:33.9863,-83.3456",
@@ -609,27 +609,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795022418300,
+   "last_ok": 1795023023082,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795022418300
+   "last_ok": 1795023023082
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795022418300
+   "last_ok": 1795023023082
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "6 outage(s) in your counties",
+   "message": "5 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795022418300
+   "last_ok": 1795023023082
   }
  },
  "skipped": {
