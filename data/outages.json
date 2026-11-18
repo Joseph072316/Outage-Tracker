@@ -1,6 +1,20 @@
 {
- "checked": 1795029024451,
+ "checked": 1795029618411,
  "outages": [
+  {
+   "key": "jackson:606764",
+   "utility": "Jackson EMC",
+   "lat": 34.10027151060128,
+   "lon": -83.58215560448271,
+   "county": "Jackson",
+   "location": "Ivory Street near Jefferson (30549)",
+   "first_seen": 1795029618411,
+   "customers": 4,
+   "start": 1795028988000,
+   "cause": "Planned",
+   "last_seen": 1795029618411,
+   "cleared": null
+  },
   {
    "key": "walton:D1207884",
    "utility": "Walton EMC",
@@ -12,7 +26,7 @@
    "customers": 3,
    "start": 1795027216480,
    "cause": null,
-   "last_seen": 1795029024451,
+   "last_seen": 1795029618411,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 4,
    "start": 1795026621957,
    "cause": null,
-   "last_seen": 1795029024451,
+   "last_seen": 1795029618411,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 1,
    "start": 1795026201000,
    "cause": "Planned",
-   "last_seen": 1795029024451,
+   "last_seen": 1795029618411,
    "cleared": null
   },
   {
@@ -54,7 +68,7 @@
    "customers": 4,
    "start": 1795021818641,
    "cause": null,
-   "last_seen": 1795029024451,
+   "last_seen": 1795029618411,
    "cleared": null
   },
   {
@@ -68,7 +82,7 @@
    "customers": 1,
    "start": 1795019964000,
    "cause": "Planned",
-   "last_seen": 1795029024451,
+   "last_seen": 1795029618411,
    "cleared": null
   },
   {
@@ -534,34 +548,6 @@
    "cleared": 1794946217523
   },
   {
-   "key": "walton:C1207834",
-   "utility": "Walton EMC",
-   "lat": 33.86808046221457,
-   "lon": -83.70300353367985,
-   "county": "Walton",
-   "location": "Daniel Cemetery Road near Campton (30656)",
-   "first_seen": 1794940818648,
-   "customers": 1,
-   "start": 1794940818648,
-   "cause": null,
-   "last_seen": 1794942621172,
-   "cleared": 1794943217133
-  },
-  {
-   "key": "walton:C1207833",
-   "utility": "Walton EMC",
-   "lat": 33.84396079578478,
-   "lon": -83.48628057603023,
-   "county": "Oconee",
-   "location": "Laurel Chase Run (30621)",
-   "first_seen": 1794939017523,
-   "customers": 1,
-   "start": 1794939017523,
-   "cause": null,
-   "last_seen": 1794942621172,
-   "cleared": 1794943217133
-  },
-  {
    "key": "jackson:606684",
    "utility": "Jackson EMC",
    "lat": 34.18004226690561,
@@ -608,28 +594,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1795029024451,
+   "message": "3 outage(s) in your counties",
+   "last_ok": 1795029618411,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795029024451
+   "last_ok": 1795029618411
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795029024451
+   "last_ok": 1795029618411
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795029024451
+   "last_ok": 1795029618411
   }
  },
  "skipped": {
