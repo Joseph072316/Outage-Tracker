@@ -1,5 +1,5 @@
 {
- "checked": 1795042825993,
+ "checked": 1795043417135,
  "outages": [
   {
    "key": "walton:C1207905",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1795041021726,
    "cause": null,
-   "last_seen": 1795042825993,
+   "last_seen": 1795043417135,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 35,
    "start": 1795039589130,
    "cause": null,
-   "last_seen": 1795042825993,
+   "last_seen": 1795043417135,
    "cleared": null
   },
   {
@@ -576,20 +576,6 @@
    "cleared": 1794959417401
   },
   {
-   "key": "jackson:606701",
-   "utility": "Jackson EMC",
-   "lat": 34.108803118752995,
-   "lon": -83.75794692245653,
-   "county": "Jackson",
-   "location": "Lakeshore Drive near Braselton (30517)",
-   "first_seen": 1794955222394,
-   "customers": 1,
-   "start": 1794954705366,
-   "cause": null,
-   "last_seen": 1794956429504,
-   "cleared": 1794957016693
-  },
-  {
    "key": "walton:C1207841",
    "utility": "Walton EMC",
    "lat": 33.933146394365416,
@@ -623,31 +609,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795042825993,
+   "last_ok": 1795043417135,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795042825993
+   "last_ok": 1795043417135
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795042825993
+   "last_ok": 1795043417135
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795042825993
+   "last_ok": 1795043417135
   }
  },
  "skipped": {
-  "gapower:34.3154,-83.8405": 1794956429504,
   "gapower:34.3343,-83.6705": 1795006223739,
   "gapower:34.3346,-83.6709": 1795006223739,
   "walton:C1207848": 1795009216650,
