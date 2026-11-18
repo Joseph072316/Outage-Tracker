@@ -1,6 +1,20 @@
 {
- "checked": 1794961216404,
+ "checked": 1794961733467,
  "outages": [
+  {
+   "key": "jackson:606710",
+   "utility": "Jackson EMC",
+   "lat": 34.09641824430314,
+   "lon": -83.43134643456372,
+   "county": "Jackson",
+   "location": "Commerce Road (30565)",
+   "first_seen": 1794959417401,
+   "customers": 11,
+   "start": 1794958103000,
+   "cause": null,
+   "last_seen": 1794961733467,
+   "cleared": null
+  },
   {
    "key": "jackson:606711",
    "utility": "Jackson EMC",
@@ -13,21 +27,7 @@
    "start": 1794960229952,
    "cause": null,
    "last_seen": 1794961216404,
-   "cleared": null
-  },
-  {
-   "key": "jackson:606710",
-   "utility": "Jackson EMC",
-   "lat": 34.09641824430314,
-   "lon": -83.43134643456372,
-   "county": "Jackson",
-   "location": "Commerce Road (30565)",
-   "first_seen": 1794959417401,
-   "customers": 11,
-   "start": 1794958103000,
-   "cause": null,
-   "last_seen": 1794961216404,
-   "cleared": null
+   "cleared": 1794961733467
   },
   {
    "key": "jackson:606705",
@@ -706,28 +706,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1794961216404,
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1794961733467,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794961216404
+   "last_ok": 1794961733467
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794961216404
+   "last_ok": 1794961733467
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794961216404
+   "last_ok": 1794961733467
   }
  },
  "skipped": {
