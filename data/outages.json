@@ -1,6 +1,20 @@
 {
- "checked": 1794960026548,
+ "checked": 1794960624940,
  "outages": [
+  {
+   "key": "jackson:606711",
+   "utility": "Jackson EMC",
+   "lat": 33.991680684374806,
+   "lon": -83.4404823010045,
+   "county": "Clarke",
+   "location": "Kings Circle near Athens (30606)",
+   "first_seen": 1794960624940,
+   "customers": 1,
+   "start": 1794960229952,
+   "cause": null,
+   "last_seen": 1794960624940,
+   "cleared": null
+  },
   {
    "key": "jackson:606710",
    "utility": "Jackson EMC",
@@ -12,21 +26,7 @@
    "customers": 11,
    "start": 1794958103000,
    "cause": null,
-   "last_seen": 1794960026548,
-   "cleared": null
-  },
-  {
-   "key": "walton:C1207842",
-   "utility": "Walton EMC",
-   "lat": 33.70226024294093,
-   "lon": -83.83292120697998,
-   "county": "Walton",
-   "location": "Lower Jersey Road near Jersey (30054)",
-   "first_seen": 1794955222394,
-   "customers": 1,
-   "start": 1794955222394,
-   "cause": null,
-   "last_seen": 1794960026548,
+   "last_seen": 1794960624940,
    "cleared": null
   },
   {
@@ -42,6 +42,20 @@
    "cause": null,
    "last_seen": 1794959417401,
    "cleared": 1794960026548
+  },
+  {
+   "key": "walton:C1207842",
+   "utility": "Walton EMC",
+   "lat": 33.70226024294093,
+   "lon": -83.83292120697998,
+   "county": "Walton",
+   "location": "Lower Jersey Road near Jersey (30054)",
+   "first_seen": 1794955222394,
+   "customers": 1,
+   "start": 1794955222394,
+   "cause": null,
+   "last_seen": 1794960026548,
+   "cleared": 1794960624940
   },
   {
    "key": "jackson:606704",
@@ -674,20 +688,6 @@
    "cleared": 1794880824958
   },
   {
-   "key": "gapower:33.5699,-83.1118",
-   "utility": "Georgia Power",
-   "lat": 33.56993,
-   "lon": -83.11175,
-   "county": "Greene",
-   "location": "Sibley School Road (30669)",
-   "first_seen": 1794867616552,
-   "customers": 4,
-   "start": 1794867616552,
-   "cause": null,
-   "last_seen": 1794873624810,
-   "cleared": 1794874216367
-  },
-  {
    "key": "rayle:2026-11-16-0134",
    "utility": "Rayle EMC",
    "lat": 33.62830129546141,
@@ -706,28 +706,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1794960026548,
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1794960624940,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1794960026548
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1794960624940
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794960026548
+   "last_ok": 1794960624940
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794960026548
+   "last_ok": 1794960624940
   }
  },
  "skipped": {
