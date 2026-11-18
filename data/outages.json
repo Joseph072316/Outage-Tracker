@@ -1,6 +1,20 @@
 {
- "checked": 1795033823510,
+ "checked": 1795034419162,
  "outages": [
+  {
+   "key": "gapower:33.9570,-83.4022",
+   "utility": "Georgia Power",
+   "lat": 33.95698,
+   "lon": -83.40218,
+   "county": "Clarke",
+   "location": "Talmadge Drive near Athens (30606)",
+   "first_seen": 1795034419162,
+   "customers": 5,
+   "start": 1795034419162,
+   "cause": null,
+   "last_seen": 1795034419162,
+   "cleared": null
+  },
   {
    "key": "walton:C1207889",
    "utility": "Walton EMC",
@@ -12,7 +26,7 @@
    "customers": 1,
    "start": 1795033217573,
    "cause": null,
-   "last_seen": 1795033823510,
+   "last_seen": 1795034419162,
    "cleared": null
   },
   {
@@ -26,7 +40,21 @@
    "customers": 4,
    "start": 1795031419223,
    "cause": null,
-   "last_seen": 1795033823510,
+   "last_seen": 1795034419162,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1207851",
+   "utility": "Walton EMC",
+   "lat": 33.93546618770446,
+   "lon": -83.58274381150267,
+   "county": "Oconee",
+   "location": "Evergreen Park (30666)",
+   "first_seen": 1795012819869,
+   "customers": 1,
+   "start": 1795012819869,
+   "cause": null,
+   "last_seen": 1795034419162,
    "cleared": null
   },
   {
@@ -41,21 +69,7 @@
    "start": 1795030805000,
    "cause": null,
    "last_seen": 1795033823510,
-   "cleared": null
-  },
-  {
-   "key": "walton:C1207851",
-   "utility": "Walton EMC",
-   "lat": 33.93546618770446,
-   "lon": -83.58274381150267,
-   "county": "Oconee",
-   "location": "Evergreen Park (30666)",
-   "first_seen": 1795012819869,
-   "customers": 1,
-   "start": 1795012819869,
-   "cause": null,
-   "last_seen": 1795033823510,
-   "cleared": null
+   "cleared": 1795034419162
   },
   {
    "key": "jackson:606764",
@@ -595,27 +609,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795033823510,
+   "last_ok": 1795034419162,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795033823510
+   "last_ok": 1795034419162
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795033823510
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795034419162
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
+   "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795033823510
+   "last_ok": 1795034419162
   }
  },
  "skipped": {
