@@ -1,6 +1,48 @@
 {
- "checked": 1795012220871,
+ "checked": 1795012819869,
  "outages": [
+  {
+   "key": "walton:C1207852",
+   "utility": "Walton EMC",
+   "lat": 33.94332986915725,
+   "lon": -83.58763280549339,
+   "county": "Unknown",
+   "location": null,
+   "first_seen": 1795012819869,
+   "customers": 1,
+   "start": 1795012819869,
+   "cause": null,
+   "last_seen": 1795012819869,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1207849",
+   "utility": "Walton EMC",
+   "lat": 33.93514346328072,
+   "lon": -83.58516884442203,
+   "county": "Oconee",
+   "location": "Oconee Springs Drive (30666)",
+   "first_seen": 1795012819869,
+   "customers": 1,
+   "start": 1795012819869,
+   "cause": null,
+   "last_seen": 1795012819869,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1207851",
+   "utility": "Walton EMC",
+   "lat": 33.93546618770446,
+   "lon": -83.58274381150267,
+   "county": "Oconee",
+   "location": "Evergreen Park (30666)",
+   "first_seen": 1795012819869,
+   "customers": 1,
+   "start": 1795012819869,
+   "cause": null,
+   "last_seen": 1795012819869,
+   "cleared": null
+  },
   {
    "key": "jackson:606731",
    "utility": "Jackson EMC",
@@ -12,7 +54,7 @@
    "customers": 2,
    "start": 1795009563000,
    "cause": "Planned",
-   "last_seen": 1795012220871,
+   "last_seen": 1795012819869,
    "cleared": null
   },
   {
@@ -26,7 +68,7 @@
    "customers": 4,
    "start": 1795007418507,
    "cause": null,
-   "last_seen": 1795012220871,
+   "last_seen": 1795012819869,
    "cleared": null
   },
   {
@@ -40,7 +82,7 @@
    "customers": 7,
    "start": 1794999629448,
    "cause": null,
-   "last_seen": 1795012220871,
+   "last_seen": 1795012819869,
    "cleared": null
   },
   {
@@ -506,20 +548,6 @@
    "cleared": 1794927626516
   },
   {
-   "key": "gapower:33.6555,-83.7171",
-   "utility": "Georgia Power",
-   "lat": 33.65545,
-   "lon": -83.71713,
-   "county": "Walton",
-   "location": "East Hightower Trail near Social Circle (30025)",
-   "first_seen": 1794924026138,
-   "customers": 7,
-   "start": 1794924026138,
-   "cause": null,
-   "last_seen": 1794925821287,
-   "cleared": 1794926356874
-  },
-  {
    "key": "gapower:33.6603,-83.7138",
    "utility": "Georgia Power",
    "lat": 33.6603,
@@ -574,20 +602,6 @@
    "cause": null,
    "last_seen": 1794928818414,
    "cleared": 1794929392002
-  },
-  {
-   "key": "gapower:33.9825,-83.3578",
-   "utility": "Georgia Power",
-   "lat": 33.98251,
-   "lon": -83.35782,
-   "county": "Clarke",
-   "location": "Pine Hollow near Athens (30601)",
-   "first_seen": 1794909016474,
-   "customers": 9,
-   "start": 1794909016474,
-   "cause": null,
-   "last_seen": 1794925821287,
-   "cleared": 1794926356874
   }
  ],
  "sources": {
@@ -595,27 +609,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795012220871,
+   "last_ok": 1795012819869,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795012220871
+   "message": "3 outage(s) in your counties",
+   "last_ok": 1795012819869
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795012220871
+   "last_ok": 1795012819869
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795012220871
+   "last_ok": 1795012819869
   }
  },
  "skipped": {
@@ -637,6 +651,8 @@
   "gapower:34.2847,-83.6112": 1795011618155,
   "rayle:2026-11-18-0144": 1795012220871,
   "rayle:2026-11-18-0145": 1795012220871,
-  "gapower:34.2929,-83.8020": 1795012220871
+  "gapower:34.2929,-83.8020": 1795012220871,
+  "walton:C1207850": 1795012819869,
+  "gapower:34.2889,-83.6048": 1795012819869
  }
 }
