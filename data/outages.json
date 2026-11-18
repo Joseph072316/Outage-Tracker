@@ -1,5 +1,5 @@
 {
- "checked": 1795021818641,
+ "checked": 1795022418300,
  "outages": [
   {
    "key": "gapower:34.1106,-83.5730",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795021818641,
    "cause": null,
-   "last_seen": 1795021818641,
+   "last_seen": 1795022418300,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 1,
    "start": 1795019964000,
    "cause": "Planned",
-   "last_seen": 1795021818641,
+   "last_seen": 1795022418300,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 4,
    "start": 1795017625227,
    "cause": null,
-   "last_seen": 1795021818641,
+   "last_seen": 1795022418300,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 4,
    "start": 1795017022114,
    "cause": null,
-   "last_seen": 1795021818641,
+   "last_seen": 1795022418300,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 4,
    "start": 1795017022114,
    "cause": null,
-   "last_seen": 1795021818641,
+   "last_seen": 1795022418300,
    "cleared": null
   },
   {
@@ -82,7 +82,7 @@
    "customers": 4,
    "start": 1795014024880,
    "cause": null,
-   "last_seen": 1795021818641,
+   "last_seen": 1795022418300,
    "cleared": null
   },
   {
@@ -96,21 +96,7 @@
    "customers": 140,
    "start": 1795013416609,
    "cause": null,
-   "last_seen": 1795021818641,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.9239,-83.3198",
-   "utility": "Georgia Power",
-   "lat": 33.92391,
-   "lon": -83.31984,
-   "county": "Clarke",
-   "location": "Cedar Creek Drive near Athens (30605)",
-   "first_seen": 1795007418507,
-   "customers": 4,
-   "start": 1795007418507,
-   "cause": null,
-   "last_seen": 1795021818641,
+   "last_seen": 1795022418300,
    "cleared": null
   },
   {
@@ -124,7 +110,7 @@
    "customers": 7,
    "start": 1794999629448,
    "cause": null,
-   "last_seen": 1795021818641,
+   "last_seen": 1795022418300,
    "cleared": null
   },
   {
@@ -252,6 +238,20 @@
    "cause": null,
    "last_seen": 1795011618155,
    "cleared": 1795012220871
+  },
+  {
+   "key": "gapower:33.9239,-83.3198",
+   "utility": "Georgia Power",
+   "lat": 33.92391,
+   "lon": -83.31984,
+   "county": "Clarke",
+   "location": "Cedar Creek Drive near Athens (30605)",
+   "first_seen": 1795007418507,
+   "customers": 4,
+   "start": 1795007418507,
+   "cause": null,
+   "last_seen": 1795021818641,
+   "cleared": 1795022418300
   },
   {
    "key": "jackson:606720",
@@ -609,27 +609,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795021818641,
+   "last_ok": 1795022418300,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795021818641
+   "last_ok": 1795022418300
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795021818641
+   "last_ok": 1795022418300
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "7 outage(s) in your counties",
+   "message": "6 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795021818641
+   "last_ok": 1795022418300
   }
  },
  "skipped": {
@@ -653,6 +653,8 @@
   "gapower:33.9650,-83.6677": 1795017022114,
   "walton:C1207879": 1795021227021,
   "gapower:34.3013,-83.6248": 1795021227021,
-  "gapower:34.3371,-83.8327": 1795021818641
+  "gapower:34.3371,-83.8327": 1795021818641,
+  "walton:C1207880": 1795022418300,
+  "gapower:33.9375,-83.7108": 1795022418300
  }
 }
