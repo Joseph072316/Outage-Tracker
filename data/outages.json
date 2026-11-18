@@ -1,6 +1,62 @@
 {
- "checked": 1795038618584,
+ "checked": 1795039226004,
  "outages": [
+  {
+   "key": "walton:C1207897",
+   "utility": "Walton EMC",
+   "lat": 33.92872299469044,
+   "lon": -83.49899734477826,
+   "county": "Oconee",
+   "location": "Julian Drive (30622)",
+   "first_seen": 1795039226004,
+   "customers": 1,
+   "start": 1795039226004,
+   "cause": null,
+   "last_seen": 1795039226004,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1207896",
+   "utility": "Walton EMC",
+   "lat": 33.9302841937315,
+   "lon": -83.49835894448519,
+   "county": "Oconee",
+   "location": "Deerbrook Court (30677)",
+   "first_seen": 1795039226004,
+   "customers": 1,
+   "start": 1795039226004,
+   "cause": null,
+   "last_seen": 1795039226004,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1207895",
+   "utility": "Walton EMC",
+   "lat": 33.92816912336016,
+   "lon": -83.49920896720977,
+   "county": "Oconee",
+   "location": "Julian Drive (30622)",
+   "first_seen": 1795039226004,
+   "customers": 1,
+   "start": 1795039226004,
+   "cause": null,
+   "last_seen": 1795039226004,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1207894",
+   "utility": "Walton EMC",
+   "lat": 33.923894695422995,
+   "lon": -83.49748324540096,
+   "county": "Oconee",
+   "location": "Julian Drive (30622)",
+   "first_seen": 1795039226004,
+   "customers": 1,
+   "start": 1795039226004,
+   "cause": null,
+   "last_seen": 1795039226004,
+   "cleared": null
+  },
   {
    "key": "gapower:33.9570,-83.4022",
    "utility": "Georgia Power",
@@ -546,20 +602,6 @@
    "cause": "Planned",
    "last_seen": 1794958822681,
    "cleared": 1794959417401
-  },
-  {
-   "key": "gapower:33.8696,-83.4109",
-   "utility": "Georgia Power",
-   "lat": 33.86961,
-   "lon": -83.41089,
-   "county": "Oconee",
-   "location": "Thrasher Drive near Watkinsville (30677)",
-   "first_seen": 1794925226122,
-   "customers": 4,
-   "start": 1794925226122,
-   "cause": null,
-   "last_seen": 1794952216672,
-   "cleared": 1794952823746
   }
  ],
  "sources": {
@@ -567,27 +609,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795038618584,
+   "last_ok": 1795039226004,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795038618584
+   "message": "4 outage(s) in your counties",
+   "last_ok": 1795039226004
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795038618584
+   "last_ok": 1795039226004
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795038618584
+   "last_ok": 1795039226004
   }
  },
  "skipped": {
