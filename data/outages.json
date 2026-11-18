@@ -1,5 +1,5 @@
 {
- "checked": 1795020079410,
+ "checked": 1795020625949,
  "outages": [
   {
    "key": "gapower:33.6600,-83.7117",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795017625227,
    "cause": null,
-   "last_seen": 1795020079410,
+   "last_seen": 1795020625949,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1795017022114,
    "cause": null,
-   "last_seen": 1795020079410,
+   "last_seen": 1795020625949,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 4,
    "start": 1795017022114,
    "cause": null,
-   "last_seen": 1795020079410,
+   "last_seen": 1795020625949,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 4,
    "start": 1795014024880,
    "cause": null,
-   "last_seen": 1795020079410,
+   "last_seen": 1795020625949,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 140,
    "start": 1795013416609,
    "cause": null,
-   "last_seen": 1795020079410,
+   "last_seen": 1795020625949,
    "cleared": null
   },
   {
@@ -82,7 +82,7 @@
    "customers": 4,
    "start": 1795007418507,
    "cause": null,
-   "last_seen": 1795020079410,
+   "last_seen": 1795020625949,
    "cleared": null
   },
   {
@@ -96,7 +96,7 @@
    "customers": 7,
    "start": 1794999629448,
    "cause": null,
-   "last_seen": 1795020079410,
+   "last_seen": 1795020625949,
    "cleared": null
   },
   {
@@ -581,31 +581,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795020079410,
+   "last_ok": 1795020625949,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795020079410
+   "last_ok": 1795020625949
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795020079410
+   "last_ok": 1795020625949
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "6 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795020079410
+   "last_ok": 1795020625949
   }
  },
  "skipped": {
-  "gapower:34.3253,-83.6291": 1794934216875,
   "gapower:34.2932,-83.7974": 1794939017523,
   "gapower:33.5127,-83.6971": 1794940222251,
   "gapower:33.6065,-83.3574": 1794940222251,
