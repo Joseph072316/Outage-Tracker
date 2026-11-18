@@ -1,6 +1,20 @@
 {
- "checked": 1795045216843,
+ "checked": 1795045823494,
  "outages": [
+  {
+   "key": "walton:C1207913",
+   "utility": "Walton EMC",
+   "lat": 33.81409483440419,
+   "lon": -83.6505841906262,
+   "county": "Walton",
+   "location": "Bethany Church Road near Mount Vernon (30656)",
+   "first_seen": 1795045823494,
+   "customers": 1,
+   "start": 1795045823494,
+   "cause": null,
+   "last_seen": 1795045823494,
+   "cleared": null
+  },
   {
    "key": "jackson:606781",
    "utility": "Jackson EMC",
@@ -12,7 +26,7 @@
    "customers": 1,
    "start": 1795043280000,
    "cause": null,
-   "last_seen": 1795045216843,
+   "last_seen": 1795045823494,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 1,
    "start": 1795041021726,
    "cause": null,
-   "last_seen": 1795045216843,
+   "last_seen": 1795045823494,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 35,
    "start": 1795039589130,
    "cause": null,
-   "last_seen": 1795045216843,
+   "last_seen": 1795045823494,
    "cleared": null
   },
   {
@@ -574,48 +588,6 @@
    "cause": null,
    "last_seen": 1794960026548,
    "cleared": 1794960624940
-  },
-  {
-   "key": "jackson:606704",
-   "utility": "Jackson EMC",
-   "lat": 34.16175124134691,
-   "lon": -83.16532832944038,
-   "county": "Madison",
-   "location": "GA 191 near Bluestone (30633)",
-   "first_seen": 1794955816946,
-   "customers": 1,
-   "start": 1794955097429,
-   "cause": null,
-   "last_seen": 1794958822681,
-   "cleared": 1794959417401
-  },
-  {
-   "key": "jackson:606702",
-   "utility": "Jackson EMC",
-   "lat": 34.019129947283695,
-   "lon": -83.50137909412344,
-   "county": "Jackson",
-   "location": "Lebanon Church Road near Attica (30608)",
-   "first_seen": 1794955816946,
-   "customers": 1,
-   "start": 1794954954000,
-   "cause": "Planned",
-   "last_seen": 1794958822681,
-   "cleared": 1794959417401
-  },
-  {
-   "key": "jackson:606692",
-   "utility": "Jackson EMC",
-   "lat": 34.01755889139076,
-   "lon": -83.50298707848224,
-   "county": "Jackson",
-   "location": "ZIP 30608",
-   "first_seen": 1794943743776,
-   "customers": 1,
-   "start": 1794942792000,
-   "cause": "Planned",
-   "last_seen": 1794958822681,
-   "cleared": 1794959417401
   }
  ],
  "sources": {
@@ -623,27 +595,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795045216843,
+   "last_ok": 1795045823494,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1795045216843
+   "message": "3 outage(s) in your counties",
+   "last_ok": 1795045823494
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795045216843
+   "last_ok": 1795045823494
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795045216843
+   "last_ok": 1795045823494
   }
  },
  "skipped": {
