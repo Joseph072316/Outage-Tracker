@@ -1,5 +1,5 @@
 {
- "checked": 1795008017028,
+ "checked": 1795008621016,
  "outages": [
   {
    "key": "gapower:33.9239,-83.3198",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795007418507,
    "cause": null,
-   "last_seen": 1795008017028,
+   "last_seen": 1795008621016,
    "cleared": null
   },
   {
@@ -25,8 +25,8 @@
    "first_seen": 1795006825132,
    "customers": 6,
    "start": 1795006458000,
-   "cause": null,
-   "last_seen": 1795008017028,
+   "cause": "Planned",
+   "last_seen": 1795008621016,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 7,
    "start": 1794999629448,
    "cause": null,
-   "last_seen": 1795008017028,
+   "last_seen": 1795008621016,
    "cleared": null
   },
   {
@@ -590,20 +590,6 @@
    "cleared": 1794925226122
   },
   {
-   "key": "gapower:34.0910,-83.5901",
-   "utility": "Georgia Power",
-   "lat": 34.09104,
-   "lon": -83.59012,
-   "county": "Jackson",
-   "location": "Galilee Church Road near Jefferson (30549)",
-   "first_seen": 1794912616550,
-   "customers": 4,
-   "start": 1794912616550,
-   "cause": null,
-   "last_seen": 1794921018203,
-   "cleared": 1794921617820
-  },
-  {
    "key": "gapower:33.9825,-83.3578",
    "utility": "Georgia Power",
    "lat": 33.98251,
@@ -623,34 +609,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795008017028,
+   "last_ok": 1795008621016,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795008017028
+   "last_ok": 1795008621016
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795008017028
+   "last_ok": 1795008621016
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795008017028
+   "last_ok": 1795008621016
   }
  },
  "skipped": {
-  "gapower:34.2662,-83.1087": 1794921617820,
-  "gapower:33.9777,-83.7055": 1794921617820,
-  "gapower:33.9921,-83.7261": 1794921617820,
-  "gapower:33.9932,-83.7260": 1794921617820,
   "gapower:34.1887,-83.9281": 1794928818414,
   "gapower:33.9967,-83.7140": 1794931817997,
   "gapower:33.6068,-83.3564": 1794932417306,
