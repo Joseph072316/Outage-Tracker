@@ -1,5 +1,5 @@
 {
- "checked": 1795035018761,
+ "checked": 1795035628466,
  "outages": [
   {
    "key": "walton:C1207889",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1795033217573,
    "cause": null,
-   "last_seen": 1795035018761,
+   "last_seen": 1795035628466,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1795031419223,
    "cause": null,
-   "last_seen": 1795035018761,
+   "last_seen": 1795035628466,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 1,
    "start": 1795012819869,
    "cause": null,
-   "last_seen": 1795035018761,
+   "last_seen": 1795035628466,
    "cleared": null
   },
   {
@@ -548,20 +548,6 @@
    "cleared": 1794950416971
   },
   {
-   "key": "jackson:606697",
-   "utility": "Jackson EMC",
-   "lat": 34.01949478548717,
-   "lon": -83.50313979208056,
-   "county": "Jackson",
-   "location": "Lebanon Church Road near Attica (30608)",
-   "first_seen": 1794948016533,
-   "customers": 1,
-   "start": 1794947137000,
-   "cause": "Planned",
-   "last_seen": 1794948617257,
-   "cleared": 1794949224585
-  },
-  {
    "key": "jackson:606692",
    "utility": "Jackson EMC",
    "lat": 34.01755889139076,
@@ -609,27 +595,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795035018761,
+   "last_ok": 1795035628466,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795035018761
+   "last_ok": 1795035628466
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795035018761
+   "last_ok": 1795035628466
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795035018761
+   "last_ok": 1795035628466
   }
  },
  "skipped": {
