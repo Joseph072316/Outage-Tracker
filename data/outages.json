@@ -1,5 +1,5 @@
 {
- "checked": 1794967223072,
+ "checked": 1794967816807,
  "outages": [
   {
    "key": "gapower:33.9863,-83.3456",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1794961820833,
    "cause": null,
-   "last_seen": 1794967223072,
+   "last_seen": 1794967816807,
    "cleared": null
   },
   {
@@ -604,20 +604,6 @@
    "cleared": 1794885016875
   },
   {
-   "key": "gapower:33.9080,-83.3396",
-   "utility": "Georgia Power",
-   "lat": 33.90801,
-   "lon": -83.33963,
-   "county": "Clarke",
-   "location": "Snapfinger Drive near Athens (30605)",
-   "first_seen": 1794873624810,
-   "customers": 4,
-   "start": 1794873624810,
-   "cause": null,
-   "last_seen": 1794880356710,
-   "cleared": 1794880824958
-  },
-  {
    "key": "gapower:34.0631,-83.1700",
    "utility": "Georgia Power",
    "lat": 34.06313,
@@ -630,20 +616,6 @@
    "cause": null,
    "last_seen": 1794882016061,
    "cleared": 1794882620006
-  },
-  {
-   "key": "gapower:33.9849,-83.3463",
-   "utility": "Georgia Power",
-   "lat": 33.98491,
-   "lon": -83.34631,
-   "county": "Clarke",
-   "location": "Collins Industrial Boulevard near Athens (30601)",
-   "first_seen": 1794868221577,
-   "customers": 4,
-   "start": 1794868221577,
-   "cause": null,
-   "last_seen": 1794880356710,
-   "cleared": 1794880824958
   }
  ],
  "sources": {
@@ -651,27 +623,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794967223072,
+   "last_ok": 1794967816807,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794967223072
+   "last_ok": 1794967816807
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794967223072
+   "last_ok": 1794967816807
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794967223072
+   "last_ok": 1794967816807
   }
  },
  "skipped": {
