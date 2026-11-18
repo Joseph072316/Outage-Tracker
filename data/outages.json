@@ -1,5 +1,5 @@
 {
- "checked": 1794961820833,
+ "checked": 1794962415228,
  "outages": [
   {
    "key": "gapower:33.9863,-83.3456",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1794961820833,
    "cause": null,
-   "last_seen": 1794961820833,
+   "last_seen": 1794962415228,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 11,
    "start": 1794958103000,
    "cause": null,
-   "last_seen": 1794961820833,
+   "last_seen": 1794962415228,
    "cleared": null
   },
   {
@@ -618,20 +618,6 @@
    "cleared": 1794877816947
   },
   {
-   "key": "walton:C1207784",
-   "utility": "Walton EMC",
-   "lat": 33.82032842191523,
-   "lon": -83.92483597515688,
-   "county": "Walton",
-   "location": "Logans Ridge (30052)",
-   "first_seen": 1794874817867,
-   "customers": 1,
-   "start": 1794874817867,
-   "cause": null,
-   "last_seen": 1794874817867,
-   "cleared": 1794875420987
-  },
-  {
    "key": "gapower:33.9080,-83.3396",
    "utility": "Georgia Power",
    "lat": 33.90801,
@@ -674,20 +660,6 @@
    "cleared": 1794878419401
   },
   {
-   "key": "walton:C1207781",
-   "utility": "Walton EMC",
-   "lat": 33.819996153880794,
-   "lon": -83.92453071697636,
-   "county": "Walton",
-   "location": "Logans Drive (30052)",
-   "first_seen": 1794869423841,
-   "customers": 1,
-   "start": 1794869423841,
-   "cause": null,
-   "last_seen": 1794874817867,
-   "cleared": 1794875420987
-  },
-  {
    "key": "gapower:33.9849,-83.3463",
    "utility": "Georgia Power",
    "lat": 33.98491,
@@ -721,27 +693,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1794961820833,
+   "last_ok": 1794962415228,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794961820833
+   "last_ok": 1794962415228
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794961820833
+   "last_ok": 1794962415228
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794961820833
+   "last_ok": 1794962415228
   }
  },
  "skipped": {
