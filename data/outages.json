@@ -1,5 +1,5 @@
 {
- "checked": 1794966015556,
+ "checked": 1794966616193,
  "outages": [
   {
    "key": "gapower:33.9863,-83.3456",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1794961820833,
    "cause": null,
-   "last_seen": 1794966015556,
+   "last_seen": 1794966616193,
    "cleared": null
   },
   {
@@ -644,20 +644,6 @@
    "cause": null,
    "last_seen": 1794880356710,
    "cleared": 1794880824958
-  },
-  {
-   "key": "rayle:2026-11-16-0134",
-   "utility": "Rayle EMC",
-   "lat": 33.62830129546141,
-   "lon": -83.06251027771809,
-   "county": "Greene",
-   "location": "GA 44 near Union Point",
-   "first_seen": 1794864017627,
-   "customers": 1,
-   "start": 1794863503000,
-   "cause": null,
-   "last_seen": 1794879019742,
-   "cleared": 1794879616905
   }
  ],
  "sources": {
@@ -665,27 +651,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794966015556,
+   "last_ok": 1794966616193,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794966015556
+   "last_ok": 1794966616193
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1794966015556
+   "last_ok": 1794966616193
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1794966015556
+   "last_ok": 1794966616193
   }
  },
  "skipped": {
