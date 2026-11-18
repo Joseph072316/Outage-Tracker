@@ -1,5 +1,5 @@
 {
- "checked": 1795036670447,
+ "checked": 1795036818271,
  "outages": [
   {
    "key": "gapower:33.9570,-83.4022",
@@ -534,20 +534,6 @@
    "cleared": 1794958768989
   },
   {
-   "key": "rayle:2026-11-17-0140",
-   "utility": "Rayle EMC",
-   "lat": 33.677084058445146,
-   "lon": -83.0483677458146,
-   "county": "Greene",
-   "location": "Woodville Road near Temperance Bell (30669)",
-   "first_seen": 1794949224585,
-   "customers": 1,
-   "start": 1794948908000,
-   "cause": null,
-   "last_seen": 1794950145888,
-   "cleared": 1794950416971
-  },
-  {
    "key": "jackson:606692",
    "utility": "Jackson EMC",
    "lat": 34.01755889139076,
@@ -595,27 +581,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795036670447,
+   "last_ok": 1795036818271,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795036670447
+   "last_ok": 1795036818271
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795036670447
+   "last_ok": 1795036818271
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795036670447
+   "last_ok": 1795036818271
   }
  },
  "skipped": {
