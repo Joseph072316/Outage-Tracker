@@ -1,6 +1,48 @@
 {
- "checked": 1795013416609,
+ "checked": 1795014024880,
  "outages": [
+  {
+   "key": "gapower:33.9914,-83.3063",
+   "utility": "Georgia Power",
+   "lat": 33.99138,
+   "lon": -83.30626,
+   "county": "Clarke",
+   "location": "Voyles Road near Athens (30601)",
+   "first_seen": 1795014024880,
+   "customers": 4,
+   "start": 1795014024880,
+   "cause": null,
+   "last_seen": 1795014024880,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.8945,-83.3587",
+   "utility": "Georgia Power",
+   "lat": 33.89448,
+   "lon": -83.35868,
+   "county": "Unknown",
+   "location": null,
+   "first_seen": 1795014024880,
+   "customers": 4,
+   "start": 1795014024880,
+   "cause": null,
+   "last_seen": 1795014024880,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.8525,-83.4021",
+   "utility": "Georgia Power",
+   "lat": 33.85248,
+   "lon": -83.40208,
+   "county": "Oconee",
+   "location": "Business Boulevard near Watkinsville (30644)",
+   "first_seen": 1795014024880,
+   "customers": 4,
+   "start": 1795014024880,
+   "cause": null,
+   "last_seen": 1795014024880,
+   "cleared": null
+  },
   {
    "key": "walton:D1207863",
    "utility": "Walton EMC",
@@ -12,7 +54,7 @@
    "customers": 140,
    "start": 1795013416609,
    "cause": null,
-   "last_seen": 1795013416609,
+   "last_seen": 1795014024880,
    "cleared": null
   },
   {
@@ -26,21 +68,7 @@
    "customers": 1,
    "start": 1795013416609,
    "cause": null,
-   "last_seen": 1795013416609,
-   "cleared": null
-  },
-  {
-   "key": "jackson:606731",
-   "utility": "Jackson EMC",
-   "lat": 34.20456281587699,
-   "lon": -83.19549375668532,
-   "county": "Madison",
-   "location": "US 29;GA 8 near Bond (30633)",
-   "first_seen": 1795011019057,
-   "customers": 2,
-   "start": 1795009563000,
-   "cause": "Planned",
-   "last_seen": 1795013416609,
+   "last_seen": 1795014024880,
    "cleared": null
   },
   {
@@ -54,7 +82,7 @@
    "customers": 4,
    "start": 1795007418507,
    "cause": null,
-   "last_seen": 1795013416609,
+   "last_seen": 1795014024880,
    "cleared": null
   },
   {
@@ -68,7 +96,7 @@
    "customers": 7,
    "start": 1794999629448,
    "cause": null,
-   "last_seen": 1795013416609,
+   "last_seen": 1795014024880,
    "cleared": null
   },
   {
@@ -126,6 +154,20 @@
    "cause": null,
    "last_seen": 1795011618155,
    "cleared": 1795012220871
+  },
+  {
+   "key": "jackson:606731",
+   "utility": "Jackson EMC",
+   "lat": 34.20456281587699,
+   "lon": -83.19549375668532,
+   "county": "Madison",
+   "location": "US 29;GA 8 near Bond (30633)",
+   "first_seen": 1795011019057,
+   "customers": 2,
+   "start": 1795009563000,
+   "cause": "Planned",
+   "last_seen": 1795013416609,
+   "cleared": 1795014024880
   },
   {
    "key": "rayle:2026-11-18-0143",
@@ -636,28 +678,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795013416609,
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795014024880,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795013416609
+   "last_ok": 1795014024880
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795013416609
+   "last_ok": 1795014024880
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
+   "message": "5 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795013416609
+   "last_ok": 1795014024880
   }
  },
  "skipped": {
