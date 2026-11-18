@@ -1,6 +1,20 @@
 {
- "checked": 1795032622579,
+ "checked": 1795033217573,
  "outages": [
+  {
+   "key": "walton:C1207889",
+   "utility": "Walton EMC",
+   "lat": 33.627502201632105,
+   "lon": -83.68451799267602,
+   "county": "Walton",
+   "location": "Fish Hatchery Road near Social Circle (30025)",
+   "first_seen": 1795033217573,
+   "customers": 1,
+   "start": 1795033217573,
+   "cause": null,
+   "last_seen": 1795033217573,
+   "cleared": null
+  },
   {
    "key": "gapower:33.9190,-83.3797",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 4,
    "start": 1795031419223,
    "cause": null,
-   "last_seen": 1795032622579,
+   "last_seen": 1795033217573,
    "cleared": null
   },
   {
@@ -26,21 +40,7 @@
    "customers": 2,
    "start": 1795030805000,
    "cause": null,
-   "last_seen": 1795032622579,
-   "cleared": null
-  },
-  {
-   "key": "walton:D1207884",
-   "utility": "Walton EMC",
-   "lat": 33.62317535142192,
-   "lon": -83.6830762128667,
-   "county": "Walton",
-   "location": "US 278;GA 12 near Social Circle (30025)",
-   "first_seen": 1795027216480,
-   "customers": 3,
-   "start": 1795027216480,
-   "cause": null,
-   "last_seen": 1795032622579,
+   "last_seen": 1795033217573,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 1,
    "start": 1795012819869,
    "cause": null,
-   "last_seen": 1795032622579,
+   "last_seen": 1795033217573,
    "cleared": null
   },
   {
@@ -70,6 +70,20 @@
    "cause": "Planned",
    "last_seen": 1795032026522,
    "cleared": 1795032622579
+  },
+  {
+   "key": "walton:D1207884",
+   "utility": "Walton EMC",
+   "lat": 33.62317535142192,
+   "lon": -83.6830762128667,
+   "county": "Walton",
+   "location": "US 278;GA 12 near Social Circle (30025)",
+   "first_seen": 1795027216480,
+   "customers": 3,
+   "start": 1795027216480,
+   "cause": null,
+   "last_seen": 1795032622579,
+   "cleared": 1795033217573
   },
   {
    "key": "gapower:34.0547,-83.0493",
@@ -595,27 +609,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795032622579,
+   "last_ok": 1795033217573,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795032622579
+   "last_ok": 1795033217573
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795032622579
+   "last_ok": 1795033217573
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795032622579
+   "last_ok": 1795033217573
   }
  },
  "skipped": {
