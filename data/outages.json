@@ -1,6 +1,20 @@
 {
- "checked": 1795120817437,
+ "checked": 1795121417484,
  "outages": [
+  {
+   "key": "walton:C1207995",
+   "utility": "Walton EMC",
+   "lat": 33.86707189772876,
+   "lon": -83.31170245465984,
+   "county": "Clarke",
+   "location": "Barnett Shoals Road near Athens (30605)",
+   "first_seen": 1795121417484,
+   "customers": 1,
+   "start": 1795121417484,
+   "cause": null,
+   "last_seen": 1795121417484,
+   "cleared": null
+  },
   {
    "key": "jackson:606805",
    "utility": "Jackson EMC",
@@ -12,7 +26,7 @@
    "customers": 2,
    "start": 1795104793571,
    "cause": "Planned",
-   "last_seen": 1795120817437,
+   "last_seen": 1795121417484,
    "cleared": null
   },
   {
@@ -1598,20 +1612,6 @@
    "cleared": 1795036220830
   },
   {
-   "key": "rayle:2026-11-18-0150",
-   "utility": "Rayle EMC",
-   "lat": 33.92898798184003,
-   "lon": -83.0194843635148,
-   "county": "Oglethorpe",
-   "location": "Veribest Road near Veribest (30648)",
-   "first_seen": 1795031419223,
-   "customers": 2,
-   "start": 1795030805000,
-   "cause": null,
-   "last_seen": 1795033823510,
-   "cleared": 1795034419162
-  },
-  {
    "key": "walton:C1207851",
    "utility": "Walton EMC",
    "lat": 33.93546618770446,
@@ -1631,27 +1631,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795120817437,
+   "last_ok": 1795121417484,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795120817437
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795121417484
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795120817437
+   "last_ok": 1795121417484
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795120817437
+   "last_ok": 1795121417484
   }
  },
  "skipped": {
