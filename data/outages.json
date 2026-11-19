@@ -1,5 +1,5 @@
 {
- "checked": 1795091422163,
+ "checked": 1795091970710,
  "outages": [
   {
    "key": "gapower:33.5008,-83.0486",
@@ -13,7 +13,7 @@
    "start": 1795091422163,
    "cause": null,
    "last_seen": 1795091422163,
-   "cleared": null
+   "cleared": 1795091970710
   },
   {
    "key": "gapower:33.5657,-83.1424",
@@ -27,7 +27,7 @@
    "start": 1795091422163,
    "cause": null,
    "last_seen": 1795091422163,
-   "cleared": null
+   "cleared": 1795091970710
   },
   {
    "key": "gapower:33.4623,-83.2057",
@@ -41,7 +41,7 @@
    "start": 1795091422163,
    "cause": null,
    "last_seen": 1795091422163,
-   "cleared": null
+   "cleared": 1795091970710
   },
   {
    "key": "gapower:33.4630,-83.2055",
@@ -55,7 +55,7 @@
    "start": 1795091422163,
    "cause": null,
    "last_seen": 1795091422163,
-   "cleared": null
+   "cleared": 1795091970710
   },
   {
    "key": "gapower:33.4635,-83.2073",
@@ -69,7 +69,7 @@
    "start": 1795091422163,
    "cause": null,
    "last_seen": 1795091422163,
-   "cleared": null
+   "cleared": 1795091970710
   },
   {
    "key": "gapower:33.4647,-83.2065",
@@ -83,7 +83,7 @@
    "start": 1795091422163,
    "cause": null,
    "last_seen": 1795091422163,
-   "cleared": null
+   "cleared": 1795091970710
   },
   {
    "key": "gapower:33.4636,-83.2055",
@@ -97,7 +97,7 @@
    "start": 1795091422163,
    "cause": null,
    "last_seen": 1795091422163,
-   "cleared": null
+   "cleared": 1795091970710
   },
   {
    "key": "gapower:33.4642,-83.2051",
@@ -111,7 +111,7 @@
    "start": 1795091422163,
    "cause": null,
    "last_seen": 1795091422163,
-   "cleared": null
+   "cleared": 1795091970710
   },
   {
    "key": "gapower:33.4649,-83.2052",
@@ -125,7 +125,7 @@
    "start": 1795091422163,
    "cause": null,
    "last_seen": 1795091422163,
-   "cleared": null
+   "cleared": 1795091970710
   },
   {
    "key": "gapower:33.5930,-83.1156",
@@ -139,7 +139,7 @@
    "start": 1795091422163,
    "cause": null,
    "last_seen": 1795091422163,
-   "cleared": null
+   "cleared": 1795091970710
   },
   {
    "key": "gapower:33.5948,-83.1175",
@@ -153,7 +153,7 @@
    "start": 1795091422163,
    "cause": null,
    "last_seen": 1795091422163,
-   "cleared": null
+   "cleared": 1795091970710
   },
   {
    "key": "rayle:2026-11-19-0213",
@@ -167,7 +167,7 @@
    "start": 1795091100000,
    "cause": null,
    "last_seen": 1795091422163,
-   "cleared": null
+   "cleared": 1795091970710
   },
   {
    "key": "gapower:33.6957,-83.1713",
@@ -181,7 +181,7 @@
    "start": 1795090818101,
    "cause": null,
    "last_seen": 1795091422163,
-   "cleared": null
+   "cleared": 1795091970710
   },
   {
    "key": "gapower:33.5929,-83.1178",
@@ -195,7 +195,7 @@
    "start": 1795090818101,
    "cause": null,
    "last_seen": 1795091422163,
-   "cleared": null
+   "cleared": 1795091970710
   },
   {
    "key": "gapower:33.4643,-83.2093",
@@ -209,7 +209,7 @@
    "start": 1795090818101,
    "cause": null,
    "last_seen": 1795091422163,
-   "cleared": null
+   "cleared": 1795091970710
   },
   {
    "key": "gapower:33.5085,-83.2004",
@@ -223,7 +223,7 @@
    "start": 1795090818101,
    "cause": null,
    "last_seen": 1795091422163,
-   "cleared": null
+   "cleared": 1795091970710
   },
   {
    "key": "gapower:33.6288,-83.0932",
@@ -1211,27 +1211,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795091422163,
+   "last_ok": 1795091970710,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795091422163
+   "last_ok": 1795091970710
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795091422163
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795091970710
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "15 outage(s) in your counties",
+   "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795091422163
+   "last_ok": 1795091970710
   }
  },
  "skipped": {
@@ -1332,6 +1332,7 @@
   "gapower:33.5640,-83.3486": 1795091422163,
   "gapower:33.6114,-83.5238": 1795091422163,
   "gapower:33.6135,-83.4589": 1795091422163,
-  "gapower:33.5985,-83.4671": 1795091422163
+  "gapower:33.5985,-83.4671": 1795091422163,
+  "rayle:2026-11-19-0215": 1795091970710
  }
 }
