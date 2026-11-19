@@ -1,5 +1,5 @@
 {
- "checked": 1795098018032,
+ "checked": 1795098623023,
  "outages": [
   {
    "key": "jackson:606790",
@@ -12,7 +12,7 @@
    "customers": 2,
    "start": 1795095779000,
    "cause": "Planned",
-   "last_seen": 1795098018032,
+   "last_seen": 1795098623023,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1795095621820,
    "cause": null,
-   "last_seen": 1795098018032,
+   "last_seen": 1795098623023,
    "cleared": null
   },
   {
@@ -1696,20 +1696,6 @@
    "cleared": 1795013416609
   },
   {
-   "key": "gapower:34.0910,-83.7532",
-   "utility": "Georgia Power",
-   "lat": 34.091,
-   "lon": -83.75315,
-   "county": "Jackson",
-   "location": "Regent Park near Hoschton (30517)",
-   "first_seen": 1795011618155,
-   "customers": 4,
-   "start": 1795011618155,
-   "cause": null,
-   "last_seen": 1795011618155,
-   "cleared": 1795012220871
-  },
-  {
    "key": "jackson:606731",
    "utility": "Jackson EMC",
    "lat": 34.20456281587699,
@@ -1724,20 +1710,6 @@
    "cleared": 1795014024880
   },
   {
-   "key": "rayle:2026-11-18-0143",
-   "utility": "Rayle EMC",
-   "lat": 34.0359102029474,
-   "lon": -83.125351433485,
-   "county": "Oglethorpe",
-   "location": "Comer Road",
-   "first_seen": 1795009216650,
-   "customers": 1,
-   "start": 1795008681000,
-   "cause": null,
-   "last_seen": 1795011618155,
-   "cleared": 1795012220871
-  },
-  {
    "key": "gapower:33.9239,-83.3198",
    "utility": "Georgia Power",
    "lat": 33.92391,
@@ -1750,20 +1722,6 @@
    "cause": null,
    "last_seen": 1795021818641,
    "cleared": 1795022418300
-  },
-  {
-   "key": "jackson:606720",
-   "utility": "Jackson EMC",
-   "lat": 34.08589153585904,
-   "lon": -83.38464302293585,
-   "county": "Jackson",
-   "location": "Cooper Farm Road (30565)",
-   "first_seen": 1795006825132,
-   "customers": 6,
-   "start": 1795006458000,
-   "cause": "Planned",
-   "last_seen": 1795011019057,
-   "cleared": 1795011618155
   },
   {
    "key": "gapower:33.9587,-83.3806",
@@ -1785,34 +1743,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795098018032,
+   "last_ok": 1795098623023,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795098018032
+   "last_ok": 1795098623023
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795098018032
+   "last_ok": 1795098623023
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795098018032
+   "last_ok": 1795098623023
   }
  },
  "skipped": {
-  "gapower:34.2847,-83.6112": 1795011618155,
-  "rayle:2026-11-18-0144": 1795012220871,
-  "rayle:2026-11-18-0145": 1795012220871,
-  "gapower:34.2929,-83.8020": 1795012220871,
   "walton:C1207850": 1795012819869,
   "gapower:34.2889,-83.6048": 1795012819869,
   "gapower:34.2913,-83.6007": 1795014619047,
@@ -1927,6 +1881,8 @@
   "gapower:33.5884,-83.4515": 1795096826361,
   "walton:C1207977": 1795097419118,
   "gapower:33.5887,-83.4516": 1795097419118,
-  "gapower:34.0150,-83.7285": 1795097419118
+  "gapower:34.0150,-83.7285": 1795097419118,
+  "walton:C1207979": 1795098623023,
+  "walton:C1207978": 1795098623023
  }
 }
