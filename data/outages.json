@@ -1,6 +1,34 @@
 {
- "checked": 1795100425430,
+ "checked": 1795101018818,
  "outages": [
+  {
+   "key": "walton:D1207986",
+   "utility": "Walton EMC",
+   "lat": 33.86945842993825,
+   "lon": -83.50572221111779,
+   "county": "Oconee",
+   "location": "Rays Church Road near North High Shoals (30621)",
+   "first_seen": 1795101018818,
+   "customers": 3,
+   "start": 1795101018818,
+   "cause": "out for 10 or 15 minutes",
+   "last_seen": 1795101018818,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1207985",
+   "utility": "Walton EMC",
+   "lat": 33.8779254445033,
+   "lon": -83.67771562645709,
+   "county": "Walton",
+   "location": "Belle Woode near Gratis (30656)",
+   "first_seen": 1795101018818,
+   "customers": 1,
+   "start": 1795101018818,
+   "cause": null,
+   "last_seen": 1795101018818,
+   "cleared": null
+  },
   {
    "key": "walton:C1207984",
    "utility": "Walton EMC",
@@ -12,7 +40,7 @@
    "customers": 1,
    "start": 1795100425430,
    "cause": null,
-   "last_seen": 1795100425430,
+   "last_seen": 1795101018818,
    "cleared": null
   },
   {
@@ -26,7 +54,7 @@
    "customers": 2,
    "start": 1795095779000,
    "cause": "Planned",
-   "last_seen": 1795100425430,
+   "last_seen": 1795101018818,
    "cleared": null
   },
   {
@@ -40,7 +68,7 @@
    "customers": 4,
    "start": 1795095621820,
    "cause": null,
-   "last_seen": 1795100425430,
+   "last_seen": 1795101018818,
    "cleared": null
   },
   {
@@ -1715,27 +1743,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795100425430,
+   "last_ok": 1795101018818,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795100425430
+   "message": "3 outage(s) in your counties",
+   "last_ok": 1795101018818
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795100425430
+   "last_ok": 1795101018818
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795100425430
+   "last_ok": 1795101018818
   }
  },
  "skipped": {
