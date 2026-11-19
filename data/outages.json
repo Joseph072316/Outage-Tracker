@@ -1,5 +1,5 @@
 {
- "checked": 1795109421998,
+ "checked": 1795109933486,
  "outages": [
   {
    "key": "gapower:33.6580,-83.7108",
@@ -12,7 +12,49 @@
    "customers": 7,
    "start": 1795109421998,
    "cause": null,
-   "last_seen": 1795109421998,
+   "last_seen": 1795109933486,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.6725,-83.0991",
+   "utility": "Georgia Power",
+   "lat": 33.6725,
+   "lon": -83.09912,
+   "county": "Greene",
+   "location": "East Peachtree Avenue near Woodville (30669)",
+   "first_seen": 1795106417744,
+   "customers": 4,
+   "start": 1795106417744,
+   "cause": null,
+   "last_seen": 1795109933486,
+   "cleared": null
+  },
+  {
+   "key": "jackson:606805",
+   "utility": "Jackson EMC",
+   "lat": 34.066054619550464,
+   "lon": -83.704039022249,
+   "county": "Jackson",
+   "location": "Tapp Wood Road near Sells (30548)",
+   "first_seen": 1795105218348,
+   "customers": 2,
+   "start": 1795104793571,
+   "cause": "Planned",
+   "last_seen": 1795109933486,
+   "cleared": null
+  },
+  {
+   "key": "jackson:606790",
+   "utility": "Jackson EMC",
+   "lat": 34.05984811868179,
+   "lon": -83.67648769248123,
+   "county": "Jackson",
+   "location": "Stephanie Lane (30549)",
+   "first_seen": 1795096225572,
+   "customers": 2,
+   "start": 1795095779000,
+   "cause": "Planned",
+   "last_seen": 1795109933486,
    "cleared": null
   },
   {
@@ -27,49 +69,7 @@
    "start": 1795108897373,
    "cause": null,
    "last_seen": 1795109421998,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.6725,-83.0991",
-   "utility": "Georgia Power",
-   "lat": 33.6725,
-   "lon": -83.09912,
-   "county": "Greene",
-   "location": "East Peachtree Avenue near Woodville (30669)",
-   "first_seen": 1795106417744,
-   "customers": 4,
-   "start": 1795106417744,
-   "cause": null,
-   "last_seen": 1795109421998,
-   "cleared": null
-  },
-  {
-   "key": "jackson:606805",
-   "utility": "Jackson EMC",
-   "lat": 34.066054619550464,
-   "lon": -83.704039022249,
-   "county": "Jackson",
-   "location": "Tapp Wood Road near Sells (30548)",
-   "first_seen": 1795105218348,
-   "customers": 2,
-   "start": 1795104793571,
-   "cause": "Planned",
-   "last_seen": 1795109421998,
-   "cleared": null
-  },
-  {
-   "key": "jackson:606790",
-   "utility": "Jackson EMC",
-   "lat": 34.05984811868179,
-   "lon": -83.67648769248123,
-   "county": "Jackson",
-   "location": "Stephanie Lane (30549)",
-   "first_seen": 1795096225572,
-   "customers": 2,
-   "start": 1795095779000,
-   "cause": "Planned",
-   "last_seen": 1795109421998,
-   "cleared": null
+   "cleared": 1795109933486
   },
   {
    "key": "gapower:34.2453,-83.5332",
@@ -1750,48 +1750,34 @@
    "cause": null,
    "last_seen": 1795035628466,
    "cleared": 1795036220830
-  },
-  {
-   "key": "gapower:33.9587,-83.3806",
-   "utility": "Georgia Power",
-   "lat": 33.95874,
-   "lon": -83.38063,
-   "county": "Clarke",
-   "location": "Pulaski Street near Athens (30609)",
-   "first_seen": 1794999629448,
-   "customers": 7,
-   "start": 1794999629448,
-   "cause": null,
-   "last_seen": 1795022418300,
-   "cleared": 1795023023082
   }
  ],
  "sources": {
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "3 outage(s) in your counties",
-   "last_ok": 1795109421998,
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1795109933486,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795109421998
+   "last_ok": 1795109933486
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795109421998
+   "last_ok": 1795109933486
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795109421998
+   "last_ok": 1795109933486
   }
  },
  "skipped": {
