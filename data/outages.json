@@ -1,5 +1,5 @@
 {
- "checked": 1795047017651,
+ "checked": 1795047616998,
  "outages": [
   {
    "key": "walton:C1207913",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1795045823494,
    "cause": null,
-   "last_seen": 1795047017651,
+   "last_seen": 1795047616998,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 1,
    "start": 1795043280000,
    "cause": null,
-   "last_seen": 1795047017651,
+   "last_seen": 1795047616998,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 1,
    "start": 1795041021726,
    "cause": null,
-   "last_seen": 1795047017651,
+   "last_seen": 1795047616998,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 35,
    "start": 1795039589130,
    "cause": null,
-   "last_seen": 1795047017651,
+   "last_seen": 1795047616998,
    "cleared": null
   },
   {
@@ -560,20 +560,6 @@
    "cause": null,
    "last_seen": 1794963623092,
    "cleared": 1794964216813
-  },
-  {
-   "key": "walton:C1207842",
-   "utility": "Walton EMC",
-   "lat": 33.70226024294093,
-   "lon": -83.83292120697998,
-   "county": "Walton",
-   "location": "Lower Jersey Road near Jersey (30054)",
-   "first_seen": 1794955222394,
-   "customers": 1,
-   "start": 1794955222394,
-   "cause": null,
-   "last_seen": 1794960026548,
-   "cleared": 1794960624940
   }
  ],
  "sources": {
@@ -581,27 +567,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795047017651,
+   "last_ok": 1795047616998,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "3 outage(s) in your counties",
-   "last_ok": 1795047017651
+   "last_ok": 1795047616998
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795047017651
+   "last_ok": 1795047616998
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795047017651
+   "last_ok": 1795047616998
   }
  },
  "skipped": {
