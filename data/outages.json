@@ -1,6 +1,20 @@
 {
- "checked": 1795096225572,
+ "checked": 1795096492562,
  "outages": [
+  {
+   "key": "walton:C1207976",
+   "utility": "Walton EMC",
+   "lat": 33.759078784837534,
+   "lon": -83.62587903445136,
+   "county": "Walton",
+   "location": "Queens Cemetery Road near Good Hope (30641)",
+   "first_seen": 1795096492562,
+   "customers": 1,
+   "start": 1795096492562,
+   "cause": null,
+   "last_seen": 1795096492562,
+   "cleared": null
+  },
   {
    "key": "jackson:606790",
    "utility": "Jackson EMC",
@@ -12,7 +26,7 @@
    "customers": 2,
    "start": 1795095779000,
    "cause": "Planned",
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -26,7 +40,77 @@
    "customers": 4,
    "start": 1795095621820,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
+   "cleared": null
+  },
+  {
+   "key": "rayle:2026-11-19-0277",
+   "utility": "Rayle EMC",
+   "lat": 33.41469627179482,
+   "lon": -83.1279787419463,
+   "county": "Greene",
+   "location": "Liberty Church Road near Liberty (30678)",
+   "first_seen": 1795096492562,
+   "customers": 2,
+   "start": 1795091220000,
+   "cause": null,
+   "last_seen": 1795096492562,
+   "cleared": null
+  },
+  {
+   "key": "rayle:2026-11-19-0276",
+   "utility": "Rayle EMC",
+   "lat": 33.54618999533864,
+   "lon": -83.12134298937576,
+   "county": "Greene",
+   "location": "Grey Land Road (30642)",
+   "first_seen": 1795096492562,
+   "customers": 1,
+   "start": 1795091100000,
+   "cause": null,
+   "last_seen": 1795096492562,
+   "cleared": null
+  },
+  {
+   "key": "rayle:2026-11-19-0273",
+   "utility": "Rayle EMC",
+   "lat": 33.66611620739655,
+   "lon": -83.25849200454795,
+   "county": "Greene",
+   "location": "Athens Highway",
+   "first_seen": 1795096492562,
+   "customers": 1,
+   "start": 1795090980000,
+   "cause": null,
+   "last_seen": 1795096492562,
+   "cleared": null
+  },
+  {
+   "key": "rayle:2026-11-19-0272",
+   "utility": "Rayle EMC",
+   "lat": 33.48434684721116,
+   "lon": -83.17427295667646,
+   "county": "Greene",
+   "location": "ZIP 30642",
+   "first_seen": 1795096492562,
+   "customers": 1,
+   "start": 1795090920000,
+   "cause": null,
+   "last_seen": 1795096492562,
+   "cleared": null
+  },
+  {
+   "key": "rayle:2026-11-19-0271",
+   "utility": "Rayle EMC",
+   "lat": 33.46906086440408,
+   "lon": -83.1360083079162,
+   "county": "Greene",
+   "location": "Flat Rock Road near Mosquito Crossing (30678)",
+   "first_seen": 1795096492562,
+   "customers": 2,
+   "start": 1795090860000,
+   "cause": null,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -40,7 +124,7 @@
    "customers": 56,
    "start": 1795090763000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -54,7 +138,7 @@
    "customers": 1,
    "start": 1795090753000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -68,7 +152,7 @@
    "customers": 2,
    "start": 1795090726000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -82,7 +166,7 @@
    "customers": 8,
    "start": 1795090685000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -96,7 +180,7 @@
    "customers": 2,
    "start": 1795090655000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -110,7 +194,7 @@
    "customers": 1,
    "start": 1795090648000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -124,7 +208,7 @@
    "customers": 1,
    "start": 1795090617000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -138,7 +222,7 @@
    "customers": 4,
    "start": 1795090596000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -152,7 +236,7 @@
    "customers": 1,
    "start": 1795090593000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -166,7 +250,7 @@
    "customers": 2,
    "start": 1795090584000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -180,7 +264,7 @@
    "customers": 1,
    "start": 1795090584000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -194,7 +278,7 @@
    "customers": 1,
    "start": 1795090560000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -208,7 +292,7 @@
    "customers": 1,
    "start": 1795090553000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -222,7 +306,7 @@
    "customers": 227,
    "start": 1795090536000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -236,7 +320,7 @@
    "customers": 201,
    "start": 1795090516000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -250,7 +334,7 @@
    "customers": 1,
    "start": 1795090510000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -264,7 +348,7 @@
    "customers": 3,
    "start": 1795090497000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -278,7 +362,7 @@
    "customers": 1,
    "start": 1795090492000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -292,7 +376,7 @@
    "customers": 138,
    "start": 1795090460000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -306,7 +390,7 @@
    "customers": 80,
    "start": 1795090450000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -320,7 +404,7 @@
    "customers": 17,
    "start": 1795090440000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -334,7 +418,7 @@
    "customers": 1,
    "start": 1795090440000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -348,7 +432,7 @@
    "customers": 1,
    "start": 1795090440000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -362,7 +446,7 @@
    "customers": 1,
    "start": 1795090434000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -376,7 +460,7 @@
    "customers": 47,
    "start": 1795090424000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -390,7 +474,7 @@
    "customers": 1,
    "start": 1795090411000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -404,7 +488,7 @@
    "customers": 167,
    "start": 1795090408000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -415,10 +499,10 @@
    "county": "Greene",
    "location": "ZIP 30669",
    "first_seen": 1795095621820,
-   "customers": 64,
-   "start": 1795090398000,
+   "customers": 807,
+   "start": 1795090380000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -432,7 +516,7 @@
    "customers": 59,
    "start": 1795090380000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -446,7 +530,7 @@
    "customers": 1,
    "start": 1795090320000,
    "cause": null,
-   "last_seen": 1795096225572,
+   "last_seen": 1795096492562,
    "cleared": null
   },
   {
@@ -1701,27 +1785,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795096225572,
+   "last_ok": 1795096492562,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795096225572
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795096492562
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
-   "message": "30 outage(s) in your counties",
-   "last_ok": 1795096225572
+   "message": "35 outage(s) in your counties",
+   "last_ok": 1795096492562
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795096225572
+   "last_ok": 1795096492562
   }
  },
  "skipped": {
@@ -1836,6 +1920,9 @@
   "rayle:2026-11-19-0265": 1795096225572,
   "rayle:2026-11-19-0269": 1795096225572,
   "rayle:2026-11-19-0270": 1795096225572,
-  "gapower:34.2927,-83.8419": 1795096225572
+  "gapower:34.2927,-83.8419": 1795096225572,
+  "rayle:2026-11-19-0274": 1795096492562,
+  "rayle:2026-11-19-0275": 1795096492562,
+  "rayle:2026-11-19-0278": 1795096492562
  }
 }
