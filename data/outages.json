@@ -1,18 +1,18 @@
 {
- "checked": 1795117218822,
+ "checked": 1795117818218,
  "outages": [
   {
-   "key": "rayle:2026-11-19-0279",
-   "utility": "Rayle EMC",
-   "lat": 33.44830178909371,
-   "lon": -83.18419676997425,
-   "county": "Greene",
-   "location": "Fawn Lane",
-   "first_seen": 1795117082102,
-   "customers": 3,
-   "start": 1795116692000,
+   "key": "jackson:606826",
+   "utility": "Jackson EMC",
+   "lat": 34.085943614670235,
+   "lon": -83.11213009830743,
+   "county": "Madison",
+   "location": "Comer Paoli Road near Paoli (30629)",
+   "first_seen": 1795117818218,
+   "customers": 1,
+   "start": 1795116842769,
    "cause": null,
-   "last_seen": 1795117218822,
+   "last_seen": 1795117818218,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 2,
    "start": 1795104793571,
    "cause": "Planned",
-   "last_seen": 1795117218822,
+   "last_seen": 1795117818218,
    "cleared": null
   },
   {
@@ -42,6 +42,20 @@
    "cause": null,
    "last_seen": 1795117082102,
    "cleared": 1795117218822
+  },
+  {
+   "key": "rayle:2026-11-19-0279",
+   "utility": "Rayle EMC",
+   "lat": 33.44830178909371,
+   "lon": -83.18419676997425,
+   "county": "Greene",
+   "location": "Fawn Lane",
+   "first_seen": 1795117082102,
+   "customers": 3,
+   "start": 1795116692000,
+   "cause": null,
+   "last_seen": 1795117218822,
+   "cleared": 1795117818218
   },
   {
    "key": "gapower:33.6580,-83.7108",
@@ -1626,34 +1640,6 @@
    "cleared": 1795033217573
   },
   {
-   "key": "gapower:34.0547,-83.0493",
-   "utility": "Georgia Power",
-   "lat": 34.05465,
-   "lon": -83.04927,
-   "county": "Madison",
-   "location": "ZIP 30629",
-   "first_seen": 1795026621957,
-   "customers": 4,
-   "start": 1795026621957,
-   "cause": null,
-   "last_seen": 1795030223092,
-   "cleared": 1795030819383
-  },
-  {
-   "key": "jackson:606760",
-   "utility": "Jackson EMC",
-   "lat": 34.02047016155536,
-   "lon": -83.22758157863854,
-   "county": "Madison",
-   "location": "Hardman Morris Road near Patterson (30628)",
-   "first_seen": 1795026518797,
-   "customers": 1,
-   "start": 1795026201000,
-   "cause": "Planned",
-   "last_seen": 1795030223092,
-   "cleared": 1795030819383
-  },
-  {
    "key": "gapower:34.1106,-83.5730",
    "utility": "Georgia Power",
    "lat": 34.11064,
@@ -1700,28 +1686,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795117218822,
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1795117818218,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795117218822
+   "last_ok": 1795117818218
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795117218822
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795117818218
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795117218822
+   "last_ok": 1795117818218
   }
  },
  "skipped": {
@@ -1840,6 +1826,7 @@
   "gapower:33.9162,-83.7003": 1795116018285,
   "gapower:33.9801,-83.7115": 1795116018285,
   "gapower:33.5746,-83.8947": 1795116621199,
-  "gapower:34.1787,-83.9250": 1795116621199
+  "gapower:34.1787,-83.9250": 1795116621199,
+  "gapower:33.5430,-83.4680": 1795117818218
  }
 }
