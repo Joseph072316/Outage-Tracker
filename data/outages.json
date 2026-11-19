@@ -1,18 +1,18 @@
 {
- "checked": 1795125625104,
+ "checked": 1795126217345,
  "outages": [
   {
-   "key": "gapower:33.9410,-83.4745",
+   "key": "gapower:33.9053,-83.3742",
    "utility": "Georgia Power",
-   "lat": 33.94105,
-   "lon": -83.47453,
+   "lat": 33.90528,
+   "lon": -83.37419,
    "county": "Clarke",
-   "location": "Atlanta Highway near Athens (30622)",
-   "first_seen": 1795123821371,
+   "location": "South Milledge Avenue near Athens (30605)",
+   "first_seen": 1795126217345,
    "customers": 4,
-   "start": 1795123821371,
+   "start": 1795126217345,
    "cause": null,
-   "last_seen": 1795125625104,
+   "last_seen": 1795126217345,
    "cleared": null
   },
   {
@@ -26,8 +26,22 @@
    "customers": 1,
    "start": 1795121417484,
    "cause": null,
-   "last_seen": 1795125625104,
+   "last_seen": 1795126217345,
    "cleared": null
+  },
+  {
+   "key": "gapower:33.9410,-83.4745",
+   "utility": "Georgia Power",
+   "lat": 33.94105,
+   "lon": -83.47453,
+   "county": "Clarke",
+   "location": "Atlanta Highway near Athens (30622)",
+   "first_seen": 1795123821371,
+   "customers": 4,
+   "start": 1795123821371,
+   "cause": null,
+   "last_seen": 1795125625104,
+   "cleared": 1795126217345
   },
   {
    "key": "walton:C1207992",
@@ -1528,62 +1542,6 @@
    "cleared": 1795056017046
   },
   {
-   "key": "walton:C1207897",
-   "utility": "Walton EMC",
-   "lat": 33.92872299469044,
-   "lon": -83.49899734477826,
-   "county": "Oconee",
-   "location": "Julian Drive (30622)",
-   "first_seen": 1795039226004,
-   "customers": 1,
-   "start": 1795039226004,
-   "cause": null,
-   "last_seen": 1795039226004,
-   "cleared": 1795039589130
-  },
-  {
-   "key": "walton:C1207896",
-   "utility": "Walton EMC",
-   "lat": 33.9302841937315,
-   "lon": -83.49835894448519,
-   "county": "Oconee",
-   "location": "Deerbrook Court (30677)",
-   "first_seen": 1795039226004,
-   "customers": 1,
-   "start": 1795039226004,
-   "cause": null,
-   "last_seen": 1795039226004,
-   "cleared": 1795039589130
-  },
-  {
-   "key": "walton:C1207895",
-   "utility": "Walton EMC",
-   "lat": 33.92816912336016,
-   "lon": -83.49920896720977,
-   "county": "Oconee",
-   "location": "Julian Drive (30622)",
-   "first_seen": 1795039226004,
-   "customers": 1,
-   "start": 1795039226004,
-   "cause": null,
-   "last_seen": 1795039226004,
-   "cleared": 1795039589130
-  },
-  {
-   "key": "walton:C1207894",
-   "utility": "Walton EMC",
-   "lat": 33.923894695422995,
-   "lon": -83.49748324540096,
-   "county": "Oconee",
-   "location": "Julian Drive (30622)",
-   "first_seen": 1795039226004,
-   "customers": 1,
-   "start": 1795039226004,
-   "cause": null,
-   "last_seen": 1795039226004,
-   "cleared": 1795039589130
-  },
-  {
    "key": "gapower:33.9190,-83.3797",
    "utility": "Georgia Power",
    "lat": 33.91897,
@@ -1603,27 +1561,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795125625104,
+   "last_ok": 1795126217345,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795125625104
+   "last_ok": 1795126217345
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795125625104
+   "last_ok": 1795126217345
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795125625104
+   "last_ok": 1795126217345
   }
  },
  "skipped": {
