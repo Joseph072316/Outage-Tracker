@@ -1,5 +1,5 @@
 {
- "checked": 1795045823494,
+ "checked": 1795046427463,
  "outages": [
   {
    "key": "walton:C1207913",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1795045823494,
    "cause": null,
-   "last_seen": 1795045823494,
+   "last_seen": 1795046427463,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 1,
    "start": 1795043280000,
    "cause": null,
-   "last_seen": 1795045823494,
+   "last_seen": 1795046427463,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 1,
    "start": 1795041021726,
    "cause": null,
-   "last_seen": 1795045823494,
+   "last_seen": 1795046427463,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 35,
    "start": 1795039589130,
    "cause": null,
-   "last_seen": 1795045823494,
+   "last_seen": 1795046427463,
    "cleared": null
   },
   {
@@ -562,20 +562,6 @@
    "cleared": 1794964216813
   },
   {
-   "key": "jackson:606705",
-   "utility": "Jackson EMC",
-   "lat": 34.163059467421796,
-   "lon": -83.16805022475164,
-   "county": "Madison",
-   "location": "near Dalton (30633)",
-   "first_seen": 1794957016693,
-   "customers": 1,
-   "start": 1794956337110,
-   "cause": null,
-   "last_seen": 1794959417401,
-   "cleared": 1794960026548
-  },
-  {
    "key": "walton:C1207842",
    "utility": "Walton EMC",
    "lat": 33.70226024294093,
@@ -595,27 +581,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795045823494,
+   "last_ok": 1795046427463,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "3 outage(s) in your counties",
-   "last_ok": 1795045823494
+   "last_ok": 1795046427463
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795045823494
+   "last_ok": 1795046427463
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795045823494
+   "last_ok": 1795046427463
   }
  },
  "skipped": {
