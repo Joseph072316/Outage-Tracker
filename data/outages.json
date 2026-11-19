@@ -1,5 +1,5 @@
 {
- "checked": 1795117818218,
+ "checked": 1795118424366,
  "outages": [
   {
    "key": "jackson:606826",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1795116842769,
    "cause": null,
-   "last_seen": 1795117818218,
+   "last_seen": 1795118424366,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 2,
    "start": 1795104793571,
    "cause": "Planned",
-   "last_seen": 1795117818218,
+   "last_seen": 1795118424366,
    "cleared": null
   },
   {
@@ -1640,20 +1640,6 @@
    "cleared": 1795033217573
   },
   {
-   "key": "gapower:34.1106,-83.5730",
-   "utility": "Georgia Power",
-   "lat": 34.11064,
-   "lon": -83.57302,
-   "county": "Jackson",
-   "location": "Gordon Street near Jefferson (30549)",
-   "first_seen": 1795021818641,
-   "customers": 4,
-   "start": 1795021818641,
-   "cause": null,
-   "last_seen": 1795030819383,
-   "cleared": 1795031419223
-  },
-  {
    "key": "jackson:606756",
    "utility": "Jackson EMC",
    "lat": 34.01775992860127,
@@ -1687,27 +1673,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795117818218,
+   "last_ok": 1795118424366,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795117818218
+   "last_ok": 1795118424366
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795117818218
+   "last_ok": 1795118424366
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795117818218
+   "last_ok": 1795118424366
   }
  },
  "skipped": {
@@ -1827,6 +1813,7 @@
   "gapower:33.9801,-83.7115": 1795116018285,
   "gapower:33.5746,-83.8947": 1795116621199,
   "gapower:34.1787,-83.9250": 1795116621199,
-  "gapower:33.5430,-83.4680": 1795117818218
+  "gapower:33.5430,-83.4680": 1795117818218,
+  "gapower:33.4010,-83.5905": 1795118424366
  }
 }
