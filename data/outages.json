@@ -1,20 +1,6 @@
 {
- "checked": 1795096492562,
+ "checked": 1795096826361,
  "outages": [
-  {
-   "key": "walton:C1207976",
-   "utility": "Walton EMC",
-   "lat": 33.759078784837534,
-   "lon": -83.62587903445136,
-   "county": "Walton",
-   "location": "Queens Cemetery Road near Good Hope (30641)",
-   "first_seen": 1795096492562,
-   "customers": 1,
-   "start": 1795096492562,
-   "cause": null,
-   "last_seen": 1795096492562,
-   "cleared": null
-  },
   {
    "key": "jackson:606790",
    "utility": "Jackson EMC",
@@ -26,7 +12,7 @@
    "customers": 2,
    "start": 1795095779000,
    "cause": "Planned",
-   "last_seen": 1795096492562,
+   "last_seen": 1795096826361,
    "cleared": null
   },
   {
@@ -40,35 +26,7 @@
    "customers": 4,
    "start": 1795095621820,
    "cause": null,
-   "last_seen": 1795096492562,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-19-0277",
-   "utility": "Rayle EMC",
-   "lat": 33.41469627179482,
-   "lon": -83.1279787419463,
-   "county": "Greene",
-   "location": "Liberty Church Road near Liberty (30678)",
-   "first_seen": 1795096492562,
-   "customers": 2,
-   "start": 1795091220000,
-   "cause": null,
-   "last_seen": 1795096492562,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-19-0276",
-   "utility": "Rayle EMC",
-   "lat": 33.54618999533864,
-   "lon": -83.12134298937576,
-   "county": "Greene",
-   "location": "Grey Land Road (30642)",
-   "first_seen": 1795096492562,
-   "customers": 1,
-   "start": 1795091100000,
-   "cause": null,
-   "last_seen": 1795096492562,
+   "last_seen": 1795096826361,
    "cleared": null
   },
   {
@@ -82,7 +40,7 @@
    "customers": 1,
    "start": 1795090980000,
    "cause": null,
-   "last_seen": 1795096492562,
+   "last_seen": 1795096826361,
    "cleared": null
   },
   {
@@ -96,21 +54,7 @@
    "customers": 1,
    "start": 1795090920000,
    "cause": null,
-   "last_seen": 1795096492562,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-19-0271",
-   "utility": "Rayle EMC",
-   "lat": 33.46906086440408,
-   "lon": -83.1360083079162,
-   "county": "Greene",
-   "location": "Flat Rock Road near Mosquito Crossing (30678)",
-   "first_seen": 1795096492562,
-   "customers": 2,
-   "start": 1795090860000,
-   "cause": null,
-   "last_seen": 1795096492562,
+   "last_seen": 1795096826361,
    "cleared": null
   },
   {
@@ -124,7 +68,7 @@
    "customers": 56,
    "start": 1795090763000,
    "cause": null,
-   "last_seen": 1795096492562,
+   "last_seen": 1795096826361,
    "cleared": null
   },
   {
@@ -138,7 +82,7 @@
    "customers": 1,
    "start": 1795090753000,
    "cause": null,
-   "last_seen": 1795096492562,
+   "last_seen": 1795096826361,
    "cleared": null
   },
   {
@@ -152,21 +96,7 @@
    "customers": 2,
    "start": 1795090726000,
    "cause": null,
-   "last_seen": 1795096492562,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-19-0262",
-   "utility": "Rayle EMC",
-   "lat": 33.51143829835027,
-   "lon": -83.10638144827908,
-   "county": "Greene",
-   "location": "Andrews Lane (30665)",
-   "first_seen": 1795096225572,
-   "customers": 8,
-   "start": 1795090685000,
-   "cause": null,
-   "last_seen": 1795096492562,
+   "last_seen": 1795096826361,
    "cleared": null
   },
   {
@@ -180,63 +110,7 @@
    "customers": 2,
    "start": 1795090655000,
    "cause": null,
-   "last_seen": 1795096492562,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-19-0259",
-   "utility": "Rayle EMC",
-   "lat": 33.43055763466222,
-   "lon": -83.08937173149185,
-   "county": "Greene",
-   "location": "Veazey Road near Mosquito Crossing (30642)",
-   "first_seen": 1795096225572,
-   "customers": 1,
-   "start": 1795090648000,
-   "cause": null,
-   "last_seen": 1795096492562,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-19-0257",
-   "utility": "Rayle EMC",
-   "lat": 33.51770146312844,
-   "lon": -83.12857174745761,
-   "county": "Greene",
-   "location": "Siloam-Veazey Road near Siloam (30642)",
-   "first_seen": 1795096225572,
-   "customers": 1,
-   "start": 1795090617000,
-   "cause": null,
-   "last_seen": 1795096492562,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-19-0256",
-   "utility": "Rayle EMC",
-   "lat": 33.47279898183661,
-   "lon": -83.02111386050453,
-   "county": "Greene",
-   "location": "Crawfordville Road near White Plains (30678)",
-   "first_seen": 1795096225572,
-   "customers": 4,
-   "start": 1795090596000,
-   "cause": null,
-   "last_seen": 1795096492562,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-19-0255",
-   "utility": "Rayle EMC",
-   "lat": 33.54883829021873,
-   "lon": -83.06848405257186,
-   "county": "Greene",
-   "location": "Brooks Cemetery Road (30665)",
-   "first_seen": 1795096225572,
-   "customers": 1,
-   "start": 1795090593000,
-   "cause": null,
-   "last_seen": 1795096492562,
+   "last_seen": 1795096826361,
    "cleared": null
   },
   {
@@ -250,21 +124,7 @@
    "customers": 2,
    "start": 1795090584000,
    "cause": null,
-   "last_seen": 1795096492562,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-19-0252",
-   "utility": "Rayle EMC",
-   "lat": 33.51706096328056,
-   "lon": -83.09471364099014,
-   "county": "Greene",
-   "location": "Credille Pond Road (30665)",
-   "first_seen": 1795096225572,
-   "customers": 1,
-   "start": 1795090584000,
-   "cause": null,
-   "last_seen": 1795096492562,
+   "last_seen": 1795096826361,
    "cleared": null
   },
   {
@@ -278,7 +138,7 @@
    "customers": 1,
    "start": 1795090560000,
    "cause": null,
-   "last_seen": 1795096492562,
+   "last_seen": 1795096826361,
    "cleared": null
   },
   {
@@ -292,7 +152,7 @@
    "customers": 1,
    "start": 1795090553000,
    "cause": null,
-   "last_seen": 1795096492562,
+   "last_seen": 1795096826361,
    "cleared": null
   },
   {
@@ -306,7 +166,7 @@
    "customers": 227,
    "start": 1795090536000,
    "cause": null,
-   "last_seen": 1795096492562,
+   "last_seen": 1795096826361,
    "cleared": null
   },
   {
@@ -320,21 +180,7 @@
    "customers": 201,
    "start": 1795090516000,
    "cause": null,
-   "last_seen": 1795096492562,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-19-0243",
-   "utility": "Rayle EMC",
-   "lat": 33.51473272147764,
-   "lon": -83.0002617310959,
-   "county": "Greene",
-   "location": "Amos Road (30678)",
-   "first_seen": 1795095621820,
-   "customers": 1,
-   "start": 1795090510000,
-   "cause": null,
-   "last_seen": 1795096492562,
+   "last_seen": 1795096826361,
    "cleared": null
   },
   {
@@ -348,7 +194,7 @@
    "customers": 3,
    "start": 1795090497000,
    "cause": null,
-   "last_seen": 1795096492562,
+   "last_seen": 1795096826361,
    "cleared": null
   },
   {
@@ -362,21 +208,7 @@
    "customers": 1,
    "start": 1795090492000,
    "cause": null,
-   "last_seen": 1795096492562,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-19-0235",
-   "utility": "Rayle EMC",
-   "lat": 33.42722774258128,
-   "lon": -83.13888111352173,
-   "county": "Greene",
-   "location": "Liberty Church Road near Liberty (30642)",
-   "first_seen": 1795095621820,
-   "customers": 138,
-   "start": 1795090460000,
-   "cause": null,
-   "last_seen": 1795096492562,
+   "last_seen": 1795096826361,
    "cleared": null
   },
   {
@@ -390,7 +222,7 @@
    "customers": 80,
    "start": 1795090450000,
    "cause": null,
-   "last_seen": 1795096492562,
+   "last_seen": 1795096826361,
    "cleared": null
   },
   {
@@ -404,7 +236,7 @@
    "customers": 17,
    "start": 1795090440000,
    "cause": null,
-   "last_seen": 1795096492562,
+   "last_seen": 1795096826361,
    "cleared": null
   },
   {
@@ -418,7 +250,7 @@
    "customers": 1,
    "start": 1795090440000,
    "cause": null,
-   "last_seen": 1795096492562,
+   "last_seen": 1795096826361,
    "cleared": null
   },
   {
@@ -432,21 +264,7 @@
    "customers": 1,
    "start": 1795090440000,
    "cause": null,
-   "last_seen": 1795096492562,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-19-0233",
-   "utility": "Rayle EMC",
-   "lat": 33.503750887849606,
-   "lon": -83.09099558984356,
-   "county": "Greene",
-   "location": "Fuller Road (30665)",
-   "first_seen": 1795095621820,
-   "customers": 1,
-   "start": 1795090434000,
-   "cause": null,
-   "last_seen": 1795096492562,
+   "last_seen": 1795096826361,
    "cleared": null
   },
   {
@@ -460,7 +278,7 @@
    "customers": 47,
    "start": 1795090424000,
    "cause": null,
-   "last_seen": 1795096492562,
+   "last_seen": 1795096826361,
    "cleared": null
   },
   {
@@ -474,7 +292,7 @@
    "customers": 1,
    "start": 1795090411000,
    "cause": null,
-   "last_seen": 1795096492562,
+   "last_seen": 1795096826361,
    "cleared": null
   },
   {
@@ -488,21 +306,7 @@
    "customers": 167,
    "start": 1795090408000,
    "cause": null,
-   "last_seen": 1795096492562,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-19-0230",
-   "utility": "Rayle EMC",
-   "lat": 33.638600914181325,
-   "lon": -83.05817913974086,
-   "county": "Greene",
-   "location": "ZIP 30669",
-   "first_seen": 1795095621820,
-   "customers": 807,
-   "start": 1795090380000,
-   "cause": null,
-   "last_seen": 1795096492562,
+   "last_seen": 1795096826361,
    "cleared": null
   },
   {
@@ -516,7 +320,7 @@
    "customers": 59,
    "start": 1795090380000,
    "cause": null,
-   "last_seen": 1795096492562,
+   "last_seen": 1795096826361,
    "cleared": null
   },
   {
@@ -530,8 +334,22 @@
    "customers": 1,
    "start": 1795090320000,
    "cause": null,
-   "last_seen": 1795096492562,
+   "last_seen": 1795096826361,
    "cleared": null
+  },
+  {
+   "key": "walton:C1207976",
+   "utility": "Walton EMC",
+   "lat": 33.759078784837534,
+   "lon": -83.62587903445136,
+   "county": "Walton",
+   "location": "Queens Cemetery Road near Good Hope (30641)",
+   "first_seen": 1795096492562,
+   "customers": 1,
+   "start": 1795096492562,
+   "cause": null,
+   "last_seen": 1795096492562,
+   "cleared": 1795096826361
   },
   {
    "key": "rayle:2026-11-19-0225",
@@ -716,6 +534,34 @@
    "cleared": 1795091970710
   },
   {
+   "key": "rayle:2026-11-19-0277",
+   "utility": "Rayle EMC",
+   "lat": 33.41469627179482,
+   "lon": -83.1279787419463,
+   "county": "Greene",
+   "location": "Liberty Church Road near Liberty (30678)",
+   "first_seen": 1795096492562,
+   "customers": 2,
+   "start": 1795091220000,
+   "cause": null,
+   "last_seen": 1795096492562,
+   "cleared": 1795096826361
+  },
+  {
+   "key": "rayle:2026-11-19-0276",
+   "utility": "Rayle EMC",
+   "lat": 33.54618999533864,
+   "lon": -83.12134298937576,
+   "county": "Greene",
+   "location": "Grey Land Road (30642)",
+   "first_seen": 1795096492562,
+   "customers": 1,
+   "start": 1795091100000,
+   "cause": null,
+   "last_seen": 1795096492562,
+   "cleared": 1795096826361
+  },
+  {
    "key": "rayle:2026-11-19-0213",
    "utility": "Rayle EMC",
    "lat": 33.54618999533864,
@@ -728,6 +574,20 @@
    "cause": null,
    "last_seen": 1795091422163,
    "cleared": 1795091970710
+  },
+  {
+   "key": "rayle:2026-11-19-0271",
+   "utility": "Rayle EMC",
+   "lat": 33.46906086440408,
+   "lon": -83.1360083079162,
+   "county": "Greene",
+   "location": "Flat Rock Road near Mosquito Crossing (30678)",
+   "first_seen": 1795096492562,
+   "customers": 2,
+   "start": 1795090860000,
+   "cause": null,
+   "last_seen": 1795096492562,
+   "cleared": 1795096826361
   },
   {
    "key": "gapower:33.6957,-83.1713",
@@ -856,6 +716,20 @@
    "cleared": 1795091422163
   },
   {
+   "key": "rayle:2026-11-19-0262",
+   "utility": "Rayle EMC",
+   "lat": 33.51143829835027,
+   "lon": -83.10638144827908,
+   "county": "Greene",
+   "location": "Andrews Lane (30665)",
+   "first_seen": 1795096225572,
+   "customers": 8,
+   "start": 1795090685000,
+   "cause": null,
+   "last_seen": 1795096492562,
+   "cleared": 1795096826361
+  },
+  {
    "key": "rayle:2026-11-19-0189",
    "utility": "Rayle EMC",
    "lat": 33.51143829835027,
@@ -884,6 +758,20 @@
    "cleared": 1795091422163
   },
   {
+   "key": "rayle:2026-11-19-0259",
+   "utility": "Rayle EMC",
+   "lat": 33.43055763466222,
+   "lon": -83.08937173149185,
+   "county": "Greene",
+   "location": "Veazey Road near Mosquito Crossing (30642)",
+   "first_seen": 1795096225572,
+   "customers": 1,
+   "start": 1795090648000,
+   "cause": null,
+   "last_seen": 1795096492562,
+   "cleared": 1795096826361
+  },
+  {
    "key": "rayle:2026-11-19-0185",
    "utility": "Rayle EMC",
    "lat": 33.43055763466222,
@@ -896,6 +784,20 @@
    "cause": null,
    "last_seen": 1795090818101,
    "cleared": 1795091422163
+  },
+  {
+   "key": "rayle:2026-11-19-0257",
+   "utility": "Rayle EMC",
+   "lat": 33.51770146312844,
+   "lon": -83.12857174745761,
+   "county": "Greene",
+   "location": "Siloam-Veazey Road near Siloam (30642)",
+   "first_seen": 1795096225572,
+   "customers": 1,
+   "start": 1795090617000,
+   "cause": null,
+   "last_seen": 1795096492562,
+   "cleared": 1795096826361
   },
   {
    "key": "rayle:2026-11-19-0183",
@@ -912,6 +814,20 @@
    "cleared": 1795091422163
   },
   {
+   "key": "rayle:2026-11-19-0256",
+   "utility": "Rayle EMC",
+   "lat": 33.47279898183661,
+   "lon": -83.02111386050453,
+   "county": "Greene",
+   "location": "Crawfordville Road near White Plains (30678)",
+   "first_seen": 1795096225572,
+   "customers": 4,
+   "start": 1795090596000,
+   "cause": null,
+   "last_seen": 1795096492562,
+   "cleared": 1795096826361
+  },
+  {
    "key": "rayle:2026-11-19-0182",
    "utility": "Rayle EMC",
    "lat": 33.47279898183661,
@@ -926,6 +842,20 @@
    "cleared": 1795091422163
   },
   {
+   "key": "rayle:2026-11-19-0255",
+   "utility": "Rayle EMC",
+   "lat": 33.54883829021873,
+   "lon": -83.06848405257186,
+   "county": "Greene",
+   "location": "Brooks Cemetery Road (30665)",
+   "first_seen": 1795096225572,
+   "customers": 1,
+   "start": 1795090593000,
+   "cause": null,
+   "last_seen": 1795096492562,
+   "cleared": 1795096826361
+  },
+  {
    "key": "rayle:2026-11-19-0181",
    "utility": "Rayle EMC",
    "lat": 33.54883829021873,
@@ -938,6 +868,20 @@
    "cause": null,
    "last_seen": 1795090818101,
    "cleared": 1795091422163
+  },
+  {
+   "key": "rayle:2026-11-19-0252",
+   "utility": "Rayle EMC",
+   "lat": 33.51706096328056,
+   "lon": -83.09471364099014,
+   "county": "Greene",
+   "location": "Credille Pond Road (30665)",
+   "first_seen": 1795096225572,
+   "customers": 1,
+   "start": 1795090584000,
+   "cause": null,
+   "last_seen": 1795096492562,
+   "cleared": 1795096826361
   },
   {
    "key": "rayle:2026-11-19-0177",
@@ -1024,6 +968,20 @@
    "cleared": 1795091422163
   },
   {
+   "key": "rayle:2026-11-19-0243",
+   "utility": "Rayle EMC",
+   "lat": 33.51473272147764,
+   "lon": -83.0002617310959,
+   "county": "Greene",
+   "location": "Amos Road (30678)",
+   "first_seen": 1795095621820,
+   "customers": 1,
+   "start": 1795090510000,
+   "cause": null,
+   "last_seen": 1795096492562,
+   "cleared": 1795096826361
+  },
+  {
    "key": "rayle:2026-11-19-0169",
    "utility": "Rayle EMC",
    "lat": 33.51473272147764,
@@ -1092,6 +1050,20 @@
    "cause": null,
    "last_seen": 1795090818101,
    "cleared": 1795091422163
+  },
+  {
+   "key": "rayle:2026-11-19-0235",
+   "utility": "Rayle EMC",
+   "lat": 33.42722774258128,
+   "lon": -83.13888111352173,
+   "county": "Greene",
+   "location": "Liberty Church Road near Liberty (30642)",
+   "first_seen": 1795095621820,
+   "customers": 138,
+   "start": 1795090460000,
+   "cause": null,
+   "last_seen": 1795096492562,
+   "cleared": 1795096826361
   },
   {
    "key": "rayle:2026-11-19-0161",
@@ -1164,6 +1136,20 @@
    "cleared": 1795091422163
   },
   {
+   "key": "rayle:2026-11-19-0233",
+   "utility": "Rayle EMC",
+   "lat": 33.503750887849606,
+   "lon": -83.09099558984356,
+   "county": "Greene",
+   "location": "Fuller Road (30665)",
+   "first_seen": 1795095621820,
+   "customers": 1,
+   "start": 1795090434000,
+   "cause": null,
+   "last_seen": 1795096492562,
+   "cleared": 1795096826361
+  },
+  {
    "key": "rayle:2026-11-19-0159",
    "utility": "Rayle EMC",
    "lat": 33.503750887849606,
@@ -1232,6 +1218,20 @@
    "cause": null,
    "last_seen": 1795090818101,
    "cleared": 1795091422163
+  },
+  {
+   "key": "rayle:2026-11-19-0230",
+   "utility": "Rayle EMC",
+   "lat": 33.638600914181325,
+   "lon": -83.05817913974086,
+   "county": "Greene",
+   "location": "ZIP 30669",
+   "first_seen": 1795095621820,
+   "customers": 807,
+   "start": 1795090380000,
+   "cause": null,
+   "last_seen": 1795096492562,
+   "cleared": 1795096826361
   },
   {
    "key": "rayle:2026-11-19-0166",
@@ -1785,27 +1785,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795096492562,
+   "last_ok": 1795096826361,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795096492562
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795096826361
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
-   "message": "35 outage(s) in your counties",
-   "last_ok": 1795096492562
+   "message": "22 outage(s) in your counties",
+   "last_ok": 1795096826361
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795096492562
+   "last_ok": 1795096826361
   }
  },
  "skipped": {
@@ -1923,6 +1923,8 @@
   "gapower:34.2927,-83.8419": 1795096225572,
   "rayle:2026-11-19-0274": 1795096492562,
   "rayle:2026-11-19-0275": 1795096492562,
-  "rayle:2026-11-19-0278": 1795096492562
+  "rayle:2026-11-19-0278": 1795096492562,
+  "gapower:33.5890,-83.4517": 1795096826361,
+  "gapower:33.5884,-83.4515": 1795096826361
  }
 }
