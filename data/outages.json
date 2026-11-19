@@ -1,5 +1,5 @@
 {
- "checked": 1795099344262,
+ "checked": 1795099818196,
  "outages": [
   {
    "key": "jackson:606790",
@@ -12,7 +12,7 @@
    "customers": 2,
    "start": 1795095779000,
    "cause": "Planned",
-   "last_seen": 1795099344262,
+   "last_seen": 1795099818196,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1795095621820,
    "cause": null,
-   "last_seen": 1795099344262,
+   "last_seen": 1795099818196,
    "cleared": null
   },
   {
@@ -1668,34 +1668,6 @@
    "cleared": 1795036220830
   },
   {
-   "key": "walton:C1207852",
-   "utility": "Walton EMC",
-   "lat": 33.94332986915725,
-   "lon": -83.58763280549339,
-   "county": "Unknown",
-   "location": null,
-   "first_seen": 1795012819869,
-   "customers": 1,
-   "start": 1795012819869,
-   "cause": null,
-   "last_seen": 1795012922846,
-   "cleared": 1795013416609
-  },
-  {
-   "key": "walton:C1207849",
-   "utility": "Walton EMC",
-   "lat": 33.93514346328072,
-   "lon": -83.58516884442203,
-   "county": "Oconee",
-   "location": "Oconee Springs Drive (30666)",
-   "first_seen": 1795012819869,
-   "customers": 1,
-   "start": 1795012819869,
-   "cause": null,
-   "last_seen": 1795012922846,
-   "cleared": 1795013416609
-  },
-  {
    "key": "jackson:606731",
    "utility": "Jackson EMC",
    "lat": 34.20456281587699,
@@ -1743,27 +1715,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795099344262,
+   "last_ok": 1795099818196,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795099344262
+   "last_ok": 1795099818196
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795099344262
+   "last_ok": 1795099818196
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795099344262
+   "last_ok": 1795099818196
   }
  },
  "skipped": {
@@ -1881,6 +1853,9 @@
   "gapower:33.5887,-83.4516": 1795097419118,
   "gapower:34.0150,-83.7285": 1795097419118,
   "walton:C1207979": 1795098623023,
-  "walton:C1207978": 1795098623023
+  "walton:C1207978": 1795098623023,
+  "walton:C1207982": 1795099818196,
+  "walton:C1207980": 1795099818196,
+  "walton:C1207983": 1795099818196
  }
 }
