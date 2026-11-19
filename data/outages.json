@@ -1,5 +1,5 @@
 {
- "checked": 1795102818246,
+ "checked": 1795103418398,
  "outages": [
   {
    "key": "gapower:33.6585,-83.7107",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795102818246,
    "cause": null,
-   "last_seen": 1795102818246,
+   "last_seen": 1795103418398,
    "cleared": null
   },
   {
@@ -26,7 +26,21 @@
    "customers": 3,
    "start": 1795101018818,
    "cause": "out for 10 or 15 minutes",
-   "last_seen": 1795102818246,
+   "last_seen": 1795103418398,
+   "cleared": null
+  },
+  {
+   "key": "jackson:606790",
+   "utility": "Jackson EMC",
+   "lat": 34.05984811868179,
+   "lon": -83.67648769248123,
+   "county": "Jackson",
+   "location": "Stephanie Lane (30549)",
+   "first_seen": 1795096225572,
+   "customers": 2,
+   "start": 1795095779000,
+   "cause": "Planned",
+   "last_seen": 1795103418398,
    "cleared": null
   },
   {
@@ -41,21 +55,7 @@
    "start": 1795101018818,
    "cause": null,
    "last_seen": 1795102818246,
-   "cleared": null
-  },
-  {
-   "key": "jackson:606790",
-   "utility": "Jackson EMC",
-   "lat": 34.05984811868179,
-   "lon": -83.67648769248123,
-   "county": "Jackson",
-   "location": "Stephanie Lane (30549)",
-   "first_seen": 1795096225572,
-   "customers": 2,
-   "start": 1795095779000,
-   "cause": "Planned",
-   "last_seen": 1795102818246,
-   "cleared": null
+   "cleared": 1795103418398
   },
   {
    "key": "walton:C1207984",
@@ -1757,27 +1757,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795102818246,
+   "last_ok": 1795103418398,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1795102818246
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795103418398
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795102818246
+   "last_ok": 1795103418398
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795102818246
+   "last_ok": 1795103418398
   }
  },
  "skipped": {
@@ -1898,6 +1898,7 @@
   "walton:C1207980": 1795099818196,
   "walton:C1207983": 1795099818196,
   "gapower:34.3397,-83.6470": 1795101618473,
-  "gapower:34.2878,-83.1166": 1795102224314
+  "gapower:34.2878,-83.1166": 1795102224314,
+  "gapower:34.3446,-83.0944": 1795103418398
  }
 }
