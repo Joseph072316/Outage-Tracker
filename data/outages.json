@@ -1,5 +1,5 @@
 {
- "checked": 1795122025860,
+ "checked": 1795122616028,
  "outages": [
   {
    "key": "walton:C1207995",
@@ -12,7 +12,21 @@
    "customers": 1,
    "start": 1795121417484,
    "cause": null,
-   "last_seen": 1795122025860,
+   "last_seen": 1795122616028,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.9190,-83.3797",
+   "utility": "Georgia Power",
+   "lat": 33.91897,
+   "lon": -83.37969,
+   "county": "Clarke",
+   "location": "Weymanda Circle near Athens (30606)",
+   "first_seen": 1795031419223,
+   "customers": 5,
+   "start": 1795031419223,
+   "cause": null,
+   "last_seen": 1795122616028,
    "cleared": null
   },
   {
@@ -1584,20 +1598,6 @@
    "cleared": 1795036220830
   },
   {
-   "key": "gapower:33.9190,-83.3797",
-   "utility": "Georgia Power",
-   "lat": 33.91897,
-   "lon": -83.37969,
-   "county": "Clarke",
-   "location": "Weymanda Circle near Athens (30606)",
-   "first_seen": 1795031419223,
-   "customers": 4,
-   "start": 1795031419223,
-   "cause": null,
-   "last_seen": 1795035628466,
-   "cleared": 1795036220830
-  },
-  {
    "key": "walton:C1207851",
    "utility": "Walton EMC",
    "lat": 33.93546618770446,
@@ -1617,27 +1617,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795122025860,
+   "last_ok": 1795122616028,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795122025860
+   "last_ok": 1795122616028
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795122025860
+   "last_ok": 1795122616028
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
+   "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795122025860
+   "last_ok": 1795122616028
   }
  },
  "skipped": {
