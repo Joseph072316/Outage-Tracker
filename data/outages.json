@@ -1,5 +1,5 @@
 {
- "checked": 1795109933486,
+ "checked": 1795110020421,
  "outages": [
   {
    "key": "gapower:33.6580,-83.7108",
@@ -12,7 +12,7 @@
    "customers": 7,
    "start": 1795109421998,
    "cause": null,
-   "last_seen": 1795109933486,
+   "last_seen": 1795110020421,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1795106417744,
    "cause": null,
-   "last_seen": 1795109933486,
+   "last_seen": 1795110020421,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 2,
    "start": 1795104793571,
    "cause": "Planned",
-   "last_seen": 1795109933486,
+   "last_seen": 1795110020421,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 2,
    "start": 1795095779000,
    "cause": "Planned",
-   "last_seen": 1795109933486,
+   "last_seen": 1795110020421,
    "cleared": null
   },
   {
@@ -1696,20 +1696,6 @@
    "cleared": 1795028425172
   },
   {
-   "key": "gapower:33.8689,-83.8688",
-   "utility": "Georgia Power",
-   "lat": 33.86893,
-   "lon": -83.86883,
-   "county": "Walton",
-   "location": "Shiloh Road (30502)",
-   "first_seen": 1795017022114,
-   "customers": 4,
-   "start": 1795017022114,
-   "cause": null,
-   "last_seen": 1795023023082,
-   "cleared": 1795023584049
-  },
-  {
    "key": "gapower:33.8945,-83.3587",
    "utility": "Georgia Power",
    "lat": 33.89448,
@@ -1757,31 +1743,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795109933486,
+   "last_ok": 1795110020421,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795109933486
+   "last_ok": 1795110020421
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795109933486
+   "last_ok": 1795110020421
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795109933486
+   "last_ok": 1795110020421
   }
  },
  "skipped": {
-  "walton:D1207881": 1795023584049,
   "gapower:34.3429,-83.6823": 1795024218005,
   "gapower:34.3374,-83.8330": 1795024218005,
   "gapower:34.3379,-83.8334": 1795025416357,
