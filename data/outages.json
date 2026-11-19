@@ -1,6 +1,20 @@
 {
- "checked": 1795104617367,
+ "checked": 1795105218348,
  "outages": [
+  {
+   "key": "jackson:606805",
+   "utility": "Jackson EMC",
+   "lat": 34.066054619550464,
+   "lon": -83.704039022249,
+   "county": "Jackson",
+   "location": "Tapp Wood Road near Sells (30548)",
+   "first_seen": 1795105218348,
+   "customers": 2,
+   "start": 1795104793571,
+   "cause": "Planned",
+   "last_seen": 1795105218348,
+   "cleared": null
+  },
   {
    "key": "gapower:33.6585,-83.7107",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 4,
    "start": 1795102818246,
    "cause": null,
-   "last_seen": 1795104617367,
+   "last_seen": 1795105218348,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 2,
    "start": 1795095779000,
    "cause": "Planned",
-   "last_seen": 1795104617367,
+   "last_seen": 1795105218348,
    "cleared": null
   },
   {
@@ -1714,28 +1728,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795104617367,
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1795105218348,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795104617367
+   "last_ok": 1795105218348
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795104617367
+   "last_ok": 1795105218348
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795104617367
+   "last_ok": 1795105218348
   }
  },
  "skipped": {
