@@ -1,20 +1,6 @@
 {
- "checked": 1795050025667,
+ "checked": 1795050617687,
  "outages": [
-  {
-   "key": "walton:C1207913",
-   "utility": "Walton EMC",
-   "lat": 33.81409483440419,
-   "lon": -83.6505841906262,
-   "county": "Walton",
-   "location": "Bethany Church Road near Mount Vernon (30656)",
-   "first_seen": 1795045823494,
-   "customers": 1,
-   "start": 1795045823494,
-   "cause": null,
-   "last_seen": 1795050025667,
-   "cleared": null
-  },
   {
    "key": "walton:C1207905",
    "utility": "Walton EMC",
@@ -26,7 +12,7 @@
    "customers": 1,
    "start": 1795041021726,
    "cause": null,
-   "last_seen": 1795050025667,
+   "last_seen": 1795050617687,
    "cleared": null
   },
   {
@@ -40,8 +26,22 @@
    "customers": 35,
    "start": 1795039589130,
    "cause": null,
-   "last_seen": 1795050025667,
+   "last_seen": 1795050617687,
    "cleared": null
+  },
+  {
+   "key": "walton:C1207913",
+   "utility": "Walton EMC",
+   "lat": 33.81409483440419,
+   "lon": -83.6505841906262,
+   "county": "Walton",
+   "location": "Bethany Church Road near Mount Vernon (30656)",
+   "first_seen": 1795045823494,
+   "customers": 1,
+   "start": 1795045823494,
+   "cause": null,
+   "last_seen": 1795050025667,
+   "cleared": 1795050617687
   },
   {
    "key": "gapower:33.6696,-83.1756",
@@ -532,20 +532,6 @@
    "cause": null,
    "last_seen": 1794979216026,
    "cleared": 1794979820791
-  },
-  {
-   "key": "jackson:606710",
-   "utility": "Jackson EMC",
-   "lat": 34.09641824430314,
-   "lon": -83.43134643456372,
-   "county": "Jackson",
-   "location": "Commerce Road (30565)",
-   "first_seen": 1794959417401,
-   "customers": 11,
-   "start": 1794958103000,
-   "cause": null,
-   "last_seen": 1794963623092,
-   "cleared": 1794964216813
   }
  ],
  "sources": {
@@ -553,27 +539,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795050025667,
+   "last_ok": 1795050617687,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "3 outage(s) in your counties",
-   "last_ok": 1795050025667
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1795050617687
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795050025667
+   "last_ok": 1795050617687
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795050025667
+   "last_ok": 1795050617687
   }
  },
  "skipped": {
