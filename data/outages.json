@@ -1,5 +1,5 @@
 {
- "checked": 1795048816281,
+ "checked": 1795049416408,
  "outages": [
   {
    "key": "walton:C1207913",
@@ -12,21 +12,7 @@
    "customers": 1,
    "start": 1795045823494,
    "cause": null,
-   "last_seen": 1795048816281,
-   "cleared": null
-  },
-  {
-   "key": "jackson:606781",
-   "utility": "Jackson EMC",
-   "lat": 34.0709287110086,
-   "lon": -83.27035935247426,
-   "county": "Madison",
-   "location": "Strickland Circle near Diamond Hill (30646)",
-   "first_seen": 1795044018514,
-   "customers": 1,
-   "start": 1795043280000,
-   "cause": null,
-   "last_seen": 1795048816281,
+   "last_seen": 1795049416408,
    "cleared": null
   },
   {
@@ -40,7 +26,7 @@
    "customers": 1,
    "start": 1795041021726,
    "cause": null,
-   "last_seen": 1795048816281,
+   "last_seen": 1795049416408,
    "cleared": null
   },
   {
@@ -54,7 +40,7 @@
    "customers": 35,
    "start": 1795039589130,
    "cause": null,
-   "last_seen": 1795048816281,
+   "last_seen": 1795049416408,
    "cleared": null
   },
   {
@@ -70,6 +56,20 @@
    "cause": null,
    "last_seen": 1795044018514,
    "cleared": 1795044622724
+  },
+  {
+   "key": "jackson:606781",
+   "utility": "Jackson EMC",
+   "lat": 34.0709287110086,
+   "lon": -83.27035935247426,
+   "county": "Madison",
+   "location": "Strickland Circle near Diamond Hill (30646)",
+   "first_seen": 1795044018514,
+   "customers": 1,
+   "start": 1795043280000,
+   "cause": null,
+   "last_seen": 1795048816281,
+   "cleared": 1795049416408
   },
   {
    "key": "walton:C1207897",
@@ -552,28 +552,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795048816281,
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795049416408,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "3 outage(s) in your counties",
-   "last_ok": 1795048816281
+   "last_ok": 1795049416408
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795048816281
+   "last_ok": 1795049416408
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795048816281
+   "last_ok": 1795049416408
   }
  },
  "skipped": {
