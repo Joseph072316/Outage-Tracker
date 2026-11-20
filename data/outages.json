@@ -1,6 +1,20 @@
 {
- "checked": 1795180817751,
+ "checked": 1795181424436,
  "outages": [
+  {
+   "key": "walton:C1208020",
+   "utility": "Walton EMC",
+   "lat": 33.73003878199868,
+   "lon": -83.42252360667209,
+   "county": "Oconee",
+   "location": "Old Madison Highway (30677)",
+   "first_seen": 1795181424436,
+   "customers": 1,
+   "start": 1795181424436,
+   "cause": null,
+   "last_seen": 1795181424436,
+   "cleared": null
+  },
   {
    "key": "gapower:34.0697,-83.5980",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 4,
    "start": 1795180218054,
    "cause": null,
-   "last_seen": 1795180817751,
+   "last_seen": 1795181424436,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 3,
    "start": 1795178400000,
    "cause": null,
-   "last_seen": 1795180817751,
+   "last_seen": 1795181424436,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 23,
    "start": 1795177980000,
    "cause": null,
-   "last_seen": 1795180817751,
+   "last_seen": 1795181424436,
    "cleared": null
   },
   {
@@ -54,7 +68,7 @@
    "customers": 55,
    "start": 1795169420533,
    "cause": "Broken Pole",
-   "last_seen": 1795180817751,
+   "last_seen": 1795181424436,
    "cleared": null
   },
   {
@@ -973,32 +987,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795180817751,
+   "last_ok": 1795181424436,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795180817751
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1795181424436
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795180817751
+   "last_ok": 1795181424436
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795180817751
+   "last_ok": 1795181424436
   }
  },
  "skipped": {
-  "rayle:2026-11-19-0224": 1795094419769,
-  "gapower:34.2852,-83.8351": 1795095022755,
   "rayle:2026-11-19-0226": 1795095621820,
   "rayle:2026-11-19-0234": 1795095621820,
   "rayle:2026-11-19-0241": 1795095621820,
@@ -1042,6 +1054,7 @@
   "gapower:34.3057,-83.6294": 1795119617438,
   "walton:C1207998": 1795125625104,
   "gapower:33.8622,-83.9106": 1795177216850,
-  "gapower:34.0753,-82.9697": 1795179624602
+  "gapower:34.0753,-82.9697": 1795179624602,
+  "gapower:34.2579,-83.5485": 1795181424436
  }
 }
