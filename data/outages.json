@@ -1,5 +1,5 @@
 {
- "checked": 1795151416436,
+ "checked": 1795152017559,
  "outages": [
   {
    "key": "gapower:33.5614,-83.1762",
@@ -1556,20 +1556,6 @@
    "cleared": 1795091422163
   },
   {
-   "key": "walton:C1207913",
-   "utility": "Walton EMC",
-   "lat": 33.81409483440419,
-   "lon": -83.6505841906262,
-   "county": "Walton",
-   "location": "Bethany Church Road near Mount Vernon (30656)",
-   "first_seen": 1795045823494,
-   "customers": 1,
-   "start": 1795045823494,
-   "cause": null,
-   "last_seen": 1795065016446,
-   "cleared": 1795065615988
-  },
-  {
    "key": "gapower:33.9190,-83.3797",
    "utility": "Georgia Power",
    "lat": 33.91897,
@@ -1589,27 +1575,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795151416436,
+   "last_ok": 1795152017559,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795151416436
+   "last_ok": 1795152017559
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795151416436
+   "last_ok": 1795152017559
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795151416436
+   "last_ok": 1795152017559
   }
  },
  "skipped": {
