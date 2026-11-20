@@ -1,5 +1,5 @@
 {
- "checked": 1795190424766,
+ "checked": 1795191022160,
  "outages": [
   {
    "key": "gapower:33.9651,-83.3118",
@@ -12,7 +12,7 @@
    "customers": 49,
    "start": 1795188019748,
    "cause": null,
-   "last_seen": 1795190424766,
+   "last_seen": 1795191022160,
    "cleared": null
   },
   {
@@ -450,20 +450,6 @@
    "cleared": 1795109421998
   },
   {
-   "key": "walton:D1207986",
-   "utility": "Walton EMC",
-   "lat": 33.86945842993825,
-   "lon": -83.50572221111779,
-   "county": "Oconee",
-   "location": "Rays Church Road near North High Shoals (30621)",
-   "first_seen": 1795101018818,
-   "customers": 3,
-   "start": 1795101018818,
-   "cause": "out for 10 or 15 minutes",
-   "last_seen": 1795103418398,
-   "cleared": 1795104026201
-  },
-  {
    "key": "jackson:606790",
    "utility": "Jackson EMC",
    "lat": 34.05984811868179,
@@ -497,32 +483,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795190424766,
+   "last_ok": 1795191022160,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795190424766
+   "last_ok": 1795191022160
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795190424766
+   "last_ok": 1795191022160
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795190424766
+   "last_ok": 1795191022160
   }
  },
  "skipped": {
-  "gapower:34.2587,-83.5488": 1795104026201,
-  "gapower:33.9987,-83.7027": 1795104617367,
   "gapower:33.9639,-83.8837": 1795109421998,
   "gapower:34.1842,-83.9316": 1795111818053,
   "gapower:33.9162,-83.7003": 1795116018285,
