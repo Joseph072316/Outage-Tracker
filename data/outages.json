@@ -1,5 +1,5 @@
 {
- "checked": 1795197016914,
+ "checked": 1795197624141,
  "outages": [
   {
    "key": "gapower:33.9916,-83.4223",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795193415797,
    "cause": null,
-   "last_seen": 1795197016914,
+   "last_seen": 1795197624141,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 2,
    "start": 1795191774000,
    "cause": null,
-   "last_seen": 1795197016914,
+   "last_seen": 1795197624141,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 1,
    "start": 1795191110000,
    "cause": "Planned",
-   "last_seen": 1795197016914,
+   "last_seen": 1795197624141,
    "cleared": null
   },
   {
@@ -450,20 +450,6 @@
    "cleared": 1795122025860
   },
   {
-   "key": "jackson:606790",
-   "utility": "Jackson EMC",
-   "lat": 34.05984811868179,
-   "lon": -83.67648769248123,
-   "county": "Jackson",
-   "location": "Stephanie Lane (30549)",
-   "first_seen": 1795096225572,
-   "customers": 2,
-   "start": 1795095779000,
-   "cause": "Planned",
-   "last_seen": 1795110020421,
-   "cleared": 1795110617808
-  },
-  {
    "key": "gapower:33.9190,-83.3797",
    "utility": "Georgia Power",
    "lat": 33.91897,
@@ -483,27 +469,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795197016914,
+   "last_ok": 1795197624141,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795197016914
+   "last_ok": 1795197624141
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795197016914
+   "last_ok": 1795197624141
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795197016914
+   "last_ok": 1795197624141
   }
  },
  "skipped": {
