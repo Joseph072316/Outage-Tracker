@@ -1,18 +1,18 @@
 {
- "checked": 1795179624602,
+ "checked": 1795180218054,
  "outages": [
   {
-   "key": "gapower:34.0952,-83.1532",
+   "key": "gapower:34.0697,-83.5980",
    "utility": "Georgia Power",
-   "lat": 34.0952,
-   "lon": -83.15318,
-   "county": "Madison",
-   "location": "GA 98 near Comer (30633)",
-   "first_seen": 1795179017217,
+   "lat": 34.06972,
+   "lon": -83.59803,
+   "county": "Jackson",
+   "location": "Johnson Mill Road (30549)",
+   "first_seen": 1795180218054,
    "customers": 4,
-   "start": 1795179017217,
+   "start": 1795180218054,
    "cause": null,
-   "last_seen": 1795179624602,
+   "last_seen": 1795180218054,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 3,
    "start": 1795178400000,
    "cause": null,
-   "last_seen": 1795179624602,
+   "last_seen": 1795180218054,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 23,
    "start": 1795177980000,
    "cause": null,
-   "last_seen": 1795179624602,
+   "last_seen": 1795180218054,
    "cleared": null
   },
   {
@@ -54,8 +54,22 @@
    "customers": 55,
    "start": 1795169420533,
    "cause": "Broken Pole",
-   "last_seen": 1795179624602,
+   "last_seen": 1795180218054,
    "cleared": null
+  },
+  {
+   "key": "gapower:34.0952,-83.1532",
+   "utility": "Georgia Power",
+   "lat": 34.0952,
+   "lon": -83.15318,
+   "county": "Madison",
+   "location": "GA 98 near Comer (30633)",
+   "first_seen": 1795179017217,
+   "customers": 4,
+   "start": 1795179017217,
+   "cause": null,
+   "last_seen": 1795179624602,
+   "cleared": 1795180218054
   },
   {
    "key": "jackson:606856",
@@ -434,20 +448,6 @@
    "cause": null,
    "last_seen": 1795095022755,
    "cleared": 1795095621820
-  },
-  {
-   "key": "rayle:2026-11-19-0222",
-   "utility": "Rayle EMC",
-   "lat": 33.58450870432997,
-   "lon": -83.26175711476719,
-   "county": "Greene",
-   "location": "Northwoods Drive (30650)",
-   "first_seen": 1795092617616,
-   "customers": 1,
-   "start": 1795092120000,
-   "cause": null,
-   "last_seen": 1795092617616,
-   "cleared": 1795093226141
   },
   {
    "key": "rayle:2026-11-19-0277",
@@ -973,27 +973,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795179624602,
+   "last_ok": 1795180218054,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795179624602
+   "last_ok": 1795180218054
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795179624602
+   "last_ok": 1795180218054
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795179624602
+   "last_ok": 1795180218054
   }
  },
  "skipped": {
