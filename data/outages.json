@@ -1,6 +1,20 @@
 {
- "checked": 1795204826891,
+ "checked": 1795205419726,
  "outages": [
+  {
+   "key": "gapower:33.4680,-83.2455",
+   "utility": "Georgia Power",
+   "lat": 33.46799,
+   "lon": -83.24545,
+   "county": "Greene",
+   "location": "Village Park Drive near Lake Oconee",
+   "first_seen": 1795205419726,
+   "customers": 4,
+   "start": 1795205419726,
+   "cause": null,
+   "last_seen": 1795205419726,
+   "cleared": null
+  },
   {
    "key": "gapower:33.8609,-83.4157",
    "utility": "Georgia Power",
@@ -12,21 +26,7 @@
    "customers": 4,
    "start": 1795204218712,
    "cause": null,
-   "last_seen": 1795204826891,
-   "cleared": null
-  },
-  {
-   "key": "jackson:606872",
-   "utility": "Jackson EMC",
-   "lat": 34.20747508608652,
-   "lon": -83.61374935302959,
-   "county": "Jackson",
-   "location": "County Road 383 (30567)",
-   "first_seen": 1795192220795,
-   "customers": 1,
-   "start": 1795191110000,
-   "cause": "Planned",
-   "last_seen": 1795204826891,
+   "last_seen": 1795205419726,
    "cleared": null
   },
   {
@@ -98,6 +98,20 @@
    "cause": null,
    "last_seen": 1795200621613,
    "cleared": 1795201223560
+  },
+  {
+   "key": "jackson:606872",
+   "utility": "Jackson EMC",
+   "lat": 34.20747508608652,
+   "lon": -83.61374935302959,
+   "county": "Jackson",
+   "location": "County Road 383 (30567)",
+   "first_seen": 1795192220795,
+   "customers": 1,
+   "start": 1795191110000,
+   "cause": "Planned",
+   "last_seen": 1795204826891,
+   "cleared": 1795205419726
   },
   {
    "key": "gapower:33.9651,-83.3118",
@@ -468,28 +482,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795204826891,
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795205419726,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795204826891
+   "last_ok": 1795205419726
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795204826891
+   "last_ok": 1795205419726
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
+   "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795204826891
+   "last_ok": 1795205419726
   }
  },
  "skipped": {
