@@ -1,5 +1,5 @@
 {
- "checked": 1795194026475,
+ "checked": 1795194618632,
  "outages": [
   {
    "key": "gapower:33.9916,-83.4223",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795193415797,
    "cause": null,
-   "last_seen": 1795194026475,
+   "last_seen": 1795194618632,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 2,
    "start": 1795191774000,
    "cause": null,
-   "last_seen": 1795194026475,
+   "last_seen": 1795194618632,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 1,
    "start": 1795191110000,
    "cause": "Planned",
-   "last_seen": 1795194026475,
+   "last_seen": 1795194618632,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 49,
    "start": 1795188019748,
    "cause": null,
-   "last_seen": 1795194026475,
+   "last_seen": 1795194618632,
    "cleared": null
   },
   {
@@ -450,20 +450,6 @@
    "cleared": 1795114826387
   },
   {
-   "key": "gapower:34.2453,-83.5332",
-   "utility": "Georgia Power",
-   "lat": 34.24527,
-   "lon": -83.5332,
-   "county": "Jackson",
-   "location": "Pritchett Road near Maysville (30558)",
-   "first_seen": 1795106417744,
-   "customers": 5,
-   "start": 1795106417744,
-   "cause": null,
-   "last_seen": 1795107029287,
-   "cleared": 1795107626508
-  },
-  {
    "key": "jackson:606805",
    "utility": "Jackson EMC",
    "lat": 34.066054619550464,
@@ -525,27 +511,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795194026475,
+   "last_ok": 1795194618632,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795194026475
+   "last_ok": 1795194618632
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795194026475
+   "last_ok": 1795194618632
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795194026475
+   "last_ok": 1795194618632
   }
  },
  "skipped": {
