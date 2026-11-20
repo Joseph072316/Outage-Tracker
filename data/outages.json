@@ -1,5 +1,5 @@
 {
- "checked": 1795195821268,
+ "checked": 1795195857054,
  "outages": [
   {
    "key": "gapower:33.9916,-83.4223",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795193415797,
    "cause": null,
-   "last_seen": 1795195821268,
+   "last_seen": 1795195857054,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 2,
    "start": 1795191774000,
    "cause": null,
-   "last_seen": 1795195821268,
+   "last_seen": 1795195857054,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 1,
    "start": 1795191110000,
    "cause": "Planned",
-   "last_seen": 1795195821268,
+   "last_seen": 1795195857054,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 49,
    "start": 1795188019748,
    "cause": null,
-   "last_seen": 1795195821268,
+   "last_seen": 1795195857054,
    "cleared": null
   },
   {
@@ -464,20 +464,6 @@
    "cleared": 1795122025860
   },
   {
-   "key": "gapower:33.6585,-83.7107",
-   "utility": "Georgia Power",
-   "lat": 33.6585,
-   "lon": -83.71066,
-   "county": "Walton",
-   "location": "Cherry Street near Social Circle (30025)",
-   "first_seen": 1795102818246,
-   "customers": 4,
-   "start": 1795102818246,
-   "cause": null,
-   "last_seen": 1795108817485,
-   "cleared": 1795109421998
-  },
-  {
    "key": "jackson:606790",
    "utility": "Jackson EMC",
    "lat": 34.05984811868179,
@@ -511,31 +497,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795195821268,
+   "last_ok": 1795195857054,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795195821268
+   "last_ok": 1795195857054
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795195821268
+   "last_ok": 1795195857054
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795195821268
+   "last_ok": 1795195857054
   }
  },
  "skipped": {
-  "gapower:33.9639,-83.8837": 1795109421998,
   "gapower:34.1842,-83.9316": 1795111818053,
   "gapower:33.9162,-83.7003": 1795116018285,
   "gapower:33.9801,-83.7115": 1795116018285,
