@@ -1,5 +1,5 @@
 {
- "checked": 1795179017217,
+ "checked": 1795179624602,
  "outages": [
   {
    "key": "gapower:34.0952,-83.1532",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795179017217,
    "cause": null,
-   "last_seen": 1795179017217,
+   "last_seen": 1795179624602,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 3,
    "start": 1795178400000,
    "cause": null,
-   "last_seen": 1795179017217,
+   "last_seen": 1795179624602,
    "cleared": null
   },
   {
@@ -40,7 +40,21 @@
    "customers": 23,
    "start": 1795177980000,
    "cause": null,
-   "last_seen": 1795179017217,
+   "last_seen": 1795179624602,
+   "cleared": null
+  },
+  {
+   "key": "walton:D1208008",
+   "utility": "Walton EMC",
+   "lat": 33.8491136871933,
+   "lon": -83.72488629009837,
+   "county": "Walton",
+   "location": "State Route 11 near Campton (30656)",
+   "first_seen": 1795169420533,
+   "customers": 55,
+   "start": 1795169420533,
+   "cause": "Broken Pole",
+   "last_seen": 1795179624602,
    "cleared": null
   },
   {
@@ -55,21 +69,7 @@
    "start": 1795177652425,
    "cause": null,
    "last_seen": 1795179017217,
-   "cleared": null
-  },
-  {
-   "key": "walton:D1208008",
-   "utility": "Walton EMC",
-   "lat": 33.8491136871933,
-   "lon": -83.72488629009837,
-   "county": "Walton",
-   "location": "State Route 11 near Campton (30656)",
-   "first_seen": 1795169420533,
-   "customers": 55,
-   "start": 1795169420533,
-   "cause": "Broken Pole",
-   "last_seen": 1795179017217,
-   "cleared": null
+   "cleared": 1795179624602
   },
   {
    "key": "gapower:34.0527,-83.0496",
@@ -972,28 +972,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795179017217,
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795179624602,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795179017217
+   "last_ok": 1795179624602
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795179017217
+   "last_ok": 1795179624602
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795179017217
+   "last_ok": 1795179624602
   }
  },
  "skipped": {
@@ -1041,6 +1041,7 @@
   "gapower:33.4010,-83.5905": 1795118424366,
   "gapower:34.3057,-83.6294": 1795119617438,
   "walton:C1207998": 1795125625104,
-  "gapower:33.8622,-83.9106": 1795177216850
+  "gapower:33.8622,-83.9106": 1795177216850,
+  "gapower:34.0753,-82.9697": 1795179624602
  }
 }
