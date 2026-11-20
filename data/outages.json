@@ -1,5 +1,5 @@
 {
- "checked": 1795135217463,
+ "checked": 1795135817102,
  "outages": [
   {
    "key": "gapower:33.9053,-83.3742",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795126217345,
    "cause": null,
-   "last_seen": 1795135217463,
+   "last_seen": 1795135817102,
    "cleared": null
   },
   {
@@ -1542,20 +1542,6 @@
    "cleared": 1795065615988
   },
   {
-   "key": "jackson:606781",
-   "utility": "Jackson EMC",
-   "lat": 34.0709287110086,
-   "lon": -83.27035935247426,
-   "county": "Madison",
-   "location": "Strickland Circle near Diamond Hill (30646)",
-   "first_seen": 1795044018514,
-   "customers": 1,
-   "start": 1795043280000,
-   "cause": null,
-   "last_seen": 1795048816281,
-   "cleared": 1795049416408
-  },
-  {
    "key": "walton:C1207905",
    "utility": "Walton EMC",
    "lat": 33.902027097635276,
@@ -1603,27 +1589,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795135217463,
+   "last_ok": 1795135817102,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795135217463
+   "last_ok": 1795135817102
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795135217463
+   "last_ok": 1795135817102
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795135217463
+   "last_ok": 1795135817102
   }
  },
  "skipped": {
