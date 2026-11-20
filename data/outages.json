@@ -1,6 +1,20 @@
 {
- "checked": 1795187417861,
+ "checked": 1795188019748,
  "outages": [
+  {
+   "key": "gapower:33.9651,-83.3118",
+   "utility": "Georgia Power",
+   "lat": 33.96513,
+   "lon": -83.31181,
+   "county": "Clarke",
+   "location": "Athens Road near Athens (30683)",
+   "first_seen": 1795188019748,
+   "customers": 49,
+   "start": 1795188019748,
+   "cause": null,
+   "last_seen": 1795188019748,
+   "cleared": null
+  },
   {
    "key": "gapower:34.1462,-83.2482",
    "utility": "Georgia Power",
@@ -13,7 +27,7 @@
    "start": 1795185021466,
    "cause": null,
    "last_seen": 1795187417861,
-   "cleared": null
+   "cleared": 1795188019748
   },
   {
    "key": "gapower:33.9561,-83.3990",
@@ -27,7 +41,7 @@
    "start": 1795184418858,
    "cause": null,
    "last_seen": 1795187417861,
-   "cleared": null
+   "cleared": 1795188019748
   },
   {
    "key": "walton:C1208024",
@@ -492,20 +506,6 @@
    "cleared": 1795110617808
   },
   {
-   "key": "gapower:34.0964,-83.7721",
-   "utility": "Georgia Power",
-   "lat": 34.09637,
-   "lon": -83.7721,
-   "county": "Jackson",
-   "location": "Panther Court near Hoschton (30548)",
-   "first_seen": 1795095621820,
-   "customers": 4,
-   "start": 1795095621820,
-   "cause": null,
-   "last_seen": 1795101018818,
-   "cleared": 1795101618473
-  },
-  {
    "key": "gapower:33.9190,-83.3797",
    "utility": "Georgia Power",
    "lat": 33.91897,
@@ -525,31 +525,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795187417861,
+   "last_ok": 1795188019748,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795187417861
+   "last_ok": 1795188019748
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795187417861
+   "last_ok": 1795188019748
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
+   "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795187417861
+   "last_ok": 1795188019748
   }
  },
  "skipped": {
-  "gapower:34.3397,-83.6470": 1795101618473,
   "gapower:34.2878,-83.1166": 1795102224314,
   "gapower:34.3446,-83.0944": 1795103418398,
   "gapower:34.2587,-83.5488": 1795104026201,
@@ -567,6 +566,7 @@
   "gapower:33.8622,-83.9106": 1795177216850,
   "gapower:34.0753,-82.9697": 1795179624602,
   "gapower:34.2579,-83.5485": 1795181424436,
-  "gapower:33.9849,-83.6955": 1795187417861
+  "gapower:33.9849,-83.6955": 1795187417861,
+  "gapower:34.3153,-83.6442": 1795188019748
  }
 }
