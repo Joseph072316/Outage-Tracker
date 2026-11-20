@@ -1,6 +1,20 @@
 {
- "checked": 1795203622074,
+ "checked": 1795204218712,
  "outages": [
+  {
+   "key": "gapower:33.8609,-83.4157",
+   "utility": "Georgia Power",
+   "lat": 33.86092,
+   "lon": -83.41573,
+   "county": "Oconee",
+   "location": "VFW Drive near Watkinsville (30677)",
+   "first_seen": 1795204218712,
+   "customers": 4,
+   "start": 1795204218712,
+   "cause": null,
+   "last_seen": 1795204218712,
+   "cleared": null
+  },
   {
    "key": "jackson:606872",
    "utility": "Jackson EMC",
@@ -12,7 +26,7 @@
    "customers": 1,
    "start": 1795191110000,
    "cause": "Planned",
-   "last_seen": 1795203622074,
+   "last_seen": 1795204218712,
    "cleared": null
   },
   {
@@ -422,20 +436,6 @@
    "cleared": 1795120817437
   },
   {
-   "key": "rayle:2026-11-19-0279",
-   "utility": "Rayle EMC",
-   "lat": 33.44830178909371,
-   "lon": -83.18419676997425,
-   "county": "Greene",
-   "location": "Fawn Lane",
-   "first_seen": 1795117082102,
-   "customers": 3,
-   "start": 1795116692000,
-   "cause": null,
-   "last_seen": 1795117218822,
-   "cleared": 1795117818218
-  },
-  {
    "key": "jackson:606805",
    "utility": "Jackson EMC",
    "lat": 34.066054619550464,
@@ -469,31 +469,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795203622074,
+   "last_ok": 1795204218712,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795203622074
+   "last_ok": 1795204218712
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795203622074
+   "last_ok": 1795204218712
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
+   "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795203622074
+   "last_ok": 1795204218712
   }
  },
  "skipped": {
-  "gapower:33.5430,-83.4680": 1795117818218,
   "gapower:33.4010,-83.5905": 1795118424366,
   "gapower:34.3057,-83.6294": 1795119617438,
   "walton:C1207998": 1795125625104,
