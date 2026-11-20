@@ -1,18 +1,32 @@
 {
- "checked": 1795182019102,
+ "checked": 1795182617775,
  "outages": [
   {
-   "key": "walton:C1208023",
+   "key": "walton:C1208024",
    "utility": "Walton EMC",
-   "lat": 33.80638353028417,
-   "lon": -83.91220760203232,
-   "county": "Walton",
-   "location": "Ridgeway Road (30052)",
-   "first_seen": 1795182019102,
+   "lat": 33.89769605633781,
+   "lon": -83.46088376958986,
+   "county": "Oconee",
+   "location": "Pebblestone Drive near Den Court (30677)",
+   "first_seen": 1795182617775,
    "customers": 1,
-   "start": 1795182019102,
+   "start": 1795182617775,
    "cause": null,
-   "last_seen": 1795182019102,
+   "last_seen": 1795182617775,
+   "cleared": null
+  },
+  {
+   "key": "gapower:34.0759,-83.7696",
+   "utility": "Georgia Power",
+   "lat": 34.07586,
+   "lon": -83.76957,
+   "county": "Jackson",
+   "location": "near Hoschton (30548)",
+   "first_seen": 1795182617775,
+   "customers": 4,
+   "start": 1795182617775,
+   "cause": null,
+   "last_seen": 1795182617775,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 1,
    "start": 1795181424436,
    "cause": null,
-   "last_seen": 1795182019102,
+   "last_seen": 1795182617775,
    "cleared": null
   },
   {
@@ -40,50 +54,22 @@
    "customers": 4,
    "start": 1795180218054,
    "cause": null,
-   "last_seen": 1795182019102,
+   "last_seen": 1795182617775,
    "cleared": null
   },
   {
-   "key": "rayle:2026-11-20-0283",
-   "utility": "Rayle EMC",
-   "lat": 33.845793213166644,
-   "lon": -83.26210238750907,
-   "county": "Oglethorpe",
-   "location": "Hutchins Wolfskin Road (30619)",
-   "first_seen": 1795179017217,
-   "customers": 3,
-   "start": 1795178400000,
-   "cause": null,
-   "last_seen": 1795182019102,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-20-0282",
-   "utility": "Rayle EMC",
-   "lat": 33.966418189559135,
-   "lon": -83.22516177971008,
-   "county": "Oglethorpe",
-   "location": "ZIP 30628",
-   "first_seen": 1795178416292,
-   "customers": 23,
-   "start": 1795177980000,
-   "cause": null,
-   "last_seen": 1795182019102,
-   "cleared": null
-  },
-  {
-   "key": "walton:D1208008",
+   "key": "walton:C1208023",
    "utility": "Walton EMC",
-   "lat": 33.8491136871933,
-   "lon": -83.72488629009837,
+   "lat": 33.80638353028417,
+   "lon": -83.91220760203232,
    "county": "Walton",
-   "location": "State Route 11 near Campton (30656)",
-   "first_seen": 1795169420533,
-   "customers": 55,
-   "start": 1795169420533,
-   "cause": "Broken Pole",
+   "location": "Ridgeway Road (30052)",
+   "first_seen": 1795182019102,
+   "customers": 1,
+   "start": 1795182019102,
+   "cause": null,
    "last_seen": 1795182019102,
-   "cleared": null
+   "cleared": 1795182617775
   },
   {
    "key": "gapower:34.0952,-83.1532",
@@ -100,6 +86,34 @@
    "cleared": 1795180218054
   },
   {
+   "key": "rayle:2026-11-20-0283",
+   "utility": "Rayle EMC",
+   "lat": 33.845793213166644,
+   "lon": -83.26210238750907,
+   "county": "Oglethorpe",
+   "location": "Hutchins Wolfskin Road (30619)",
+   "first_seen": 1795179017217,
+   "customers": 3,
+   "start": 1795178400000,
+   "cause": null,
+   "last_seen": 1795182019102,
+   "cleared": 1795182617775
+  },
+  {
+   "key": "rayle:2026-11-20-0282",
+   "utility": "Rayle EMC",
+   "lat": 33.966418189559135,
+   "lon": -83.22516177971008,
+   "county": "Oglethorpe",
+   "location": "ZIP 30628",
+   "first_seen": 1795178416292,
+   "customers": 23,
+   "start": 1795177980000,
+   "cause": null,
+   "last_seen": 1795182019102,
+   "cleared": 1795182617775
+  },
+  {
    "key": "jackson:606856",
    "utility": "Jackson EMC",
    "lat": 34.12353615430428,
@@ -112,6 +126,20 @@
    "cause": null,
    "last_seen": 1795179017217,
    "cleared": 1795179624602
+  },
+  {
+   "key": "walton:D1208008",
+   "utility": "Walton EMC",
+   "lat": 33.8491136871933,
+   "lon": -83.72488629009837,
+   "county": "Walton",
+   "location": "State Route 11 near Campton (30656)",
+   "first_seen": 1795169420533,
+   "customers": 55,
+   "start": 1795169420533,
+   "cause": "Broken Pole",
+   "last_seen": 1795182019102,
+   "cleared": 1795182617775
   },
   {
    "key": "gapower:34.0527,-83.0496",
@@ -462,20 +490,6 @@
    "cause": null,
    "last_seen": 1795101018818,
    "cleared": 1795101618473
-  },
-  {
-   "key": "rayle:2026-11-19-0225",
-   "utility": "Rayle EMC",
-   "lat": 33.58736223373015,
-   "lon": -83.11684661632029,
-   "county": "Greene",
-   "location": "ZIP 30669",
-   "first_seen": 1795095022755,
-   "customers": 2,
-   "start": 1795094440000,
-   "cause": null,
-   "last_seen": 1795095022755,
-   "cleared": 1795095621820
   },
   {
    "key": "rayle:2026-11-19-0277",
@@ -1001,37 +1015,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795182019102,
+   "last_ok": 1795182617775,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "3 outage(s) in your counties",
-   "last_ok": 1795182019102
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1795182617775
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1795182019102
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795182617775
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
+   "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795182019102
+   "last_ok": 1795182617775
   }
  },
  "skipped": {
-  "rayle:2026-11-19-0226": 1795095621820,
-  "rayle:2026-11-19-0234": 1795095621820,
-  "rayle:2026-11-19-0241": 1795095621820,
-  "rayle:2026-11-19-0244": 1795095621820,
-  "rayle:2026-11-19-0248": 1795095621820,
-  "gapower:34.2857,-83.8342": 1795095621820,
-  "gapower:34.3070,-83.8569": 1795095621820,
   "rayle:2026-11-19-0249": 1795096225572,
   "rayle:2026-11-19-0254": 1795096225572,
   "rayle:2026-11-19-0260": 1795096225572,
