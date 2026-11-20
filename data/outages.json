@@ -1,6 +1,34 @@
 {
- "checked": 1795177878787,
+ "checked": 1795178416292,
  "outages": [
+  {
+   "key": "rayle:2026-11-20-0282",
+   "utility": "Rayle EMC",
+   "lat": 33.966418189559135,
+   "lon": -83.22516177971008,
+   "county": "Oglethorpe",
+   "location": "ZIP 30628",
+   "first_seen": 1795178416292,
+   "customers": 23,
+   "start": 1795177980000,
+   "cause": null,
+   "last_seen": 1795178416292,
+   "cleared": null
+  },
+  {
+   "key": "jackson:606856",
+   "utility": "Jackson EMC",
+   "lat": 34.12353615430428,
+   "lon": -83.2876159890846,
+   "county": "Madison",
+   "location": "Cowart Toole Road (30647)",
+   "first_seen": 1795178416292,
+   "customers": 1,
+   "start": 1795177652425,
+   "cause": null,
+   "last_seen": 1795178416292,
+   "cleared": null
+  },
   {
    "key": "walton:D1208008",
    "utility": "Walton EMC",
@@ -12,7 +40,7 @@
    "customers": 55,
    "start": 1795169420533,
    "cause": "Broken Pole",
-   "last_seen": 1795177878787,
+   "last_seen": 1795178416292,
    "cleared": null
   },
   {
@@ -26,7 +54,7 @@
    "customers": 4,
    "start": 1795153816434,
    "cause": null,
-   "last_seen": 1795177878787,
+   "last_seen": 1795178416292,
    "cleared": null
   },
   {
@@ -394,160 +422,6 @@
    "cleared": 1795093226141
   },
   {
-   "key": "gapower:33.5008,-83.0486",
-   "utility": "Georgia Power",
-   "lat": 33.5008,
-   "lon": -83.04856,
-   "county": "Greene",
-   "location": "Lacey Road near White Plains (30678)",
-   "first_seen": 1795091422163,
-   "customers": 351,
-   "start": 1795091422163,
-   "cause": null,
-   "last_seen": 1795091422163,
-   "cleared": 1795091970710
-  },
-  {
-   "key": "gapower:33.5657,-83.1424",
-   "utility": "Georgia Power",
-   "lat": 33.56572,
-   "lon": -83.14236,
-   "county": "Greene",
-   "location": "GA 15 near Greensboro",
-   "first_seen": 1795091422163,
-   "customers": 1858,
-   "start": 1795091422163,
-   "cause": null,
-   "last_seen": 1795091422163,
-   "cleared": 1795091970710
-  },
-  {
-   "key": "gapower:33.4623,-83.2057",
-   "utility": "Georgia Power",
-   "lat": 33.46234,
-   "lon": -83.20573,
-   "county": "Greene",
-   "location": "Sun Valley Court (30650)",
-   "first_seen": 1795091422163,
-   "customers": 4,
-   "start": 1795091422163,
-   "cause": null,
-   "last_seen": 1795091422163,
-   "cleared": 1795091970710
-  },
-  {
-   "key": "gapower:33.4630,-83.2055",
-   "utility": "Georgia Power",
-   "lat": 33.46299,
-   "lon": -83.20546,
-   "county": "Greene",
-   "location": "Sun Valley Court (30650)",
-   "first_seen": 1795091422163,
-   "customers": 4,
-   "start": 1795091422163,
-   "cause": null,
-   "last_seen": 1795091422163,
-   "cleared": 1795091970710
-  },
-  {
-   "key": "gapower:33.4635,-83.2073",
-   "utility": "Georgia Power",
-   "lat": 33.46352,
-   "lon": -83.20732,
-   "county": "Greene",
-   "location": "Boulder Crest Way (30650)",
-   "first_seen": 1795091422163,
-   "customers": 4,
-   "start": 1795091422163,
-   "cause": null,
-   "last_seen": 1795091422163,
-   "cleared": 1795091970710
-  },
-  {
-   "key": "gapower:33.4647,-83.2065",
-   "utility": "Georgia Power",
-   "lat": 33.46474,
-   "lon": -83.20655,
-   "county": "Greene",
-   "location": "Boulder Crest Way (30650)",
-   "first_seen": 1795091422163,
-   "customers": 4,
-   "start": 1795091422163,
-   "cause": null,
-   "last_seen": 1795091422163,
-   "cleared": 1795091970710
-  },
-  {
-   "key": "gapower:33.4636,-83.2055",
-   "utility": "Georgia Power",
-   "lat": 33.46356,
-   "lon": -83.20552,
-   "county": "Greene",
-   "location": "Sun Valley Court (30650)",
-   "first_seen": 1795091422163,
-   "customers": 4,
-   "start": 1795091422163,
-   "cause": null,
-   "last_seen": 1795091422163,
-   "cleared": 1795091970710
-  },
-  {
-   "key": "gapower:33.4642,-83.2051",
-   "utility": "Georgia Power",
-   "lat": 33.46421,
-   "lon": -83.20509,
-   "county": "Greene",
-   "location": "Sun Valley Court (30650)",
-   "first_seen": 1795091422163,
-   "customers": 4,
-   "start": 1795091422163,
-   "cause": null,
-   "last_seen": 1795091422163,
-   "cleared": 1795091970710
-  },
-  {
-   "key": "gapower:33.4649,-83.2052",
-   "utility": "Georgia Power",
-   "lat": 33.46488,
-   "lon": -83.20523,
-   "county": "Greene",
-   "location": "Sun Valley Court (30650)",
-   "first_seen": 1795091422163,
-   "customers": 4,
-   "start": 1795091422163,
-   "cause": null,
-   "last_seen": 1795091422163,
-   "cleared": 1795091970710
-  },
-  {
-   "key": "gapower:33.5930,-83.1156",
-   "utility": "Georgia Power",
-   "lat": 33.59296,
-   "lon": -83.11556,
-   "county": "Greene",
-   "location": "Bowden Pond Road (30642)",
-   "first_seen": 1795091422163,
-   "customers": 4,
-   "start": 1795091422163,
-   "cause": null,
-   "last_seen": 1795091422163,
-   "cleared": 1795091970710
-  },
-  {
-   "key": "gapower:33.5948,-83.1175",
-   "utility": "Georgia Power",
-   "lat": 33.59482,
-   "lon": -83.11749,
-   "county": "Greene",
-   "location": "Bowden Pond Road (30642)",
-   "first_seen": 1795091422163,
-   "customers": 4,
-   "start": 1795091422163,
-   "cause": null,
-   "last_seen": 1795091422163,
-   "cleared": 1795091970710
-  },
-  {
    "key": "rayle:2026-11-19-0277",
    "utility": "Rayle EMC",
    "lat": 33.41469627179482,
@@ -574,20 +448,6 @@
    "cause": null,
    "last_seen": 1795096492562,
    "cleared": 1795096826361
-  },
-  {
-   "key": "rayle:2026-11-19-0213",
-   "utility": "Rayle EMC",
-   "lat": 33.54618999533864,
-   "lon": -83.12134298937576,
-   "county": "Greene",
-   "location": "Grey Land Road (30642)",
-   "first_seen": 1795091422163,
-   "customers": 1,
-   "start": 1795091100000,
-   "cause": null,
-   "last_seen": 1795091422163,
-   "cleared": 1795091970710
   },
   {
    "key": "rayle:2026-11-19-0273",
@@ -630,62 +490,6 @@
    "cause": null,
    "last_seen": 1795096492562,
    "cleared": 1795096826361
-  },
-  {
-   "key": "gapower:33.6957,-83.1713",
-   "utility": "Georgia Power",
-   "lat": 33.69573,
-   "lon": -83.17131,
-   "county": "Greene",
-   "location": "Old Maxeys Road (30630)",
-   "first_seen": 1795090818101,
-   "customers": 1769,
-   "start": 1795090818101,
-   "cause": null,
-   "last_seen": 1795091422163,
-   "cleared": 1795091970710
-  },
-  {
-   "key": "gapower:33.5929,-83.1178",
-   "utility": "Georgia Power",
-   "lat": 33.59286,
-   "lon": -83.11779,
-   "county": "Greene",
-   "location": "Bowden Pond Road (30642)",
-   "first_seen": 1795090818101,
-   "customers": 4,
-   "start": 1795090818101,
-   "cause": null,
-   "last_seen": 1795091422163,
-   "cleared": 1795091970710
-  },
-  {
-   "key": "gapower:33.4643,-83.2093",
-   "utility": "Georgia Power",
-   "lat": 33.46433,
-   "lon": -83.20932,
-   "county": "Greene",
-   "location": "Boulder Crest Way (30650)",
-   "first_seen": 1795090818101,
-   "customers": 4,
-   "start": 1795090818101,
-   "cause": null,
-   "last_seen": 1795091422163,
-   "cleared": 1795091970710
-  },
-  {
-   "key": "gapower:33.5085,-83.2004",
-   "utility": "Georgia Power",
-   "lat": 33.50845,
-   "lon": -83.2004,
-   "county": "Greene",
-   "location": "Wrightsville Church Road (30642)",
-   "first_seen": 1795090818101,
-   "customers": 1170,
-   "start": 1795090818101,
-   "cause": null,
-   "last_seen": 1795091422163,
-   "cleared": 1795091970710
   },
   {
    "key": "rayle:2026-11-19-0267",
@@ -1140,32 +944,31 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795177878787,
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795178416292,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795177878787
+   "last_ok": 1795178416292
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795177878787
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795178416292
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795177878787
+   "last_ok": 1795178416292
   }
  },
  "skipped": {
-  "rayle:2026-11-19-0215": 1795091970710,
   "rayle:2026-11-19-0224": 1795094419769,
   "gapower:34.2852,-83.8351": 1795095022755,
   "rayle:2026-11-19-0226": 1795095621820,
