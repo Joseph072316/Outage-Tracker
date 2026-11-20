@@ -1,6 +1,34 @@
 {
- "checked": 1795178416292,
+ "checked": 1795179017217,
  "outages": [
+  {
+   "key": "gapower:34.0952,-83.1532",
+   "utility": "Georgia Power",
+   "lat": 34.0952,
+   "lon": -83.15318,
+   "county": "Madison",
+   "location": "GA 98 near Comer (30633)",
+   "first_seen": 1795179017217,
+   "customers": 4,
+   "start": 1795179017217,
+   "cause": null,
+   "last_seen": 1795179017217,
+   "cleared": null
+  },
+  {
+   "key": "rayle:2026-11-20-0283",
+   "utility": "Rayle EMC",
+   "lat": 33.845793213166644,
+   "lon": -83.26210238750907,
+   "county": "Oglethorpe",
+   "location": "Hutchins Wolfskin Road (30619)",
+   "first_seen": 1795179017217,
+   "customers": 3,
+   "start": 1795178400000,
+   "cause": null,
+   "last_seen": 1795179017217,
+   "cleared": null
+  },
   {
    "key": "rayle:2026-11-20-0282",
    "utility": "Rayle EMC",
@@ -12,7 +40,7 @@
    "customers": 23,
    "start": 1795177980000,
    "cause": null,
-   "last_seen": 1795178416292,
+   "last_seen": 1795179017217,
    "cleared": null
   },
   {
@@ -26,7 +54,7 @@
    "customers": 1,
    "start": 1795177652425,
    "cause": null,
-   "last_seen": 1795178416292,
+   "last_seen": 1795179017217,
    "cleared": null
   },
   {
@@ -40,7 +68,7 @@
    "customers": 55,
    "start": 1795169420533,
    "cause": "Broken Pole",
-   "last_seen": 1795178416292,
+   "last_seen": 1795179017217,
    "cleared": null
   },
   {
@@ -55,7 +83,7 @@
    "start": 1795153816434,
    "cause": null,
    "last_seen": 1795178416292,
-   "cleared": null
+   "cleared": 1795179017217
   },
   {
    "key": "gapower:33.5614,-83.1762",
@@ -945,27 +973,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795178416292,
+   "last_ok": 1795179017217,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795178416292
+   "last_ok": 1795179017217
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795178416292
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1795179017217
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795178416292
+   "last_ok": 1795179017217
   }
  },
  "skipped": {
