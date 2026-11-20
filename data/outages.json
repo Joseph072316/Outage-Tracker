@@ -1,5 +1,5 @@
 {
- "checked": 1795215015966,
+ "checked": 1795215624158,
  "outages": [
   {
    "key": "gapower:34.0604,-83.0027",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795212616207,
    "cause": null,
-   "last_seen": 1795215015966,
+   "last_seen": 1795215624158,
    "cleared": null
   },
   {
@@ -394,20 +394,6 @@
    "cleared": 1795130417609
   },
   {
-   "key": "jackson:606849",
-   "utility": "Jackson EMC",
-   "lat": 34.026969900566925,
-   "lon": -83.2621128181649,
-   "county": "Madison",
-   "location": "Jack Sharp Road (30646)",
-   "first_seen": 1795127428234,
-   "customers": 1,
-   "start": 1795126282175,
-   "cause": null,
-   "last_seen": 1795128022036,
-   "cleared": 1795128619455
-  },
-  {
    "key": "gapower:33.9053,-83.3742",
    "utility": "Georgia Power",
    "lat": 33.90528,
@@ -427,27 +413,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795215015966,
+   "last_ok": 1795215624158,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795215015966
+   "last_ok": 1795215624158
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795215015966
+   "last_ok": 1795215624158
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795215015966
+   "last_ok": 1795215624158
   }
  },
  "skipped": {
