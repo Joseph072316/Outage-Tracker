@@ -1,6 +1,20 @@
 {
- "checked": 1795212021932,
+ "checked": 1795212616207,
  "outages": [
+  {
+   "key": "gapower:34.0604,-83.0027",
+   "utility": "Georgia Power",
+   "lat": 34.06038,
+   "lon": -83.0027,
+   "county": "Madison",
+   "location": "Broad River Road near Smiths Store (30629)",
+   "first_seen": 1795212616207,
+   "customers": 4,
+   "start": 1795212616207,
+   "cause": null,
+   "last_seen": 1795212616207,
+   "cleared": null
+  },
   {
    "key": "gapower:33.4680,-83.2455",
    "utility": "Georgia Power",
@@ -13,7 +27,7 @@
    "start": 1795205419726,
    "cause": null,
    "last_seen": 1795212021932,
-   "cleared": null
+   "cleared": 1795212616207
   },
   {
    "key": "gapower:33.8609,-83.4157",
@@ -441,31 +455,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795212021932,
+   "last_ok": 1795212616207,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795212021932
+   "last_ok": 1795212616207
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795212021932
+   "last_ok": 1795212616207
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795212021932
+   "last_ok": 1795212616207
   }
  },
  "skipped": {
-  "walton:C1207998": 1795125625104,
   "gapower:33.8622,-83.9106": 1795177216850,
   "gapower:34.0753,-82.9697": 1795179624602,
   "gapower:34.2579,-83.5485": 1795181424436,
@@ -478,6 +491,7 @@
   "gapower:33.5145,-83.6973": 1795196417681,
   "gapower:34.2837,-83.1466": 1795197016914,
   "walton:C1208030": 1795200621613,
-  "walton:C1208031": 1795206015969
+  "walton:C1208031": 1795206015969,
+  "gapower:34.2646,-83.8260": 1795212616207
  }
 }
