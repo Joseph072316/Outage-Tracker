@@ -1,5 +1,5 @@
 {
- "checked": 1795189217177,
+ "checked": 1795189821985,
  "outages": [
   {
    "key": "gapower:33.9651,-83.3118",
@@ -12,7 +12,7 @@
    "customers": 49,
    "start": 1795188019748,
    "cause": null,
-   "last_seen": 1795189217177,
+   "last_seen": 1795189821985,
    "cleared": null
   },
   {
@@ -464,34 +464,6 @@
    "cleared": 1795104026201
   },
   {
-   "key": "walton:C1207985",
-   "utility": "Walton EMC",
-   "lat": 33.8779254445033,
-   "lon": -83.67771562645709,
-   "county": "Walton",
-   "location": "Belle Woode near Gratis (30656)",
-   "first_seen": 1795101018818,
-   "customers": 1,
-   "start": 1795101018818,
-   "cause": null,
-   "last_seen": 1795102818246,
-   "cleared": 1795103418398
-  },
-  {
-   "key": "walton:C1207984",
-   "utility": "Walton EMC",
-   "lat": 33.757182446216405,
-   "lon": -83.630497362715,
-   "county": "Walton",
-   "location": "ZIP 30641",
-   "first_seen": 1795100425430,
-   "customers": 1,
-   "start": 1795100425430,
-   "cause": null,
-   "last_seen": 1795102224314,
-   "cleared": 1795102818246
-  },
-  {
    "key": "jackson:606790",
    "utility": "Jackson EMC",
    "lat": 34.05984811868179,
@@ -525,31 +497,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795189217177,
+   "last_ok": 1795189821985,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795189217177
+   "last_ok": 1795189821985
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795189217177
+   "last_ok": 1795189821985
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795189217177
+   "last_ok": 1795189821985
   }
  },
  "skipped": {
-  "gapower:34.3446,-83.0944": 1795103418398,
   "gapower:34.2587,-83.5488": 1795104026201,
   "gapower:33.9987,-83.7027": 1795104617367,
   "gapower:33.9639,-83.8837": 1795109421998,
