@@ -1,6 +1,20 @@
 {
- "checked": 1795271420817,
+ "checked": 1795272018282,
  "outages": [
+  {
+   "key": "gapower:33.8663,-83.2823",
+   "utility": "Georgia Power",
+   "lat": 33.86626,
+   "lon": -83.28235,
+   "county": "Clarke",
+   "location": "Campbell Drive near Athens (30605)",
+   "first_seen": 1795272018282,
+   "customers": 4,
+   "start": 1795272018282,
+   "cause": null,
+   "last_seen": 1795272018282,
+   "cleared": null
+  },
   {
    "key": "walton:D1208214",
    "utility": "Walton EMC",
@@ -12,7 +26,7 @@
    "customers": 4,
    "start": 1795269017553,
    "cause": null,
-   "last_seen": 1795271420817,
+   "last_seen": 1795272018282,
    "cleared": null
   },
   {
@@ -308,20 +322,6 @@
    "cause": null,
    "last_seen": 1795185797433,
    "cleared": 1795186217733
-  },
-  {
-   "key": "gapower:34.0759,-83.7696",
-   "utility": "Georgia Power",
-   "lat": 34.07586,
-   "lon": -83.76957,
-   "county": "Jackson",
-   "location": "near Hoschton (30548)",
-   "first_seen": 1795182617775,
-   "customers": 4,
-   "start": 1795182617775,
-   "cause": null,
-   "last_seen": 1795184418858,
-   "cleared": 1795185021466
   }
  ],
  "sources": {
@@ -329,27 +329,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795271420817,
+   "last_ok": 1795272018282,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795271420817
+   "last_ok": 1795272018282
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795271420817
+   "last_ok": 1795272018282
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
+   "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795271420817
+   "last_ok": 1795272018282
   }
  },
  "skipped": {
