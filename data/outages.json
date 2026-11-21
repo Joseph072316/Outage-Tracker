@@ -1,5 +1,5 @@
 {
- "checked": 1795283416504,
+ "checked": 1795283639616,
  "outages": [
   {
    "key": "walton:C1208230",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1795282823088,
    "cause": null,
-   "last_seen": 1795283416504,
+   "last_seen": 1795283639616,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1795279820848,
    "cause": null,
-   "last_seen": 1795283416504,
+   "last_seen": 1795283639616,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 11,
    "start": 1795276826796,
    "cause": null,
-   "last_seen": 1795283416504,
+   "last_seen": 1795283639616,
    "cleared": null
   },
   {
@@ -378,20 +378,6 @@
    "cause": "Planned",
    "last_seen": 1795204826891,
    "cleared": 1795205419726
-  },
-  {
-   "key": "gapower:33.9651,-83.3118",
-   "utility": "Georgia Power",
-   "lat": 33.96513,
-   "lon": -83.31181,
-   "county": "Clarke",
-   "location": "Athens Road near Athens (30683)",
-   "first_seen": 1795188019748,
-   "customers": 49,
-   "start": 1795188019748,
-   "cause": null,
-   "last_seen": 1795196417681,
-   "cleared": 1795197016914
   }
  ],
  "sources": {
@@ -399,31 +385,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795283416504,
+   "last_ok": 1795283639616,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795283416504
+   "last_ok": 1795283639616
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795283416504
+   "last_ok": 1795283639616
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795283416504
+   "last_ok": 1795283639616
   }
  },
  "skipped": {
-  "gapower:34.2837,-83.1466": 1795197016914,
   "walton:C1208030": 1795200621613,
   "walton:C1208031": 1795206015969,
   "gapower:34.2646,-83.8260": 1795212616207,
