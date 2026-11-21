@@ -1,6 +1,20 @@
 {
- "checked": 1795267819445,
+ "checked": 1795268416595,
  "outages": [
+  {
+   "key": "gapower:33.9846,-83.3605",
+   "utility": "Georgia Power",
+   "lat": 33.98463,
+   "lon": -83.36053,
+   "county": "Clarke",
+   "location": "Danielsville Road near Athens (30601)",
+   "first_seen": 1795268416595,
+   "customers": 4,
+   "start": 1795268416595,
+   "cause": null,
+   "last_seen": 1795268416595,
+   "cleared": null
+  },
   {
    "key": "walton:C1208210",
    "utility": "Walton EMC",
@@ -12,7 +26,7 @@
    "customers": 1,
    "start": 1795267616491,
    "cause": null,
-   "last_seen": 1795267819445,
+   "last_seen": 1795268416595,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 5,
    "start": 1795263000000,
    "cause": null,
-   "last_seen": 1795267819445,
+   "last_seen": 1795268416595,
    "cleared": null
   },
   {
@@ -385,31 +399,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795267819445,
+   "last_ok": 1795268416595,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795267819445
+   "last_ok": 1795268416595
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795267819445
+   "last_ok": 1795268416595
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
+   "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795267819445
+   "last_ok": 1795268416595
   }
  },
  "skipped": {
-  "gapower:34.2579,-83.5485": 1795181424436,
   "gapower:33.9849,-83.6955": 1795187417861,
   "gapower:34.3153,-83.6442": 1795188019748,
   "gapower:34.3048,-83.4784": 1795189133542,
@@ -426,6 +439,7 @@
   "gapower:34.3060,-83.8052": 1795264225074,
   "gapower:34.1569,-82.9346": 1795264816915,
   "gapower:33.9907,-83.9031": 1795266031093,
-  "gapower:33.9909,-83.9029": 1795266616561
+  "gapower:33.9909,-83.9029": 1795266616561,
+  "gapower:34.2106,-83.8832": 1795268416595
  }
 }
