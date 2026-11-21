@@ -1,6 +1,34 @@
 {
- "checked": 1795276217432,
+ "checked": 1795276826796,
  "outages": [
+  {
+   "key": "walton:D1208223",
+   "utility": "Walton EMC",
+   "lat": 33.861355822036465,
+   "lon": -83.78122522970581,
+   "county": "Walton",
+   "location": "Dewey Hogan Road (30656)",
+   "first_seen": 1795276826796,
+   "customers": 11,
+   "start": 1795276826796,
+   "cause": null,
+   "last_seen": 1795276826796,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.7458,-83.1509",
+   "utility": "Georgia Power",
+   "lat": 33.74577,
+   "lon": -83.15088,
+   "county": "Oglethorpe",
+   "location": "Lovers Lane (30671)",
+   "first_seen": 1795276826796,
+   "customers": 4,
+   "start": 1795276826796,
+   "cause": null,
+   "last_seen": 1795276826796,
+   "cleared": null
+  },
   {
    "key": "walton:C1208220",
    "utility": "Walton EMC",
@@ -12,7 +40,7 @@
    "customers": 1,
    "start": 1795276060611,
    "cause": null,
-   "last_seen": 1795276217432,
+   "last_seen": 1795276826796,
    "cleared": null
   },
   {
@@ -26,7 +54,7 @@
    "customers": 1,
    "start": 1795275020275,
    "cause": null,
-   "last_seen": 1795276217432,
+   "last_seen": 1795276826796,
    "cleared": null
   },
   {
@@ -329,27 +357,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795276217432,
+   "last_ok": 1795276826796,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1795276217432
+   "message": "3 outage(s) in your counties",
+   "last_ok": 1795276826796
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795276217432
+   "last_ok": 1795276826796
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
+   "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795276217432
+   "last_ok": 1795276826796
   }
  },
  "skipped": {
