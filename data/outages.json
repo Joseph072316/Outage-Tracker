@@ -1,5 +1,5 @@
 {
- "checked": 1795272617317,
+ "checked": 1795273224415,
  "outages": [
   {
    "key": "gapower:33.8674,-83.2830",
@@ -12,21 +12,7 @@
    "customers": 4,
    "start": 1795272617317,
    "cause": null,
-   "last_seen": 1795272617317,
-   "cleared": null
-  },
-  {
-   "key": "walton:D1208214",
-   "utility": "Walton EMC",
-   "lat": 33.85231381593208,
-   "lon": -83.43455657490205,
-   "county": "Oconee",
-   "location": "Echo Trail near Tramlin Acres (30677)",
-   "first_seen": 1795269017553,
-   "customers": 4,
-   "start": 1795269017553,
-   "cause": null,
-   "last_seen": 1795272617317,
+   "last_seen": 1795273224415,
    "cleared": null
   },
   {
@@ -42,6 +28,20 @@
    "cause": null,
    "last_seen": 1795272018282,
    "cleared": 1795272617317
+  },
+  {
+   "key": "walton:D1208214",
+   "utility": "Walton EMC",
+   "lat": 33.85231381593208,
+   "lon": -83.43455657490205,
+   "county": "Oconee",
+   "location": "Echo Trail near Tramlin Acres (30677)",
+   "first_seen": 1795269017553,
+   "customers": 4,
+   "start": 1795269017553,
+   "cause": null,
+   "last_seen": 1795272617317,
+   "cleared": 1795273224415
   },
   {
    "key": "gapower:33.9846,-83.3605",
@@ -322,20 +322,6 @@
    "cause": null,
    "last_seen": 1795187417861,
    "cleared": 1795188019748
-  },
-  {
-   "key": "walton:C1208024",
-   "utility": "Walton EMC",
-   "lat": 33.89769605633781,
-   "lon": -83.46088376958986,
-   "county": "Oconee",
-   "location": "Pebblestone Drive near Den Court (30677)",
-   "first_seen": 1795182617775,
-   "customers": 1,
-   "start": 1795182617775,
-   "cause": null,
-   "last_seen": 1795185797433,
-   "cleared": 1795186217733
   }
  ],
  "sources": {
@@ -343,27 +329,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795272617317,
+   "last_ok": 1795273224415,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795272617317
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795273224415
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795272617317
+   "last_ok": 1795273224415
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795272617317
+   "last_ok": 1795273224415
   }
  },
  "skipped": {
