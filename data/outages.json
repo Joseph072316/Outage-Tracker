@@ -1,5 +1,5 @@
 {
- "checked": 1795266616561,
+ "checked": 1795267216232,
  "outages": [
   {
    "key": "rayle:2026-11-21-0287",
@@ -12,7 +12,7 @@
    "customers": 5,
    "start": 1795263000000,
    "cause": null,
-   "last_seen": 1795266616561,
+   "last_seen": 1795267216232,
    "cleared": null
   },
   {
@@ -324,20 +324,6 @@
    "cleared": 1795183817030
   },
   {
-   "key": "gapower:34.0952,-83.1532",
-   "utility": "Georgia Power",
-   "lat": 34.0952,
-   "lon": -83.15318,
-   "county": "Madison",
-   "location": "GA 98 near Comer (30633)",
-   "first_seen": 1795179017217,
-   "customers": 4,
-   "start": 1795179017217,
-   "cause": null,
-   "last_seen": 1795179624602,
-   "cleared": 1795180218054
-  },
-  {
    "key": "rayle:2026-11-20-0283",
    "utility": "Rayle EMC",
    "lat": 33.845793213166644,
@@ -385,27 +371,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795266616561,
+   "last_ok": 1795267216232,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795266616561
+   "last_ok": 1795267216232
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795266616561
+   "last_ok": 1795267216232
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795266616561
+   "last_ok": 1795267216232
   }
  },
  "skipped": {
