@@ -1,5 +1,5 @@
 {
- "checked": 1795231216342,
+ "checked": 1795231820062,
  "outages": [
   {
    "key": "jackson:606894",
@@ -364,20 +364,6 @@
    "cause": null,
    "last_seen": 1795144971298,
    "cleared": 1795145420511
-  },
-  {
-   "key": "gapower:33.9053,-83.3742",
-   "utility": "Georgia Power",
-   "lat": 33.90528,
-   "lon": -83.37419,
-   "county": "Clarke",
-   "location": "South Milledge Avenue near Athens (30605)",
-   "first_seen": 1795126217345,
-   "customers": 4,
-   "start": 1795126217345,
-   "cause": null,
-   "last_seen": 1795144220826,
-   "cleared": 1795144817359
   }
  ],
  "sources": {
@@ -385,27 +371,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795231216342,
+   "last_ok": 1795231820062,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795231216342
+   "last_ok": 1795231820062
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795231216342
+   "last_ok": 1795231820062
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795231216342
+   "last_ok": 1795231820062
   }
  },
  "skipped": {
