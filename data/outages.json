@@ -1,5 +1,5 @@
 {
- "checked": 1795269017553,
+ "checked": 1795269623503,
  "outages": [
   {
    "key": "walton:D1208214",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795269017553,
    "cause": null,
-   "last_seen": 1795269017553,
+   "last_seen": 1795269623503,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1795268416595,
    "cause": null,
-   "last_seen": 1795269017553,
+   "last_seen": 1795269623503,
    "cleared": null
   },
   {
@@ -40,21 +40,7 @@
    "customers": 1,
    "start": 1795267616491,
    "cause": null,
-   "last_seen": 1795269017553,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-21-0287",
-   "utility": "Rayle EMC",
-   "lat": 33.840142194344246,
-   "lon": -83.16757812196231,
-   "county": "Oglethorpe",
-   "location": "near Hutchins (30630)",
-   "first_seen": 1795263615479,
-   "customers": 5,
-   "start": 1795263000000,
-   "cause": null,
-   "last_seen": 1795269017553,
+   "last_seen": 1795269623503,
    "cleared": null
   },
   {
@@ -84,6 +70,20 @@
    "cause": null,
    "last_seen": 1795266031093,
    "cleared": 1795266616561
+  },
+  {
+   "key": "rayle:2026-11-21-0287",
+   "utility": "Rayle EMC",
+   "lat": 33.840142194344246,
+   "lon": -83.16757812196231,
+   "county": "Oglethorpe",
+   "location": "near Hutchins (30630)",
+   "first_seen": 1795263615479,
+   "customers": 5,
+   "start": 1795263000000,
+   "cause": null,
+   "last_seen": 1795269017553,
+   "cleared": 1795269623503
   },
   {
    "key": "walton:C1208206",
@@ -324,20 +324,6 @@
    "cleared": 1795185021466
   },
   {
-   "key": "walton:C1208023",
-   "utility": "Walton EMC",
-   "lat": 33.80638353028417,
-   "lon": -83.91220760203232,
-   "county": "Walton",
-   "location": "Ridgeway Road (30052)",
-   "first_seen": 1795182019102,
-   "customers": 1,
-   "start": 1795182019102,
-   "cause": null,
-   "last_seen": 1795182019102,
-   "cleared": 1795182617775
-  },
-  {
    "key": "walton:C1208020",
    "utility": "Walton EMC",
    "lat": 33.73003878199868,
@@ -364,48 +350,6 @@
    "cause": null,
    "last_seen": 1795183227493,
    "cleared": 1795183817030
-  },
-  {
-   "key": "rayle:2026-11-20-0283",
-   "utility": "Rayle EMC",
-   "lat": 33.845793213166644,
-   "lon": -83.26210238750907,
-   "county": "Oglethorpe",
-   "location": "Hutchins Wolfskin Road (30619)",
-   "first_seen": 1795179017217,
-   "customers": 3,
-   "start": 1795178400000,
-   "cause": null,
-   "last_seen": 1795182019102,
-   "cleared": 1795182617775
-  },
-  {
-   "key": "rayle:2026-11-20-0282",
-   "utility": "Rayle EMC",
-   "lat": 33.966418189559135,
-   "lon": -83.22516177971008,
-   "county": "Oglethorpe",
-   "location": "ZIP 30628",
-   "first_seen": 1795178416292,
-   "customers": 23,
-   "start": 1795177980000,
-   "cause": null,
-   "last_seen": 1795182019102,
-   "cleared": 1795182617775
-  },
-  {
-   "key": "walton:D1208008",
-   "utility": "Walton EMC",
-   "lat": 33.8491136871933,
-   "lon": -83.72488629009837,
-   "county": "Walton",
-   "location": "State Route 11 near Campton (30656)",
-   "first_seen": 1795169420533,
-   "customers": 55,
-   "start": 1795169420533,
-   "cause": "Broken Pole",
-   "last_seen": 1795182019102,
-   "cleared": 1795182617775
   }
  ],
  "sources": {
@@ -413,27 +357,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795269017553,
+   "last_ok": 1795269623503,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795269017553
+   "last_ok": 1795269623503
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795269017553
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795269623503
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795269017553
+   "last_ok": 1795269623503
   }
  },
  "skipped": {
