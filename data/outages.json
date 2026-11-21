@@ -1,5 +1,5 @@
 {
- "checked": 1795288817871,
+ "checked": 1795288856053,
  "outages": [
   {
    "key": "gapower:33.9750,-83.3914",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795279820848,
    "cause": null,
-   "last_seen": 1795288817871,
+   "last_seen": 1795288856053,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 1,
    "start": 1795275020275,
    "cause": null,
-   "last_seen": 1795288817871,
+   "last_seen": 1795288856053,
    "cleared": null
   },
   {
@@ -296,34 +296,6 @@
    "cleared": 1795212021932
   },
   {
-   "key": "walton:C1208029",
-   "utility": "Walton EMC",
-   "lat": 33.930219342536034,
-   "lon": -83.51088679457598,
-   "county": "Oconee",
-   "location": "Monroe Highway (30622)",
-   "first_seen": 1795200021229,
-   "customers": 1,
-   "start": 1795200021229,
-   "cause": null,
-   "last_seen": 1795201816458,
-   "cleared": 1795202418109
-  },
-  {
-   "key": "jackson:606874",
-   "utility": "Jackson EMC",
-   "lat": 34.174171138491445,
-   "lon": -83.32082670514312,
-   "county": "Madison",
-   "location": "Frank Bird Road (30647)",
-   "first_seen": 1795200021229,
-   "customers": 1,
-   "start": 1795199255000,
-   "cause": "Planned",
-   "last_seen": 1795201816458,
-   "cleared": 1795202418109
-  },
-  {
    "key": "jackson:606872",
    "utility": "Jackson EMC",
    "lat": 34.20747508608652,
@@ -343,27 +315,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795288817871,
+   "last_ok": 1795288856053,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795288817871
+   "last_ok": 1795288856053
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795288817871
+   "last_ok": 1795288856053
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795288817871
+   "last_ok": 1795288856053
   }
  },
  "skipped": {
