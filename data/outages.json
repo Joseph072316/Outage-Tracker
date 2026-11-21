@@ -1,6 +1,20 @@
 {
- "checked": 1795274417725,
+ "checked": 1795275020275,
  "outages": [
+  {
+   "key": "walton:C1208219",
+   "utility": "Walton EMC",
+   "lat": 33.86844976270161,
+   "lon": -83.5334161651458,
+   "county": "Oconee",
+   "location": "Cole Springs Road near North High Shoals (30621)",
+   "first_seen": 1795275020275,
+   "customers": 1,
+   "start": 1795275020275,
+   "cause": null,
+   "last_seen": 1795275020275,
+   "cleared": null
+  },
   {
    "key": "gapower:33.8674,-83.2830",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 4,
    "start": 1795272617317,
    "cause": null,
-   "last_seen": 1795274417725,
+   "last_seen": 1795275020275,
    "cleared": null
   },
   {
@@ -294,34 +308,6 @@
    "cause": null,
    "last_seen": 1795196417681,
    "cleared": 1795197016914
-  },
-  {
-   "key": "gapower:34.1462,-83.2482",
-   "utility": "Georgia Power",
-   "lat": 34.14622,
-   "lon": -83.24819,
-   "county": "Madison",
-   "location": "Lakeview Circle Road (30633)",
-   "first_seen": 1795185021466,
-   "customers": 4,
-   "start": 1795185021466,
-   "cause": null,
-   "last_seen": 1795187417861,
-   "cleared": 1795188019748
-  },
-  {
-   "key": "gapower:33.9561,-83.3990",
-   "utility": "Georgia Power",
-   "lat": 33.95614,
-   "lon": -83.39903,
-   "county": "Clarke",
-   "location": "Mathews Avenue near Athens (30606)",
-   "first_seen": 1795184418858,
-   "customers": 18,
-   "start": 1795184418858,
-   "cause": null,
-   "last_seen": 1795187417861,
-   "cleared": 1795188019748
   }
  ],
  "sources": {
@@ -329,31 +315,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795274417725,
+   "last_ok": 1795275020275,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795274417725
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795275020275
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795274417725
+   "last_ok": 1795275020275
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795274417725
+   "last_ok": 1795275020275
   }
  },
  "skipped": {
-  "gapower:34.3153,-83.6442": 1795188019748,
   "gapower:34.3048,-83.4784": 1795189133542,
   "gapower:33.5133,-83.6954": 1795191621866,
   "gapower:33.5150,-83.6980": 1795191621866,
