@@ -1,5 +1,5 @@
 {
- "checked": 1795287623621,
+ "checked": 1795288217613,
  "outages": [
   {
    "key": "gapower:33.9750,-83.3914",
@@ -12,21 +12,7 @@
    "customers": 4,
    "start": 1795279820848,
    "cause": null,
-   "last_seen": 1795287623621,
-   "cleared": null
-  },
-  {
-   "key": "walton:D1208223",
-   "utility": "Walton EMC",
-   "lat": 33.861355822036465,
-   "lon": -83.78122522970581,
-   "county": "Walton",
-   "location": "Dewey Hogan Road (30656)",
-   "first_seen": 1795276826796,
-   "customers": 11,
-   "start": 1795276826796,
-   "cause": null,
-   "last_seen": 1795287623621,
+   "last_seen": 1795288217613,
    "cleared": null
   },
   {
@@ -40,7 +26,7 @@
    "customers": 1,
    "start": 1795275020275,
    "cause": null,
-   "last_seen": 1795287623621,
+   "last_seen": 1795288217613,
    "cleared": null
   },
   {
@@ -70,6 +56,20 @@
    "cause": null,
    "last_seen": 1795282221905,
    "cleared": 1795282823088
+  },
+  {
+   "key": "walton:D1208223",
+   "utility": "Walton EMC",
+   "lat": 33.861355822036465,
+   "lon": -83.78122522970581,
+   "county": "Walton",
+   "location": "Dewey Hogan Road (30656)",
+   "first_seen": 1795276826796,
+   "customers": 11,
+   "start": 1795276826796,
+   "cause": null,
+   "last_seen": 1795287623621,
+   "cleared": 1795288217613
   },
   {
    "key": "gapower:33.7458,-83.1509",
@@ -343,27 +343,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795287623621,
+   "last_ok": 1795288217613,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1795287623621
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795288217613
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795287623621
+   "last_ok": 1795288217613
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795287623621
+   "last_ok": 1795288217613
   }
  },
  "skipped": {
@@ -376,6 +376,7 @@
   "gapower:33.9907,-83.9031": 1795266031093,
   "gapower:33.9909,-83.9029": 1795266616561,
   "gapower:34.2106,-83.8832": 1795268416595,
-  "walton:C1208228": 1795280426352
+  "walton:C1208228": 1795280426352,
+  "walton:C1208232": 1795288217613
  }
 }
