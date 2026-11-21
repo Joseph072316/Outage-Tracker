@@ -1,20 +1,6 @@
 {
- "checked": 1795290616028,
+ "checked": 1795291222528,
  "outages": [
-  {
-   "key": "gapower:33.9750,-83.3914",
-   "utility": "Georgia Power",
-   "lat": 33.97501,
-   "lon": -83.3914,
-   "county": "Clarke",
-   "location": "Outer Loop 10 near Athens (30601)",
-   "first_seen": 1795279820848,
-   "customers": 4,
-   "start": 1795279820848,
-   "cause": null,
-   "last_seen": 1795290616028,
-   "cleared": null
-  },
   {
    "key": "walton:C1208219",
    "utility": "Walton EMC",
@@ -26,7 +12,7 @@
    "customers": 1,
    "start": 1795275020275,
    "cause": null,
-   "last_seen": 1795290616028,
+   "last_seen": 1795291222528,
    "cleared": null
   },
   {
@@ -56,6 +42,20 @@
    "cause": null,
    "last_seen": 1795282221905,
    "cleared": 1795282823088
+  },
+  {
+   "key": "gapower:33.9750,-83.3914",
+   "utility": "Georgia Power",
+   "lat": 33.97501,
+   "lon": -83.3914,
+   "county": "Clarke",
+   "location": "Outer Loop 10 near Athens (30601)",
+   "first_seen": 1795279820848,
+   "customers": 4,
+   "start": 1795279820848,
+   "cause": null,
+   "last_seen": 1795290616028,
+   "cleared": 1795291222528
   },
   {
    "key": "walton:D1208223",
@@ -315,27 +315,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795290616028,
+   "last_ok": 1795291222528,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795290616028
+   "last_ok": 1795291222528
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795290616028
+   "last_ok": 1795291222528
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
+   "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795290616028
+   "last_ok": 1795291222528
   }
  },
  "skipped": {
@@ -349,6 +349,8 @@
   "gapower:33.9909,-83.9029": 1795266616561,
   "gapower:34.2106,-83.8832": 1795268416595,
   "walton:C1208228": 1795280426352,
-  "walton:C1208232": 1795288217613
+  "walton:C1208232": 1795288217613,
+  "gapower:33.6033,-83.4176": 1795291222528,
+  "gapower:33.6002,-83.4134": 1795291222528
  }
 }
