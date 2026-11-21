@@ -1,6 +1,20 @@
 {
- "checked": 1795238415935,
+ "checked": 1795239025332,
  "outages": [
+  {
+   "key": "walton:C1208151",
+   "utility": "Walton EMC",
+   "lat": 33.89165245899664,
+   "lon": -83.80850146203964,
+   "county": "Walton",
+   "location": "State Route 81 near Bold Springs (30620)",
+   "first_seen": 1795239025332,
+   "customers": 1,
+   "start": 1795239025332,
+   "cause": null,
+   "last_seen": 1795239025332,
+   "cleared": null
+  },
   {
    "key": "jackson:606894",
    "utility": "Jackson EMC",
@@ -343,27 +357,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795238415935,
+   "last_ok": 1795239025332,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795238415935
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795239025332
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795238415935
+   "last_ok": 1795239025332
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795238415935
+   "last_ok": 1795239025332
   }
  },
  "skipped": {
