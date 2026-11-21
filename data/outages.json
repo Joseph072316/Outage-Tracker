@@ -1,5 +1,5 @@
 {
- "checked": 1795231820062,
+ "checked": 1795232416681,
  "outages": [
   {
    "key": "jackson:606894",
@@ -350,20 +350,6 @@
    "cause": null,
    "last_seen": 1795149024091,
    "cleared": 1795149620183
-  },
-  {
-   "key": "rayle:2026-11-19-0281",
-   "utility": "Rayle EMC",
-   "lat": 33.930020332372415,
-   "lon": -83.17612137698691,
-   "county": "Oglethorpe",
-   "location": "Woodbine Lane (30630)",
-   "first_seen": 1795141820388,
-   "customers": 1,
-   "start": 1795141140000,
-   "cause": null,
-   "last_seen": 1795144971298,
-   "cleared": 1795145420511
   }
  ],
  "sources": {
@@ -371,27 +357,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795231820062,
+   "last_ok": 1795232416681,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795231820062
+   "last_ok": 1795232416681
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795231820062
+   "last_ok": 1795232416681
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795231820062
+   "last_ok": 1795232416681
   }
  },
  "skipped": {
