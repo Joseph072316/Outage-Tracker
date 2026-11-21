@@ -1,6 +1,20 @@
 {
- "checked": 1795266031093,
+ "checked": 1795266616561,
  "outages": [
+  {
+   "key": "rayle:2026-11-21-0287",
+   "utility": "Rayle EMC",
+   "lat": 33.840142194344246,
+   "lon": -83.16757812196231,
+   "county": "Oglethorpe",
+   "location": "near Hutchins (30630)",
+   "first_seen": 1795263615479,
+   "customers": 5,
+   "start": 1795263000000,
+   "cause": null,
+   "last_seen": 1795266616561,
+   "cleared": null
+  },
   {
    "key": "gapower:33.9069,-83.3603",
    "utility": "Georgia Power",
@@ -13,7 +27,7 @@
    "start": 1795264816915,
    "cause": null,
    "last_seen": 1795266031093,
-   "cleared": null
+   "cleared": 1795266616561
   },
   {
    "key": "gapower:33.9426,-83.4001",
@@ -27,21 +41,7 @@
    "start": 1795263615479,
    "cause": null,
    "last_seen": 1795266031093,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-21-0287",
-   "utility": "Rayle EMC",
-   "lat": 33.840142194344246,
-   "lon": -83.16757812196231,
-   "county": "Oglethorpe",
-   "location": "near Hutchins (30630)",
-   "first_seen": 1795263615479,
-   "customers": 1,
-   "start": 1795263000000,
-   "cause": null,
-   "last_seen": 1795266031093,
-   "cleared": null
+   "cleared": 1795266616561
   },
   {
    "key": "walton:C1208206",
@@ -385,27 +385,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795266031093,
+   "last_ok": 1795266616561,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795266031093
+   "last_ok": 1795266616561
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795266031093
+   "last_ok": 1795266616561
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
+   "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795266031093
+   "last_ok": 1795266616561
   }
  },
  "skipped": {
@@ -425,6 +425,7 @@
   "gapower:34.3338,-83.5037": 1795235421122,
   "gapower:34.3060,-83.8052": 1795264225074,
   "gapower:34.1569,-82.9346": 1795264816915,
-  "gapower:33.9907,-83.9031": 1795266031093
+  "gapower:33.9907,-83.9031": 1795266031093,
+  "gapower:33.9909,-83.9029": 1795266616561
  }
 }
