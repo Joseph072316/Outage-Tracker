@@ -1,6 +1,20 @@
 {
- "checked": 1795371616878,
+ "checked": 1795372188427,
  "outages": [
+  {
+   "key": "gapower:34.0480,-83.1947",
+   "utility": "Georgia Power",
+   "lat": 34.04801,
+   "lon": -83.19475,
+   "county": "Madison",
+   "location": "Colbert-Comer Road (30628)",
+   "first_seen": 1795367415315,
+   "customers": 4,
+   "start": 1795367415315,
+   "cause": null,
+   "last_seen": 1795372188427,
+   "cleared": null
+  },
   {
    "key": "gapower:33.6589,-83.7139",
    "utility": "Georgia Power",
@@ -13,21 +27,7 @@
    "start": 1795369221754,
    "cause": null,
    "last_seen": 1795371616878,
-   "cleared": null
-  },
-  {
-   "key": "gapower:34.0480,-83.1947",
-   "utility": "Georgia Power",
-   "lat": 34.04801,
-   "lon": -83.19475,
-   "county": "Madison",
-   "location": "Colbert-Comer Road (30628)",
-   "first_seen": 1795367415315,
-   "customers": 4,
-   "start": 1795367415315,
-   "cause": null,
-   "last_seen": 1795371616878,
-   "cleared": null
+   "cleared": 1795372188427
   },
   {
    "key": "gapower:33.6586,-83.7116",
@@ -41,7 +41,7 @@
    "start": 1795366824634,
    "cause": null,
    "last_seen": 1795371616878,
-   "cleared": null
+   "cleared": 1795372188427
   },
   {
    "key": "jackson:606955",
@@ -469,27 +469,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795371616878,
+   "last_ok": 1795372188427,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795371616878
+   "last_ok": 1795372188427
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795371616878
+   "last_ok": 1795372188427
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "3 outage(s) in your counties",
+   "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795371616878
+   "last_ok": 1795372188427
   }
  },
  "skipped": {
