@@ -1,32 +1,18 @@
 {
- "checked": 1795383019602,
+ "checked": 1795383615081,
  "outages": [
   {
-   "key": "walton:C1208281",
+   "key": "walton:D1208289",
    "utility": "Walton EMC",
-   "lat": 33.89741431129815,
-   "lon": -83.7693048669416,
+   "lat": 33.88871980312189,
+   "lon": -83.78000616034385,
    "county": "Walton",
-   "location": "Highland Pointe Place (30656)",
-   "first_seen": 1795383019602,
-   "customers": 1,
-   "start": 1795383019602,
+   "location": "Bold Springs Road near Nicholasville (30656)",
+   "first_seen": 1795383615081,
+   "customers": 45,
+   "start": 1795383615081,
    "cause": null,
-   "last_seen": 1795383019602,
-   "cleared": null
-  },
-  {
-   "key": "walton:C1208282",
-   "utility": "Walton EMC",
-   "lat": 33.890258952372854,
-   "lon": -83.77897567335627,
-   "county": "Walton",
-   "location": "Providence Club Drive (30656)",
-   "first_seen": 1795383019602,
-   "customers": 1,
-   "start": 1795383019602,
-   "cause": null,
-   "last_seen": 1795383019602,
+   "last_seen": 1795383615081,
    "cleared": null
   },
   {
@@ -40,7 +26,7 @@
    "customers": 2,
    "start": 1795382417157,
    "cause": null,
-   "last_seen": 1795383019602,
+   "last_seen": 1795383615081,
    "cleared": null
   },
   {
@@ -54,7 +40,7 @@
    "customers": 1,
    "start": 1795381222858,
    "cause": null,
-   "last_seen": 1795383019602,
+   "last_seen": 1795383615081,
    "cleared": null
   },
   {
@@ -68,8 +54,36 @@
    "customers": 4,
    "start": 1795369221754,
    "cause": null,
-   "last_seen": 1795383019602,
+   "last_seen": 1795383615081,
    "cleared": null
+  },
+  {
+   "key": "walton:C1208281",
+   "utility": "Walton EMC",
+   "lat": 33.89741431129815,
+   "lon": -83.7693048669416,
+   "county": "Walton",
+   "location": "Highland Pointe Place (30656)",
+   "first_seen": 1795383019602,
+   "customers": 1,
+   "start": 1795383019602,
+   "cause": null,
+   "last_seen": 1795383019602,
+   "cleared": 1795383615081
+  },
+  {
+   "key": "walton:C1208282",
+   "utility": "Walton EMC",
+   "lat": 33.890258952372854,
+   "lon": -83.77897567335627,
+   "county": "Walton",
+   "location": "Providence Club Drive (30656)",
+   "first_seen": 1795383019602,
+   "customers": 1,
+   "start": 1795383019602,
+   "cause": null,
+   "last_seen": 1795383019602,
+   "cleared": 1795383615081
   },
   {
    "key": "walton:C1208278",
@@ -539,27 +553,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795383019602,
+   "last_ok": 1795383615081,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "4 outage(s) in your counties",
-   "last_ok": 1795383019602
+   "message": "3 outage(s) in your counties",
+   "last_ok": 1795383615081
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795383019602
+   "last_ok": 1795383615081
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795383019602
+   "last_ok": 1795383615081
   }
  },
  "skipped": {
