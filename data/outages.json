@@ -1,5 +1,5 @@
 {
- "checked": 1795389616686,
+ "checked": 1795390219852,
  "outages": [
   {
    "key": "walton:D1208289",
@@ -12,7 +12,7 @@
    "customers": 45,
    "start": 1795383615081,
    "cause": "T 50-3 hit by auto at 6741 Highland Point Pl",
-   "last_seen": 1795389616686,
+   "last_seen": 1795390219852,
    "cleared": null
   },
   {
@@ -26,21 +26,7 @@
    "customers": 2,
    "start": 1795382417157,
    "cause": null,
-   "last_seen": 1795389616686,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.6589,-83.7139",
-   "utility": "Georgia Power",
-   "lat": 33.6589,
-   "lon": -83.71386,
-   "county": "Walton",
-   "location": "Dogwood Avenue near Social Circle (30025)",
-   "first_seen": 1795369221754,
-   "customers": 4,
-   "start": 1795369221754,
-   "cause": null,
-   "last_seen": 1795389616686,
+   "last_seen": 1795390219852,
    "cleared": null
   },
   {
@@ -140,6 +126,20 @@
    "cause": null,
    "last_seen": 1795373415886,
    "cleared": 1795374022166
+  },
+  {
+   "key": "gapower:33.6589,-83.7139",
+   "utility": "Georgia Power",
+   "lat": 33.6589,
+   "lon": -83.71386,
+   "county": "Walton",
+   "location": "Dogwood Avenue near Social Circle (30025)",
+   "first_seen": 1795369221754,
+   "customers": 4,
+   "start": 1795369221754,
+   "cause": null,
+   "last_seen": 1795389616686,
+   "cleared": 1795390219852
   },
   {
    "key": "gapower:34.0480,-83.1947",
@@ -539,27 +539,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795389616686,
+   "last_ok": 1795390219852,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795389616686
+   "last_ok": 1795390219852
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795389616686
+   "last_ok": 1795390219852
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
+   "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795389616686
+   "last_ok": 1795390219852
   }
  },
  "skipped": {
