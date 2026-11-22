@@ -1,6 +1,20 @@
 {
- "checked": 1795312215090,
+ "checked": 1795312455027,
  "outages": [
+  {
+   "key": "rayle:2026-11-21-0307",
+   "utility": "Rayle EMC",
+   "lat": 33.562898812275336,
+   "lon": -83.2526404276641,
+   "county": "Greene",
+   "location": "Carey Station Road near Carey (30650)",
+   "first_seen": 1795312455027,
+   "customers": 1,
+   "start": 1795312200000,
+   "cause": null,
+   "last_seen": 1795312455027,
+   "cleared": null
+  },
   {
    "key": "rayle:2026-11-21-0305",
    "utility": "Rayle EMC",
@@ -12,7 +26,7 @@
    "customers": 30,
    "start": 1795311720000,
    "cause": null,
-   "last_seen": 1795312215090,
+   "last_seen": 1795312455027,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 1,
    "start": 1795311600000,
    "cause": null,
-   "last_seen": 1795312215090,
+   "last_seen": 1795312455027,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 4,
    "start": 1795309221279,
    "cause": null,
-   "last_seen": 1795312215090,
+   "last_seen": 1795312455027,
    "cleared": null
   },
   {
@@ -54,7 +68,7 @@
    "customers": 1,
    "start": 1795303307879,
    "cause": null,
-   "last_seen": 1795312215090,
+   "last_seen": 1795312455027,
    "cleared": null
   },
   {
@@ -343,27 +357,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795312215090,
+   "last_ok": 1795312455027,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795312215090
+   "last_ok": 1795312455027
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1795312215090
+   "message": "3 outage(s) in your counties",
+   "last_ok": 1795312455027
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795312215090
+   "last_ok": 1795312455027
   }
  },
  "skipped": {
