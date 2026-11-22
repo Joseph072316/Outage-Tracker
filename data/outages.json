@@ -1,5 +1,5 @@
 {
- "checked": 1795374616423,
+ "checked": 1795375219303,
  "outages": [
   {
    "key": "rayle:2026-11-22-0310",
@@ -12,7 +12,21 @@
    "customers": 2,
    "start": 1795373040000,
    "cause": null,
-   "last_seen": 1795374616423,
+   "last_seen": 1795375219303,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.6589,-83.7139",
+   "utility": "Georgia Power",
+   "lat": 33.6589,
+   "lon": -83.71386,
+   "county": "Walton",
+   "location": "Dogwood Avenue near Social Circle (30025)",
+   "first_seen": 1795369221754,
+   "customers": 4,
+   "start": 1795369221754,
+   "cause": null,
+   "last_seen": 1795375219303,
    "cleared": null
   },
   {
@@ -42,20 +56,6 @@
    "cause": null,
    "last_seen": 1795373415886,
    "cleared": 1795374022166
-  },
-  {
-   "key": "gapower:33.6589,-83.7139",
-   "utility": "Georgia Power",
-   "lat": 33.6589,
-   "lon": -83.71386,
-   "county": "Walton",
-   "location": "Dogwood Avenue near Social Circle (30025)",
-   "first_seen": 1795369221754,
-   "customers": 4,
-   "start": 1795369221754,
-   "cause": null,
-   "last_seen": 1795371616878,
-   "cleared": 1795372188427
   },
   {
    "key": "gapower:34.0480,-83.1947",
@@ -478,20 +478,6 @@
    "cleared": 1795291222528
   },
   {
-   "key": "walton:D1208223",
-   "utility": "Walton EMC",
-   "lat": 33.861355822036465,
-   "lon": -83.78122522970581,
-   "county": "Walton",
-   "location": "Dewey Hogan Road (30656)",
-   "first_seen": 1795276826796,
-   "customers": 11,
-   "start": 1795276826796,
-   "cause": null,
-   "last_seen": 1795287623621,
-   "cleared": 1795288217613
-  },
-  {
    "key": "walton:C1208219",
    "utility": "Walton EMC",
    "lat": 33.86844976270161,
@@ -511,31 +497,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795374616423,
+   "last_ok": 1795375219303,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795374616423
+   "last_ok": 1795375219303
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795374616423
+   "last_ok": 1795375219303
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
+   "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795374616423
+   "last_ok": 1795375219303
   }
  },
  "skipped": {
-  "walton:C1208232": 1795288217613,
   "gapower:33.6033,-83.4176": 1795291222528,
   "gapower:33.6002,-83.4134": 1795291222528,
   "gapower:34.1874,-83.0118": 1795293020237,
@@ -545,6 +530,8 @@
   "gapower:34.2393,-82.9903": 1795311018849,
   "gapower:34.2451,-82.9814": 1795315215323,
   "gapower:33.9659,-83.9058": 1795325415463,
-  "gapower:33.5979,-83.6059": 1795369816276
+  "gapower:33.5979,-83.6059": 1795369816276,
+  "gapower:33.9731,-83.8202": 1795375219303,
+  "gapower:33.9934,-83.8219": 1795375219303
  }
 }
