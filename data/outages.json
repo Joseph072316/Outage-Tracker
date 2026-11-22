@@ -1,5 +1,5 @@
 {
- "checked": 1795377622164,
+ "checked": 1795378199957,
  "outages": [
   {
    "key": "gapower:33.6589,-83.7139",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795369221754,
    "cause": null,
-   "last_seen": 1795377622164,
+   "last_seen": 1795378199957,
    "cleared": null
   },
   {
@@ -464,20 +464,6 @@
    "cleared": 1795299018620
   },
   {
-   "key": "gapower:33.9750,-83.3914",
-   "utility": "Georgia Power",
-   "lat": 33.97501,
-   "lon": -83.3914,
-   "county": "Clarke",
-   "location": "Outer Loop 10 near Athens (30601)",
-   "first_seen": 1795279820848,
-   "customers": 4,
-   "start": 1795279820848,
-   "cause": null,
-   "last_seen": 1795290616028,
-   "cleared": 1795291222528
-  },
-  {
    "key": "walton:C1208219",
    "utility": "Walton EMC",
    "lat": 33.86844976270161,
@@ -497,32 +483,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795377622164,
+   "last_ok": 1795378199957,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795377622164
+   "last_ok": 1795378199957
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795377622164
+   "last_ok": 1795378199957
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795377622164
+   "last_ok": 1795378199957
   }
  },
  "skipped": {
-  "gapower:33.6033,-83.4176": 1795291222528,
-  "gapower:33.6002,-83.4134": 1795291222528,
   "gapower:34.1874,-83.0118": 1795293020237,
   "gapower:34.2828,-83.8427": 1795293615302,
   "gapower:33.9796,-83.5746": 1795298421603,
@@ -533,6 +517,7 @@
   "gapower:33.5979,-83.6059": 1795369816276,
   "gapower:33.9731,-83.8202": 1795375219303,
   "gapower:33.9934,-83.8219": 1795375219303,
-  "gapower:33.9743,-83.8196": 1795376415495
+  "gapower:33.9743,-83.8196": 1795376415495,
+  "gapower:34.3291,-83.8115": 1795378199957
  }
 }
