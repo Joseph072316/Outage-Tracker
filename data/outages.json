@@ -1,6 +1,20 @@
 {
- "checked": 1795379419379,
+ "checked": 1795380016117,
  "outages": [
+  {
+   "key": "walton:C1208278",
+   "utility": "Walton EMC",
+   "lat": 33.82543017711541,
+   "lon": -83.85087784912326,
+   "county": "Walton",
+   "location": "Broadnax Mill Road (30052)",
+   "first_seen": 1795380016117,
+   "customers": 1,
+   "start": 1795380016117,
+   "cause": null,
+   "last_seen": 1795380016117,
+   "cleared": null
+  },
   {
    "key": "gapower:33.6589,-83.7139",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 4,
    "start": 1795369221754,
    "cause": null,
-   "last_seen": 1795379419379,
+   "last_seen": 1795380016117,
    "cleared": null
   },
   {
@@ -469,32 +483,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795379419379,
+   "last_ok": 1795380016117,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795379419379
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795380016117
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795379419379
+   "last_ok": 1795380016117
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795379419379
+   "last_ok": 1795380016117
   }
  },
  "skipped": {
-  "gapower:34.1874,-83.0118": 1795293020237,
-  "gapower:34.2828,-83.8427": 1795293615302,
   "gapower:33.9796,-83.5746": 1795298421603,
   "gapower:33.4880,-83.3181": 1795300221366,
   "gapower:34.2393,-82.9903": 1795311018849,
@@ -504,6 +516,7 @@
   "gapower:33.9731,-83.8202": 1795375219303,
   "gapower:33.9934,-83.8219": 1795375219303,
   "gapower:33.9743,-83.8196": 1795376415495,
-  "gapower:34.3291,-83.8115": 1795378199957
+  "gapower:34.3291,-83.8115": 1795378199957,
+  "gapower:33.9613,-83.8177": 1795380016117
  }
 }
