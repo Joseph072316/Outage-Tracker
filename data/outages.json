@@ -1,18 +1,18 @@
 {
- "checked": 1795315815377,
+ "checked": 1795316422010,
  "outages": [
   {
-   "key": "gapower:33.7047,-83.1761",
+   "key": "gapower:33.6212,-83.0777",
    "utility": "Georgia Power",
-   "lat": 33.70474,
-   "lon": -83.17609,
+   "lat": 33.62117,
+   "lon": -83.07774,
    "county": "Greene",
-   "location": "Old Maxeys Road (30630)",
-   "first_seen": 1795313416915,
-   "customers": 1074,
-   "start": 1795313416915,
+   "location": "Barnes Street near Union Point (30669)",
+   "first_seen": 1795316422010,
+   "customers": 89,
+   "start": 1795316422010,
    "cause": null,
-   "last_seen": 1795315815377,
+   "last_seen": 1795316422010,
    "cleared": null
   },
   {
@@ -26,8 +26,22 @@
    "customers": 1,
    "start": 1795303307879,
    "cause": null,
-   "last_seen": 1795315815377,
+   "last_seen": 1795316422010,
    "cleared": null
+  },
+  {
+   "key": "gapower:33.7047,-83.1761",
+   "utility": "Georgia Power",
+   "lat": 33.70474,
+   "lon": -83.17609,
+   "county": "Greene",
+   "location": "Old Maxeys Road (30630)",
+   "first_seen": 1795313416915,
+   "customers": 1074,
+   "start": 1795313416915,
+   "cause": null,
+   "last_seen": 1795315815377,
+   "cleared": 1795316422010
   },
   {
    "key": "rayle:2026-11-21-0307",
@@ -371,27 +385,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795315815377,
+   "last_ok": 1795316422010,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795315815377
+   "last_ok": 1795316422010
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795315815377
+   "last_ok": 1795316422010
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795315815377
+   "last_ok": 1795316422010
   }
  },
  "skipped": {
