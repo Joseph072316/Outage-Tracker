@@ -1,5 +1,5 @@
 {
- "checked": 1795356978655,
+ "checked": 1795357220629,
  "outages": [
   {
    "key": "gapower:33.9123,-83.3312",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795356616024,
    "cause": null,
-   "last_seen": 1795356978655,
+   "last_seen": 1795357220629,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 3,
    "start": 1795354110000,
    "cause": null,
-   "last_seen": 1795356978655,
+   "last_seen": 1795357220629,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 3,
    "start": 1795353615885,
    "cause": null,
-   "last_seen": 1795356978655,
+   "last_seen": 1795357220629,
    "cleared": null
   },
   {
@@ -448,20 +448,6 @@
    "cause": null,
    "last_seen": 1795270820334,
    "cleared": 1795271420817
-  },
-  {
-   "key": "walton:C1208210",
-   "utility": "Walton EMC",
-   "lat": 33.78084637898508,
-   "lon": -83.56663833651163,
-   "county": "Walton",
-   "location": "Moina Michael Road (30641)",
-   "first_seen": 1795267616491,
-   "customers": 1,
-   "start": 1795267616491,
-   "cause": null,
-   "last_seen": 1795270218435,
-   "cleared": 1795270711456
   }
  ],
  "sources": {
@@ -469,27 +455,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795356978655,
+   "last_ok": 1795357220629,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795356978655
+   "last_ok": 1795357220629
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795356978655
+   "last_ok": 1795357220629
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795356978655
+   "last_ok": 1795357220629
   }
  },
  "skipped": {
