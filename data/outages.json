@@ -1,5 +1,5 @@
 {
- "checked": 1795334421321,
+ "checked": 1795335018281,
  "outages": [
   {
    "key": "gapower:33.4023,-83.1892",
@@ -12,7 +12,21 @@
    "customers": 4,
    "start": 1795333815962,
    "cause": null,
-   "last_seen": 1795334421321,
+   "last_seen": 1795335018281,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.6198,-83.0781",
+   "utility": "Georgia Power",
+   "lat": 33.61984,
+   "lon": -83.0781,
+   "county": "Greene",
+   "location": "Barnes Street near Union Point (30669)",
+   "first_seen": 1795327221569,
+   "customers": 42,
+   "start": 1795327221569,
+   "cause": null,
+   "last_seen": 1795335018281,
    "cleared": null
   },
   {
@@ -27,21 +41,7 @@
    "start": 1795328647127,
    "cause": null,
    "last_seen": 1795334421321,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.6198,-83.0781",
-   "utility": "Georgia Power",
-   "lat": 33.61984,
-   "lon": -83.0781,
-   "county": "Greene",
-   "location": "Barnes Street near Union Point (30669)",
-   "first_seen": 1795327221569,
-   "customers": 42,
-   "start": 1795327221569,
-   "cause": null,
-   "last_seen": 1795334421321,
-   "cleared": null
+   "cleared": 1795335018281
   },
   {
    "key": "gapower:33.6182,-83.0854",
@@ -426,28 +426,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795334421321,
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795335018281,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795334421321
+   "last_ok": 1795335018281
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795334421321
+   "last_ok": 1795335018281
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795334421321
+   "last_ok": 1795335018281
   }
  },
  "skipped": {
