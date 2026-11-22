@@ -1,5 +1,5 @@
 {
- "checked": 1795359015948,
+ "checked": 1795359625514,
  "outages": [
   {
    "key": "rayle:2026-11-22-0308",
@@ -12,7 +12,7 @@
    "customers": 3,
    "start": 1795354110000,
    "cause": null,
-   "last_seen": 1795359015948,
+   "last_seen": 1795359625514,
    "cleared": null
   },
   {
@@ -406,34 +406,6 @@
    "cause": null,
    "last_seen": 1795276060611,
    "cleared": 1795276217432
-  },
-  {
-   "key": "gapower:33.8663,-83.2823",
-   "utility": "Georgia Power",
-   "lat": 33.86626,
-   "lon": -83.28235,
-   "county": "Clarke",
-   "location": "Campbell Drive near Athens (30605)",
-   "first_seen": 1795272018282,
-   "customers": 4,
-   "start": 1795272018282,
-   "cause": null,
-   "last_seen": 1795272018282,
-   "cleared": 1795272617317
-  },
-  {
-   "key": "walton:D1208214",
-   "utility": "Walton EMC",
-   "lat": 33.85231381593208,
-   "lon": -83.43455657490205,
-   "county": "Oconee",
-   "location": "Echo Trail near Tramlin Acres (30677)",
-   "first_seen": 1795269017553,
-   "customers": 4,
-   "start": 1795269017553,
-   "cause": null,
-   "last_seen": 1795272617317,
-   "cleared": 1795273224415
   }
  ],
  "sources": {
@@ -441,27 +413,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795359015948,
+   "last_ok": 1795359625514,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795359015948
+   "last_ok": 1795359625514
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795359015948
+   "last_ok": 1795359625514
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795359015948
+   "last_ok": 1795359625514
   }
  },
  "skipped": {
