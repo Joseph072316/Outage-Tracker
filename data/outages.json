@@ -1,6 +1,34 @@
 {
- "checked": 1795311616620,
+ "checked": 1795312215090,
  "outages": [
+  {
+   "key": "rayle:2026-11-21-0305",
+   "utility": "Rayle EMC",
+   "lat": 33.55594522634637,
+   "lon": -83.25845561840828,
+   "county": "Greene",
+   "location": "Deer Lake Court (30650)",
+   "first_seen": 1795312215090,
+   "customers": 30,
+   "start": 1795311720000,
+   "cause": null,
+   "last_seen": 1795312215090,
+   "cleared": null
+  },
+  {
+   "key": "rayle:2026-11-21-0306",
+   "utility": "Rayle EMC",
+   "lat": 33.55579174343634,
+   "lon": -83.26349272774036,
+   "county": "Greene",
+   "location": "Carey Station Road near Carey (30650)",
+   "first_seen": 1795312215090,
+   "customers": 1,
+   "start": 1795311600000,
+   "cause": null,
+   "last_seen": 1795312215090,
+   "cleared": null
+  },
   {
    "key": "gapower:33.6191,-83.0761",
    "utility": "Georgia Power",
@@ -12,7 +40,7 @@
    "customers": 4,
    "start": 1795309221279,
    "cause": null,
-   "last_seen": 1795311616620,
+   "last_seen": 1795312215090,
    "cleared": null
   },
   {
@@ -26,7 +54,7 @@
    "customers": 1,
    "start": 1795303307879,
    "cause": null,
-   "last_seen": 1795311616620,
+   "last_seen": 1795312215090,
    "cleared": null
   },
   {
@@ -315,27 +343,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795311616620,
+   "last_ok": 1795312215090,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795311616620
+   "last_ok": 1795312215090
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795311616620
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1795312215090
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795311616620
+   "last_ok": 1795312215090
   }
  },
  "skipped": {
