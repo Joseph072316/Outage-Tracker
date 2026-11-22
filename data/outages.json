@@ -1,6 +1,20 @@
 {
- "checked": 1795351215726,
+ "checked": 1795351816442,
  "outages": [
+  {
+   "key": "walton:C1208272",
+   "utility": "Walton EMC",
+   "lat": 33.90867576180227,
+   "lon": -83.40384003893882,
+   "county": "Oconee",
+   "location": "Natalie Court (30602)",
+   "first_seen": 1795351816442,
+   "customers": 1,
+   "start": 1795351816442,
+   "cause": null,
+   "last_seen": 1795351816442,
+   "cleared": null
+  },
   {
    "key": "gapower:33.9115,-83.3268",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 244,
    "start": 1795350016921,
    "cause": null,
-   "last_seen": 1795351215726,
+   "last_seen": 1795351816442,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 4,
    "start": 1795333815962,
    "cause": null,
-   "last_seen": 1795351215726,
+   "last_seen": 1795351816442,
    "cleared": null
   },
   {
@@ -455,31 +469,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795351215726,
+   "last_ok": 1795351816442,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795351215726
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795351816442
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795351215726
+   "last_ok": 1795351816442
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795351215726
+   "last_ok": 1795351816442
   }
  },
  "skipped": {
-  "gapower:34.1569,-82.9346": 1795264816915,
   "gapower:33.9907,-83.9031": 1795266031093,
   "gapower:33.9909,-83.9029": 1795266616561,
   "gapower:34.2106,-83.8832": 1795268416595,
