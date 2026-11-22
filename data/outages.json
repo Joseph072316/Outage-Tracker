@@ -1,20 +1,6 @@
 {
- "checked": 1795357220629,
+ "checked": 1795357819891,
  "outages": [
-  {
-   "key": "gapower:33.9123,-83.3312",
-   "utility": "Georgia Power",
-   "lat": 33.91229,
-   "lon": -83.33122,
-   "county": "Clarke",
-   "location": "Curtis Drive near Athens (30605)",
-   "first_seen": 1795356616024,
-   "customers": 4,
-   "start": 1795356616024,
-   "cause": null,
-   "last_seen": 1795357220629,
-   "cleared": null
-  },
   {
    "key": "rayle:2026-11-22-0308",
    "utility": "Rayle EMC",
@@ -26,7 +12,7 @@
    "customers": 3,
    "start": 1795354110000,
    "cause": null,
-   "last_seen": 1795357220629,
+   "last_seen": 1795357819891,
    "cleared": null
   },
   {
@@ -40,8 +26,22 @@
    "customers": 3,
    "start": 1795353615885,
    "cause": null,
-   "last_seen": 1795357220629,
+   "last_seen": 1795357819891,
    "cleared": null
+  },
+  {
+   "key": "gapower:33.9123,-83.3312",
+   "utility": "Georgia Power",
+   "lat": 33.91229,
+   "lon": -83.33122,
+   "county": "Clarke",
+   "location": "Curtis Drive near Athens (30605)",
+   "first_seen": 1795356616024,
+   "customers": 4,
+   "start": 1795356616024,
+   "cause": null,
+   "last_seen": 1795357220629,
+   "cleared": 1795357819891
   },
   {
    "key": "walton:C1208272",
@@ -455,27 +455,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795357220629,
+   "last_ok": 1795357819891,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795357220629
+   "last_ok": 1795357819891
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795357220629
+   "last_ok": 1795357819891
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
+   "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795357220629
+   "last_ok": 1795357819891
   }
  },
  "skipped": {
