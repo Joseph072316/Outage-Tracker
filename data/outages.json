@@ -1,5 +1,5 @@
 {
- "checked": 1795371015855,
+ "checked": 1795371616878,
  "outages": [
   {
    "key": "gapower:33.6589,-83.7139",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795369221754,
    "cause": null,
-   "last_seen": 1795371015855,
+   "last_seen": 1795371616878,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1795367415315,
    "cause": null,
-   "last_seen": 1795371015855,
+   "last_seen": 1795371616878,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 4,
    "start": 1795366824634,
    "cause": null,
-   "last_seen": 1795371015855,
+   "last_seen": 1795371616878,
    "cleared": null
   },
   {
@@ -55,7 +55,7 @@
    "start": 1795366373000,
    "cause": null,
    "last_seen": 1795371015855,
-   "cleared": null
+   "cleared": 1795371616878
   },
   {
    "key": "jackson:606949",
@@ -422,20 +422,6 @@
    "cleared": 1795299018620
   },
   {
-   "key": "walton:C1208230",
-   "utility": "Walton EMC",
-   "lat": 33.87279594666839,
-   "lon": -83.58304593454454,
-   "county": "Oconee",
-   "location": "Lake Oconee Road (30666)",
-   "first_seen": 1795282823088,
-   "customers": 1,
-   "start": 1795282823088,
-   "cause": null,
-   "last_seen": 1795284024035,
-   "cleared": 1795284616294
-  },
-  {
    "key": "gapower:33.9750,-83.3914",
    "utility": "Georgia Power",
    "lat": 33.97501,
@@ -482,28 +468,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795371015855,
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795371616878,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795371015855
+   "last_ok": 1795371616878
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795371015855
+   "last_ok": 1795371616878
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795371015855
+   "last_ok": 1795371616878
   }
  },
  "skipped": {
