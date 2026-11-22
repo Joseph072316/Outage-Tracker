@@ -1,5 +1,5 @@
 {
- "checked": 1795383615081,
+ "checked": 1795384215686,
  "outages": [
   {
    "key": "walton:D1208289",
@@ -11,8 +11,8 @@
    "first_seen": 1795383615081,
    "customers": 45,
    "start": 1795383615081,
-   "cause": null,
-   "last_seen": 1795383615081,
+   "cause": "T 50-3 hit by auto at 6741 Highland Point Pl",
+   "last_seen": 1795384215686,
    "cleared": null
   },
   {
@@ -26,21 +26,7 @@
    "customers": 2,
    "start": 1795382417157,
    "cause": null,
-   "last_seen": 1795383615081,
-   "cleared": null
-  },
-  {
-   "key": "walton:C1208279",
-   "utility": "Walton EMC",
-   "lat": 33.74023382320908,
-   "lon": -83.7931361470152,
-   "county": "Walton",
-   "location": "P J East Road (30655)",
-   "first_seen": 1795381222858,
-   "customers": 1,
-   "start": 1795381222858,
-   "cause": null,
-   "last_seen": 1795383615081,
+   "last_seen": 1795384215686,
    "cleared": null
   },
   {
@@ -54,7 +40,7 @@
    "customers": 4,
    "start": 1795369221754,
    "cause": null,
-   "last_seen": 1795383615081,
+   "last_seen": 1795384215686,
    "cleared": null
   },
   {
@@ -84,6 +70,20 @@
    "cause": null,
    "last_seen": 1795383019602,
    "cleared": 1795383615081
+  },
+  {
+   "key": "walton:C1208279",
+   "utility": "Walton EMC",
+   "lat": 33.74023382320908,
+   "lon": -83.7931361470152,
+   "county": "Walton",
+   "location": "P J East Road (30655)",
+   "first_seen": 1795381222858,
+   "customers": 1,
+   "start": 1795381222858,
+   "cause": null,
+   "last_seen": 1795383615081,
+   "cleared": 1795384215686
   },
   {
    "key": "walton:C1208278",
@@ -553,27 +553,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795383615081,
+   "last_ok": 1795384215686,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "3 outage(s) in your counties",
-   "last_ok": 1795383615081
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1795384215686
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795383615081
+   "last_ok": 1795384215686
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795383615081
+   "last_ok": 1795384215686
   }
  },
  "skipped": {
