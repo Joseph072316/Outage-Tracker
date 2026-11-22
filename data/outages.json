@@ -1,6 +1,48 @@
 {
- "checked": 1795364416331,
+ "checked": 1795364893878,
  "outages": [
+  {
+   "key": "jackson:606949",
+   "utility": "Jackson EMC",
+   "lat": 34.20640528423258,
+   "lon": -83.48622451527822,
+   "county": "Jackson",
+   "location": "Wilson Garage Road (30529)",
+   "first_seen": 1795364893878,
+   "customers": 1,
+   "start": 1795364704000,
+   "cause": null,
+   "last_seen": 1795364893878,
+   "cleared": null
+  },
+  {
+   "key": "jackson:606948",
+   "utility": "Jackson EMC",
+   "lat": 34.20685846584229,
+   "lon": -83.48722164524375,
+   "county": "Jackson",
+   "location": "Wilson Garage Road (30529)",
+   "first_seen": 1795364893878,
+   "customers": 1,
+   "start": 1795364703000,
+   "cause": null,
+   "last_seen": 1795364893878,
+   "cleared": null
+  },
+  {
+   "key": "jackson:606950",
+   "utility": "Jackson EMC",
+   "lat": 34.2062046948733,
+   "lon": -83.48676350444877,
+   "county": "Jackson",
+   "location": "Wilson Garage Road (30529)",
+   "first_seen": 1795364893878,
+   "customers": 1,
+   "start": 1795364698000,
+   "cause": null,
+   "last_seen": 1795364893878,
+   "cleared": null
+  },
   {
    "key": "gapower:33.5642,-83.0969",
    "utility": "Georgia Power",
@@ -12,7 +54,7 @@
    "customers": 22,
    "start": 1795362615696,
    "cause": null,
-   "last_seen": 1795364416331,
+   "last_seen": 1795364893878,
    "cleared": null
   },
   {
@@ -412,28 +454,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795364416331,
+   "message": "3 outage(s) in your counties",
+   "last_ok": 1795364893878,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795364416331
+   "last_ok": 1795364893878
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795364416331
+   "last_ok": 1795364893878
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795364416331
+   "last_ok": 1795364893878
   }
  },
  "skipped": {
