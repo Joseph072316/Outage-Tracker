@@ -1,5 +1,5 @@
 {
- "checked": 1795385415201,
+ "checked": 1795385749723,
  "outages": [
   {
    "key": "walton:D1208289",
@@ -12,7 +12,7 @@
    "customers": 45,
    "start": 1795383615081,
    "cause": "T 50-3 hit by auto at 6741 Highland Point Pl",
-   "last_seen": 1795385415201,
+   "last_seen": 1795385749723,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 2,
    "start": 1795382417157,
    "cause": null,
-   "last_seen": 1795385415201,
+   "last_seen": 1795385749723,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 4,
    "start": 1795369221754,
    "cause": null,
-   "last_seen": 1795385415201,
+   "last_seen": 1795385749723,
    "cleared": null
   },
   {
@@ -532,20 +532,6 @@
    "cause": null,
    "last_seen": 1795308617217,
    "cleared": 1795309221279
-  },
-  {
-   "key": "gapower:33.9662,-83.2941",
-   "utility": "Georgia Power",
-   "lat": 33.96621,
-   "lon": -83.29414,
-   "county": "Clarke",
-   "location": "Sagewood Drive near Winterville (30683)",
-   "first_seen": 1795296017321,
-   "customers": 4,
-   "start": 1795296017321,
-   "cause": null,
-   "last_seen": 1795298718021,
-   "cleared": 1795299018620
   }
  ],
  "sources": {
@@ -553,27 +539,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795385415201,
+   "last_ok": 1795385749723,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795385415201
+   "last_ok": 1795385749723
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795385415201
+   "last_ok": 1795385749723
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795385415201
+   "last_ok": 1795385749723
   }
  },
  "skipped": {
