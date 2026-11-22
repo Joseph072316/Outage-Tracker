@@ -1,5 +1,5 @@
 {
- "checked": 1795386015154,
+ "checked": 1795386620201,
  "outages": [
   {
    "key": "walton:D1208289",
@@ -12,7 +12,7 @@
    "customers": 45,
    "start": 1795383615081,
    "cause": "T 50-3 hit by auto at 6741 Highland Point Pl",
-   "last_seen": 1795386015154,
+   "last_seen": 1795386620201,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 2,
    "start": 1795382417157,
    "cause": null,
-   "last_seen": 1795386015154,
+   "last_seen": 1795386620201,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 4,
    "start": 1795369221754,
    "cause": null,
-   "last_seen": 1795386015154,
+   "last_seen": 1795386620201,
    "cleared": null
   },
   {
@@ -539,27 +539,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795386015154,
+   "last_ok": 1795386620201,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795386015154
+   "last_ok": 1795386620201
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795386015154
+   "last_ok": 1795386620201
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795386015154
+   "last_ok": 1795386620201
   }
  },
  "skipped": {
@@ -572,6 +572,7 @@
   "gapower:33.9934,-83.8219": 1795375219303,
   "gapower:33.9743,-83.8196": 1795376415495,
   "gapower:34.3291,-83.8115": 1795378199957,
-  "gapower:33.9613,-83.8177": 1795380016117
+  "gapower:33.9613,-83.8177": 1795380016117,
+  "rayle:2026-11-22-0312": 1795386620201
  }
 }
