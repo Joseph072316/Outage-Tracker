@@ -1,6 +1,20 @@
 {
- "checked": 1795368618808,
+ "checked": 1795369221754,
  "outages": [
+  {
+   "key": "gapower:33.6589,-83.7139",
+   "utility": "Georgia Power",
+   "lat": 33.6589,
+   "lon": -83.71386,
+   "county": "Walton",
+   "location": "Dogwood Avenue near Social Circle (30025)",
+   "first_seen": 1795369221754,
+   "customers": 4,
+   "start": 1795369221754,
+   "cause": null,
+   "last_seen": 1795369221754,
+   "cleared": null
+  },
   {
    "key": "gapower:34.0480,-83.1947",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 4,
    "start": 1795367415315,
    "cause": null,
-   "last_seen": 1795368618808,
+   "last_seen": 1795369221754,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 4,
    "start": 1795366824634,
    "cause": null,
-   "last_seen": 1795368618808,
+   "last_seen": 1795369221754,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 1,
    "start": 1795366373000,
    "cause": null,
-   "last_seen": 1795368618808,
+   "last_seen": 1795369221754,
    "cleared": null
   },
   {
@@ -464,20 +478,6 @@
    "cleared": 1795288217613
   },
   {
-   "key": "gapower:33.7458,-83.1509",
-   "utility": "Georgia Power",
-   "lat": 33.74577,
-   "lon": -83.15088,
-   "county": "Oglethorpe",
-   "location": "Lovers Lane (30671)",
-   "first_seen": 1795276826796,
-   "customers": 4,
-   "start": 1795276826796,
-   "cause": null,
-   "last_seen": 1795281616716,
-   "cleared": 1795282221905
-  },
-  {
    "key": "walton:C1208219",
    "utility": "Walton EMC",
    "lat": 33.86844976270161,
@@ -497,27 +497,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795368618808,
+   "last_ok": 1795369221754,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795368618808
+   "last_ok": 1795369221754
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795368618808
+   "last_ok": 1795369221754
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
+   "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795368618808
+   "last_ok": 1795369221754
   }
  },
  "skipped": {
