@@ -1,5 +1,5 @@
 {
- "checked": 1795449018038,
+ "checked": 1795449622735,
  "outages": [
   {
    "key": "jackson:606982",
@@ -11,8 +11,8 @@
    "first_seen": 1795449018038,
    "customers": 1,
    "start": 1795448343000,
-   "cause": null,
-   "last_seen": 1795449018038,
+   "cause": "Planned",
+   "last_seen": 1795449622735,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 1,
    "start": 1795447824155,
    "cause": null,
-   "last_seen": 1795449018038,
+   "last_seen": 1795449622735,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 5,
    "start": 1795446025041,
    "cause": null,
-   "last_seen": 1795449018038,
+   "last_seen": 1795449622735,
    "cleared": null
   },
   {
@@ -54,35 +54,7 @@
    "customers": 229,
    "start": 1795444223268,
    "cause": null,
-   "last_seen": 1795449018038,
-   "cleared": null
-  },
-  {
-   "key": "gapower:34.0630,-83.1223",
-   "utility": "Georgia Power",
-   "lat": 34.063,
-   "lon": -83.12232,
-   "county": "Madison",
-   "location": "Oak Street near Comer (30629)",
-   "first_seen": 1795443617886,
-   "customers": 4,
-   "start": 1795443617886,
-   "cause": null,
-   "last_seen": 1795449018038,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.8617,-83.4074",
-   "utility": "Georgia Power",
-   "lat": 33.86173,
-   "lon": -83.40743,
-   "county": "Oconee",
-   "location": "First Street near Watkinsville (30644)",
-   "first_seen": 1795442428739,
-   "customers": 4,
-   "start": 1795442428739,
-   "cause": null,
-   "last_seen": 1795449018038,
+   "last_seen": 1795449622735,
    "cleared": null
   },
   {
@@ -96,7 +68,7 @@
    "customers": 1,
    "start": 1795441885000,
    "cause": "Planned",
-   "last_seen": 1795449018038,
+   "last_seen": 1795449622735,
    "cleared": null
   },
   {
@@ -110,7 +82,7 @@
    "customers": 5,
    "start": 1795441821313,
    "cause": null,
-   "last_seen": 1795449018038,
+   "last_seen": 1795449622735,
    "cleared": null
   },
   {
@@ -124,7 +96,7 @@
    "customers": 9,
    "start": 1795441216944,
    "cause": null,
-   "last_seen": 1795449018038,
+   "last_seen": 1795449622735,
    "cleared": null
   },
   {
@@ -138,7 +110,7 @@
    "customers": 4,
    "start": 1795440623088,
    "cause": null,
-   "last_seen": 1795449018038,
+   "last_seen": 1795449622735,
    "cleared": null
   },
   {
@@ -156,6 +128,20 @@
    "cleared": 1795448418888
   },
   {
+   "key": "gapower:34.0630,-83.1223",
+   "utility": "Georgia Power",
+   "lat": 34.063,
+   "lon": -83.12232,
+   "county": "Madison",
+   "location": "Oak Street near Comer (30629)",
+   "first_seen": 1795443617886,
+   "customers": 4,
+   "start": 1795443617886,
+   "cause": null,
+   "last_seen": 1795449018038,
+   "cleared": 1795449622735
+  },
+  {
    "key": "walton:C1208302",
    "utility": "Walton EMC",
    "lat": 33.87327236900963,
@@ -168,6 +154,20 @@
    "cause": null,
    "last_seen": 1795446025041,
    "cleared": 1795446376190
+  },
+  {
+   "key": "gapower:33.8617,-83.4074",
+   "utility": "Georgia Power",
+   "lat": 33.86173,
+   "lon": -83.40743,
+   "county": "Oconee",
+   "location": "First Street near Watkinsville (30644)",
+   "first_seen": 1795442428739,
+   "customers": 4,
+   "start": 1795442428739,
+   "cause": null,
+   "last_seen": 1795449018038,
+   "cleared": 1795449622735
   },
   {
    "key": "walton:C1208300",
@@ -483,27 +483,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795449018038,
+   "last_ok": 1795449622735,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795449018038
+   "last_ok": 1795449622735
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795449018038
+   "last_ok": 1795449622735
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "7 outage(s) in your counties",
+   "message": "5 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795449018038
+   "last_ok": 1795449622735
   }
  },
  "skipped": {
