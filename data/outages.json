@@ -1,5 +1,5 @@
 {
- "checked": 1795446376190,
+ "checked": 1795446616696,
  "outages": [
   {
    "key": "gapower:33.9662,-83.2941",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795446025041,
    "cause": null,
-   "last_seen": 1795446376190,
+   "last_seen": 1795446616696,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 229,
    "start": 1795444223268,
    "cause": null,
-   "last_seen": 1795446376190,
+   "last_seen": 1795446616696,
    "cleared": null
   },
   {
@@ -40,7 +40,21 @@
    "customers": 4,
    "start": 1795443617886,
    "cause": null,
-   "last_seen": 1795446376190,
+   "last_seen": 1795446616696,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.8617,-83.4074",
+   "utility": "Georgia Power",
+   "lat": 33.86173,
+   "lon": -83.40743,
+   "county": "Oconee",
+   "location": "First Street near Watkinsville (30644)",
+   "first_seen": 1795442428739,
+   "customers": 4,
+   "start": 1795442428739,
+   "cause": null,
+   "last_seen": 1795446616696,
    "cleared": null
   },
   {
@@ -54,7 +68,7 @@
    "customers": 1,
    "start": 1795441885000,
    "cause": "Planned",
-   "last_seen": 1795446376190,
+   "last_seen": 1795446616696,
    "cleared": null
   },
   {
@@ -68,7 +82,7 @@
    "customers": 5,
    "start": 1795441821313,
    "cause": null,
-   "last_seen": 1795446376190,
+   "last_seen": 1795446616696,
    "cleared": null
   },
   {
@@ -82,7 +96,7 @@
    "customers": 9,
    "start": 1795441216944,
    "cause": null,
-   "last_seen": 1795446376190,
+   "last_seen": 1795446616696,
    "cleared": null
   },
   {
@@ -96,7 +110,7 @@
    "customers": 4,
    "start": 1795440623088,
    "cause": null,
-   "last_seen": 1795446376190,
+   "last_seen": 1795446616696,
    "cleared": null
   },
   {
@@ -112,20 +126,6 @@
    "cause": null,
    "last_seen": 1795446025041,
    "cleared": 1795446376190
-  },
-  {
-   "key": "gapower:33.8617,-83.4074",
-   "utility": "Georgia Power",
-   "lat": 33.86173,
-   "lon": -83.40743,
-   "county": "Oconee",
-   "location": "First Street near Watkinsville (30644)",
-   "first_seen": 1795442428739,
-   "customers": 4,
-   "start": 1795442428739,
-   "cause": null,
-   "last_seen": 1795445417061,
-   "cleared": 1795446025041
   },
   {
    "key": "walton:C1208300",
@@ -455,27 +455,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795446376190,
+   "last_ok": 1795446616696,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795446376190
+   "last_ok": 1795446616696
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795446376190
+   "last_ok": 1795446616696
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "6 outage(s) in your counties",
+   "message": "7 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795446376190
+   "last_ok": 1795446616696
   }
  },
  "skipped": {
