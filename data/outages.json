@@ -1,5 +1,5 @@
 {
- "checked": 1795432215968,
+ "checked": 1795432816882,
  "outages": [
   {
    "key": "gapower:33.8673,-83.4126",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795423217714,
    "cause": null,
-   "last_seen": 1795432215968,
+   "last_seen": 1795432816882,
    "cleared": null
   },
   {
@@ -392,20 +392,6 @@
    "cause": null,
    "last_seen": 1795356022363,
    "cleared": 1795356616024
-  },
-  {
-   "key": "gapower:33.6198,-83.0781",
-   "utility": "Georgia Power",
-   "lat": 33.61984,
-   "lon": -83.0781,
-   "county": "Greene",
-   "location": "Barnes Street near Union Point (30669)",
-   "first_seen": 1795327221569,
-   "customers": 42,
-   "start": 1795327221569,
-   "cause": null,
-   "last_seen": 1795345816542,
-   "cleared": 1795346415311
   }
  ],
  "sources": {
@@ -413,27 +399,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795432215968,
+   "last_ok": 1795432816882,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795432215968
+   "last_ok": 1795432816882
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795432215968
+   "last_ok": 1795432816882
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795432215968
+   "last_ok": 1795432816882
   }
  },
  "skipped": {
