@@ -1,5 +1,5 @@
 {
- "checked": 1795452617782,
+ "checked": 1795453226069,
  "outages": [
   {
    "key": "gapower:33.4424,-83.2508",
@@ -12,7 +12,7 @@
    "customers": 40,
    "start": 1795450818415,
    "cause": null,
-   "last_seen": 1795452617782,
+   "last_seen": 1795453226069,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 5,
    "start": 1795450818415,
    "cause": null,
-   "last_seen": 1795452617782,
+   "last_seen": 1795453226069,
    "cleared": null
   },
   {
@@ -40,21 +40,7 @@
    "customers": 1,
    "start": 1795450111767,
    "cause": null,
-   "last_seen": 1795452617782,
-   "cleared": null
-  },
-  {
-   "key": "jackson:606982",
-   "utility": "Jackson EMC",
-   "lat": 34.17422316294205,
-   "lon": -83.32190468348422,
-   "county": "Madison",
-   "location": "Aderhold Rogers Road near Rogers (30647)",
-   "first_seen": 1795449018038,
-   "customers": 1,
-   "start": 1795448343000,
-   "cause": "Planned",
-   "last_seen": 1795452617782,
+   "last_seen": 1795453226069,
    "cleared": null
   },
   {
@@ -68,7 +54,7 @@
    "customers": 1,
    "start": 1795447824155,
    "cause": null,
-   "last_seen": 1795452617782,
+   "last_seen": 1795453226069,
    "cleared": null
   },
   {
@@ -82,7 +68,7 @@
    "customers": 229,
    "start": 1795444223268,
    "cause": null,
-   "last_seen": 1795452617782,
+   "last_seen": 1795453226069,
    "cleared": null
   },
   {
@@ -96,7 +82,7 @@
    "customers": 9,
    "start": 1795441216944,
    "cause": null,
-   "last_seen": 1795452617782,
+   "last_seen": 1795453226069,
    "cleared": null
   },
   {
@@ -112,6 +98,20 @@
    "cause": null,
    "last_seen": 1795450818415,
    "cleared": 1795451422127
+  },
+  {
+   "key": "jackson:606982",
+   "utility": "Jackson EMC",
+   "lat": 34.17422316294205,
+   "lon": -83.32190468348422,
+   "county": "Madison",
+   "location": "Aderhold Rogers Road near Rogers (30647)",
+   "first_seen": 1795449018038,
+   "customers": 1,
+   "start": 1795448343000,
+   "cause": "Planned",
+   "last_seen": 1795452617782,
+   "cleared": 1795453226069
   },
   {
    "key": "rayle:2026-11-23-0313",
@@ -496,28 +496,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795452617782,
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795453226069,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795452617782
+   "last_ok": 1795453226069
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795452617782
+   "last_ok": 1795453226069
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "4 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795452617782
+   "last_ok": 1795453226069
   }
  },
  "skipped": {
@@ -540,6 +540,7 @@
   "gapower:33.8983,-83.9429": 1795444816945,
   "gapower:34.3395,-83.8340": 1795446025041,
   "walton:C1208305": 1795447217107,
-  "gapower:34.3308,-83.8288": 1795452017017
+  "gapower:34.3308,-83.8288": 1795452017017,
+  "gapower:34.3307,-83.8293": 1795453226069
  }
 }
