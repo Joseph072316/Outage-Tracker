@@ -1,6 +1,20 @@
 {
- "checked": 1795461017947,
+ "checked": 1795461616976,
  "outages": [
+  {
+   "key": "gapower:33.6588,-83.7109",
+   "utility": "Georgia Power",
+   "lat": 33.65879,
+   "lon": -83.7109,
+   "county": "Walton",
+   "location": "Cherry Street near Social Circle (30025)",
+   "first_seen": 1795461616976,
+   "customers": 4,
+   "start": 1795461616976,
+   "cause": null,
+   "last_seen": 1795461616976,
+   "cleared": null
+  },
   {
    "key": "jackson:606996",
    "utility": "Jackson EMC",
@@ -12,7 +26,7 @@
    "customers": 1,
    "start": 1795458940000,
    "cause": "Planned",
-   "last_seen": 1795461017947,
+   "last_seen": 1795461616976,
    "cleared": null
   },
   {
@@ -26,21 +40,7 @@
    "customers": 1,
    "start": 1795458016720,
    "cause": null,
-   "last_seen": 1795461017947,
-   "cleared": null
-  },
-  {
-   "key": "jackson:606994",
-   "utility": "Jackson EMC",
-   "lat": 34.13285360426689,
-   "lon": -83.75169464807819,
-   "county": "Jackson",
-   "location": "Duck Road (30517)",
-   "first_seen": 1795458620744,
-   "customers": 2,
-   "start": 1795457812000,
-   "cause": null,
-   "last_seen": 1795461017947,
+   "last_seen": 1795461616976,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 4,
    "start": 1795455027296,
    "cause": null,
-   "last_seen": 1795461017947,
+   "last_seen": 1795461616976,
    "cleared": null
   },
   {
@@ -68,21 +68,7 @@
    "customers": 40,
    "start": 1795450818415,
    "cause": null,
-   "last_seen": 1795461017947,
-   "cleared": null
-  },
-  {
-   "key": "gapower:34.0426,-83.0326",
-   "utility": "Georgia Power",
-   "lat": 34.04256,
-   "lon": -83.03261,
-   "county": "Madison",
-   "location": "South Railroad Avenue near Carlton (30629)",
-   "first_seen": 1795444223268,
-   "customers": 229,
-   "start": 1795444223268,
-   "cause": null,
-   "last_seen": 1795461017947,
+   "last_seen": 1795461616976,
    "cleared": null
   },
   {
@@ -98,6 +84,20 @@
    "cause": null,
    "last_seen": 1795460492269,
    "cleared": 1795461017947
+  },
+  {
+   "key": "jackson:606994",
+   "utility": "Jackson EMC",
+   "lat": 34.13285360426689,
+   "lon": -83.75169464807819,
+   "county": "Jackson",
+   "location": "Duck Road (30517)",
+   "first_seen": 1795458620744,
+   "customers": 2,
+   "start": 1795457812000,
+   "cause": null,
+   "last_seen": 1795461017947,
+   "cleared": 1795461616976
   },
   {
    "key": "gapower:33.9238,-83.3219",
@@ -196,6 +196,20 @@
    "cause": null,
    "last_seen": 1795450818415,
    "cleared": 1795451422127
+  },
+  {
+   "key": "gapower:34.0426,-83.0326",
+   "utility": "Georgia Power",
+   "lat": 34.04256,
+   "lon": -83.03261,
+   "county": "Madison",
+   "location": "South Railroad Avenue near Carlton (30629)",
+   "first_seen": 1795444223268,
+   "customers": 229,
+   "start": 1795444223268,
+   "cause": null,
+   "last_seen": 1795461017947,
+   "cleared": 1795461616976
   },
   {
    "key": "gapower:34.0630,-83.1223",
@@ -468,28 +482,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1795461017947,
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795461616976,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795461017947
+   "last_ok": 1795461616976
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795461017947
+   "last_ok": 1795461616976
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795461017947
+   "last_ok": 1795461616976
   }
  },
  "skipped": {
