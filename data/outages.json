@@ -1,18 +1,18 @@
 {
- "checked": 1795398616686,
+ "checked": 1795399221683,
  "outages": [
   {
-   "key": "walton:D1208280",
-   "utility": "Walton EMC",
-   "lat": 33.82534221033344,
-   "lon": -83.85138604419929,
-   "county": "Walton",
-   "location": "Broadnax Mill Road (30052)",
-   "first_seen": 1795382417157,
-   "customers": 2,
-   "start": 1795382417157,
+   "key": "jackson:606959",
+   "utility": "Jackson EMC",
+   "lat": 33.99859224054087,
+   "lon": -83.41355979193568,
+   "county": "Clarke",
+   "location": "Vincent Drive near Athens (30607)",
+   "first_seen": 1795399221683,
+   "customers": 1,
+   "start": 1795398940863,
    "cause": null,
-   "last_seen": 1795398616686,
+   "last_seen": 1795399221683,
    "cleared": null
   },
   {
@@ -56,6 +56,20 @@
    "cause": null,
    "last_seen": 1795383019602,
    "cleared": 1795383615081
+  },
+  {
+   "key": "walton:D1208280",
+   "utility": "Walton EMC",
+   "lat": 33.82534221033344,
+   "lon": -83.85138604419929,
+   "county": "Walton",
+   "location": "Broadnax Mill Road (30052)",
+   "first_seen": 1795382417157,
+   "customers": 2,
+   "start": 1795382417157,
+   "cause": null,
+   "last_seen": 1795398616686,
+   "cleared": 1795399221683
   },
   {
    "key": "walton:C1208279",
@@ -510,28 +524,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795398616686,
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795399221683,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795398616686
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795399221683
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795398616686
+   "last_ok": 1795399221683
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795398616686
+   "last_ok": 1795399221683
   }
  },
  "skipped": {
