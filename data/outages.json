@@ -1,6 +1,20 @@
 {
- "checked": 1795423036540,
+ "checked": 1795423217714,
  "outages": [
+  {
+   "key": "gapower:33.8673,-83.4126",
+   "utility": "Georgia Power",
+   "lat": 33.86733,
+   "lon": -83.41263,
+   "county": "Oconee",
+   "location": "North Main Street near Watkinsville (30644)",
+   "first_seen": 1795423217714,
+   "customers": 4,
+   "start": 1795423217714,
+   "cause": null,
+   "last_seen": 1795423217714,
+   "cleared": null
+  },
   {
    "key": "jackson:606963",
    "utility": "Jackson EMC",
@@ -413,27 +427,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795423036540,
+   "last_ok": 1795423217714,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795423036540
+   "last_ok": 1795423217714
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795423036540
+   "last_ok": 1795423217714
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
+   "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795423036540
+   "last_ok": 1795423217714
   }
  },
  "skipped": {
