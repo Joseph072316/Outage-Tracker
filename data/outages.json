@@ -1,6 +1,20 @@
 {
- "checked": 1795458016720,
+ "checked": 1795458620744,
  "outages": [
+  {
+   "key": "gapower:33.6590,-83.7105",
+   "utility": "Georgia Power",
+   "lat": 33.65897,
+   "lon": -83.71054,
+   "county": "Walton",
+   "location": "Cherry Street near Social Circle (30025)",
+   "first_seen": 1795458620744,
+   "customers": 4,
+   "start": 1795458620744,
+   "cause": null,
+   "last_seen": 1795458620744,
+   "cleared": null
+  },
   {
    "key": "walton:C1208310",
    "utility": "Walton EMC",
@@ -12,7 +26,21 @@
    "customers": 1,
    "start": 1795458016720,
    "cause": null,
-   "last_seen": 1795458016720,
+   "last_seen": 1795458620744,
+   "cleared": null
+  },
+  {
+   "key": "jackson:606994",
+   "utility": "Jackson EMC",
+   "lat": 34.13285360426689,
+   "lon": -83.75169464807819,
+   "county": "Jackson",
+   "location": "Duck Road (30517)",
+   "first_seen": 1795458620744,
+   "customers": 2,
+   "start": 1795457812000,
+   "cause": null,
+   "last_seen": 1795458620744,
    "cleared": null
   },
   {
@@ -26,7 +54,7 @@
    "customers": 4,
    "start": 1795455027296,
    "cause": null,
-   "last_seen": 1795458016720,
+   "last_seen": 1795458620744,
    "cleared": null
   },
   {
@@ -40,7 +68,7 @@
    "customers": 40,
    "start": 1795450818415,
    "cause": null,
-   "last_seen": 1795458016720,
+   "last_seen": 1795458620744,
    "cleared": null
   },
   {
@@ -54,7 +82,7 @@
    "customers": 229,
    "start": 1795444223268,
    "cause": null,
-   "last_seen": 1795458016720,
+   "last_seen": 1795458620744,
    "cleared": null
   },
   {
@@ -462,62 +490,34 @@
    "cause": null,
    "last_seen": 1795372219246,
    "cleared": 1795372816943
-  },
-  {
-   "key": "gapower:33.6586,-83.7116",
-   "utility": "Georgia Power",
-   "lat": 33.65856,
-   "lon": -83.71161,
-   "county": "Walton",
-   "location": "Boxwood Street near Social Circle (30025)",
-   "first_seen": 1795366824634,
-   "customers": 4,
-   "start": 1795366824634,
-   "cause": null,
-   "last_seen": 1795371616878,
-   "cleared": 1795372188427
-  },
-  {
-   "key": "jackson:606955",
-   "utility": "Jackson EMC",
-   "lat": 33.99311815561773,
-   "lon": -83.51609349847936,
-   "county": "Jackson",
-   "location": "GA 330 (30608)",
-   "first_seen": 1795366824634,
-   "customers": 1,
-   "start": 1795366373000,
-   "cause": null,
-   "last_seen": 1795371015855,
-   "cleared": 1795371616878
   }
  ],
  "sources": {
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795458016720,
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795458620744,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795458016720
+   "last_ok": 1795458620744
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795458016720
+   "last_ok": 1795458620744
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "3 outage(s) in your counties",
+   "message": "4 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795458016720
+   "last_ok": 1795458620744
   }
  },
  "skipped": {
