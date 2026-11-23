@@ -1,5 +1,5 @@
 {
- "checked": 1795465820771,
+ "checked": 1795466416432,
  "outages": [
   {
    "key": "rayle:2026-11-23-0317",
@@ -12,7 +12,7 @@
    "customers": 2,
    "start": 1795464982000,
    "cause": null,
-   "last_seen": 1795465820771,
+   "last_seen": 1795466416432,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1795463417762,
    "cause": null,
-   "last_seen": 1795465820771,
+   "last_seen": 1795466416432,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 1,
    "start": 1795463326000,
    "cause": null,
-   "last_seen": 1795465820771,
+   "last_seen": 1795466416432,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 4,
    "start": 1795462817726,
    "cause": null,
-   "last_seen": 1795465820771,
+   "last_seen": 1795466416432,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 1,
    "start": 1795462604000,
    "cause": null,
-   "last_seen": 1795465820771,
+   "last_seen": 1795466416432,
    "cleared": null
   },
   {
@@ -82,7 +82,7 @@
    "customers": 4,
    "start": 1795461616976,
    "cause": null,
-   "last_seen": 1795465820771,
+   "last_seen": 1795466416432,
    "cleared": null
   },
   {
@@ -539,31 +539,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795465820771,
+   "last_ok": 1795466416432,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795465820771
+   "last_ok": 1795466416432
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "3 outage(s) in your counties",
-   "last_ok": 1795465820771
+   "last_ok": 1795466416432
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795465820771
+   "last_ok": 1795466416432
   }
  },
  "skipped": {
-  "gapower:33.9613,-83.8177": 1795380016117,
   "rayle:2026-11-22-0312": 1795386620201,
   "gapower:34.2902,-83.1115": 1795393819879,
   "walton:C1208299": 1795426825386,
@@ -580,6 +579,7 @@
   "gapower:34.3308,-83.8288": 1795452017017,
   "gapower:34.3307,-83.8293": 1795453226069,
   "gapower:34.2863,-83.8537": 1795459216253,
-  "gapower:34.2826,-83.8424": 1795465217089
+  "gapower:34.2826,-83.8424": 1795465217089,
+  "walton:C1208314": 1795466416432
  }
 }
