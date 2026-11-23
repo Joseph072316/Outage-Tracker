@@ -1,5 +1,5 @@
 {
- "checked": 1795450111767,
+ "checked": 1795450216222,
  "outages": [
   {
    "key": "walton:C1208307",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1795450111767,
    "cause": null,
-   "last_seen": 1795450111767,
+   "last_seen": 1795450216222,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 1,
    "start": 1795448343000,
    "cause": "Planned",
-   "last_seen": 1795450111767,
+   "last_seen": 1795450216222,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 1,
    "start": 1795447824155,
    "cause": null,
-   "last_seen": 1795450111767,
+   "last_seen": 1795450216222,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 5,
    "start": 1795446025041,
    "cause": null,
-   "last_seen": 1795450111767,
+   "last_seen": 1795450216222,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 229,
    "start": 1795444223268,
    "cause": null,
-   "last_seen": 1795450111767,
+   "last_seen": 1795450216222,
    "cleared": null
   },
   {
@@ -82,21 +82,7 @@
    "customers": 1,
    "start": 1795441885000,
    "cause": "Planned",
-   "last_seen": 1795450111767,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.6592,-83.7130",
-   "utility": "Georgia Power",
-   "lat": 33.65919,
-   "lon": -83.713,
-   "county": "Walton",
-   "location": "Oak Drive Northeast near Social Circle (30025)",
-   "first_seen": 1795441821313,
-   "customers": 5,
-   "start": 1795441821313,
-   "cause": null,
-   "last_seen": 1795450111767,
+   "last_seen": 1795450216222,
    "cleared": null
   },
   {
@@ -110,7 +96,7 @@
    "customers": 9,
    "start": 1795441216944,
    "cause": null,
-   "last_seen": 1795450111767,
+   "last_seen": 1795450216222,
    "cleared": null
   },
   {
@@ -124,7 +110,7 @@
    "customers": 4,
    "start": 1795440623088,
    "cause": null,
-   "last_seen": 1795450111767,
+   "last_seen": 1795450216222,
    "cleared": null
   },
   {
@@ -182,6 +168,20 @@
    "cause": null,
    "last_seen": 1795449018038,
    "cleared": 1795449622735
+  },
+  {
+   "key": "gapower:33.6592,-83.7130",
+   "utility": "Georgia Power",
+   "lat": 33.65919,
+   "lon": -83.713,
+   "county": "Walton",
+   "location": "Oak Drive Northeast near Social Circle (30025)",
+   "first_seen": 1795441821313,
+   "customers": 5,
+   "start": 1795441821313,
+   "cause": null,
+   "last_seen": 1795450111767,
+   "cleared": 1795450216222
   },
   {
    "key": "walton:C1208300",
@@ -497,27 +497,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795450111767,
+   "last_ok": 1795450216222,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795450111767
+   "last_ok": 1795450216222
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795450111767
+   "last_ok": 1795450216222
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "5 outage(s) in your counties",
+   "message": "4 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795450111767
+   "last_ok": 1795450216222
   }
  },
  "skipped": {
