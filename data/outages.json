@@ -1,5 +1,5 @@
 {
- "checked": 1795421416098,
+ "checked": 1795422017750,
  "outages": [
   {
    "key": "jackson:606963",
@@ -13,7 +13,7 @@
    "start": 1795415711000,
    "cause": null,
    "last_seen": 1795421416098,
-   "cleared": null
+   "cleared": 1795422017750
   },
   {
    "key": "jackson:606959",
@@ -394,20 +394,6 @@
    "cleared": 1795356616024
   },
   {
-   "key": "jackson:606919",
-   "utility": "Jackson EMC",
-   "lat": 34.19495606845229,
-   "lon": -83.68654882366476,
-   "county": "Jackson",
-   "location": "Old State Road near Pendergrass (30567)",
-   "first_seen": 1795329615364,
-   "customers": 3,
-   "start": 1795328647127,
-   "cause": null,
-   "last_seen": 1795334421321,
-   "cleared": 1795335018281
-  },
-  {
    "key": "gapower:33.6198,-83.0781",
    "utility": "Georgia Power",
    "lat": 33.61984,
@@ -426,28 +412,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795421416098,
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795422017750,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795421416098
+   "last_ok": 1795422017750
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795421416098
+   "last_ok": 1795422017750
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795421416098
+   "last_ok": 1795422017750
   }
  },
  "skipped": {
