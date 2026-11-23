@@ -1,6 +1,20 @@
 {
- "checked": 1795443617886,
+ "checked": 1795444223268,
  "outages": [
+  {
+   "key": "gapower:34.0426,-83.0326",
+   "utility": "Georgia Power",
+   "lat": 34.04256,
+   "lon": -83.03261,
+   "county": "Madison",
+   "location": "South Railroad Avenue near Carlton (30629)",
+   "first_seen": 1795444223268,
+   "customers": 229,
+   "start": 1795444223268,
+   "cause": null,
+   "last_seen": 1795444223268,
+   "cleared": null
+  },
   {
    "key": "gapower:34.0630,-83.1223",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 4,
    "start": 1795443617886,
    "cause": null,
-   "last_seen": 1795443617886,
+   "last_seen": 1795444223268,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 1,
    "start": 1795442782732,
    "cause": null,
-   "last_seen": 1795443617886,
+   "last_seen": 1795444223268,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 4,
    "start": 1795442428739,
    "cause": null,
-   "last_seen": 1795443617886,
+   "last_seen": 1795444223268,
    "cleared": null
   },
   {
@@ -54,7 +68,7 @@
    "customers": 1,
    "start": 1795441885000,
    "cause": "Planned",
-   "last_seen": 1795443617886,
+   "last_seen": 1795444223268,
    "cleared": null
   },
   {
@@ -68,7 +82,7 @@
    "customers": 5,
    "start": 1795441821313,
    "cause": null,
-   "last_seen": 1795443617886,
+   "last_seen": 1795444223268,
    "cleared": null
   },
   {
@@ -82,7 +96,7 @@
    "customers": 9,
    "start": 1795441216944,
    "cause": null,
-   "last_seen": 1795443617886,
+   "last_seen": 1795444223268,
    "cleared": null
   },
   {
@@ -96,7 +110,7 @@
    "customers": 4,
    "start": 1795440623088,
    "cause": null,
-   "last_seen": 1795443617886,
+   "last_seen": 1795444223268,
    "cleared": null
   },
   {
@@ -110,7 +124,7 @@
    "customers": 1,
    "start": 1795440016081,
    "cause": null,
-   "last_seen": 1795443617886,
+   "last_seen": 1795444223268,
    "cleared": null
   },
   {
@@ -408,20 +422,6 @@
    "cleared": 1795367415315
   },
   {
-   "key": "gapower:33.9123,-83.3312",
-   "utility": "Georgia Power",
-   "lat": 33.91229,
-   "lon": -83.33122,
-   "county": "Clarke",
-   "location": "Curtis Drive near Athens (30605)",
-   "first_seen": 1795356616024,
-   "customers": 4,
-   "start": 1795356616024,
-   "cause": null,
-   "last_seen": 1795357220629,
-   "cleared": 1795357819891
-  },
-  {
    "key": "rayle:2026-11-22-0308",
    "utility": "Rayle EMC",
    "lat": 33.952887221458,
@@ -455,27 +455,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795443617886,
+   "last_ok": 1795444223268,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795443617886
+   "last_ok": 1795444223268
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795443617886
+   "last_ok": 1795444223268
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "5 outage(s) in your counties",
+   "message": "6 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795443617886
+   "last_ok": 1795444223268
   }
  },
  "skipped": {
@@ -490,6 +490,9 @@
   "walton:C1208299": 1795426825386,
   "gapower:33.9073,-83.9341": 1795441216944,
   "gapower:33.9858,-83.9027": 1795441821313,
-  "gapower:33.9786,-83.6684": 1795442428739
+  "gapower:33.9786,-83.6684": 1795442428739,
+  "walton:C1208303": 1795444223268,
+  "gapower:34.3046,-83.7729": 1795444223268,
+  "gapower:34.2828,-83.8427": 1795444223268
  }
 }
