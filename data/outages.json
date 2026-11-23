@@ -1,6 +1,20 @@
 {
- "checked": 1795454417953,
+ "checked": 1795455027296,
  "outages": [
+  {
+   "key": "gapower:33.6601,-83.7096",
+   "utility": "Georgia Power",
+   "lat": 33.66009,
+   "lon": -83.70956,
+   "county": "Walton",
+   "location": "A P Henderson Drive near Social Circle (30025)",
+   "first_seen": 1795455027296,
+   "customers": 4,
+   "start": 1795455027296,
+   "cause": null,
+   "last_seen": 1795455027296,
+   "cleared": null
+  },
   {
    "key": "gapower:33.4424,-83.2508",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 40,
    "start": 1795450818415,
    "cause": null,
-   "last_seen": 1795454417953,
+   "last_seen": 1795455027296,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 1,
    "start": 1795450111767,
    "cause": null,
-   "last_seen": 1795454417953,
+   "last_seen": 1795455027296,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 229,
    "start": 1795444223268,
    "cause": null,
-   "last_seen": 1795454417953,
+   "last_seen": 1795455027296,
    "cleared": null
   },
   {
@@ -54,7 +68,7 @@
    "customers": 9,
    "start": 1795441216944,
    "cause": null,
-   "last_seen": 1795454417953,
+   "last_seen": 1795455027296,
    "cleared": null
   },
   {
@@ -462,20 +476,6 @@
    "cause": null,
    "last_seen": 1795371015855,
    "cleared": 1795371616878
-  },
-  {
-   "key": "jackson:606951",
-   "utility": "Jackson EMC",
-   "lat": 34.202906045830495,
-   "lon": -83.48634129626518,
-   "county": "Jackson",
-   "location": "B Wilson Road near Commerce (30529)",
-   "first_seen": 1795365615544,
-   "customers": 7,
-   "start": 1795364698000,
-   "cause": null,
-   "last_seen": 1795367574207,
-   "cleared": 1795368021723
   }
  ],
  "sources": {
@@ -483,27 +483,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795454417953,
+   "last_ok": 1795455027296,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795454417953
+   "last_ok": 1795455027296
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795454417953
+   "last_ok": 1795455027296
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "3 outage(s) in your counties",
+   "message": "4 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795454417953
+   "last_ok": 1795455027296
   }
  },
  "skipped": {
