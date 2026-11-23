@@ -1,5 +1,5 @@
 {
- "checked": 1795469923997,
+ "checked": 1795470017273,
  "outages": [
   {
    "key": "rayle:2026-11-23-0316",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1795463326000,
    "cause": null,
-   "last_seen": 1795469923997,
+   "last_seen": 1795470017273,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 1,
    "start": 1795462604000,
    "cause": null,
-   "last_seen": 1795469923997,
+   "last_seen": 1795470017273,
    "cleared": null
   },
   {
@@ -450,34 +450,6 @@
    "cleared": 1795395620355
   },
   {
-   "key": "walton:C1208281",
-   "utility": "Walton EMC",
-   "lat": 33.89741431129815,
-   "lon": -83.7693048669416,
-   "county": "Walton",
-   "location": "Highland Pointe Place (30656)",
-   "first_seen": 1795383019602,
-   "customers": 1,
-   "start": 1795383019602,
-   "cause": null,
-   "last_seen": 1795383019602,
-   "cleared": 1795383615081
-  },
-  {
-   "key": "walton:C1208282",
-   "utility": "Walton EMC",
-   "lat": 33.890258952372854,
-   "lon": -83.77897567335627,
-   "county": "Walton",
-   "location": "Providence Club Drive (30656)",
-   "first_seen": 1795383019602,
-   "customers": 1,
-   "start": 1795383019602,
-   "cause": null,
-   "last_seen": 1795383019602,
-   "cleared": 1795383615081
-  },
-  {
    "key": "walton:D1208280",
    "utility": "Walton EMC",
    "lat": 33.82534221033344,
@@ -525,27 +497,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795469923997,
+   "last_ok": 1795470017273,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795469923997
+   "last_ok": 1795470017273
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795469923997
+   "last_ok": 1795470017273
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795469923997
+   "last_ok": 1795470017273
   }
  },
  "skipped": {
@@ -566,6 +538,7 @@
   "gapower:34.3307,-83.8293": 1795453226069,
   "gapower:34.2863,-83.8537": 1795459216253,
   "gapower:34.2826,-83.8424": 1795465217089,
-  "walton:C1208314": 1795466416432
+  "walton:C1208314": 1795466416432,
+  "gapower:33.6179,-83.8804": 1795470017273
  }
 }
