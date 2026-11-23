@@ -1,5 +1,5 @@
 {
- "checked": 1795468220194,
+ "checked": 1795468823804,
  "outages": [
   {
    "key": "rayle:2026-11-23-0316",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1795463326000,
    "cause": null,
-   "last_seen": 1795468220194,
+   "last_seen": 1795468823804,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 1,
    "start": 1795462604000,
    "cause": null,
-   "last_seen": 1795468220194,
+   "last_seen": 1795468823804,
    "cleared": null
   },
   {
@@ -506,20 +506,6 @@
    "cleared": 1795384215686
   },
   {
-   "key": "walton:C1208278",
-   "utility": "Walton EMC",
-   "lat": 33.82543017711541,
-   "lon": -83.85087784912326,
-   "county": "Walton",
-   "location": "Broadnax Mill Road (30052)",
-   "first_seen": 1795380016117,
-   "customers": 1,
-   "start": 1795380016117,
-   "cause": null,
-   "last_seen": 1795381817011,
-   "cleared": 1795382417157
-  },
-  {
    "key": "gapower:33.6589,-83.7139",
    "utility": "Georgia Power",
    "lat": 33.6589,
@@ -539,27 +525,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795468220194,
+   "last_ok": 1795468823804,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795468220194
+   "last_ok": 1795468823804
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795468220194
+   "last_ok": 1795468823804
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795468220194
+   "last_ok": 1795468823804
   }
  },
  "skipped": {
