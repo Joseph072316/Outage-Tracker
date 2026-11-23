@@ -1,5 +1,5 @@
 {
- "checked": 1795398013682,
+ "checked": 1795398616686,
  "outages": [
   {
    "key": "walton:D1208280",
@@ -12,7 +12,7 @@
    "customers": 2,
    "start": 1795382417157,
    "cause": null,
-   "last_seen": 1795398013682,
+   "last_seen": 1795398616686,
    "cleared": null
   },
   {
@@ -492,20 +492,6 @@
    "cleared": 1795313416915
   },
   {
-   "key": "gapower:34.0461,-83.2014",
-   "utility": "Georgia Power",
-   "lat": 34.0461,
-   "lon": -83.20138,
-   "county": "Madison",
-   "location": "Charles Hart Road near Colbert (30628)",
-   "first_seen": 1795303819735,
-   "customers": 4,
-   "start": 1795303819735,
-   "cause": null,
-   "last_seen": 1795311018849,
-   "cleared": 1795311616620
-  },
-  {
    "key": "walton:C1208234",
    "utility": "Walton EMC",
    "lat": 33.863118355346195,
@@ -525,27 +511,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795398013682,
+   "last_ok": 1795398616686,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795398013682
+   "last_ok": 1795398616686
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795398013682
+   "last_ok": 1795398616686
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795398013682
+   "last_ok": 1795398616686
   }
  },
  "skipped": {
