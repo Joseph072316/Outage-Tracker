@@ -1,5 +1,5 @@
 {
- "checked": 1795467625743,
+ "checked": 1795468220194,
  "outages": [
   {
    "key": "rayle:2026-11-23-0316",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1795463326000,
    "cause": null,
-   "last_seen": 1795467625743,
+   "last_seen": 1795468220194,
    "cleared": null
   },
   {
@@ -26,21 +26,7 @@
    "customers": 1,
    "start": 1795462604000,
    "cause": null,
-   "last_seen": 1795467625743,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.6588,-83.7109",
-   "utility": "Georgia Power",
-   "lat": 33.65879,
-   "lon": -83.7109,
-   "county": "Walton",
-   "location": "Cherry Street near Social Circle (30025)",
-   "first_seen": 1795461616976,
-   "customers": 4,
-   "start": 1795461616976,
-   "cause": null,
-   "last_seen": 1795467625743,
+   "last_seen": 1795468220194,
    "cleared": null
   },
   {
@@ -84,6 +70,20 @@
    "cause": null,
    "last_seen": 1795466416432,
    "cleared": 1795467017054
+  },
+  {
+   "key": "gapower:33.6588,-83.7109",
+   "utility": "Georgia Power",
+   "lat": 33.65879,
+   "lon": -83.7109,
+   "county": "Walton",
+   "location": "Cherry Street near Social Circle (30025)",
+   "first_seen": 1795461616976,
+   "customers": 4,
+   "start": 1795461616976,
+   "cause": null,
+   "last_seen": 1795467625743,
+   "cleared": 1795468220194
   },
   {
    "key": "jackson:606996",
@@ -539,27 +539,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795467625743,
+   "last_ok": 1795468220194,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795467625743
+   "last_ok": 1795468220194
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795467625743
+   "last_ok": 1795468220194
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
+   "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795467625743
+   "last_ok": 1795468220194
   }
  },
  "skipped": {
