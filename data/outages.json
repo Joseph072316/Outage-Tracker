@@ -1,6 +1,20 @@
 {
- "checked": 1795462817726,
+ "checked": 1795463417762,
  "outages": [
+  {
+   "key": "gapower:33.9769,-83.4122",
+   "utility": "Georgia Power",
+   "lat": 33.97687,
+   "lon": -83.41216,
+   "county": "Clarke",
+   "location": "Country Club Drive near Athens (30607)",
+   "first_seen": 1795463417762,
+   "customers": 4,
+   "start": 1795463417762,
+   "cause": null,
+   "last_seen": 1795463417762,
+   "cleared": null
+  },
   {
    "key": "gapower:33.9765,-83.4131",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 4,
    "start": 1795462817726,
    "cause": null,
-   "last_seen": 1795462817726,
+   "last_seen": 1795463417762,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 1,
    "start": 1795462604000,
    "cause": null,
-   "last_seen": 1795462817726,
+   "last_seen": 1795463417762,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 4,
    "start": 1795461616976,
    "cause": null,
-   "last_seen": 1795462817726,
+   "last_seen": 1795463417762,
    "cleared": null
   },
   {
@@ -54,35 +68,7 @@
    "customers": 1,
    "start": 1795458940000,
    "cause": "Planned",
-   "last_seen": 1795462817726,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.6601,-83.7096",
-   "utility": "Georgia Power",
-   "lat": 33.66009,
-   "lon": -83.70956,
-   "county": "Walton",
-   "location": "A P Henderson Drive near Social Circle (30025)",
-   "first_seen": 1795455027296,
-   "customers": 4,
-   "start": 1795455027296,
-   "cause": null,
-   "last_seen": 1795462817726,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.4424,-83.2508",
-   "utility": "Georgia Power",
-   "lat": 33.44242,
-   "lon": -83.2508,
-   "county": "Greene",
-   "location": "Plantation Drive near Lake Oconee (30650)",
-   "first_seen": 1795450818415,
-   "customers": 40,
-   "start": 1795450818415,
-   "cause": null,
-   "last_seen": 1795462817726,
+   "last_seen": 1795463417762,
    "cleared": null
   },
   {
@@ -126,6 +112,34 @@
    "cause": null,
    "last_seen": 1795461017947,
    "cleared": 1795461616976
+  },
+  {
+   "key": "gapower:33.6601,-83.7096",
+   "utility": "Georgia Power",
+   "lat": 33.66009,
+   "lon": -83.70956,
+   "county": "Walton",
+   "location": "A P Henderson Drive near Social Circle (30025)",
+   "first_seen": 1795455027296,
+   "customers": 4,
+   "start": 1795455027296,
+   "cause": null,
+   "last_seen": 1795462817726,
+   "cleared": 1795463417762
+  },
+  {
+   "key": "gapower:33.4424,-83.2508",
+   "utility": "Georgia Power",
+   "lat": 33.44242,
+   "lon": -83.2508,
+   "county": "Greene",
+   "location": "Plantation Drive near Lake Oconee (30650)",
+   "first_seen": 1795450818415,
+   "customers": 40,
+   "start": 1795450818415,
+   "cause": null,
+   "last_seen": 1795462817726,
+   "cleared": 1795463417762
   },
   {
    "key": "gapower:33.9238,-83.3219",
@@ -497,27 +511,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795462817726,
+   "last_ok": 1795463417762,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795462817726
+   "last_ok": 1795463417762
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795462817726
+   "last_ok": 1795463417762
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "4 outage(s) in your counties",
+   "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795462817726
+   "last_ok": 1795463417762
   }
  },
  "skipped": {
