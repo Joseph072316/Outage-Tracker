@@ -1,5 +1,5 @@
 {
- "checked": 1795399815967,
+ "checked": 1795400416112,
  "outages": [
   {
    "key": "jackson:606959",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1795398940863,
    "cause": null,
-   "last_seen": 1795399815967,
+   "last_seen": 1795400416112,
    "cleared": null
   },
   {
@@ -450,20 +450,6 @@
    "cleared": 1795316422010
   },
   {
-   "key": "rayle:2026-11-21-0307",
-   "utility": "Rayle EMC",
-   "lat": 33.562898812275336,
-   "lon": -83.2526404276641,
-   "county": "Greene",
-   "location": "Carey Station Road near Carey (30650)",
-   "first_seen": 1795312455027,
-   "customers": 3,
-   "start": 1795312200000,
-   "cause": null,
-   "last_seen": 1795312821896,
-   "cleared": 1795313416915
-  },
-  {
    "key": "rayle:2026-11-21-0305",
    "utility": "Rayle EMC",
    "lat": 33.55594522634637,
@@ -476,34 +462,6 @@
    "cause": null,
    "last_seen": 1795313416915,
    "cleared": 1795314020654
-  },
-  {
-   "key": "rayle:2026-11-21-0306",
-   "utility": "Rayle EMC",
-   "lat": 33.55579174343634,
-   "lon": -83.26349272774036,
-   "county": "Greene",
-   "location": "Carey Station Road near Carey (30650)",
-   "first_seen": 1795312215090,
-   "customers": 1,
-   "start": 1795311600000,
-   "cause": null,
-   "last_seen": 1795312821896,
-   "cleared": 1795313416915
-  },
-  {
-   "key": "gapower:33.6191,-83.0761",
-   "utility": "Georgia Power",
-   "lat": 33.61908,
-   "lon": -83.07613,
-   "county": "Greene",
-   "location": "North Rhodes Street near Union Point (30669)",
-   "first_seen": 1795309221279,
-   "customers": 4,
-   "start": 1795309221279,
-   "cause": null,
-   "last_seen": 1795312821896,
-   "cleared": 1795313416915
   },
   {
    "key": "walton:C1208234",
@@ -525,27 +483,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795399815967,
+   "last_ok": 1795400416112,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795399815967
+   "last_ok": 1795400416112
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795399815967
+   "last_ok": 1795400416112
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795399815967
+   "last_ok": 1795400416112
   }
  },
  "skipped": {
