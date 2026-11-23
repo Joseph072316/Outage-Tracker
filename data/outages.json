@@ -1,5 +1,5 @@
 {
- "checked": 1795444223268,
+ "checked": 1795444816945,
  "outages": [
   {
    "key": "gapower:34.0426,-83.0326",
@@ -12,7 +12,7 @@
    "customers": 229,
    "start": 1795444223268,
    "cause": null,
-   "last_seen": 1795444223268,
+   "last_seen": 1795444816945,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1795443617886,
    "cause": null,
-   "last_seen": 1795444223268,
+   "last_seen": 1795444816945,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 1,
    "start": 1795442782732,
    "cause": null,
-   "last_seen": 1795444223268,
+   "last_seen": 1795444816945,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 4,
    "start": 1795442428739,
    "cause": null,
-   "last_seen": 1795444223268,
+   "last_seen": 1795444816945,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 1,
    "start": 1795441885000,
    "cause": "Planned",
-   "last_seen": 1795444223268,
+   "last_seen": 1795444816945,
    "cleared": null
   },
   {
@@ -82,7 +82,7 @@
    "customers": 5,
    "start": 1795441821313,
    "cause": null,
-   "last_seen": 1795444223268,
+   "last_seen": 1795444816945,
    "cleared": null
   },
   {
@@ -96,7 +96,7 @@
    "customers": 9,
    "start": 1795441216944,
    "cause": null,
-   "last_seen": 1795444223268,
+   "last_seen": 1795444816945,
    "cleared": null
   },
   {
@@ -110,7 +110,7 @@
    "customers": 4,
    "start": 1795440623088,
    "cause": null,
-   "last_seen": 1795444223268,
+   "last_seen": 1795444816945,
    "cleared": null
   },
   {
@@ -124,7 +124,7 @@
    "customers": 1,
    "start": 1795440016081,
    "cause": null,
-   "last_seen": 1795444223268,
+   "last_seen": 1795444816945,
    "cleared": null
   },
   {
@@ -434,20 +434,6 @@
    "cause": null,
    "last_seen": 1795360820997,
    "cleared": 1795361419554
-  },
-  {
-   "key": "walton:D1208273",
-   "utility": "Walton EMC",
-   "lat": 33.90899269241698,
-   "lon": -83.40347683100786,
-   "county": "Oconee",
-   "location": "Natalie Court (30602)",
-   "first_seen": 1795353615885,
-   "customers": 3,
-   "start": 1795353615885,
-   "cause": null,
-   "last_seen": 1795357819891,
-   "cleared": 1795358414934
   }
  ],
  "sources": {
@@ -455,27 +441,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795444223268,
+   "last_ok": 1795444816945,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795444223268
+   "last_ok": 1795444816945
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795444223268
+   "last_ok": 1795444816945
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "6 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795444223268
+   "last_ok": 1795444816945
   }
  },
  "skipped": {
@@ -493,6 +479,8 @@
   "gapower:33.9786,-83.6684": 1795442428739,
   "walton:C1208303": 1795444223268,
   "gapower:34.3046,-83.7729": 1795444223268,
-  "gapower:34.2828,-83.8427": 1795444223268
+  "gapower:34.2828,-83.8427": 1795444223268,
+  "gapower:34.0135,-83.8274": 1795444816945,
+  "gapower:33.8983,-83.9429": 1795444816945
  }
 }
