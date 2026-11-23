@@ -1,20 +1,6 @@
 {
- "checked": 1795467017054,
+ "checked": 1795467254192,
  "outages": [
-  {
-   "key": "rayle:2026-11-23-0317",
-   "utility": "Rayle EMC",
-   "lat": 33.95158479338955,
-   "lon": -83.25688347111868,
-   "county": "Oglethorpe",
-   "location": "James Court near Dunlap (30683)",
-   "first_seen": 1795465217089,
-   "customers": 2,
-   "start": 1795464982000,
-   "cause": null,
-   "last_seen": 1795467017054,
-   "cleared": null
-  },
   {
    "key": "rayle:2026-11-23-0316",
    "utility": "Rayle EMC",
@@ -26,7 +12,7 @@
    "customers": 1,
    "start": 1795463326000,
    "cause": null,
-   "last_seen": 1795467017054,
+   "last_seen": 1795467254192,
    "cleared": null
   },
   {
@@ -40,7 +26,7 @@
    "customers": 1,
    "start": 1795462604000,
    "cause": null,
-   "last_seen": 1795467017054,
+   "last_seen": 1795467254192,
    "cleared": null
   },
   {
@@ -54,8 +40,22 @@
    "customers": 4,
    "start": 1795461616976,
    "cause": null,
-   "last_seen": 1795467017054,
+   "last_seen": 1795467254192,
    "cleared": null
+  },
+  {
+   "key": "rayle:2026-11-23-0317",
+   "utility": "Rayle EMC",
+   "lat": 33.95158479338955,
+   "lon": -83.25688347111868,
+   "county": "Oglethorpe",
+   "location": "James Court near Dunlap (30683)",
+   "first_seen": 1795465217089,
+   "customers": 2,
+   "start": 1795464982000,
+   "cause": null,
+   "last_seen": 1795467017054,
+   "cleared": 1795467254192
   },
   {
    "key": "gapower:33.9769,-83.4122",
@@ -539,27 +539,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795467017054,
+   "last_ok": 1795467254192,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795467017054
+   "last_ok": 1795467254192
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
-   "message": "3 outage(s) in your counties",
-   "last_ok": 1795467017054
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1795467254192
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795467017054
+   "last_ok": 1795467254192
   }
  },
  "skipped": {
