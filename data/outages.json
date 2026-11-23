@@ -1,5 +1,5 @@
 {
- "checked": 1795461616976,
+ "checked": 1795462221892,
  "outages": [
   {
    "key": "gapower:33.6588,-83.7109",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795461616976,
    "cause": null,
-   "last_seen": 1795461616976,
+   "last_seen": 1795462221892,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 1,
    "start": 1795458940000,
    "cause": "Planned",
-   "last_seen": 1795461616976,
+   "last_seen": 1795462221892,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 1,
    "start": 1795458016720,
    "cause": null,
-   "last_seen": 1795461616976,
+   "last_seen": 1795462221892,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 4,
    "start": 1795455027296,
    "cause": null,
-   "last_seen": 1795461616976,
+   "last_seen": 1795462221892,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 40,
    "start": 1795450818415,
    "cause": null,
-   "last_seen": 1795461616976,
+   "last_seen": 1795462221892,
    "cleared": null
   },
   {
@@ -483,32 +483,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795461616976,
+   "last_ok": 1795462221892,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795461616976
+   "last_ok": 1795462221892
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795461616976
+   "last_ok": 1795462221892
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795461616976
+   "last_ok": 1795462221892
   }
  },
  "skipped": {
-  "gapower:33.9731,-83.8202": 1795375219303,
-  "gapower:33.9934,-83.8219": 1795375219303,
   "gapower:33.9743,-83.8196": 1795376415495,
   "gapower:34.3291,-83.8115": 1795378199957,
   "gapower:33.9613,-83.8177": 1795380016117,
