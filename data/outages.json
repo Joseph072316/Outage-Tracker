@@ -1,6 +1,20 @@
 {
- "checked": 1795416018346,
+ "checked": 1795416615920,
  "outages": [
+  {
+   "key": "jackson:606963",
+   "utility": "Jackson EMC",
+   "lat": 34.081896251574044,
+   "lon": -83.65756917259503,
+   "county": "Jackson",
+   "location": "Lewis Roberts Road (30549)",
+   "first_seen": 1795416615920,
+   "customers": 3,
+   "start": 1795415711000,
+   "cause": null,
+   "last_seen": 1795416615920,
+   "cleared": null
+  },
   {
    "key": "jackson:606959",
    "utility": "Jackson EMC",
@@ -412,28 +426,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795416018346,
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795416615920,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795416018346
+   "last_ok": 1795416615920
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795416018346
+   "last_ok": 1795416615920
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795416018346
+   "last_ok": 1795416615920
   }
  },
  "skipped": {
