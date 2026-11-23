@@ -1,6 +1,20 @@
 {
- "checked": 1795449622735,
+ "checked": 1795450111767,
  "outages": [
+  {
+   "key": "walton:C1208307",
+   "utility": "Walton EMC",
+   "lat": 33.78974736579165,
+   "lon": -83.81930837260538,
+   "county": "Walton",
+   "location": "Thompson Mill Road (30052)",
+   "first_seen": 1795450111767,
+   "customers": 1,
+   "start": 1795450111767,
+   "cause": null,
+   "last_seen": 1795450111767,
+   "cleared": null
+  },
   {
    "key": "jackson:606982",
    "utility": "Jackson EMC",
@@ -12,7 +26,7 @@
    "customers": 1,
    "start": 1795448343000,
    "cause": "Planned",
-   "last_seen": 1795449622735,
+   "last_seen": 1795450111767,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 1,
    "start": 1795447824155,
    "cause": null,
-   "last_seen": 1795449622735,
+   "last_seen": 1795450111767,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 5,
    "start": 1795446025041,
    "cause": null,
-   "last_seen": 1795449622735,
+   "last_seen": 1795450111767,
    "cleared": null
   },
   {
@@ -54,7 +68,7 @@
    "customers": 229,
    "start": 1795444223268,
    "cause": null,
-   "last_seen": 1795449622735,
+   "last_seen": 1795450111767,
    "cleared": null
   },
   {
@@ -68,7 +82,7 @@
    "customers": 1,
    "start": 1795441885000,
    "cause": "Planned",
-   "last_seen": 1795449622735,
+   "last_seen": 1795450111767,
    "cleared": null
   },
   {
@@ -82,7 +96,7 @@
    "customers": 5,
    "start": 1795441821313,
    "cause": null,
-   "last_seen": 1795449622735,
+   "last_seen": 1795450111767,
    "cleared": null
   },
   {
@@ -96,7 +110,7 @@
    "customers": 9,
    "start": 1795441216944,
    "cause": null,
-   "last_seen": 1795449622735,
+   "last_seen": 1795450111767,
    "cleared": null
   },
   {
@@ -110,7 +124,7 @@
    "customers": 4,
    "start": 1795440623088,
    "cause": null,
-   "last_seen": 1795449622735,
+   "last_seen": 1795450111767,
    "cleared": null
   },
   {
@@ -483,27 +497,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795449622735,
+   "last_ok": 1795450111767,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795449622735
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1795450111767
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795449622735
+   "last_ok": 1795450111767
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "5 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795449622735
+   "last_ok": 1795450111767
   }
  },
  "skipped": {
