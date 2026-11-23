@@ -1,6 +1,20 @@
 {
- "checked": 1795395016541,
+ "checked": 1795395620355,
  "outages": [
+  {
+   "key": "walton:D1208280",
+   "utility": "Walton EMC",
+   "lat": 33.82534221033344,
+   "lon": -83.85138604419929,
+   "county": "Walton",
+   "location": "Broadnax Mill Road (30052)",
+   "first_seen": 1795382417157,
+   "customers": 2,
+   "start": 1795382417157,
+   "cause": null,
+   "last_seen": 1795395620355,
+   "cleared": null
+  },
   {
    "key": "walton:D1208289",
    "utility": "Walton EMC",
@@ -13,21 +27,7 @@
    "start": 1795383615081,
    "cause": "T 50-3 hit by auto at 6741 Highland Point Pl",
    "last_seen": 1795395016541,
-   "cleared": null
-  },
-  {
-   "key": "walton:D1208280",
-   "utility": "Walton EMC",
-   "lat": 33.82534221033344,
-   "lon": -83.85138604419929,
-   "county": "Walton",
-   "location": "Broadnax Mill Road (30052)",
-   "first_seen": 1795382417157,
-   "customers": 2,
-   "start": 1795382417157,
-   "cause": null,
-   "last_seen": 1795395016541,
-   "cleared": null
+   "cleared": 1795395620355
   },
   {
    "key": "walton:C1208281",
@@ -539,27 +539,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795395016541,
+   "last_ok": 1795395620355,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1795395016541
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795395620355
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795395016541
+   "last_ok": 1795395620355
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795395016541
+   "last_ok": 1795395620355
   }
  },
  "skipped": {
