@@ -1,5 +1,5 @@
 {
- "checked": 1795395620355,
+ "checked": 1795396216635,
  "outages": [
   {
    "key": "walton:D1208280",
@@ -12,7 +12,7 @@
    "customers": 2,
    "start": 1795382417157,
    "cause": null,
-   "last_seen": 1795395620355,
+   "last_seen": 1795396216635,
    "cleared": null
   },
   {
@@ -518,20 +518,6 @@
    "cause": null,
    "last_seen": 1795318219129,
    "cleared": 1795318553398
-  },
-  {
-   "key": "rayle:2026-11-21-0304",
-   "utility": "Rayle EMC",
-   "lat": 33.85578616386309,
-   "lon": -83.23318050200596,
-   "county": "Oglethorpe",
-   "location": "Wolfskin Road (30619)",
-   "first_seen": 1795300968374,
-   "customers": 1,
-   "start": 1795300560000,
-   "cause": null,
-   "last_seen": 1795308617217,
-   "cleared": 1795309221279
   }
  ],
  "sources": {
@@ -539,27 +525,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795395620355,
+   "last_ok": 1795396216635,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795395620355
+   "last_ok": 1795396216635
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795395620355
+   "last_ok": 1795396216635
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795395620355
+   "last_ok": 1795396216635
   }
  },
  "skipped": {
