@@ -1,5 +1,5 @@
 {
- "checked": 1795404015476,
+ "checked": 1795404619649,
  "outages": [
   {
    "key": "jackson:606959",
@@ -13,7 +13,7 @@
    "start": 1795398940863,
    "cause": null,
    "last_seen": 1795404015476,
-   "cleared": null
+   "cleared": 1795404619649
   },
   {
    "key": "walton:D1208289",
@@ -408,20 +408,6 @@
    "cleared": 1795346415311
   },
   {
-   "key": "gapower:33.6182,-83.0854",
-   "utility": "Georgia Power",
-   "lat": 33.61816,
-   "lon": -83.08542,
-   "county": "Greene",
-   "location": "Alexander Avenue near Union Point (30669)",
-   "first_seen": 1795317015498,
-   "customers": 4,
-   "start": 1795317015498,
-   "cause": null,
-   "last_seen": 1795317616625,
-   "cleared": 1795318219129
-  },
-  {
    "key": "gapower:33.6212,-83.0777",
    "utility": "Georgia Power",
    "lat": 33.62117,
@@ -454,28 +440,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795404015476,
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795404619649,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795404015476
+   "last_ok": 1795404619649
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795404015476
+   "last_ok": 1795404619649
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795404015476
+   "last_ok": 1795404619649
   }
  },
  "skipped": {
