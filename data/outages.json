@@ -1,5 +1,5 @@
 {
- "checked": 1795466416432,
+ "checked": 1795467017054,
  "outages": [
   {
    "key": "rayle:2026-11-23-0317",
@@ -12,7 +12,49 @@
    "customers": 2,
    "start": 1795464982000,
    "cause": null,
-   "last_seen": 1795466416432,
+   "last_seen": 1795467017054,
+   "cleared": null
+  },
+  {
+   "key": "rayle:2026-11-23-0316",
+   "utility": "Rayle EMC",
+   "lat": 33.663731637593834,
+   "lon": -83.28710494748636,
+   "county": "Greene",
+   "location": null,
+   "first_seen": 1795464024192,
+   "customers": 1,
+   "start": 1795463326000,
+   "cause": null,
+   "last_seen": 1795467017054,
+   "cleared": null
+  },
+  {
+   "key": "rayle:2026-11-23-0315",
+   "utility": "Rayle EMC",
+   "lat": 33.63643708111017,
+   "lon": -83.33786265976116,
+   "county": "Greene",
+   "location": "ZIP 30650",
+   "first_seen": 1795462817726,
+   "customers": 1,
+   "start": 1795462604000,
+   "cause": null,
+   "last_seen": 1795467017054,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.6588,-83.7109",
+   "utility": "Georgia Power",
+   "lat": 33.65879,
+   "lon": -83.7109,
+   "county": "Walton",
+   "location": "Cherry Street near Social Circle (30025)",
+   "first_seen": 1795461616976,
+   "customers": 4,
+   "start": 1795461616976,
+   "cause": null,
+   "last_seen": 1795467017054,
    "cleared": null
   },
   {
@@ -27,21 +69,7 @@
    "start": 1795463417762,
    "cause": null,
    "last_seen": 1795466416432,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-23-0316",
-   "utility": "Rayle EMC",
-   "lat": 33.663731637593834,
-   "lon": -83.28710494748636,
-   "county": "Greene",
-   "location": null,
-   "first_seen": 1795464024192,
-   "customers": 1,
-   "start": 1795463326000,
-   "cause": null,
-   "last_seen": 1795466416432,
-   "cleared": null
+   "cleared": 1795467017054
   },
   {
    "key": "gapower:33.9765,-83.4131",
@@ -55,35 +83,7 @@
    "start": 1795462817726,
    "cause": null,
    "last_seen": 1795466416432,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-23-0315",
-   "utility": "Rayle EMC",
-   "lat": 33.63643708111017,
-   "lon": -83.33786265976116,
-   "county": "Greene",
-   "location": "ZIP 30650",
-   "first_seen": 1795462817726,
-   "customers": 1,
-   "start": 1795462604000,
-   "cause": null,
-   "last_seen": 1795466416432,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.6588,-83.7109",
-   "utility": "Georgia Power",
-   "lat": 33.65879,
-   "lon": -83.7109,
-   "county": "Walton",
-   "location": "Cherry Street near Social Circle (30025)",
-   "first_seen": 1795461616976,
-   "customers": 4,
-   "start": 1795461616976,
-   "cause": null,
-   "last_seen": 1795466416432,
-   "cleared": null
+   "cleared": 1795467017054
   },
   {
    "key": "jackson:606996",
@@ -539,27 +539,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795466416432,
+   "last_ok": 1795467017054,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795466416432
+   "last_ok": 1795467017054
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "3 outage(s) in your counties",
-   "last_ok": 1795466416432
+   "last_ok": 1795467017054
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "3 outage(s) in your counties",
+   "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795466416432
+   "last_ok": 1795467017054
   }
  },
  "skipped": {
