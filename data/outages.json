@@ -1,5 +1,5 @@
 {
- "checked": 1795464251612,
+ "checked": 1795464616789,
  "outages": [
   {
    "key": "gapower:33.9769,-83.4122",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795463417762,
    "cause": null,
-   "last_seen": 1795464251612,
+   "last_seen": 1795464616789,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 1,
    "start": 1795463326000,
    "cause": null,
-   "last_seen": 1795464251612,
+   "last_seen": 1795464616789,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 4,
    "start": 1795462817726,
    "cause": null,
-   "last_seen": 1795464251612,
+   "last_seen": 1795464616789,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 1,
    "start": 1795462604000,
    "cause": null,
-   "last_seen": 1795464251612,
+   "last_seen": 1795464616789,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 4,
    "start": 1795461616976,
    "cause": null,
-   "last_seen": 1795464251612,
+   "last_seen": 1795464616789,
    "cleared": null
   },
   {
@@ -83,7 +83,7 @@
    "start": 1795458940000,
    "cause": "Planned",
    "last_seen": 1795464251612,
-   "cleared": null
+   "cleared": 1795464616789
   },
   {
    "key": "gapower:33.6590,-83.7105",
@@ -524,32 +524,31 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795464251612,
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795464616789,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795464251612
+   "last_ok": 1795464616789
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795464251612
+   "last_ok": 1795464616789
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795464251612
+   "last_ok": 1795464616789
   }
  },
  "skipped": {
-  "gapower:34.3291,-83.8115": 1795378199957,
   "gapower:33.9613,-83.8177": 1795380016117,
   "rayle:2026-11-22-0312": 1795386620201,
   "gapower:34.2902,-83.1115": 1795393819879,
