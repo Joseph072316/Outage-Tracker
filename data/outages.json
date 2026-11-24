@@ -1,5 +1,5 @@
 {
- "checked": 1795528783412,
+ "checked": 1795528826339,
  "outages": [
   {
    "key": "gapower:34.1741,-83.2922",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795526419705,
    "cause": null,
-   "last_seen": 1795528783412,
+   "last_seen": 1795528826339,
    "cleared": null
   },
   {
@@ -553,27 +553,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795528783412,
+   "last_ok": 1795528826339,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795528783412
+   "last_ok": 1795528826339
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795528783412
+   "last_ok": 1795528826339
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795528783412
+   "last_ok": 1795528826339
   }
  },
  "skipped": {
