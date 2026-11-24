@@ -1,5 +1,5 @@
 {
- "checked": 1795551616425,
+ "checked": 1795552109968,
  "outages": [
   {
    "key": "jackson:607064",
@@ -12,7 +12,7 @@
    "customers": 2,
    "start": 1795548065000,
    "cause": "Planned",
-   "last_seen": 1795551616425,
+   "last_seen": 1795552109968,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 203,
    "start": 1795548016833,
    "cause": null,
-   "last_seen": 1795551616425,
+   "last_seen": 1795552109968,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 9,
    "start": 1795544422331,
    "cause": "\"OPEN\" GA POWER HAS LINES DOWN EVERYWHERE, OUR LINES ARE BACK UP BUT THE AREA IS ON FIRE SO WE LEFT THIS OPEN FOR NOW",
-   "last_seen": 1795551616425,
+   "last_seen": 1795552109968,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 4,
    "start": 1795543233242,
    "cause": null,
-   "last_seen": 1795551616425,
+   "last_seen": 1795552109968,
    "cleared": null
   },
   {
@@ -525,31 +525,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795551616425,
+   "last_ok": 1795552109968,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795551616425
+   "last_ok": 1795552109968
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795551616425
+   "last_ok": 1795552109968
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795551616425
+   "last_ok": 1795552109968
   }
  },
  "skipped": {
-  "gapower:34.2826,-83.8424": 1795465217089,
   "walton:C1208314": 1795466416432,
   "gapower:33.6179,-83.8804": 1795470017273,
   "gapower:33.9838,-83.8818": 1795522816447,
