@@ -1,5 +1,5 @@
 {
- "checked": 1795554616604,
+ "checked": 1795555216942,
  "outages": [
   {
    "key": "walton:C1208338",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1795554616604,
    "cause": null,
-   "last_seen": 1795554616604,
+   "last_seen": 1795555216942,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 2,
    "start": 1795548065000,
    "cause": "Planned",
-   "last_seen": 1795554616604,
+   "last_seen": 1795555216942,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 4,
    "start": 1795543233242,
    "cause": null,
-   "last_seen": 1795554616604,
+   "last_seen": 1795555216942,
    "cleared": null
   },
   {
@@ -476,20 +476,6 @@
    "cause": null,
    "last_seen": 1795474825157,
    "cleared": 1795475416517
-  },
-  {
-   "key": "gapower:33.6588,-83.7109",
-   "utility": "Georgia Power",
-   "lat": 33.65879,
-   "lon": -83.7109,
-   "county": "Walton",
-   "location": "Cherry Street near Social Circle (30025)",
-   "first_seen": 1795461616976,
-   "customers": 4,
-   "start": 1795461616976,
-   "cause": null,
-   "last_seen": 1795467625743,
-   "cleared": 1795468220194
   }
  ],
  "sources": {
@@ -497,27 +483,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795554616604,
+   "last_ok": 1795555216942,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795554616604
+   "last_ok": 1795555216942
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795554616604
+   "last_ok": 1795555216942
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795554616604
+   "last_ok": 1795555216942
   }
  },
  "skipped": {
@@ -541,6 +527,7 @@
   "gapower:34.3272,-83.8324": 1795549216970,
   "gapower:34.2957,-83.8417": 1795549818049,
   "gapower:34.3249,-83.8222": 1795549818049,
-  "gapower:34.2932,-83.7974": 1795552823346
+  "gapower:34.2932,-83.7974": 1795552823346,
+  "gapower:34.3254,-83.8222": 1795555216942
  }
 }
