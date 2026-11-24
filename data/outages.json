@@ -1,6 +1,20 @@
 {
- "checked": 1795498442721,
+ "checked": 1795498816271,
  "outages": [
+  {
+   "key": "jackson:607023",
+   "utility": "Jackson EMC",
+   "lat": 34.13386485389179,
+   "lon": -83.30320175926624,
+   "county": "Madison",
+   "location": "Rogers Mill Road (30633)",
+   "first_seen": 1795498816271,
+   "customers": 133,
+   "start": 1795497961000,
+   "cause": null,
+   "last_seen": 1795498816271,
+   "cleared": null
+  },
   {
    "key": "rayle:2026-11-23-0318",
    "utility": "Rayle EMC",
@@ -12,7 +26,7 @@
    "customers": 1,
    "start": 1795475040000,
    "cause": null,
-   "last_seen": 1795498442721,
+   "last_seen": 1795498816271,
    "cleared": null
   },
   {
@@ -468,28 +482,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795498442721,
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795498816271,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795498442721
+   "last_ok": 1795498816271
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795498442721
+   "last_ok": 1795498816271
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795498442721
+   "last_ok": 1795498816271
   }
  },
  "skipped": {
