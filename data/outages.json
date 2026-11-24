@@ -1,5 +1,5 @@
 {
- "checked": 1795552221176,
+ "checked": 1795552823346,
  "outages": [
   {
    "key": "jackson:607064",
@@ -12,7 +12,7 @@
    "customers": 2,
    "start": 1795548065000,
    "cause": "Planned",
-   "last_seen": 1795552221176,
+   "last_seen": 1795552823346,
    "cleared": null
   },
   {
@@ -26,7 +26,21 @@
    "customers": 203,
    "start": 1795548016833,
    "cause": null,
-   "last_seen": 1795552221176,
+   "last_seen": 1795552823346,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.8946,-83.3592",
+   "utility": "Georgia Power",
+   "lat": 33.89458,
+   "lon": -83.35919,
+   "county": "Clarke",
+   "location": "Phoenix Road near Athens (30605)",
+   "first_seen": 1795543233242,
+   "customers": 4,
+   "start": 1795543233242,
+   "cause": null,
+   "last_seen": 1795552823346,
    "cleared": null
   },
   {
@@ -41,21 +55,7 @@
    "start": 1795544422331,
    "cause": "\"OPEN\" GA POWER HAS LINES DOWN EVERYWHERE, OUR LINES ARE BACK UP BUT THE AREA IS ON FIRE SO WE LEFT THIS OPEN FOR NOW",
    "last_seen": 1795552221176,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.8946,-83.3592",
-   "utility": "Georgia Power",
-   "lat": 33.89458,
-   "lon": -83.35919,
-   "county": "Clarke",
-   "location": "Phoenix Road near Athens (30605)",
-   "first_seen": 1795543233242,
-   "customers": 4,
-   "start": 1795543233242,
-   "cause": null,
-   "last_seen": 1795552221176,
-   "cleared": null
+   "cleared": 1795552823346
   },
   {
    "key": "rayle:2026-11-24-0324",
@@ -525,31 +525,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795552221176,
+   "last_ok": 1795552823346,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795552221176
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795552823346
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795552221176
+   "last_ok": 1795552823346
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795552221176
+   "last_ok": 1795552823346
   }
  },
  "skipped": {
-  "walton:C1208314": 1795466416432,
   "gapower:33.6179,-83.8804": 1795470017273,
   "gapower:33.9838,-83.8818": 1795522816447,
   "gapower:34.2662,-83.1087": 1795525232848,
@@ -569,6 +568,7 @@
   "gapower:34.1771,-83.9261": 1795548016833,
   "gapower:34.3272,-83.8324": 1795549216970,
   "gapower:34.2957,-83.8417": 1795549818049,
-  "gapower:34.3249,-83.8222": 1795549818049
+  "gapower:34.3249,-83.8222": 1795549818049,
+  "gapower:34.2932,-83.7974": 1795552823346
  }
 }
