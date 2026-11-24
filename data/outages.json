@@ -1,5 +1,5 @@
 {
- "checked": 1795531962155,
+ "checked": 1795532426868,
  "outages": [
   {
    "key": "gapower:34.0724,-83.1278",
@@ -12,7 +12,21 @@
    "customers": 4,
    "start": 1795531818356,
    "cause": null,
-   "last_seen": 1795531962155,
+   "last_seen": 1795532426868,
+   "cleared": null
+  },
+  {
+   "key": "jackson:607042",
+   "utility": "Jackson EMC",
+   "lat": 34.09628434386455,
+   "lon": -83.33054647651865,
+   "county": "Madison",
+   "location": "Neese Commerce Road near Neese (30646)",
+   "first_seen": 1795532426868,
+   "customers": 5,
+   "start": 1795531267241,
+   "cause": "Planned",
+   "last_seen": 1795532426868,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 12,
    "start": 1795529417366,
    "cause": null,
-   "last_seen": 1795531962155,
+   "last_seen": 1795532426868,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 4,
    "start": 1795526419705,
    "cause": null,
-   "last_seen": 1795531962155,
+   "last_seen": 1795532426868,
    "cleared": null
   },
   {
@@ -566,32 +580,31 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795531962155,
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795532426868,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795531962155
+   "last_ok": 1795532426868
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795531962155
+   "last_ok": 1795532426868
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795531962155
+   "last_ok": 1795532426868
   }
  },
  "skipped": {
-  "gapower:34.3395,-83.8340": 1795446025041,
   "walton:C1208305": 1795447217107,
   "gapower:34.3308,-83.8288": 1795452017017,
   "gapower:34.3307,-83.8293": 1795453226069,
