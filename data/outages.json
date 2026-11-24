@@ -1,5 +1,5 @@
 {
- "checked": 1795528217574,
+ "checked": 1795528783412,
  "outages": [
   {
    "key": "gapower:34.1741,-83.2922",
@@ -12,21 +12,7 @@
    "customers": 4,
    "start": 1795526419705,
    "cause": null,
-   "last_seen": 1795528217574,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.6204,-83.0769",
-   "utility": "Georgia Power",
-   "lat": 33.62037,
-   "lon": -83.07689,
-   "county": "Greene",
-   "location": "Stewart Avenue near Union Point (30669)",
-   "first_seen": 1795525818034,
-   "customers": 5,
-   "start": 1795525818034,
-   "cause": null,
-   "last_seen": 1795528217574,
+   "last_seen": 1795528783412,
    "cleared": null
   },
   {
@@ -42,6 +28,20 @@
    "cause": null,
    "last_seen": 1795527617108,
    "cleared": 1795528217574
+  },
+  {
+   "key": "gapower:33.6204,-83.0769",
+   "utility": "Georgia Power",
+   "lat": 33.62037,
+   "lon": -83.07689,
+   "county": "Greene",
+   "location": "Stewart Avenue near Union Point (30669)",
+   "first_seen": 1795525818034,
+   "customers": 5,
+   "start": 1795525818034,
+   "cause": null,
+   "last_seen": 1795528217574,
+   "cleared": 1795528783412
   },
   {
    "key": "jackson:607029",
@@ -553,31 +553,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795528217574,
+   "last_ok": 1795528783412,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795528217574
+   "last_ok": 1795528783412
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795528217574
+   "last_ok": 1795528783412
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
+   "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795528217574
+   "last_ok": 1795528783412
   }
  },
  "skipped": {
-  "gapower:33.9858,-83.9027": 1795441821313,
   "gapower:33.9786,-83.6684": 1795442428739,
   "walton:C1208303": 1795444223268,
   "gapower:34.3046,-83.7729": 1795444223268,
@@ -595,6 +594,7 @@
   "gapower:33.9838,-83.8818": 1795522816447,
   "gapower:34.2662,-83.1087": 1795525232848,
   "gapower:34.2833,-83.1306": 1795525232848,
-  "gapower:34.2745,-83.8523": 1795528217574
+  "gapower:34.2745,-83.8523": 1795528217574,
+  "gapower:34.0016,-83.7237": 1795528783412
  }
 }
