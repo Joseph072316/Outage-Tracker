@@ -1,6 +1,20 @@
 {
- "checked": 1795482023254,
+ "checked": 1795482615492,
  "outages": [
+  {
+   "key": "walton:C1208315",
+   "utility": "Walton EMC",
+   "lat": 33.760683351142305,
+   "lon": -83.7144355307581,
+   "county": "Walton",
+   "location": "Walnut Drive (30655)",
+   "first_seen": 1795482615492,
+   "customers": 1,
+   "start": 1795482615492,
+   "cause": null,
+   "last_seen": 1795482615492,
+   "cleared": null
+  },
   {
    "key": "rayle:2026-11-23-0318",
    "utility": "Rayle EMC",
@@ -12,7 +26,7 @@
    "customers": 1,
    "start": 1795475040000,
    "cause": null,
-   "last_seen": 1795482023254,
+   "last_seen": 1795482615492,
    "cleared": null
   },
   {
@@ -483,27 +497,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795482023254,
+   "last_ok": 1795482615492,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795482023254
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795482615492
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795482023254
+   "last_ok": 1795482615492
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795482023254
+   "last_ok": 1795482615492
   }
  },
  "skipped": {
