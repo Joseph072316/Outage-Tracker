@@ -1,5 +1,5 @@
 {
- "checked": 1795533619319,
+ "checked": 1795534219911,
  "outages": [
   {
    "key": "gapower:33.4897,-83.2222",
@@ -12,7 +12,7 @@
    "customers": 11,
    "start": 1795533619319,
    "cause": null,
-   "last_seen": 1795533619319,
+   "last_seen": 1795534219911,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 10,
    "start": 1795533394000,
    "cause": null,
-   "last_seen": 1795533619319,
+   "last_seen": 1795534219911,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 4,
    "start": 1795533018316,
    "cause": null,
-   "last_seen": 1795533619319,
+   "last_seen": 1795534219911,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 4,
    "start": 1795531818356,
    "cause": null,
-   "last_seen": 1795533619319,
+   "last_seen": 1795534219911,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 5,
    "start": 1795531267241,
    "cause": "Planned",
-   "last_seen": 1795533619319,
+   "last_seen": 1795534219911,
    "cleared": null
   },
   {
@@ -82,7 +82,7 @@
    "customers": 12,
    "start": 1795529417366,
    "cause": null,
-   "last_seen": 1795533619319,
+   "last_seen": 1795534219911,
    "cleared": null
   },
   {
@@ -96,7 +96,7 @@
    "customers": 4,
    "start": 1795526419705,
    "cause": null,
-   "last_seen": 1795533619319,
+   "last_seen": 1795534219911,
    "cleared": null
   },
   {
@@ -637,27 +637,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795533619319,
+   "last_ok": 1795534219911,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795533619319
+   "last_ok": 1795534219911
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795533619319
+   "last_ok": 1795534219911
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "5 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795533619319
+   "last_ok": 1795534219911
   }
  },
  "skipped": {
