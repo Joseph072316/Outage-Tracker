@@ -1,6 +1,20 @@
 {
- "checked": 1795485021154,
+ "checked": 1795485622149,
  "outages": [
+  {
+   "key": "rayle:2026-11-23-0318",
+   "utility": "Rayle EMC",
+   "lat": 33.63643708111017,
+   "lon": -83.33786265976116,
+   "county": "Greene",
+   "location": "ZIP 30650",
+   "first_seen": 1795476017388,
+   "customers": 1,
+   "start": 1795475040000,
+   "cause": null,
+   "last_seen": 1795485622149,
+   "cleared": null
+  },
   {
    "key": "walton:C1208315",
    "utility": "Walton EMC",
@@ -13,21 +27,7 @@
    "start": 1795482615492,
    "cause": null,
    "last_seen": 1795485021154,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-23-0318",
-   "utility": "Rayle EMC",
-   "lat": 33.63643708111017,
-   "lon": -83.33786265976116,
-   "county": "Greene",
-   "location": "ZIP 30650",
-   "first_seen": 1795476017388,
-   "customers": 1,
-   "start": 1795475040000,
-   "cause": null,
-   "last_seen": 1795485021154,
-   "cleared": null
+   "cleared": 1795485622149
   },
   {
    "key": "gapower:33.8812,-83.1533",
@@ -476,20 +476,6 @@
    "cause": null,
    "last_seen": 1795404015476,
    "cleared": 1795404619649
-  },
-  {
-   "key": "walton:D1208280",
-   "utility": "Walton EMC",
-   "lat": 33.82534221033344,
-   "lon": -83.85138604419929,
-   "county": "Walton",
-   "location": "Broadnax Mill Road (30052)",
-   "first_seen": 1795382417157,
-   "customers": 2,
-   "start": 1795382417157,
-   "cause": null,
-   "last_seen": 1795398616686,
-   "cleared": 1795399221683
   }
  ],
  "sources": {
@@ -497,27 +483,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795485021154,
+   "last_ok": 1795485622149,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795485021154
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795485622149
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795485021154
+   "last_ok": 1795485622149
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795485021154
+   "last_ok": 1795485622149
   }
  },
  "skipped": {
