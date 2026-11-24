@@ -1,5 +1,5 @@
 {
- "checked": 1795536617649,
+ "checked": 1795537217496,
  "outages": [
   {
    "key": "gapower:33.9728,-83.3187",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795535416785,
    "cause": null,
-   "last_seen": 1795536617649,
+   "last_seen": 1795537217496,
    "cleared": null
   },
   {
@@ -23,24 +23,24 @@
    "county": "Greene",
    "location": "Park Drive (30642)",
    "first_seen": 1795534818263,
-   "customers": 12,
+   "customers": 13,
    "start": 1795534818263,
    "cause": null,
-   "last_seen": 1795536617649,
+   "last_seen": 1795537217496,
    "cleared": null
   },
   {
-   "key": "rayle:2026-11-24-0320",
+   "key": "rayle:2026-11-24-0323",
    "utility": "Rayle EMC",
-   "lat": 33.46544760587112,
-   "lon": -83.14278804925571,
+   "lat": 33.471801821586965,
+   "lon": -83.14568356104698,
    "county": "Greene",
-   "location": "Liberty Church Road near Liberty (30678)",
-   "first_seen": 1795533619319,
-   "customers": 10,
+   "location": "Leach Road",
+   "first_seen": 1795537217496,
+   "customers": 7,
    "start": 1795533394000,
    "cause": null,
-   "last_seen": 1795536617649,
+   "last_seen": 1795537217496,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 4,
    "start": 1795531818356,
    "cause": null,
-   "last_seen": 1795536617649,
+   "last_seen": 1795537217496,
    "cleared": null
   },
   {
@@ -84,6 +84,20 @@
    "cause": null,
    "last_seen": 1795534219911,
    "cleared": 1795534818263
+  },
+  {
+   "key": "rayle:2026-11-24-0320",
+   "utility": "Rayle EMC",
+   "lat": 33.46544760587112,
+   "lon": -83.14278804925571,
+   "county": "Greene",
+   "location": "Liberty Church Road near Liberty (30678)",
+   "first_seen": 1795533619319,
+   "customers": 10,
+   "start": 1795533394000,
+   "cause": null,
+   "last_seen": 1795536617649,
+   "cleared": 1795537217496
   },
   {
    "key": "gapower:33.8475,-83.4086",
@@ -623,27 +637,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795536617649,
+   "last_ok": 1795537217496,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795536617649
+   "last_ok": 1795537217496
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795536617649
+   "last_ok": 1795537217496
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795536617649
+   "last_ok": 1795537217496
   }
  },
  "skipped": {
