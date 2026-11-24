@@ -1,6 +1,20 @@
 {
- "checked": 1795548016833,
+ "checked": 1795548621774,
  "outages": [
+  {
+   "key": "jackson:607064",
+   "utility": "Jackson EMC",
+   "lat": 34.13433329630861,
+   "lon": -83.15064087454299,
+   "county": "Madison",
+   "location": "Cedar Branch Drive near Cedar Grove (30629)",
+   "first_seen": 1795548621774,
+   "customers": 2,
+   "start": 1795548065000,
+   "cause": "Planned",
+   "last_seen": 1795548621774,
+   "cleared": null
+  },
   {
    "key": "gapower:33.8714,-83.3723",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 203,
    "start": 1795548016833,
    "cause": null,
-   "last_seen": 1795548016833,
+   "last_seen": 1795548621774,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 9,
    "start": 1795544422331,
    "cause": "\"OPEN\" GA POWER HAS LINES DOWN EVERYWHERE, OUR LINES ARE BACK UP BUT THE AREA IS ON FIRE SO WE LEFT THIS OPEN FOR NOW",
-   "last_seen": 1795548016833,
+   "last_seen": 1795548621774,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 4,
    "start": 1795543233242,
    "cause": null,
-   "last_seen": 1795548016833,
+   "last_seen": 1795548621774,
    "cleared": null
   },
   {
@@ -54,7 +68,7 @@
    "customers": 1,
    "start": 1795543121000,
    "cause": null,
-   "last_seen": 1795548016833,
+   "last_seen": 1795548621774,
    "cleared": null
   },
   {
@@ -534,20 +548,6 @@
    "cleared": 1795462817726
   },
   {
-   "key": "jackson:606994",
-   "utility": "Jackson EMC",
-   "lat": 34.13285360426689,
-   "lon": -83.75169464807819,
-   "county": "Jackson",
-   "location": "Duck Road (30517)",
-   "first_seen": 1795458620744,
-   "customers": 2,
-   "start": 1795457812000,
-   "cause": null,
-   "last_seen": 1795461017947,
-   "cleared": 1795461616976
-  },
-  {
    "key": "gapower:33.6601,-83.7096",
    "utility": "Georgia Power",
    "lat": 33.66009,
@@ -574,48 +574,34 @@
    "cause": null,
    "last_seen": 1795462817726,
    "cleared": 1795463417762
-  },
-  {
-   "key": "gapower:34.0426,-83.0326",
-   "utility": "Georgia Power",
-   "lat": 34.04256,
-   "lon": -83.03261,
-   "county": "Madison",
-   "location": "South Railroad Avenue near Carlton (30629)",
-   "first_seen": 1795444223268,
-   "customers": 229,
-   "start": 1795444223268,
-   "cause": null,
-   "last_seen": 1795461017947,
-   "cleared": 1795461616976
   }
  ],
  "sources": {
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795548016833,
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795548621774,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795548016833
+   "last_ok": 1795548621774
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795548016833
+   "last_ok": 1795548621774
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795548016833
+   "last_ok": 1795548621774
   }
  },
  "skipped": {
