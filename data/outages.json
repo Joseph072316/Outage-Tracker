@@ -1,6 +1,20 @@
 {
- "checked": 1795543816970,
+ "checked": 1795544422331,
  "outages": [
+  {
+   "key": "walton:D1208332",
+   "utility": "Walton EMC",
+   "lat": 33.870224965739595,
+   "lon": -83.38759587022628,
+   "county": "Oconee",
+   "location": "Victoria Road (30644)",
+   "first_seen": 1795544422331,
+   "customers": 9,
+   "start": 1795544422331,
+   "cause": "\"OPEN\" GA POWER HAS LINES DOWN EVERYWHERE, OUR LINES ARE BACK UP BUT THE AREA IS ON FIRE SO WE LEFT THIS OPEN FOR NOW",
+   "last_seen": 1795544422331,
+   "cleared": null
+  },
   {
    "key": "gapower:33.8946,-83.3592",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 4,
    "start": 1795543233242,
    "cause": null,
-   "last_seen": 1795543816970,
+   "last_seen": 1795544422331,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 1,
    "start": 1795543121000,
    "cause": null,
-   "last_seen": 1795543816970,
+   "last_seen": 1795544422331,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 571,
    "start": 1795542018407,
    "cause": null,
-   "last_seen": 1795543816970,
+   "last_seen": 1795544422331,
    "cleared": null
   },
   {
@@ -54,7 +68,7 @@
    "customers": 1,
    "start": 1795540818032,
    "cause": null,
-   "last_seen": 1795543816970,
+   "last_seen": 1795544422331,
    "cleared": null
   },
   {
@@ -68,7 +82,7 @@
    "customers": 4,
    "start": 1795540220655,
    "cause": null,
-   "last_seen": 1795543816970,
+   "last_seen": 1795544422331,
    "cleared": null
   },
   {
@@ -562,20 +576,6 @@
    "cleared": 1795463417762
   },
   {
-   "key": "walton:C1208307",
-   "utility": "Walton EMC",
-   "lat": 33.78974736579165,
-   "lon": -83.81930837260538,
-   "county": "Walton",
-   "location": "Thompson Mill Road (30052)",
-   "first_seen": 1795450111767,
-   "customers": 1,
-   "start": 1795450111767,
-   "cause": null,
-   "last_seen": 1795457416077,
-   "cleared": 1795458016720
-  },
-  {
    "key": "gapower:34.0426,-83.0326",
    "utility": "Georgia Power",
    "lat": 34.04256,
@@ -595,27 +595,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795543816970,
+   "last_ok": 1795544422331,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795543816970
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1795544422331
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795543816970
+   "last_ok": 1795544422331
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795543816970
+   "last_ok": 1795544422331
   }
  },
  "skipped": {
