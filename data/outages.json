@@ -1,6 +1,20 @@
 {
- "checked": 1795556417496,
+ "checked": 1795557016605,
  "outages": [
+  {
+   "key": "walton:D1208340",
+   "utility": "Walton EMC",
+   "lat": 33.88317311713332,
+   "lon": -83.66204978675145,
+   "county": "Walton",
+   "location": "Bradley Gin Road near Gratis (30655)",
+   "first_seen": 1795557016605,
+   "customers": 270,
+   "start": 1795557016605,
+   "cause": "Testing...testing",
+   "last_seen": 1795557016605,
+   "cleared": null
+  },
   {
    "key": "gapower:33.8638,-83.4110",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 4,
    "start": 1795555821216,
    "cause": null,
-   "last_seen": 1795556417496,
+   "last_seen": 1795557016605,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 1,
    "start": 1795554616604,
    "cause": null,
-   "last_seen": 1795556417496,
+   "last_seen": 1795557016605,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 2,
    "start": 1795548065000,
    "cause": "Planned",
-   "last_seen": 1795556417496,
+   "last_seen": 1795557016605,
    "cleared": null
   },
   {
@@ -497,27 +511,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795556417496,
+   "last_ok": 1795557016605,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795556417496
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1795557016605
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795556417496
+   "last_ok": 1795557016605
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795556417496
+   "last_ok": 1795557016605
   }
  },
  "skipped": {
