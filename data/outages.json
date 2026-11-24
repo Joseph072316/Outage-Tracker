@@ -1,32 +1,32 @@
 {
- "checked": 1795533018316,
+ "checked": 1795533619319,
  "outages": [
   {
-   "key": "gapower:33.4893,-83.2223",
+   "key": "gapower:33.4897,-83.2222",
    "utility": "Georgia Power",
-   "lat": 33.4893,
-   "lon": -83.22229,
+   "lat": 33.48969,
+   "lon": -83.22223,
    "county": "Greene",
    "location": "Park Drive (30642)",
-   "first_seen": 1795533018316,
-   "customers": 4,
-   "start": 1795533018316,
+   "first_seen": 1795533619319,
+   "customers": 11,
+   "start": 1795533619319,
    "cause": null,
-   "last_seen": 1795533018316,
+   "last_seen": 1795533619319,
    "cleared": null
   },
   {
-   "key": "gapower:33.4896,-83.2222",
-   "utility": "Georgia Power",
-   "lat": 33.48965,
-   "lon": -83.22219,
+   "key": "rayle:2026-11-24-0320",
+   "utility": "Rayle EMC",
+   "lat": 33.46544760587112,
+   "lon": -83.14278804925571,
    "county": "Greene",
-   "location": "Park Drive (30642)",
-   "first_seen": 1795533018316,
-   "customers": 6,
-   "start": 1795533018316,
+   "location": "Liberty Church Road near Liberty (30678)",
+   "first_seen": 1795533619319,
+   "customers": 10,
+   "start": 1795533394000,
    "cause": null,
-   "last_seen": 1795533018316,
+   "last_seen": 1795533619319,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 4,
    "start": 1795533018316,
    "cause": null,
-   "last_seen": 1795533018316,
+   "last_seen": 1795533619319,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 4,
    "start": 1795531818356,
    "cause": null,
-   "last_seen": 1795533018316,
+   "last_seen": 1795533619319,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 5,
    "start": 1795531267241,
    "cause": "Planned",
-   "last_seen": 1795533018316,
+   "last_seen": 1795533619319,
    "cleared": null
   },
   {
@@ -82,7 +82,7 @@
    "customers": 12,
    "start": 1795529417366,
    "cause": null,
-   "last_seen": 1795533018316,
+   "last_seen": 1795533619319,
    "cleared": null
   },
   {
@@ -96,8 +96,36 @@
    "customers": 4,
    "start": 1795526419705,
    "cause": null,
-   "last_seen": 1795533018316,
+   "last_seen": 1795533619319,
    "cleared": null
+  },
+  {
+   "key": "gapower:33.4893,-83.2223",
+   "utility": "Georgia Power",
+   "lat": 33.4893,
+   "lon": -83.22229,
+   "county": "Greene",
+   "location": "Park Drive (30642)",
+   "first_seen": 1795533018316,
+   "customers": 4,
+   "start": 1795533018316,
+   "cause": null,
+   "last_seen": 1795533018316,
+   "cleared": 1795533619319
+  },
+  {
+   "key": "gapower:33.4896,-83.2222",
+   "utility": "Georgia Power",
+   "lat": 33.48965,
+   "lon": -83.22219,
+   "county": "Greene",
+   "location": "Park Drive (30642)",
+   "first_seen": 1795533018316,
+   "customers": 6,
+   "start": 1795533018316,
+   "cause": null,
+   "last_seen": 1795533018316,
+   "cleared": 1795533619319
   },
   {
    "key": "gapower:34.1734,-83.2916",
@@ -609,31 +637,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795533018316,
+   "last_ok": 1795533619319,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795533018316
+   "last_ok": 1795533619319
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795533018316
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795533619319
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "6 outage(s) in your counties",
+   "message": "5 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795533018316
+   "last_ok": 1795533619319
   }
  },
  "skipped": {
-  "walton:C1208305": 1795447217107,
   "gapower:34.3308,-83.8288": 1795452017017,
   "gapower:34.3307,-83.8293": 1795453226069,
   "gapower:34.2863,-83.8537": 1795459216253,
@@ -647,6 +674,8 @@
   "gapower:34.0016,-83.7237": 1795528783412,
   "gapower:34.3025,-83.6274": 1795529417366,
   "gapower:33.6135,-83.4388": 1795529417366,
-  "gapower:33.5787,-83.4783": 1795530022684
+  "gapower:33.5787,-83.4783": 1795530022684,
+  "gapower:34.2622,-83.5288": 1795533619319,
+  "gapower:34.2741,-83.8521": 1795533619319
  }
 }
