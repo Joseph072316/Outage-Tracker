@@ -1,18 +1,18 @@
 {
- "checked": 1795502422466,
+ "checked": 1795503015118,
  "outages": [
   {
-   "key": "jackson:607023",
+   "key": "jackson:607027",
    "utility": "Jackson EMC",
-   "lat": 34.13386485389179,
-   "lon": -83.30320175926624,
+   "lat": 34.13387228950597,
+   "lon": -83.2696047676355,
    "county": "Madison",
-   "location": "Rogers Mill Road (30633)",
-   "first_seen": 1795498816271,
-   "customers": 133,
-   "start": 1795497961000,
+   "location": "Coley Davis Road (30633)",
+   "first_seen": 1795503015118,
+   "customers": 2,
+   "start": 1795502309743,
    "cause": null,
-   "last_seen": 1795502422466,
+   "last_seen": 1795503015118,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 1,
    "start": 1795475040000,
    "cause": null,
-   "last_seen": 1795502422466,
+   "last_seen": 1795503015118,
    "cleared": null
   },
   {
@@ -42,6 +42,20 @@
    "cause": null,
    "last_seen": 1795499415209,
    "cleared": 1795500022436
+  },
+  {
+   "key": "jackson:607023",
+   "utility": "Jackson EMC",
+   "lat": 34.13386485389179,
+   "lon": -83.30320175926624,
+   "county": "Madison",
+   "location": "Rogers Mill Road (30633)",
+   "first_seen": 1795498816271,
+   "customers": 133,
+   "start": 1795497961000,
+   "cause": null,
+   "last_seen": 1795502422466,
+   "cleared": 1795503015118
   },
   {
    "key": "walton:C1208315",
@@ -497,27 +511,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795502422466,
+   "last_ok": 1795503015118,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795502422466
+   "last_ok": 1795503015118
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795502422466
+   "last_ok": 1795503015118
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795502422466
+   "last_ok": 1795503015118
   }
  },
  "skipped": {
