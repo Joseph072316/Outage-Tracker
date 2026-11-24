@@ -1,6 +1,48 @@
 {
- "checked": 1795532426868,
+ "checked": 1795533018316,
  "outages": [
+  {
+   "key": "gapower:33.4893,-83.2223",
+   "utility": "Georgia Power",
+   "lat": 33.4893,
+   "lon": -83.22229,
+   "county": "Greene",
+   "location": "Park Drive (30642)",
+   "first_seen": 1795533018316,
+   "customers": 4,
+   "start": 1795533018316,
+   "cause": null,
+   "last_seen": 1795533018316,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.4896,-83.2222",
+   "utility": "Georgia Power",
+   "lat": 33.48965,
+   "lon": -83.22219,
+   "county": "Greene",
+   "location": "Park Drive (30642)",
+   "first_seen": 1795533018316,
+   "customers": 6,
+   "start": 1795533018316,
+   "cause": null,
+   "last_seen": 1795533018316,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.8475,-83.4086",
+   "utility": "Georgia Power",
+   "lat": 33.84753,
+   "lon": -83.40862,
+   "county": "Oconee",
+   "location": "Colham Ferry Road near Watkinsville (30644)",
+   "first_seen": 1795533018316,
+   "customers": 4,
+   "start": 1795533018316,
+   "cause": null,
+   "last_seen": 1795533018316,
+   "cleared": null
+  },
   {
    "key": "gapower:34.0724,-83.1278",
    "utility": "Georgia Power",
@@ -12,7 +54,7 @@
    "customers": 4,
    "start": 1795531818356,
    "cause": null,
-   "last_seen": 1795532426868,
+   "last_seen": 1795533018316,
    "cleared": null
   },
   {
@@ -26,7 +68,7 @@
    "customers": 5,
    "start": 1795531267241,
    "cause": "Planned",
-   "last_seen": 1795532426868,
+   "last_seen": 1795533018316,
    "cleared": null
   },
   {
@@ -40,7 +82,7 @@
    "customers": 12,
    "start": 1795529417366,
    "cause": null,
-   "last_seen": 1795532426868,
+   "last_seen": 1795533018316,
    "cleared": null
   },
   {
@@ -54,7 +96,7 @@
    "customers": 4,
    "start": 1795526419705,
    "cause": null,
-   "last_seen": 1795532426868,
+   "last_seen": 1795533018316,
    "cleared": null
   },
   {
@@ -492,20 +534,6 @@
    "cleared": 1795449622735
   },
   {
-   "key": "walton:C1208302",
-   "utility": "Walton EMC",
-   "lat": 33.87327236900963,
-   "lon": -83.46247765397484,
-   "county": "Oconee",
-   "location": "Robinhood Road near Northwest Woods (30677)",
-   "first_seen": 1795442782732,
-   "customers": 1,
-   "start": 1795442782732,
-   "cause": null,
-   "last_seen": 1795446025041,
-   "cleared": 1795446376190
-  },
-  {
    "key": "gapower:33.8617,-83.4074",
    "utility": "Georgia Power",
    "lat": 33.86173,
@@ -581,27 +609,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795532426868,
+   "last_ok": 1795533018316,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795532426868
+   "last_ok": 1795533018316
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795532426868
+   "last_ok": 1795533018316
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "3 outage(s) in your counties",
+   "message": "6 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795532426868
+   "last_ok": 1795533018316
   }
  },
  "skipped": {
