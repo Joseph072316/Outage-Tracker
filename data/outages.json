@@ -1,5 +1,5 @@
 {
- "checked": 1795536025522,
+ "checked": 1795536617649,
  "outages": [
   {
    "key": "gapower:33.9728,-83.3187",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795535416785,
    "cause": null,
-   "last_seen": 1795536025522,
+   "last_seen": 1795536617649,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 12,
    "start": 1795534818263,
    "cause": null,
-   "last_seen": 1795536025522,
+   "last_seen": 1795536617649,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 10,
    "start": 1795533394000,
    "cause": null,
-   "last_seen": 1795536025522,
+   "last_seen": 1795536617649,
    "cleared": null
   },
   {
@@ -54,21 +54,7 @@
    "customers": 4,
    "start": 1795531818356,
    "cause": null,
-   "last_seen": 1795536025522,
-   "cleared": null
-  },
-  {
-   "key": "gapower:34.1741,-83.2922",
-   "utility": "Georgia Power",
-   "lat": 34.17405,
-   "lon": -83.29219,
-   "county": "Madison",
-   "location": "Campbell Street near Ila (30633)",
-   "first_seen": 1795526419705,
-   "customers": 4,
-   "start": 1795526419705,
-   "cause": null,
-   "last_seen": 1795536025522,
+   "last_seen": 1795536617649,
    "cleared": null
   },
   {
@@ -182,6 +168,20 @@
    "cause": null,
    "last_seen": 1795527617108,
    "cleared": 1795528217574
+  },
+  {
+   "key": "gapower:34.1741,-83.2922",
+   "utility": "Georgia Power",
+   "lat": 34.17405,
+   "lon": -83.29219,
+   "county": "Madison",
+   "location": "Campbell Street near Ila (30633)",
+   "first_seen": 1795526419705,
+   "customers": 4,
+   "start": 1795526419705,
+   "cause": null,
+   "last_seen": 1795536025522,
+   "cleared": 1795536617649
   },
   {
    "key": "gapower:33.6204,-83.0769",
@@ -590,20 +590,6 @@
    "cleared": 1795452617782
   },
   {
-   "key": "gapower:33.6592,-83.7130",
-   "utility": "Georgia Power",
-   "lat": 33.65919,
-   "lon": -83.713,
-   "county": "Walton",
-   "location": "Oak Drive Northeast near Social Circle (30025)",
-   "first_seen": 1795441821313,
-   "customers": 5,
-   "start": 1795441821313,
-   "cause": null,
-   "last_seen": 1795450111767,
-   "cleared": 1795450216222
-  },
-  {
    "key": "gapower:33.9680,-83.3865",
    "utility": "Georgia Power",
    "lat": 33.96799,
@@ -637,27 +623,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795536025522,
+   "last_ok": 1795536617649,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795536025522
+   "last_ok": 1795536617649
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795536025522
+   "last_ok": 1795536617649
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "4 outage(s) in your counties",
+   "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795536025522
+   "last_ok": 1795536617649
   }
  },
  "skipped": {
