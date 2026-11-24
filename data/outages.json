@@ -1,5 +1,5 @@
 {
- "checked": 1795549216970,
+ "checked": 1795549818049,
  "outages": [
   {
    "key": "jackson:607064",
@@ -12,7 +12,7 @@
    "customers": 2,
    "start": 1795548065000,
    "cause": "Planned",
-   "last_seen": 1795549216970,
+   "last_seen": 1795549818049,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 203,
    "start": 1795548016833,
    "cause": null,
-   "last_seen": 1795549216970,
+   "last_seen": 1795549818049,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 9,
    "start": 1795544422331,
    "cause": "\"OPEN\" GA POWER HAS LINES DOWN EVERYWHERE, OUR LINES ARE BACK UP BUT THE AREA IS ON FIRE SO WE LEFT THIS OPEN FOR NOW",
-   "last_seen": 1795549216970,
+   "last_seen": 1795549818049,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 4,
    "start": 1795543233242,
    "cause": null,
-   "last_seen": 1795549216970,
+   "last_seen": 1795549818049,
    "cleared": null
   },
   {
@@ -532,48 +532,6 @@
    "cause": "Planned",
    "last_seen": 1795464251612,
    "cleared": 1795464616789
-  },
-  {
-   "key": "walton:C1208310",
-   "utility": "Walton EMC",
-   "lat": 33.863184997487664,
-   "lon": -83.72273533981195,
-   "county": "Walton",
-   "location": "Springhill Church Road near Campton (30656)",
-   "first_seen": 1795458016720,
-   "customers": 1,
-   "start": 1795458016720,
-   "cause": null,
-   "last_seen": 1795462221892,
-   "cleared": 1795462817726
-  },
-  {
-   "key": "gapower:33.6601,-83.7096",
-   "utility": "Georgia Power",
-   "lat": 33.66009,
-   "lon": -83.70956,
-   "county": "Walton",
-   "location": "A P Henderson Drive near Social Circle (30025)",
-   "first_seen": 1795455027296,
-   "customers": 4,
-   "start": 1795455027296,
-   "cause": null,
-   "last_seen": 1795462817726,
-   "cleared": 1795463417762
-  },
-  {
-   "key": "gapower:33.4424,-83.2508",
-   "utility": "Georgia Power",
-   "lat": 33.44242,
-   "lon": -83.2508,
-   "county": "Greene",
-   "location": "Plantation Drive near Lake Oconee (30650)",
-   "first_seen": 1795450818415,
-   "customers": 40,
-   "start": 1795450818415,
-   "cause": null,
-   "last_seen": 1795462817726,
-   "cleared": 1795463417762
   }
  ],
  "sources": {
@@ -581,27 +539,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795549216970,
+   "last_ok": 1795549818049,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795549216970
+   "last_ok": 1795549818049
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795549216970
+   "last_ok": 1795549818049
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795549216970
+   "last_ok": 1795549818049
   }
  },
  "skipped": {
@@ -624,6 +582,8 @@
   "gapower:33.5811,-83.4617": 1795542018407,
   "gapower:34.0019,-83.7021": 1795543816970,
   "gapower:34.1771,-83.9261": 1795548016833,
-  "gapower:34.3272,-83.8324": 1795549216970
+  "gapower:34.3272,-83.8324": 1795549216970,
+  "gapower:34.2957,-83.8417": 1795549818049,
+  "gapower:34.3249,-83.8222": 1795549818049
  }
 }
