@@ -1,18 +1,32 @@
 {
- "checked": 1795534219911,
+ "checked": 1795534818263,
  "outages": [
   {
-   "key": "gapower:33.4897,-83.2222",
+   "key": "walton:C1208324",
+   "utility": "Walton EMC",
+   "lat": 33.78922740212514,
+   "lon": -83.58808692234267,
+   "county": "Walton",
+   "location": "Randolph Still Road (30655)",
+   "first_seen": 1795534818263,
+   "customers": 1,
+   "start": 1795534818263,
+   "cause": null,
+   "last_seen": 1795534818263,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.4896,-83.2230",
    "utility": "Georgia Power",
-   "lat": 33.48969,
-   "lon": -83.22223,
+   "lat": 33.48955,
+   "lon": -83.22301,
    "county": "Greene",
    "location": "Park Drive (30642)",
-   "first_seen": 1795533619319,
-   "customers": 11,
-   "start": 1795533619319,
+   "first_seen": 1795534818263,
+   "customers": 12,
+   "start": 1795534818263,
    "cause": null,
-   "last_seen": 1795534219911,
+   "last_seen": 1795534818263,
    "cleared": null
   },
   {
@@ -26,21 +40,7 @@
    "customers": 10,
    "start": 1795533394000,
    "cause": null,
-   "last_seen": 1795534219911,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.8475,-83.4086",
-   "utility": "Georgia Power",
-   "lat": 33.84753,
-   "lon": -83.40862,
-   "county": "Oconee",
-   "location": "Colham Ferry Road near Watkinsville (30644)",
-   "first_seen": 1795533018316,
-   "customers": 4,
-   "start": 1795533018316,
-   "cause": null,
-   "last_seen": 1795534219911,
+   "last_seen": 1795534818263,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 4,
    "start": 1795531818356,
    "cause": null,
-   "last_seen": 1795534219911,
+   "last_seen": 1795534818263,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 5,
    "start": 1795531267241,
    "cause": "Planned",
-   "last_seen": 1795534219911,
+   "last_seen": 1795534818263,
    "cleared": null
   },
   {
@@ -82,7 +82,7 @@
    "customers": 12,
    "start": 1795529417366,
    "cause": null,
-   "last_seen": 1795534219911,
+   "last_seen": 1795534818263,
    "cleared": null
   },
   {
@@ -96,8 +96,36 @@
    "customers": 4,
    "start": 1795526419705,
    "cause": null,
-   "last_seen": 1795534219911,
+   "last_seen": 1795534818263,
    "cleared": null
+  },
+  {
+   "key": "gapower:33.4897,-83.2222",
+   "utility": "Georgia Power",
+   "lat": 33.48969,
+   "lon": -83.22223,
+   "county": "Greene",
+   "location": "Park Drive (30642)",
+   "first_seen": 1795533619319,
+   "customers": 11,
+   "start": 1795533619319,
+   "cause": null,
+   "last_seen": 1795534219911,
+   "cleared": 1795534818263
+  },
+  {
+   "key": "gapower:33.8475,-83.4086",
+   "utility": "Georgia Power",
+   "lat": 33.84753,
+   "lon": -83.40862,
+   "county": "Oconee",
+   "location": "Colham Ferry Road near Watkinsville (30644)",
+   "first_seen": 1795533018316,
+   "customers": 4,
+   "start": 1795533018316,
+   "cause": null,
+   "last_seen": 1795534219911,
+   "cleared": 1795534818263
   },
   {
    "key": "gapower:33.4893,-83.2223",
@@ -637,27 +665,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795534219911,
+   "last_ok": 1795534818263,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795534219911
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795534818263
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795534219911
+   "last_ok": 1795534818263
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "5 outage(s) in your counties",
+   "message": "4 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795534219911
+   "last_ok": 1795534818263
   }
  },
  "skipped": {
