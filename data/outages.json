@@ -1,6 +1,20 @@
 {
- "checked": 1795525818034,
+ "checked": 1795526419705,
  "outages": [
+  {
+   "key": "gapower:34.1741,-83.2922",
+   "utility": "Georgia Power",
+   "lat": 34.17405,
+   "lon": -83.29219,
+   "county": "Madison",
+   "location": "Campbell Street near Ila (30633)",
+   "first_seen": 1795526419705,
+   "customers": 4,
+   "start": 1795526419705,
+   "cause": null,
+   "last_seen": 1795526419705,
+   "cleared": null
+  },
   {
    "key": "gapower:33.6204,-83.0769",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 5,
    "start": 1795525818034,
    "cause": null,
-   "last_seen": 1795525818034,
+   "last_seen": 1795526419705,
    "cleared": null
   },
   {
@@ -525,27 +539,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795525818034,
+   "last_ok": 1795526419705,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795525818034
+   "last_ok": 1795526419705
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795525818034
+   "last_ok": 1795526419705
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
+   "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795525818034
+   "last_ok": 1795526419705
   }
  },
  "skipped": {
