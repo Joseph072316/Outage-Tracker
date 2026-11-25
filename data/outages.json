@@ -1,5 +1,5 @@
 {
- "checked": 1795632620109,
+ "checked": 1795632898914,
  "outages": [
   {
    "key": "walton:D1208662",
@@ -12,7 +12,7 @@
    "customers": 37,
    "start": 1795632620109,
    "cause": null,
-   "last_seen": 1795632620109,
+   "last_seen": 1795632898914,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 5,
    "start": 1795613422896,
    "cause": null,
-   "last_seen": 1795632620109,
+   "last_seen": 1795632898914,
    "cleared": null
   },
   {
@@ -910,34 +910,6 @@
    "cause": null,
    "last_seen": 1795547417572,
    "cleared": 1795548016833
-  },
-  {
-   "key": "walton:C1208329",
-   "utility": "Walton EMC",
-   "lat": 33.79713817061735,
-   "lon": -83.55263870243814,
-   "county": "Walton",
-   "location": "GA 186 near Good Hope (30621)",
-   "first_seen": 1795540818032,
-   "customers": 1,
-   "start": 1795540818032,
-   "cause": null,
-   "last_seen": 1795545617291,
-   "cleared": 1795546245296
-  },
-  {
-   "key": "gapower:33.9370,-83.4722",
-   "utility": "Georgia Power",
-   "lat": 33.93698,
-   "lon": -83.47216,
-   "county": "Clarke",
-   "location": "Jennings Mill Parkway near Athens (30622)",
-   "first_seen": 1795540220655,
-   "customers": 4,
-   "start": 1795540220655,
-   "cause": null,
-   "last_seen": 1795545617291,
-   "cleared": 1795546245296
   }
  ],
  "sources": {
@@ -945,27 +917,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795632620109,
+   "last_ok": 1795632898914,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795632620109
+   "last_ok": 1795632898914
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795632620109
+   "last_ok": 1795632898914
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795632620109
+   "last_ok": 1795632898914
   }
  },
  "skipped": {
