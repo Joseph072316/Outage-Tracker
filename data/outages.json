@@ -1,5 +1,5 @@
 {
- "checked": 1795615233646,
+ "checked": 1795615681956,
  "outages": [
   {
    "key": "gapower:33.9655,-83.4325",
@@ -12,7 +12,7 @@
    "customers": 5,
    "start": 1795613422896,
    "cause": null,
-   "last_seen": 1795615233646,
+   "last_seen": 1795615681956,
    "cleared": null
   },
   {
@@ -26,7 +26,21 @@
    "customers": 1,
    "start": 1795612113000,
    "cause": null,
-   "last_seen": 1795615233646,
+   "last_seen": 1795615681956,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.5570,-83.1020",
+   "utility": "Georgia Power",
+   "lat": 33.55703,
+   "lon": -83.10203,
+   "county": "Greene",
+   "location": "Pear Orchard Road (30665)",
+   "first_seen": 1795591823403,
+   "customers": 4,
+   "start": 1795591823403,
+   "cause": null,
+   "last_seen": 1795615681956,
    "cleared": null
   },
   {
@@ -41,21 +55,7 @@
    "start": 1795612093000,
    "cause": null,
    "last_seen": 1795615233646,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.5570,-83.1020",
-   "utility": "Georgia Power",
-   "lat": 33.55703,
-   "lon": -83.10203,
-   "county": "Greene",
-   "location": "Pear Orchard Road (30665)",
-   "first_seen": 1795591823403,
-   "customers": 4,
-   "start": 1795591823403,
-   "cause": null,
-   "last_seen": 1795615233646,
-   "cleared": null
+   "cleared": 1795615681956
   },
   {
    "key": "jackson:607185",
@@ -692,28 +692,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1795615233646,
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795615681956,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795615233646
+   "last_ok": 1795615681956
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795615233646
+   "last_ok": 1795615681956
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795615233646
+   "last_ok": 1795615681956
   }
  },
  "skipped": {
