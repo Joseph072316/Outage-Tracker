@@ -1,20 +1,6 @@
 {
- "checked": 1795564824666,
+ "checked": 1795565416478,
  "outages": [
-  {
-   "key": "gapower:33.9506,-83.4125",
-   "utility": "Georgia Power",
-   "lat": 33.95057,
-   "lon": -83.41252,
-   "county": "Clarke",
-   "location": "Gardenia Drive near Athens (30606)",
-   "first_seen": 1795557623308,
-   "customers": 17,
-   "start": 1795557623308,
-   "cause": null,
-   "last_seen": 1795564824666,
-   "cleared": null
-  },
   {
    "key": "gapower:33.8638,-83.4110",
    "utility": "Georgia Power",
@@ -26,7 +12,7 @@
    "customers": 4,
    "start": 1795555821216,
    "cause": null,
-   "last_seen": 1795564824666,
+   "last_seen": 1795565416478,
    "cleared": null
   },
   {
@@ -42,6 +28,20 @@
    "cause": null,
    "last_seen": 1795560615979,
    "cleared": 1795561224501
+  },
+  {
+   "key": "gapower:33.9506,-83.4125",
+   "utility": "Georgia Power",
+   "lat": 33.95057,
+   "lon": -83.41252,
+   "county": "Clarke",
+   "location": "Gardenia Drive near Athens (30606)",
+   "first_seen": 1795557623308,
+   "customers": 17,
+   "start": 1795557623308,
+   "cause": null,
+   "last_seen": 1795564824666,
+   "cleared": 1795565416478
   },
   {
    "key": "walton:D1208340",
@@ -497,27 +497,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795564824666,
+   "last_ok": 1795565416478,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795564824666
+   "last_ok": 1795565416478
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795564824666
+   "last_ok": 1795565416478
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
+   "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795564824666
+   "last_ok": 1795565416478
   }
  },
  "skipped": {
