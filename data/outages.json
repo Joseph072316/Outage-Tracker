@@ -1,18 +1,18 @@
 {
- "checked": 1795606220165,
+ "checked": 1795606816476,
  "outages": [
   {
-   "key": "gapower:33.6668,-83.7242",
+   "key": "gapower:33.6650,-83.7043",
    "utility": "Georgia Power",
-   "lat": 33.66683,
-   "lon": -83.72418,
+   "lat": 33.66497,
+   "lon": -83.70429,
    "county": "Walton",
-   "location": "Windsong Circle near Social Circle (30025)",
-   "first_seen": 1795605618125,
+   "location": "Ronthor Drive near Social Circle (30025)",
+   "first_seen": 1795606816476,
    "customers": 4,
-   "start": 1795605618125,
+   "start": 1795606816476,
    "cause": null,
-   "last_seen": 1795606220165,
+   "last_seen": 1795606816476,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1795591823403,
    "cause": null,
-   "last_seen": 1795606220165,
+   "last_seen": 1795606816476,
    "cleared": null
   },
   {
@@ -40,8 +40,22 @@
    "customers": 4,
    "start": 1795591823403,
    "cause": null,
-   "last_seen": 1795606220165,
+   "last_seen": 1795606816476,
    "cleared": null
+  },
+  {
+   "key": "gapower:33.6668,-83.7242",
+   "utility": "Georgia Power",
+   "lat": 33.66683,
+   "lon": -83.72418,
+   "county": "Walton",
+   "location": "Windsong Circle near Social Circle (30025)",
+   "first_seen": 1795605618125,
+   "customers": 4,
+   "start": 1795605618125,
+   "cause": null,
+   "last_seen": 1795606220165,
+   "cleared": 1795606816476
   },
   {
    "key": "rayle:2026-11-25-0348",
@@ -665,27 +679,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795606220165,
+   "last_ok": 1795606816476,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795606220165
+   "last_ok": 1795606816476
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795606220165
+   "last_ok": 1795606816476
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795606220165
+   "last_ok": 1795606816476
   }
  },
  "skipped": {
@@ -732,6 +746,7 @@
   "walton:D1208362": 1795599616394,
   "rayle:2026-11-25-0344": 1795599616394,
   "rayle:2026-11-25-0345": 1795599616394,
-  "rayle:2026-11-25-0349": 1795601416512
+  "rayle:2026-11-25-0349": 1795601416512,
+  "gapower:34.0582,-82.9093": 1795606816476
  }
 }
