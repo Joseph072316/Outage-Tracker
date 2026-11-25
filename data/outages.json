@@ -1,6 +1,20 @@
 {
- "checked": 1795626025468,
+ "checked": 1795626617939,
  "outages": [
+  {
+   "key": "gapower:33.9655,-83.4325",
+   "utility": "Georgia Power",
+   "lat": 33.96554,
+   "lon": -83.43253,
+   "county": "Clarke",
+   "location": "Tallassee Road near Athens (30606)",
+   "first_seen": 1795613422896,
+   "customers": 5,
+   "start": 1795613422896,
+   "cause": null,
+   "last_seen": 1795626617939,
+   "cleared": null
+  },
   {
    "key": "gapower:33.9624,-83.4178",
    "utility": "Georgia Power",
@@ -13,49 +27,7 @@
    "start": 1795625416860,
    "cause": null,
    "last_seen": 1795626025468,
-   "cleared": null
-  },
-  {
-   "key": "gapower:34.2714,-83.5912",
-   "utility": "Georgia Power",
-   "lat": 34.27137,
-   "lon": -83.59124,
-   "county": "Jackson",
-   "location": "Morrison Lane (30558)",
-   "first_seen": 1795623756532,
-   "customers": 4,
-   "start": 1795623756532,
-   "cause": null,
-   "last_seen": 1795626025468,
-   "cleared": null
-  },
-  {
-   "key": "walton:C1208384",
-   "utility": "Walton EMC",
-   "lat": 33.89897157026487,
-   "lon": -83.46810998801278,
-   "county": "Oconee",
-   "location": "Grayson Lane near Den Court (30677)",
-   "first_seen": 1795621217557,
-   "customers": 1,
-   "start": 1795621217557,
-   "cause": null,
-   "last_seen": 1795626025468,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.9655,-83.4325",
-   "utility": "Georgia Power",
-   "lat": 33.96554,
-   "lon": -83.43253,
-   "county": "Clarke",
-   "location": "Tallassee Road near Athens (30606)",
-   "first_seen": 1795613422896,
-   "customers": 5,
-   "start": 1795613422896,
-   "cause": null,
-   "last_seen": 1795626025468,
-   "cleared": null
+   "cleared": 1795626617939
   },
   {
    "key": "gapower:33.6761,-83.7094",
@@ -84,6 +56,20 @@
    "cause": null,
    "last_seen": 1795624224677,
    "cleared": 1795624818250
+  },
+  {
+   "key": "gapower:34.2714,-83.5912",
+   "utility": "Georgia Power",
+   "lat": 34.27137,
+   "lon": -83.59124,
+   "county": "Jackson",
+   "location": "Morrison Lane (30558)",
+   "first_seen": 1795623756532,
+   "customers": 4,
+   "start": 1795623756532,
+   "cause": null,
+   "last_seen": 1795626025468,
+   "cleared": 1795626617939
   },
   {
    "key": "walton:C1208644",
@@ -126,6 +112,20 @@
    "cause": null,
    "last_seen": 1795625416860,
    "cleared": 1795626025468
+  },
+  {
+   "key": "walton:C1208384",
+   "utility": "Walton EMC",
+   "lat": 33.89897157026487,
+   "lon": -83.46810998801278,
+   "county": "Oconee",
+   "location": "Grayson Lane near Den Court (30677)",
+   "first_seen": 1795621217557,
+   "customers": 1,
+   "start": 1795621217557,
+   "cause": null,
+   "last_seen": 1795626025468,
+   "cleared": 1795626617939
   },
   {
    "key": "walton:C1208383",
@@ -931,27 +931,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795626025468,
+   "last_ok": 1795626617939,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795626025468
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795626617939
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795626025468
+   "last_ok": 1795626617939
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "3 outage(s) in your counties",
+   "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795626025468
+   "last_ok": 1795626617939
   }
  },
  "skipped": {
