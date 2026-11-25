@@ -1,5 +1,5 @@
 {
- "checked": 1795598418283,
+ "checked": 1795599019571,
  "outages": [
   {
    "key": "walton:D1208355",
@@ -12,7 +12,7 @@
    "customers": 29,
    "start": 1795598418283,
    "cause": "SPAN OF PRIMARY/NEUTRAL TORN DOWN ON BEECHNUT LANE",
-   "last_seen": 1795598418283,
+   "last_seen": 1795599019571,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 2,
    "start": 1795598068000,
    "cause": null,
-   "last_seen": 1795598418283,
+   "last_seen": 1795599019571,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 33,
    "start": 1795597816496,
    "cause": null,
-   "last_seen": 1795598418283,
+   "last_seen": 1795599019571,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 26,
    "start": 1795597816496,
    "cause": null,
-   "last_seen": 1795598418283,
+   "last_seen": 1795599019571,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 25,
    "start": 1795596777000,
    "cause": null,
-   "last_seen": 1795598418283,
+   "last_seen": 1795599019571,
    "cleared": null
   },
   {
@@ -82,7 +82,7 @@
    "customers": 4,
    "start": 1795591823403,
    "cause": null,
-   "last_seen": 1795598418283,
+   "last_seen": 1795599019571,
    "cleared": null
   },
   {
@@ -96,7 +96,7 @@
    "customers": 4,
    "start": 1795591823403,
    "cause": null,
-   "last_seen": 1795598418283,
+   "last_seen": 1795599019571,
    "cleared": null
   },
   {
@@ -665,27 +665,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795598418283,
+   "last_ok": 1795599019571,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "3 outage(s) in your counties",
-   "last_ok": 1795598418283
+   "last_ok": 1795599019571
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795598418283
+   "last_ok": 1795599019571
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795598418283
+   "last_ok": 1795599019571
   }
  },
  "skipped": {
@@ -722,6 +722,12 @@
   "rayle:2026-11-25-0330": 1795598418283,
   "rayle:2026-11-25-0332": 1795598418283,
   "rayle:2026-11-25-0333": 1795598418283,
-  "rayle:2026-11-25-0334": 1795598418283
+  "rayle:2026-11-25-0334": 1795598418283,
+  "rayle:2026-11-25-0336": 1795599019571,
+  "rayle:2026-11-25-0337": 1795599019571,
+  "rayle:2026-11-25-0339": 1795599019571,
+  "rayle:2026-11-25-0340": 1795599019571,
+  "rayle:2026-11-25-0342": 1795599019571,
+  "rayle:2026-11-25-0343": 1795599019571
  }
 }
