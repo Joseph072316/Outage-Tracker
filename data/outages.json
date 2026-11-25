@@ -1,20 +1,6 @@
 {
- "checked": 1795618826819,
+ "checked": 1795619418877,
  "outages": [
-  {
-   "key": "gapower:33.6564,-83.7263",
-   "utility": "Georgia Power",
-   "lat": 33.65642,
-   "lon": -83.72633,
-   "county": "Walton",
-   "location": "Branham Circle near Social Circle (30025)",
-   "first_seen": 1795618826819,
-   "customers": 4,
-   "start": 1795618826819,
-   "cause": null,
-   "last_seen": 1795618826819,
-   "cleared": null
-  },
   {
    "key": "walton:C1208377",
    "utility": "Walton EMC",
@@ -26,21 +12,7 @@
    "customers": 1,
    "start": 1795618217350,
    "cause": null,
-   "last_seen": 1795618826819,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.9514,-83.4385",
-   "utility": "Georgia Power",
-   "lat": 33.95139,
-   "lon": -83.43852,
-   "county": "Clarke",
-   "location": "Inner Loop 10 near Athens (30606)",
-   "first_seen": 1795618217350,
-   "customers": 82,
-   "start": 1795618217350,
-   "cause": null,
-   "last_seen": 1795618826819,
+   "last_seen": 1795619418877,
    "cleared": null
   },
   {
@@ -54,7 +26,7 @@
    "customers": 1,
    "start": 1795616418301,
    "cause": null,
-   "last_seen": 1795618826819,
+   "last_seen": 1795619418877,
    "cleared": null
   },
   {
@@ -68,7 +40,7 @@
    "customers": 5,
    "start": 1795613422896,
    "cause": null,
-   "last_seen": 1795618826819,
+   "last_seen": 1795619418877,
    "cleared": null
   },
   {
@@ -82,8 +54,36 @@
    "customers": 1,
    "start": 1795612113000,
    "cause": null,
-   "last_seen": 1795618826819,
+   "last_seen": 1795619418877,
    "cleared": null
+  },
+  {
+   "key": "gapower:33.6564,-83.7263",
+   "utility": "Georgia Power",
+   "lat": 33.65642,
+   "lon": -83.72633,
+   "county": "Walton",
+   "location": "Branham Circle near Social Circle (30025)",
+   "first_seen": 1795618826819,
+   "customers": 4,
+   "start": 1795618826819,
+   "cause": null,
+   "last_seen": 1795618826819,
+   "cleared": 1795619418877
+  },
+  {
+   "key": "gapower:33.9514,-83.4385",
+   "utility": "Georgia Power",
+   "lat": 33.95139,
+   "lon": -83.43852,
+   "county": "Clarke",
+   "location": "Inner Loop 10 near Athens (30606)",
+   "first_seen": 1795618217350,
+   "customers": 82,
+   "start": 1795618217350,
+   "cause": null,
+   "last_seen": 1795618826819,
+   "cleared": 1795619418877
   },
   {
    "key": "gapower:33.7114,-83.6893",
@@ -945,27 +945,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795618826819,
+   "last_ok": 1795619418877,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795618826819
+   "last_ok": 1795619418877
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795618826819
+   "last_ok": 1795619418877
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "3 outage(s) in your counties",
+   "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795618826819
+   "last_ok": 1795619418877
   }
  },
  "skipped": {
