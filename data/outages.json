@@ -1,20 +1,6 @@
 {
- "checked": 1795572023148,
+ "checked": 1795572616472,
  "outages": [
-  {
-   "key": "gapower:33.8638,-83.4110",
-   "utility": "Georgia Power",
-   "lat": 33.86376,
-   "lon": -83.41101,
-   "county": "Oconee",
-   "location": "Water Street near Watkinsville (30644)",
-   "first_seen": 1795555821216,
-   "customers": 4,
-   "start": 1795555821216,
-   "cause": null,
-   "last_seen": 1795572023148,
-   "cleared": null
-  },
   {
    "key": "gapower:33.8437,-83.8855",
    "utility": "Georgia Power",
@@ -70,6 +56,20 @@
    "cause": "Testing...testing",
    "last_seen": 1795557016605,
    "cleared": 1795557623308
+  },
+  {
+   "key": "gapower:33.8638,-83.4110",
+   "utility": "Georgia Power",
+   "lat": 33.86376,
+   "lon": -83.41101,
+   "county": "Oconee",
+   "location": "Water Street near Watkinsville (30644)",
+   "first_seen": 1795555821216,
+   "customers": 4,
+   "start": 1795555821216,
+   "cause": null,
+   "last_seen": 1795572023148,
+   "cleared": 1795572616472
   },
   {
    "key": "walton:C1208338",
@@ -497,27 +497,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795572023148,
+   "last_ok": 1795572616472,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795572023148
+   "last_ok": 1795572616472
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795572023148
+   "last_ok": 1795572616472
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
+   "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795572023148
+   "last_ok": 1795572616472
   }
  },
  "skipped": {
