@@ -1,5 +1,5 @@
 {
- "checked": 1795600620060,
+ "checked": 1795600831887,
  "outages": [
   {
    "key": "rayle:2026-11-25-0348",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1795599960000,
    "cause": null,
-   "last_seen": 1795600620060,
+   "last_seen": 1795600831887,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 65,
    "start": 1795599000000,
    "cause": null,
-   "last_seen": 1795600620060,
+   "last_seen": 1795600831887,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 29,
    "start": 1795598418283,
    "cause": "SPAN OF PRIMARY/NEUTRAL TORN DOWN ON BEECHNUT LANE",
-   "last_seen": 1795600620060,
+   "last_seen": 1795600831887,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 2,
    "start": 1795598068000,
    "cause": null,
-   "last_seen": 1795600620060,
+   "last_seen": 1795600831887,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 33,
    "start": 1795597816496,
    "cause": null,
-   "last_seen": 1795600620060,
+   "last_seen": 1795600831887,
    "cleared": null
   },
   {
@@ -82,7 +82,7 @@
    "customers": 26,
    "start": 1795597816496,
    "cause": null,
-   "last_seen": 1795600620060,
+   "last_seen": 1795600831887,
    "cleared": null
   },
   {
@@ -96,7 +96,7 @@
    "customers": 25,
    "start": 1795596777000,
    "cause": null,
-   "last_seen": 1795600620060,
+   "last_seen": 1795600831887,
    "cleared": null
   },
   {
@@ -110,7 +110,7 @@
    "customers": 4,
    "start": 1795591823403,
    "cause": null,
-   "last_seen": 1795600620060,
+   "last_seen": 1795600831887,
    "cleared": null
   },
   {
@@ -124,7 +124,7 @@
    "customers": 4,
    "start": 1795591823403,
    "cause": null,
-   "last_seen": 1795600620060,
+   "last_seen": 1795600831887,
    "cleared": null
   },
   {
@@ -646,34 +646,6 @@
    "cleared": 1795515015354
   },
   {
-   "key": "jackson:607028",
-   "utility": "Jackson EMC",
-   "lat": 34.13386485389179,
-   "lon": -83.30320175926624,
-   "county": "Madison",
-   "location": "Rogers Mill Road (30633)",
-   "first_seen": 1795514102136,
-   "customers": 133,
-   "start": 1795513064404,
-   "cause": null,
-   "last_seen": 1795514102136,
-   "cleared": 1795514422741
-  },
-  {
-   "key": "jackson:607027",
-   "utility": "Jackson EMC",
-   "lat": 34.13387228950597,
-   "lon": -83.2696047676355,
-   "county": "Madison",
-   "location": "Coley Davis Road (30633)",
-   "first_seen": 1795503015118,
-   "customers": 2,
-   "start": 1795502309743,
-   "cause": null,
-   "last_seen": 1795514102136,
-   "cleared": 1795514422741
-  },
-  {
    "key": "rayle:2026-11-23-0318",
    "utility": "Rayle EMC",
    "lat": 33.63643708111017,
@@ -693,27 +665,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795600620060,
+   "last_ok": 1795600831887,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "3 outage(s) in your counties",
-   "last_ok": 1795600620060
+   "last_ok": 1795600831887
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "3 outage(s) in your counties",
-   "last_ok": 1795600620060
+   "last_ok": 1795600831887
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795600620060
+   "last_ok": 1795600831887
   }
  },
  "skipped": {
