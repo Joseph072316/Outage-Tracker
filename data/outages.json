@@ -1,5 +1,5 @@
 {
- "checked": 1795641619879,
+ "checked": 1795642219932,
  "outages": [
   {
    "key": "walton:C1208675",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1795639055847,
    "cause": null,
-   "last_seen": 1795641619879,
+   "last_seen": 1795642219932,
    "cleared": null
   },
   {
@@ -27,21 +27,7 @@
    "start": 1795638620249,
    "cause": null,
    "last_seen": 1795641619879,
-   "cleared": null
-  },
-  {
-   "key": "jackson:607219",
-   "utility": "Jackson EMC",
-   "lat": 34.136065767133026,
-   "lon": -83.14370588054861,
-   "county": "Madison",
-   "location": "Coile Road near Cedar Grove (30629)",
-   "first_seen": 1795637419518,
-   "customers": 3,
-   "start": 1795636597061,
-   "cause": "Planned",
-   "last_seen": 1795641619879,
-   "cleared": null
+   "cleared": 1795642219932
   },
   {
    "key": "gapower:34.0880,-83.1354",
@@ -70,6 +56,20 @@
    "cause": null,
    "last_seen": 1795638017164,
    "cleared": 1795638620249
+  },
+  {
+   "key": "jackson:607219",
+   "utility": "Jackson EMC",
+   "lat": 34.136065767133026,
+   "lon": -83.14370588054861,
+   "county": "Madison",
+   "location": "Coile Road near Cedar Grove (30629)",
+   "first_seen": 1795637419518,
+   "customers": 3,
+   "start": 1795636597061,
+   "cause": "Planned",
+   "last_seen": 1795641619879,
+   "cleared": 1795642219932
   },
   {
    "key": "walton:C1208667",
@@ -958,28 +958,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795641619879,
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795642219932,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1795641619879
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795642219932
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795641619879
+   "last_ok": 1795642219932
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795641619879
+   "last_ok": 1795642219932
   }
  },
  "skipped": {
