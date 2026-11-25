@@ -1,6 +1,20 @@
 {
- "checked": 1795650015625,
+ "checked": 1795650617044,
  "outages": [
+  {
+   "key": "jackson:607240",
+   "utility": "Jackson EMC",
+   "lat": 34.23527774095144,
+   "lon": -83.63733911239386,
+   "county": "Jackson",
+   "location": "Deadwyler Road near Holly Springs (30558)",
+   "first_seen": 1795650617044,
+   "customers": 73,
+   "start": 1795649290000,
+   "cause": null,
+   "last_seen": 1795650617044,
+   "cleared": null
+  },
   {
    "key": "gapower:33.9845,-83.4033",
    "utility": "Georgia Power",
@@ -902,32 +916,31 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795650015625,
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795650617044,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795650015625
+   "last_ok": 1795650617044
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795650015625
+   "last_ok": 1795650617044
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795650015625
+   "last_ok": 1795650617044
   }
  },
  "skipped": {
-  "walton:C1208341": 1795563616808,
   "gapower:34.2832,-83.8553": 1795567815548,
   "gapower:34.3353,-83.8491": 1795568332240,
   "gapower:34.2689,-83.5351": 1795575021276,
