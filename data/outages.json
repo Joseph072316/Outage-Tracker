@@ -1,6 +1,20 @@
 {
- "checked": 1795615819896,
+ "checked": 1795616418301,
  "outages": [
+  {
+   "key": "walton:C1208373",
+   "utility": "Walton EMC",
+   "lat": 33.76485883913564,
+   "lon": -83.92537090028472,
+   "county": "Walton",
+   "location": "South Sharon Church Road (30052)",
+   "first_seen": 1795616418301,
+   "customers": 1,
+   "start": 1795616418301,
+   "cause": null,
+   "last_seen": 1795616418301,
+   "cleared": null
+  },
   {
    "key": "gapower:33.6709,-83.7122",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 9,
    "start": 1795615819896,
    "cause": null,
-   "last_seen": 1795615819896,
+   "last_seen": 1795616418301,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 5,
    "start": 1795613422896,
    "cause": null,
-   "last_seen": 1795615819896,
+   "last_seen": 1795616418301,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 1,
    "start": 1795612113000,
    "cause": null,
-   "last_seen": 1795615819896,
+   "last_seen": 1795616418301,
    "cleared": null
   },
   {
@@ -54,7 +68,7 @@
    "customers": 4,
    "start": 1795591823403,
    "cause": null,
-   "last_seen": 1795615819896,
+   "last_seen": 1795616418301,
    "cleared": null
   },
   {
@@ -707,27 +721,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795615819896,
+   "last_ok": 1795616418301,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795615819896
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795616418301
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795615819896
+   "last_ok": 1795616418301
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795615819896
+   "last_ok": 1795616418301
   }
  },
  "skipped": {
@@ -776,6 +790,7 @@
   "gapower:34.2623,-83.5308": 1795614018402,
   "walton:C1208372": 1795615233646,
   "gapower:34.0092,-83.7182": 1795615233646,
-  "gapower:34.2723,-83.5898": 1795615819896
+  "gapower:34.2723,-83.5898": 1795615819896,
+  "walton:C1208374": 1795616418301
  }
 }
