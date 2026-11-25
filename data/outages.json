@@ -1,5 +1,5 @@
 {
- "checked": 1795614018402,
+ "checked": 1795614617992,
  "outages": [
   {
    "key": "gapower:33.9655,-83.4325",
@@ -12,7 +12,7 @@
    "customers": 5,
    "start": 1795613422896,
    "cause": null,
-   "last_seen": 1795614018402,
+   "last_seen": 1795614617992,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 1,
    "start": 1795612113000,
    "cause": null,
-   "last_seen": 1795614018402,
+   "last_seen": 1795614617992,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 2,
    "start": 1795612093000,
    "cause": null,
-   "last_seen": 1795614018402,
+   "last_seen": 1795614617992,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 4,
    "start": 1795591823403,
    "cause": null,
-   "last_seen": 1795614018402,
+   "last_seen": 1795614617992,
    "cleared": null
   },
   {
@@ -674,20 +674,6 @@
    "cleared": 1795536025522
   },
   {
-   "key": "gapower:34.1734,-83.2916",
-   "utility": "Georgia Power",
-   "lat": 34.17341,
-   "lon": -83.29156,
-   "county": "Madison",
-   "location": "Main Street near Ila (30647)",
-   "first_seen": 1795527022561,
-   "customers": 4,
-   "start": 1795527022561,
-   "cause": null,
-   "last_seen": 1795527617108,
-   "cleared": 1795528217574
-  },
-  {
    "key": "gapower:34.1741,-83.2922",
    "utility": "Georgia Power",
    "lat": 34.17405,
@@ -721,31 +707,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795614018402,
+   "last_ok": 1795614617992,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795614018402
+   "last_ok": 1795614617992
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795614018402
+   "last_ok": 1795614617992
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795614018402
+   "last_ok": 1795614617992
   }
  },
  "skipped": {
-  "gapower:34.2745,-83.8523": 1795528217574,
   "gapower:34.0016,-83.7237": 1795528783412,
   "gapower:34.3025,-83.6274": 1795529417366,
   "gapower:33.6135,-83.4388": 1795529417366,
