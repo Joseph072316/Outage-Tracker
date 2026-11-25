@@ -1,6 +1,20 @@
 {
- "checked": 1795631420771,
+ "checked": 1795632016860,
  "outages": [
+  {
+   "key": "gapower:33.9655,-83.4325",
+   "utility": "Georgia Power",
+   "lat": 33.96554,
+   "lon": -83.43253,
+   "county": "Clarke",
+   "location": "Tallassee Road near Athens (30606)",
+   "first_seen": 1795613422896,
+   "customers": 5,
+   "start": 1795613422896,
+   "cause": null,
+   "last_seen": 1795632016860,
+   "cleared": null
+  },
   {
    "key": "gapower:33.9447,-83.4310",
    "utility": "Georgia Power",
@@ -13,21 +27,7 @@
    "start": 1795627820843,
    "cause": null,
    "last_seen": 1795631420771,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.9655,-83.4325",
-   "utility": "Georgia Power",
-   "lat": 33.96554,
-   "lon": -83.43253,
-   "county": "Clarke",
-   "location": "Tallassee Road near Athens (30606)",
-   "first_seen": 1795613422896,
-   "customers": 5,
-   "start": 1795613422896,
-   "cause": null,
-   "last_seen": 1795631420771,
-   "cleared": null
+   "cleared": 1795632016860
   },
   {
    "key": "gapower:33.9624,-83.4178",
@@ -931,27 +931,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795631420771,
+   "last_ok": 1795632016860,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795631420771
+   "last_ok": 1795632016860
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795631420771
+   "last_ok": 1795632016860
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
+   "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795631420771
+   "last_ok": 1795632016860
   }
  },
  "skipped": {
@@ -999,6 +999,7 @@
   "gapower:34.0620,-82.9123": 1795623756532,
   "gapower:34.2147,-83.8735": 1795627217035,
   "walton:C1208655": 1795628417044,
-  "rayle:2026-11-25-0369": 1795631420771
+  "rayle:2026-11-25-0369": 1795631420771,
+  "gapower:34.3153,-83.7707": 1795632016860
  }
 }
