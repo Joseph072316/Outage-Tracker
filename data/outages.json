@@ -1,5 +1,5 @@
 {
- "checked": 1795614617992,
+ "checked": 1795615233646,
  "outages": [
   {
    "key": "gapower:33.9655,-83.4325",
@@ -12,7 +12,7 @@
    "customers": 5,
    "start": 1795613422896,
    "cause": null,
-   "last_seen": 1795614617992,
+   "last_seen": 1795615233646,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 1,
    "start": 1795612113000,
    "cause": null,
-   "last_seen": 1795614617992,
+   "last_seen": 1795615233646,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 2,
    "start": 1795612093000,
    "cause": null,
-   "last_seen": 1795614617992,
+   "last_seen": 1795615233646,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 4,
    "start": 1795591823403,
    "cause": null,
-   "last_seen": 1795614617992,
+   "last_seen": 1795615233646,
    "cleared": null
   },
   {
@@ -686,20 +686,6 @@
    "cause": null,
    "last_seen": 1795536025522,
    "cleared": 1795536617649
-  },
-  {
-   "key": "gapower:33.6204,-83.0769",
-   "utility": "Georgia Power",
-   "lat": 33.62037,
-   "lon": -83.07689,
-   "county": "Greene",
-   "location": "Stewart Avenue near Union Point (30669)",
-   "first_seen": 1795525818034,
-   "customers": 5,
-   "start": 1795525818034,
-   "cause": null,
-   "last_seen": 1795528217574,
-   "cleared": 1795528783412
   }
  ],
  "sources": {
@@ -707,31 +693,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795614617992,
+   "last_ok": 1795615233646,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795614617992
+   "last_ok": 1795615233646
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795614617992
+   "last_ok": 1795615233646
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795614617992
+   "last_ok": 1795615233646
   }
  },
  "skipped": {
-  "gapower:34.0016,-83.7237": 1795528783412,
   "gapower:34.3025,-83.6274": 1795529417366,
   "gapower:33.6135,-83.4388": 1795529417366,
   "gapower:33.5787,-83.4783": 1795530022684,
@@ -776,6 +761,8 @@
   "gapower:33.9294,-83.7148": 1795608620535,
   "walton:C1208369": 1795611019354,
   "gapower:33.9251,-83.7163": 1795612817098,
-  "gapower:34.2623,-83.5308": 1795614018402
+  "gapower:34.2623,-83.5308": 1795614018402,
+  "walton:C1208372": 1795615233646,
+  "gapower:34.0092,-83.7182": 1795615233646
  }
 }
