@@ -1,6 +1,20 @@
 {
- "checked": 1795636823214,
+ "checked": 1795637419518,
  "outages": [
+  {
+   "key": "jackson:607219",
+   "utility": "Jackson EMC",
+   "lat": 34.136065767133026,
+   "lon": -83.14370588054861,
+   "county": "Madison",
+   "location": "Coile Road near Cedar Grove (30629)",
+   "first_seen": 1795637419518,
+   "customers": 3,
+   "start": 1795636597061,
+   "cause": "Planned",
+   "last_seen": 1795637419518,
+   "cleared": null
+  },
   {
    "key": "walton:C1208667",
    "utility": "Walton EMC",
@@ -916,28 +930,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795636823214,
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795637419518,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795636823214
+   "last_ok": 1795637419518
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795636823214
+   "last_ok": 1795637419518
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795636823214
+   "last_ok": 1795637419518
   }
  },
  "skipped": {
@@ -986,6 +1000,7 @@
   "gapower:33.9331,-83.7292": 1795633816669,
   "walton:C1208669": 1795634423971,
   "gapower:33.6028,-83.4728": 1795634423971,
-  "gapower:33.5939,-83.3744": 1795634423971
+  "gapower:33.5939,-83.3744": 1795634423971,
+  "walton:C1208672": 1795637419518
  }
 }
