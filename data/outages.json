@@ -1,6 +1,34 @@
 {
- "checked": 1795596839752,
+ "checked": 1795597224746,
  "outages": [
+  {
+   "key": "walton:C1208349",
+   "utility": "Walton EMC",
+   "lat": 33.88696061821823,
+   "lon": -83.34217008200928,
+   "county": "Clarke",
+   "location": "Red Fox Run near Athens (30605)",
+   "first_seen": 1795597224746,
+   "customers": 1,
+   "start": 1795597224746,
+   "cause": null,
+   "last_seen": 1795597224746,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1208350",
+   "utility": "Walton EMC",
+   "lat": 33.87644652634513,
+   "lon": -83.33692399055712,
+   "county": "Clarke",
+   "location": "Beaver Trail near Athens (30605)",
+   "first_seen": 1795597224746,
+   "customers": 1,
+   "start": 1795597224746,
+   "cause": null,
+   "last_seen": 1795597224746,
+   "cleared": null
+  },
   {
    "key": "walton:C1208348",
    "utility": "Walton EMC",
@@ -12,7 +40,21 @@
    "customers": 1,
    "start": 1795596839752,
    "cause": null,
-   "last_seen": 1795596839752,
+   "last_seen": 1795597224746,
+   "cleared": null
+  },
+  {
+   "key": "jackson:607175",
+   "utility": "Jackson EMC",
+   "lat": 34.15371561272866,
+   "lon": -83.7139654061399,
+   "county": "Jackson",
+   "location": "Lanier Road (30567)",
+   "first_seen": 1795597224746,
+   "customers": 25,
+   "start": 1795596782000,
+   "cause": null,
+   "last_seen": 1795597224746,
    "cleared": null
   },
   {
@@ -26,7 +68,7 @@
    "customers": 1,
    "start": 1795594216439,
    "cause": null,
-   "last_seen": 1795596839752,
+   "last_seen": 1795597224746,
    "cleared": null
   },
   {
@@ -40,7 +82,7 @@
    "customers": 4,
    "start": 1795591823403,
    "cause": null,
-   "last_seen": 1795596839752,
+   "last_seen": 1795597224746,
    "cleared": null
   },
   {
@@ -54,7 +96,7 @@
    "customers": 4,
    "start": 1795591823403,
    "cause": null,
-   "last_seen": 1795596839752,
+   "last_seen": 1795597224746,
    "cleared": null
   },
   {
@@ -566,28 +608,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795596839752,
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795597224746,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1795596839752
+   "message": "4 outage(s) in your counties",
+   "last_ok": 1795597224746
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795596839752
+   "last_ok": 1795597224746
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795596839752
+   "last_ok": 1795597224746
   }
  },
  "skipped": {
