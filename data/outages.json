@@ -1,6 +1,20 @@
 {
- "checked": 1795632016860,
+ "checked": 1795632620109,
  "outages": [
+  {
+   "key": "walton:D1208662",
+   "utility": "Walton EMC",
+   "lat": 33.88698963836978,
+   "lon": -83.34011104604248,
+   "county": "Clarke",
+   "location": "Red Fox Run near Athens (30605)",
+   "first_seen": 1795632620109,
+   "customers": 37,
+   "start": 1795632620109,
+   "cause": null,
+   "last_seen": 1795632620109,
+   "cleared": null
+  },
   {
    "key": "gapower:33.9655,-83.4325",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 5,
    "start": 1795613422896,
    "cause": null,
-   "last_seen": 1795632016860,
+   "last_seen": 1795632620109,
    "cleared": null
   },
   {
@@ -931,27 +945,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795632016860,
+   "last_ok": 1795632620109,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795632016860
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795632620109
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795632016860
+   "last_ok": 1795632620109
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795632016860
+   "last_ok": 1795632620109
   }
  },
  "skipped": {
