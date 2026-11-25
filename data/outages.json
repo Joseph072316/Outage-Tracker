@@ -1,6 +1,20 @@
 {
- "checked": 1795583416371,
+ "checked": 1795584020332,
  "outages": [
+  {
+   "key": "jackson:607084",
+   "utility": "Jackson EMC",
+   "lat": 34.20587037821372,
+   "lon": -83.19352644621283,
+   "county": "Madison",
+   "location": "Old Wildcat Bridge Road near Madison Springs",
+   "first_seen": 1795584020332,
+   "customers": 58,
+   "start": 1795583490000,
+   "cause": null,
+   "last_seen": 1795584020332,
+   "cleared": null
+  },
   {
    "key": "gapower:33.8437,-83.8855",
    "utility": "Georgia Power",
@@ -496,28 +510,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795583416371,
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795584020332,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795583416371
+   "last_ok": 1795584020332
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795583416371
+   "last_ok": 1795584020332
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795583416371
+   "last_ok": 1795584020332
   }
  },
  "skipped": {
