@@ -1,6 +1,76 @@
 {
- "checked": 1795617021362,
+ "checked": 1795617618686,
  "outages": [
+  {
+   "key": "gapower:33.7114,-83.6893",
+   "utility": "Georgia Power",
+   "lat": 33.71145,
+   "lon": -83.68926,
+   "county": "Walton",
+   "location": "Chickadee Drive near Herndonville (30655)",
+   "first_seen": 1795617618686,
+   "customers": 4,
+   "start": 1795617618686,
+   "cause": null,
+   "last_seen": 1795617618686,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.6529,-83.7473",
+   "utility": "Georgia Power",
+   "lat": 33.65286,
+   "lon": -83.74727,
+   "county": "Walton",
+   "location": "Carnation Drive near Social Circle (30025)",
+   "first_seen": 1795617618686,
+   "customers": 4,
+   "start": 1795617618686,
+   "cause": null,
+   "last_seen": 1795617618686,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.6631,-83.7228",
+   "utility": "Georgia Power",
+   "lat": 33.66314,
+   "lon": -83.72283,
+   "county": "Walton",
+   "location": "Emily Way near Social Circle (30025)",
+   "first_seen": 1795617618686,
+   "customers": 4,
+   "start": 1795617618686,
+   "cause": null,
+   "last_seen": 1795617618686,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.6604,-83.7187",
+   "utility": "Georgia Power",
+   "lat": 33.6604,
+   "lon": -83.71873,
+   "county": "Walton",
+   "location": "Heritage Park near Social Circle (30025)",
+   "first_seen": 1795617618686,
+   "customers": 4,
+   "start": 1795617618686,
+   "cause": null,
+   "last_seen": 1795617618686,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.6770,-83.7447",
+   "utility": "Georgia Power",
+   "lat": 33.67697,
+   "lon": -83.74466,
+   "county": "Walton",
+   "location": "Clegg Farm Road (30025)",
+   "first_seen": 1795617618686,
+   "customers": 4,
+   "start": 1795617618686,
+   "cause": null,
+   "last_seen": 1795617618686,
+   "cleared": null
+  },
   {
    "key": "gapower:33.6624,-83.7369",
    "utility": "Georgia Power",
@@ -12,7 +82,7 @@
    "customers": 4,
    "start": 1795617021362,
    "cause": null,
-   "last_seen": 1795617021362,
+   "last_seen": 1795617618686,
    "cleared": null
   },
   {
@@ -26,7 +96,7 @@
    "customers": 4,
    "start": 1795617021362,
    "cause": null,
-   "last_seen": 1795617021362,
+   "last_seen": 1795617618686,
    "cleared": null
   },
   {
@@ -40,7 +110,7 @@
    "customers": 4,
    "start": 1795617021362,
    "cause": null,
-   "last_seen": 1795617021362,
+   "last_seen": 1795617618686,
    "cleared": null
   },
   {
@@ -54,7 +124,7 @@
    "customers": 4,
    "start": 1795617021362,
    "cause": null,
-   "last_seen": 1795617021362,
+   "last_seen": 1795617618686,
    "cleared": null
   },
   {
@@ -68,7 +138,7 @@
    "customers": 4,
    "start": 1795617021362,
    "cause": null,
-   "last_seen": 1795617021362,
+   "last_seen": 1795617618686,
    "cleared": null
   },
   {
@@ -82,7 +152,7 @@
    "customers": 4,
    "start": 1795617021362,
    "cause": null,
-   "last_seen": 1795617021362,
+   "last_seen": 1795617618686,
    "cleared": null
   },
   {
@@ -96,7 +166,7 @@
    "customers": 4,
    "start": 1795617021362,
    "cause": null,
-   "last_seen": 1795617021362,
+   "last_seen": 1795617618686,
    "cleared": null
   },
   {
@@ -110,7 +180,7 @@
    "customers": 4,
    "start": 1795617021362,
    "cause": null,
-   "last_seen": 1795617021362,
+   "last_seen": 1795617618686,
    "cleared": null
   },
   {
@@ -124,7 +194,7 @@
    "customers": 1,
    "start": 1795616418301,
    "cause": null,
-   "last_seen": 1795617021362,
+   "last_seen": 1795617618686,
    "cleared": null
   },
   {
@@ -138,7 +208,7 @@
    "customers": 9,
    "start": 1795615819896,
    "cause": null,
-   "last_seen": 1795617021362,
+   "last_seen": 1795617618686,
    "cleared": null
   },
   {
@@ -152,7 +222,7 @@
    "customers": 5,
    "start": 1795613422896,
    "cause": null,
-   "last_seen": 1795617021362,
+   "last_seen": 1795617618686,
    "cleared": null
   },
   {
@@ -166,7 +236,7 @@
    "customers": 1,
    "start": 1795612113000,
    "cause": null,
-   "last_seen": 1795617021362,
+   "last_seen": 1795617618686,
    "cleared": null
   },
   {
@@ -180,7 +250,7 @@
    "customers": 4,
    "start": 1795591823403,
    "cause": null,
-   "last_seen": 1795617021362,
+   "last_seen": 1795617618686,
    "cleared": null
   },
   {
@@ -833,27 +903,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795617021362,
+   "last_ok": 1795617618686,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795617021362
+   "last_ok": 1795617618686
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795617021362
+   "last_ok": 1795617618686
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "11 outage(s) in your counties",
+   "message": "16 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795617021362
+   "last_ok": 1795617618686
   }
  },
  "skipped": {
