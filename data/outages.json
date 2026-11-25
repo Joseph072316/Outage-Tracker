@@ -1,6 +1,20 @@
 {
- "checked": 1795611079095,
+ "checked": 1795611623634,
  "outages": [
+  {
+   "key": "gapower:33.5570,-83.1020",
+   "utility": "Georgia Power",
+   "lat": 33.55703,
+   "lon": -83.10203,
+   "county": "Greene",
+   "location": "Pear Orchard Road (30665)",
+   "first_seen": 1795591823403,
+   "customers": 4,
+   "start": 1795591823403,
+   "cause": null,
+   "last_seen": 1795611623634,
+   "cleared": null
+  },
   {
    "key": "gapower:33.6650,-83.7043",
    "utility": "Georgia Power",
@@ -13,21 +27,7 @@
    "start": 1795606816476,
    "cause": null,
    "last_seen": 1795611079095,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.5570,-83.1020",
-   "utility": "Georgia Power",
-   "lat": 33.55703,
-   "lon": -83.10203,
-   "county": "Greene",
-   "location": "Pear Orchard Road (30665)",
-   "first_seen": 1795591823403,
-   "customers": 4,
-   "start": 1795591823403,
-   "cause": null,
-   "last_seen": 1795611079095,
-   "cleared": null
+   "cleared": 1795611623634
   },
   {
    "key": "gapower:33.6668,-83.7242",
@@ -665,27 +665,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795611079095,
+   "last_ok": 1795611623634,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795611079095
+   "last_ok": 1795611623634
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795611079095
+   "last_ok": 1795611623634
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
+   "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795611079095
+   "last_ok": 1795611623634
   }
  },
  "skipped": {
