@@ -1,6 +1,20 @@
 {
- "checked": 1795633224280,
+ "checked": 1795633816669,
  "outages": [
+  {
+   "key": "walton:C1208667",
+   "utility": "Walton EMC",
+   "lat": 33.80230745072904,
+   "lon": -83.66173015440124,
+   "county": "Walton",
+   "location": "Dogwood Terrace (30656)",
+   "first_seen": 1795633816669,
+   "customers": 1,
+   "start": 1795633816669,
+   "cause": null,
+   "last_seen": 1795633816669,
+   "cleared": null
+  },
   {
    "key": "walton:D1208662",
    "utility": "Walton EMC",
@@ -12,7 +26,7 @@
    "customers": 37,
    "start": 1795632620109,
    "cause": null,
-   "last_seen": 1795633224280,
+   "last_seen": 1795633816669,
    "cleared": null
   },
   {
@@ -27,21 +41,7 @@
    "start": 1795632301252,
    "cause": null,
    "last_seen": 1795633224280,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.9655,-83.4325",
-   "utility": "Georgia Power",
-   "lat": 33.96554,
-   "lon": -83.43253,
-   "county": "Clarke",
-   "location": "Tallassee Road near Athens (30606)",
-   "first_seen": 1795613422896,
-   "customers": 5,
-   "start": 1795613422896,
-   "cause": null,
-   "last_seen": 1795633224280,
-   "cleared": null
+   "cleared": 1795633816669
   },
   {
    "key": "gapower:33.9447,-83.4310",
@@ -462,6 +462,20 @@
    "cause": null,
    "last_seen": 1795617618686,
    "cleared": 1795618217350
+  },
+  {
+   "key": "gapower:33.9655,-83.4325",
+   "utility": "Georgia Power",
+   "lat": 33.96554,
+   "lon": -83.43253,
+   "county": "Clarke",
+   "location": "Tallassee Road near Athens (30606)",
+   "first_seen": 1795613422896,
+   "customers": 5,
+   "start": 1795613422896,
+   "cause": null,
+   "last_seen": 1795633224280,
+   "cleared": 1795633816669
   },
   {
    "key": "jackson:607186",
@@ -930,28 +944,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795633224280,
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795633816669,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795633224280
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1795633816669
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795633224280
+   "last_ok": 1795633816669
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
+   "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795633224280
+   "last_ok": 1795633816669
   }
  },
  "skipped": {
@@ -1000,6 +1014,7 @@
   "gapower:34.2147,-83.8735": 1795627217035,
   "walton:C1208655": 1795628417044,
   "rayle:2026-11-25-0369": 1795631420771,
-  "gapower:34.3153,-83.7707": 1795632016860
+  "gapower:34.3153,-83.7707": 1795632016860,
+  "gapower:33.9331,-83.7292": 1795633816669
  }
 }
