@@ -1,5 +1,5 @@
 {
- "checked": 1795625416860,
+ "checked": 1795626025468,
  "outages": [
   {
    "key": "gapower:33.9624,-83.4178",
@@ -12,49 +12,7 @@
    "customers": 4,
    "start": 1795625416860,
    "cause": null,
-   "last_seen": 1795625416860,
-   "cleared": null
-  },
-  {
-   "key": "walton:C1208644",
-   "utility": "Walton EMC",
-   "lat": 33.82265063838811,
-   "lon": -83.4487447556884,
-   "county": "Oconee",
-   "location": "Cemetery Road (30621)",
-   "first_seen": 1795623756532,
-   "customers": 1,
-   "start": 1795623756532,
-   "cause": null,
-   "last_seen": 1795625416860,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.6739,-83.7170",
-   "utility": "Georgia Power",
-   "lat": 33.67393,
-   "lon": -83.71699,
-   "county": "Walton",
-   "location": "Beaver Drive near Social Circle (30025)",
-   "first_seen": 1795623756532,
-   "customers": 48,
-   "start": 1795623756532,
-   "cause": null,
-   "last_seen": 1795625416860,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.6750,-83.7101",
-   "utility": "Georgia Power",
-   "lat": 33.67505,
-   "lon": -83.71006,
-   "county": "Walton",
-   "location": "Azalea Court near Social Circle (30025)",
-   "first_seen": 1795623756532,
-   "customers": 4,
-   "start": 1795623756532,
-   "cause": null,
-   "last_seen": 1795625416860,
+   "last_seen": 1795626025468,
    "cleared": null
   },
   {
@@ -68,7 +26,7 @@
    "customers": 4,
    "start": 1795623756532,
    "cause": null,
-   "last_seen": 1795625416860,
+   "last_seen": 1795626025468,
    "cleared": null
   },
   {
@@ -82,7 +40,7 @@
    "customers": 1,
    "start": 1795621217557,
    "cause": null,
-   "last_seen": 1795625416860,
+   "last_seen": 1795626025468,
    "cleared": null
   },
   {
@@ -96,7 +54,7 @@
    "customers": 5,
    "start": 1795613422896,
    "cause": null,
-   "last_seen": 1795625416860,
+   "last_seen": 1795626025468,
    "cleared": null
   },
   {
@@ -126,6 +84,48 @@
    "cause": null,
    "last_seen": 1795624224677,
    "cleared": 1795624818250
+  },
+  {
+   "key": "walton:C1208644",
+   "utility": "Walton EMC",
+   "lat": 33.82265063838811,
+   "lon": -83.4487447556884,
+   "county": "Oconee",
+   "location": "Cemetery Road (30621)",
+   "first_seen": 1795623756532,
+   "customers": 1,
+   "start": 1795623756532,
+   "cause": null,
+   "last_seen": 1795625416860,
+   "cleared": 1795626025468
+  },
+  {
+   "key": "gapower:33.6739,-83.7170",
+   "utility": "Georgia Power",
+   "lat": 33.67393,
+   "lon": -83.71699,
+   "county": "Walton",
+   "location": "Beaver Drive near Social Circle (30025)",
+   "first_seen": 1795623756532,
+   "customers": 48,
+   "start": 1795623756532,
+   "cause": null,
+   "last_seen": 1795625416860,
+   "cleared": 1795626025468
+  },
+  {
+   "key": "gapower:33.6750,-83.7101",
+   "utility": "Georgia Power",
+   "lat": 33.67505,
+   "lon": -83.71006,
+   "county": "Walton",
+   "location": "Azalea Court near Social Circle (30025)",
+   "first_seen": 1795623756532,
+   "customers": 4,
+   "start": 1795623756532,
+   "cause": null,
+   "last_seen": 1795625416860,
+   "cleared": 1795626025468
   },
   {
    "key": "walton:C1208383",
@@ -924,20 +924,6 @@
    "cause": null,
    "last_seen": 1795541421044,
    "cleared": 1795542018407
-  },
-  {
-   "key": "gapower:34.0724,-83.1278",
-   "utility": "Georgia Power",
-   "lat": 34.07236,
-   "lon": -83.12785,
-   "county": "Madison",
-   "location": "Kingston Drive near Comer (30629)",
-   "first_seen": 1795531818356,
-   "customers": 4,
-   "start": 1795531818356,
-   "cause": null,
-   "last_seen": 1795538417914,
-   "cleared": 1795539019244
   }
  ],
  "sources": {
@@ -945,31 +931,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795625416860,
+   "last_ok": 1795626025468,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1795625416860
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795626025468
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795625416860
+   "last_ok": 1795626025468
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "5 outage(s) in your counties",
+   "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795625416860
+   "last_ok": 1795626025468
   }
  },
  "skipped": {
-  "gapower:33.9349,-83.7289": 1795539019244,
   "gapower:34.3289,-83.8332": 1795540220655,
   "gapower:34.3246,-83.8223": 1795540220655,
   "gapower:33.5811,-83.4617": 1795542018407,
