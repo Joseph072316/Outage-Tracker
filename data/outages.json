@@ -1,5 +1,5 @@
 {
- "checked": 1795585822155,
+ "checked": 1795586424814,
  "outages": [
   {
    "key": "jackson:607084",
@@ -12,7 +12,7 @@
    "customers": 58,
    "start": 1795583490000,
    "cause": null,
-   "last_seen": 1795585822155,
+   "last_seen": 1795586424814,
    "cleared": null
   },
   {
@@ -464,20 +464,6 @@
    "cleared": 1795514422741
   },
   {
-   "key": "jackson:607026",
-   "utility": "Jackson EMC",
-   "lat": 34.12861514701301,
-   "lon": -83.30508822136316,
-   "county": "Madison",
-   "location": "GA 106 near Neese (30646)",
-   "first_seen": 1795499415209,
-   "customers": 1,
-   "start": 1795498500000,
-   "cause": null,
-   "last_seen": 1795499415209,
-   "cleared": 1795500022436
-  },
-  {
    "key": "jackson:607023",
    "utility": "Jackson EMC",
    "lat": 34.13386485389179,
@@ -511,27 +497,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795585822155,
+   "last_ok": 1795586424814,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795585822155
+   "last_ok": 1795586424814
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795585822155
+   "last_ok": 1795586424814
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795585822155
+   "last_ok": 1795586424814
   }
  },
  "skipped": {
