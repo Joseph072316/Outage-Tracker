@@ -1,5 +1,5 @@
 {
- "checked": 1795645837885,
+ "checked": 1795646418088,
  "outages": [
   {
    "key": "walton:C1208675",
@@ -896,20 +896,6 @@
    "cause": null,
    "last_seen": 1795572023148,
    "cleared": 1795572616472
-  },
-  {
-   "key": "jackson:607064",
-   "utility": "Jackson EMC",
-   "lat": 34.13433329630861,
-   "lon": -83.15064087454299,
-   "county": "Madison",
-   "location": "Cedar Branch Drive near Cedar Grove (30629)",
-   "first_seen": 1795548621774,
-   "customers": 2,
-   "start": 1795548065000,
-   "cause": "Planned",
-   "last_seen": 1795559419614,
-   "cleared": 1795560015808
   }
  ],
  "sources": {
@@ -917,27 +903,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795645837885,
+   "last_ok": 1795646418088,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795645837885
+   "last_ok": 1795646418088
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795645837885
+   "last_ok": 1795646418088
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795645837885
+   "last_ok": 1795646418088
   }
  },
  "skipped": {
