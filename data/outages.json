@@ -1,5 +1,5 @@
 {
- "checked": 1795600831887,
+ "checked": 1795601416512,
  "outages": [
   {
    "key": "rayle:2026-11-25-0348",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1795599960000,
    "cause": null,
-   "last_seen": 1795600831887,
+   "last_seen": 1795601416512,
    "cleared": null
   },
   {
@@ -26,7 +26,91 @@
    "customers": 65,
    "start": 1795599000000,
    "cause": null,
-   "last_seen": 1795600831887,
+   "last_seen": 1795601416512,
+   "cleared": null
+  },
+  {
+   "key": "rayle:2026-11-25-0331",
+   "utility": "Rayle EMC",
+   "lat": 33.57866949285535,
+   "lon": -83.27991656875818,
+   "county": "Greene",
+   "location": "Swords Road (30625)",
+   "first_seen": 1795598418283,
+   "customers": 2,
+   "start": 1795598068000,
+   "cause": null,
+   "last_seen": 1795601416512,
+   "cleared": null
+  },
+  {
+   "key": "walton:D1208354",
+   "utility": "Walton EMC",
+   "lat": 33.88698963836978,
+   "lon": -83.34011104604248,
+   "county": "Clarke",
+   "location": "Red Fox Run near Athens (30605)",
+   "first_seen": 1795597816496,
+   "customers": 33,
+   "start": 1795597816496,
+   "cause": null,
+   "last_seen": 1795601416512,
+   "cleared": null
+  },
+  {
+   "key": "walton:D1208352",
+   "utility": "Walton EMC",
+   "lat": 33.89530666209667,
+   "lon": -83.3320251436996,
+   "county": "Clarke",
+   "location": "Barnett Shoals Road near Athens (30605)",
+   "first_seen": 1795597816496,
+   "customers": 26,
+   "start": 1795597816496,
+   "cause": null,
+   "last_seen": 1795601416512,
+   "cleared": null
+  },
+  {
+   "key": "jackson:607175",
+   "utility": "Jackson EMC",
+   "lat": 34.15371561272866,
+   "lon": -83.7139654061399,
+   "county": "Jackson",
+   "location": "Lanier Road (30567)",
+   "first_seen": 1795597224746,
+   "customers": 25,
+   "start": 1795596777000,
+   "cause": null,
+   "last_seen": 1795601416512,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.5570,-83.1020",
+   "utility": "Georgia Power",
+   "lat": 33.55703,
+   "lon": -83.10203,
+   "county": "Greene",
+   "location": "Pear Orchard Road (30665)",
+   "first_seen": 1795591823403,
+   "customers": 4,
+   "start": 1795591823403,
+   "cause": null,
+   "last_seen": 1795601416512,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.6774,-83.7075",
+   "utility": "Georgia Power",
+   "lat": 33.67739,
+   "lon": -83.70748,
+   "county": "Walton",
+   "location": "North Cherokee Road near Social Circle (30025)",
+   "first_seen": 1795591823403,
+   "customers": 4,
+   "start": 1795591823403,
+   "cause": null,
+   "last_seen": 1795601416512,
    "cleared": null
   },
   {
@@ -41,91 +125,7 @@
    "start": 1795598418283,
    "cause": "SPAN OF PRIMARY/NEUTRAL TORN DOWN ON BEECHNUT LANE",
    "last_seen": 1795600831887,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-25-0331",
-   "utility": "Rayle EMC",
-   "lat": 33.57866949285535,
-   "lon": -83.27991656875818,
-   "county": "Greene",
-   "location": "Swords Road (30625)",
-   "first_seen": 1795598418283,
-   "customers": 2,
-   "start": 1795598068000,
-   "cause": null,
-   "last_seen": 1795600831887,
-   "cleared": null
-  },
-  {
-   "key": "walton:D1208354",
-   "utility": "Walton EMC",
-   "lat": 33.88698963836978,
-   "lon": -83.34011104604248,
-   "county": "Clarke",
-   "location": "Red Fox Run near Athens (30605)",
-   "first_seen": 1795597816496,
-   "customers": 33,
-   "start": 1795597816496,
-   "cause": null,
-   "last_seen": 1795600831887,
-   "cleared": null
-  },
-  {
-   "key": "walton:D1208352",
-   "utility": "Walton EMC",
-   "lat": 33.89530666209667,
-   "lon": -83.3320251436996,
-   "county": "Clarke",
-   "location": "Barnett Shoals Road near Athens (30605)",
-   "first_seen": 1795597816496,
-   "customers": 26,
-   "start": 1795597816496,
-   "cause": null,
-   "last_seen": 1795600831887,
-   "cleared": null
-  },
-  {
-   "key": "jackson:607175",
-   "utility": "Jackson EMC",
-   "lat": 34.15371561272866,
-   "lon": -83.7139654061399,
-   "county": "Jackson",
-   "location": "Lanier Road (30567)",
-   "first_seen": 1795597224746,
-   "customers": 25,
-   "start": 1795596777000,
-   "cause": null,
-   "last_seen": 1795600831887,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.5570,-83.1020",
-   "utility": "Georgia Power",
-   "lat": 33.55703,
-   "lon": -83.10203,
-   "county": "Greene",
-   "location": "Pear Orchard Road (30665)",
-   "first_seen": 1795591823403,
-   "customers": 4,
-   "start": 1795591823403,
-   "cause": null,
-   "last_seen": 1795600831887,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.6774,-83.7075",
-   "utility": "Georgia Power",
-   "lat": 33.67739,
-   "lon": -83.70748,
-   "county": "Walton",
-   "location": "North Cherokee Road near Social Circle (30025)",
-   "first_seen": 1795591823403,
-   "customers": 4,
-   "start": 1795591823403,
-   "cause": null,
-   "last_seen": 1795600831887,
-   "cleared": null
+   "cleared": 1795601416512
   },
   {
    "key": "walton:C1208349",
@@ -632,20 +632,6 @@
    "cleared": 1795528783412
   },
   {
-   "key": "jackson:607029",
-   "utility": "Jackson EMC",
-   "lat": 34.20245284297109,
-   "lon": -83.61508784280312,
-   "county": "Jackson",
-   "location": "County Road 383 (30567)",
-   "first_seen": 1795514102136,
-   "customers": 1,
-   "start": 1795513101753,
-   "cause": null,
-   "last_seen": 1795514422741,
-   "cleared": 1795515015354
-  },
-  {
    "key": "rayle:2026-11-23-0318",
    "utility": "Rayle EMC",
    "lat": 33.63643708111017,
@@ -665,27 +651,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795600831887,
+   "last_ok": 1795601416512,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "3 outage(s) in your counties",
-   "last_ok": 1795600831887
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1795601416512
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "3 outage(s) in your counties",
-   "last_ok": 1795600831887
+   "last_ok": 1795601416512
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795600831887
+   "last_ok": 1795601416512
   }
  },
  "skipped": {
@@ -731,6 +717,7 @@
   "rayle:2026-11-25-0343": 1795599019571,
   "walton:D1208362": 1795599616394,
   "rayle:2026-11-25-0344": 1795599616394,
-  "rayle:2026-11-25-0345": 1795599616394
+  "rayle:2026-11-25-0345": 1795599616394,
+  "rayle:2026-11-25-0349": 1795601416512
  }
 }
