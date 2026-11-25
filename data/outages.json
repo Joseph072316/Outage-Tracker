@@ -1,6 +1,20 @@
 {
- "checked": 1795611623634,
+ "checked": 1795612217628,
  "outages": [
+  {
+   "key": "jackson:607185",
+   "utility": "Jackson EMC",
+   "lat": 34.12572990015524,
+   "lon": -83.4351283419104,
+   "county": "Jackson",
+   "location": "Cabin Creek Drive near Nicholson (30565)",
+   "first_seen": 1795612217628,
+   "customers": 1,
+   "start": 1795612093000,
+   "cause": null,
+   "last_seen": 1795612217628,
+   "cleared": null
+  },
   {
    "key": "gapower:33.5570,-83.1020",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 4,
    "start": 1795591823403,
    "cause": null,
-   "last_seen": 1795611623634,
+   "last_seen": 1795612217628,
    "cleared": null
   },
   {
@@ -664,33 +678,31 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795611623634,
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795612217628,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795611623634
+   "last_ok": 1795612217628
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795611623634
+   "last_ok": 1795612217628
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795611623634
+   "last_ok": 1795612217628
   }
  },
  "skipped": {
-  "gapower:34.2662,-83.1087": 1795525232848,
-  "gapower:34.2833,-83.1306": 1795525232848,
   "gapower:34.2745,-83.8523": 1795528217574,
   "gapower:34.0016,-83.7237": 1795528783412,
   "gapower:34.3025,-83.6274": 1795529417366,
