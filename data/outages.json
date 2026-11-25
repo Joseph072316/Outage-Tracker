@@ -1,6 +1,62 @@
 {
- "checked": 1795620623633,
+ "checked": 1795621217557,
  "outages": [
+  {
+   "key": "walton:C1208384",
+   "utility": "Walton EMC",
+   "lat": 33.89897157026487,
+   "lon": -83.46810998801278,
+   "county": "Oconee",
+   "location": "Grayson Lane near Den Court (30677)",
+   "first_seen": 1795621217557,
+   "customers": 1,
+   "start": 1795621217557,
+   "cause": null,
+   "last_seen": 1795621217557,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1208383",
+   "utility": "Walton EMC",
+   "lat": 33.91025039841628,
+   "lon": -83.4919484467947,
+   "county": "Oconee",
+   "location": "oaklake Trail (30622)",
+   "first_seen": 1795621217557,
+   "customers": 1,
+   "start": 1795621217557,
+   "cause": null,
+   "last_seen": 1795621217557,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.6567,-83.7362",
+   "utility": "Georgia Power",
+   "lat": 33.65672,
+   "lon": -83.73623,
+   "county": "Walton",
+   "location": "St Andrews Court near Social Circle (30025)",
+   "first_seen": 1795621217557,
+   "customers": 4,
+   "start": 1795621217557,
+   "cause": null,
+   "last_seen": 1795621217557,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.6649,-83.7250",
+   "utility": "Georgia Power",
+   "lat": 33.66493,
+   "lon": -83.72496,
+   "county": "Walton",
+   "location": "Windsong Lane near Social Circle (30025)",
+   "first_seen": 1795621217557,
+   "customers": 4,
+   "start": 1795621217557,
+   "cause": null,
+   "last_seen": 1795621217557,
+   "cleared": null
+  },
   {
    "key": "walton:C1208377",
    "utility": "Walton EMC",
@@ -12,7 +68,7 @@
    "customers": 1,
    "start": 1795618217350,
    "cause": null,
-   "last_seen": 1795620623633,
+   "last_seen": 1795621217557,
    "cleared": null
   },
   {
@@ -26,7 +82,7 @@
    "customers": 1,
    "start": 1795616418301,
    "cause": null,
-   "last_seen": 1795620623633,
+   "last_seen": 1795621217557,
    "cleared": null
   },
   {
@@ -40,21 +96,7 @@
    "customers": 5,
    "start": 1795613422896,
    "cause": null,
-   "last_seen": 1795620623633,
-   "cleared": null
-  },
-  {
-   "key": "jackson:607186",
-   "utility": "Jackson EMC",
-   "lat": 34.152028107908755,
-   "lon": -83.7820038057686,
-   "county": "Jackson",
-   "location": "near Goochville (30517)",
-   "first_seen": 1795613422896,
-   "customers": 1,
-   "start": 1795612113000,
-   "cause": null,
-   "last_seen": 1795620623633,
+   "last_seen": 1795621217557,
    "cleared": null
   },
   {
@@ -280,6 +322,20 @@
    "cause": null,
    "last_seen": 1795617618686,
    "cleared": 1795618217350
+  },
+  {
+   "key": "jackson:607186",
+   "utility": "Jackson EMC",
+   "lat": 34.152028107908755,
+   "lon": -83.7820038057686,
+   "county": "Jackson",
+   "location": "near Goochville (30517)",
+   "first_seen": 1795613422896,
+   "customers": 1,
+   "start": 1795612113000,
+   "cause": null,
+   "last_seen": 1795620623633,
+   "cleared": 1795621217557
   },
   {
    "key": "jackson:607187",
@@ -916,28 +972,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795620623633,
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795621217557,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1795620623633
+   "message": "4 outage(s) in your counties",
+   "last_ok": 1795621217557
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795620623633
+   "last_ok": 1795621217557
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
+   "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795620623633
+   "last_ok": 1795621217557
   }
  },
  "skipped": {
@@ -985,6 +1041,7 @@
   "gapower:34.0092,-83.7182": 1795615233646,
   "gapower:34.2723,-83.5898": 1795615819896,
   "walton:C1208374": 1795616418301,
-  "gapower:33.9647,-83.7717": 1795618217350
+  "gapower:33.9647,-83.7717": 1795618217350,
+  "gapower:33.4800,-83.3259": 1795621217557
  }
 }
