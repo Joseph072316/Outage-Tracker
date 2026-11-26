@@ -1,5 +1,5 @@
 {
- "checked": 1795719015649,
+ "checked": 1795719623574,
  "outages": [
   {
    "key": "jackson:607353",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795718225000,
    "cause": null,
-   "last_seen": 1795719015649,
+   "last_seen": 1795719623574,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 272,
    "start": 1795718210000,
    "cause": null,
-   "last_seen": 1795719015649,
+   "last_seen": 1795719623574,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 4,
    "start": 1795717719000,
    "cause": null,
-   "last_seen": 1795719015649,
+   "last_seen": 1795719623574,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 1,
    "start": 1795717320000,
    "cause": null,
-   "last_seen": 1795719015649,
+   "last_seen": 1795719623574,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 2,
    "start": 1795716729000,
    "cause": null,
-   "last_seen": 1795719015649,
+   "last_seen": 1795719623574,
    "cleared": null
   },
   {
@@ -623,27 +623,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "5 outage(s) in your counties",
-   "last_ok": 1795719015649,
+   "last_ok": 1795719623574,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795719015649
+   "last_ok": 1795719623574
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795719015649
+   "last_ok": 1795719623574
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795719015649
+   "last_ok": 1795719623574
   }
  },
  "skipped": {
@@ -666,6 +666,7 @@
   "walton:C1208747": 1795718421421,
   "walton:C1208746": 1795718421421,
   "walton:C1208745": 1795718421421,
-  "walton:D1208753": 1795719015649
+  "walton:D1208753": 1795719015649,
+  "walton:C1208758": 1795719623574
  }
 }
