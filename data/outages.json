@@ -1,32 +1,32 @@
 {
- "checked": 1795720216540,
+ "checked": 1795720816850,
  "outages": [
   {
-   "key": "jackson:607353",
+   "key": "jackson:607360",
    "utility": "Jackson EMC",
-   "lat": 34.02146041739495,
-   "lon": -83.23657371463382,
-   "county": "Madison",
-   "location": "Madison Boulevard near Patterson (30628)",
-   "first_seen": 1795719015649,
-   "customers": 4,
-   "start": 1795718225000,
+   "lat": 34.10727091423303,
+   "lon": -83.76469327024121,
+   "county": "Jackson",
+   "location": "Harrison Street near Braselton (30517)",
+   "first_seen": 1795720816850,
+   "customers": 3,
+   "start": 1795720117000,
    "cause": null,
-   "last_seen": 1795720216540,
+   "last_seen": 1795720816850,
    "cleared": null
   },
   {
-   "key": "jackson:607352",
+   "key": "jackson:607392",
    "utility": "Jackson EMC",
    "lat": 34.02965006034882,
    "lon": -83.2386218734819,
    "county": "Madison",
    "location": "Hardman Morris Road near Patterson (30628)",
-   "first_seen": 1795719015649,
-   "customers": 272,
+   "first_seen": 1795720816850,
+   "customers": 500,
    "start": 1795718210000,
    "cause": null,
-   "last_seen": 1795720216540,
+   "last_seen": 1795720816850,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 4,
    "start": 1795717719000,
    "cause": null,
-   "last_seen": 1795720216540,
+   "last_seen": 1795720816850,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 1,
    "start": 1795717320000,
    "cause": null,
-   "last_seen": 1795720216540,
+   "last_seen": 1795720816850,
    "cleared": null
   },
   {
@@ -68,8 +68,36 @@
    "customers": 2,
    "start": 1795716729000,
    "cause": null,
-   "last_seen": 1795720216540,
+   "last_seen": 1795720816850,
    "cleared": null
+  },
+  {
+   "key": "jackson:607353",
+   "utility": "Jackson EMC",
+   "lat": 34.02146041739495,
+   "lon": -83.23657371463382,
+   "county": "Madison",
+   "location": "Madison Boulevard near Patterson (30628)",
+   "first_seen": 1795719015649,
+   "customers": 4,
+   "start": 1795718225000,
+   "cause": null,
+   "last_seen": 1795720216540,
+   "cleared": 1795720816850
+  },
+  {
+   "key": "jackson:607352",
+   "utility": "Jackson EMC",
+   "lat": 34.02965006034882,
+   "lon": -83.2386218734819,
+   "county": "Madison",
+   "location": "Hardman Morris Road near Patterson (30628)",
+   "first_seen": 1795719015649,
+   "customers": 272,
+   "start": 1795718210000,
+   "cause": null,
+   "last_seen": 1795720216540,
+   "cleared": 1795720816850
   },
   {
    "key": "walton:D1208736",
@@ -588,34 +616,6 @@
    "cause": null,
    "last_seen": 1795634423971,
    "cleared": 1795635022784
-  },
-  {
-   "key": "jackson:607216",
-   "utility": "Jackson EMC",
-   "lat": 34.07676236935386,
-   "lon": -83.68015281884095,
-   "county": "Jackson",
-   "location": "Gum Springs Church Road (30549)",
-   "first_seen": 1795633224280,
-   "customers": 1,
-   "start": 1795632301252,
-   "cause": null,
-   "last_seen": 1795633224280,
-   "cleared": 1795633816669
-  },
-  {
-   "key": "gapower:33.9655,-83.4325",
-   "utility": "Georgia Power",
-   "lat": 33.96554,
-   "lon": -83.43253,
-   "county": "Clarke",
-   "location": "Tallassee Road near Athens (30606)",
-   "first_seen": 1795613422896,
-   "customers": 5,
-   "start": 1795613422896,
-   "cause": null,
-   "last_seen": 1795633224280,
-   "cleared": 1795633816669
   }
  ],
  "sources": {
@@ -623,31 +623,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "5 outage(s) in your counties",
-   "last_ok": 1795720216540,
+   "last_ok": 1795720816850,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795720216540
+   "last_ok": 1795720816850
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795720216540
+   "last_ok": 1795720816850
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795720216540
+   "last_ok": 1795720816850
   }
  },
  "skipped": {
-  "gapower:33.9331,-83.7292": 1795633816669,
   "walton:C1208669": 1795634423971,
   "gapower:33.6028,-83.4728": 1795634423971,
   "gapower:33.5939,-83.3744": 1795634423971,
@@ -667,6 +666,7 @@
   "walton:C1208746": 1795718421421,
   "walton:C1208745": 1795718421421,
   "walton:D1208753": 1795719015649,
-  "walton:C1208758": 1795719623574
+  "walton:C1208758": 1795719623574,
+  "walton:D1208760": 1795720816850
  }
 }
