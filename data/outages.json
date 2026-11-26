@@ -1,6 +1,20 @@
 {
- "checked": 1795687226544,
+ "checked": 1795687825730,
  "outages": [
+  {
+   "key": "gapower:34.0843,-83.2421",
+   "utility": "Georgia Power",
+   "lat": 34.08428,
+   "lon": -83.24206,
+   "county": "Madison",
+   "location": "Moriah Church Road (30628)",
+   "first_seen": 1795687825730,
+   "customers": 4,
+   "start": 1795687825730,
+   "cause": null,
+   "last_seen": 1795687825730,
+   "cleared": null
+  },
   {
    "key": "jackson:607275",
    "utility": "Jackson EMC",
@@ -12,7 +26,7 @@
    "customers": 2,
    "start": 1795673612000,
    "cause": null,
-   "last_seen": 1795687226544,
+   "last_seen": 1795687825730,
    "cleared": null
   },
   {
@@ -954,20 +968,6 @@
    "cleared": 1795602015477
   },
   {
-   "key": "walton:D1208355",
-   "utility": "Walton EMC",
-   "lat": 33.81232317002591,
-   "lon": -83.35951318207736,
-   "county": "Oconee",
-   "location": "Elder Mill Road (30605)",
-   "first_seen": 1795598418283,
-   "customers": 29,
-   "start": 1795598418283,
-   "cause": "SPAN OF PRIMARY/NEUTRAL TORN DOWN ON BEECHNUT LANE",
-   "last_seen": 1795600831887,
-   "cleared": 1795601416512
-  },
-  {
    "key": "rayle:2026-11-25-0331",
    "utility": "Rayle EMC",
    "lat": 33.57866949285535,
@@ -1057,31 +1057,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795687226544,
+   "last_ok": 1795687825730,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795687226544
+   "last_ok": 1795687825730
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795687226544
+   "last_ok": 1795687825730
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
+   "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795687226544
+   "last_ok": 1795687825730
   }
  },
  "skipped": {
-  "rayle:2026-11-25-0349": 1795601416512,
   "gapower:34.0582,-82.9093": 1795606816476,
   "walton:C1208368": 1795608025379,
   "gapower:33.9294,-83.7148": 1795608620535,
