@@ -1,6 +1,20 @@
 {
- "checked": 1795729215014,
+ "checked": 1795729816319,
  "outages": [
+  {
+   "key": "walton:C1208765",
+   "utility": "Walton EMC",
+   "lat": 33.830469035416186,
+   "lon": -83.66874323637528,
+   "county": "Walton",
+   "location": "Wall Road near Mount Vernon (30656)",
+   "first_seen": 1795729816319,
+   "customers": 1,
+   "start": 1795729816319,
+   "cause": null,
+   "last_seen": 1795729816319,
+   "cleared": null
+  },
   {
    "key": "jackson:607406",
    "utility": "Jackson EMC",
@@ -12,7 +26,7 @@
    "customers": 1,
    "start": 1795723380000,
    "cause": null,
-   "last_seen": 1795729215014,
+   "last_seen": 1795729816319,
    "cleared": null
   },
   {
@@ -609,27 +623,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795729215014,
+   "last_ok": 1795729816319,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795729215014
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795729816319
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795729215014
+   "last_ok": 1795729816319
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795729215014
+   "last_ok": 1795729816319
   }
  },
  "skipped": {
