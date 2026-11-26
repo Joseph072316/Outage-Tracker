@@ -1,5 +1,5 @@
 {
- "checked": 1795725616415,
+ "checked": 1795726215094,
  "outages": [
   {
    "key": "jackson:607410",
@@ -12,7 +12,7 @@
    "customers": 10,
    "start": 1795724820000,
    "cause": null,
-   "last_seen": 1795725616415,
+   "last_seen": 1795726215094,
    "cleared": null
   },
   {
@@ -26,7 +26,35 @@
    "customers": 1,
    "start": 1795723380000,
    "cause": null,
-   "last_seen": 1795725616415,
+   "last_seen": 1795726215094,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.9955,-83.4255",
+   "utility": "Georgia Power",
+   "lat": 33.99554,
+   "lon": -83.42553,
+   "county": "Clarke",
+   "location": "South Ridge Drive near Athens (30607)",
+   "first_seen": 1795721420847,
+   "customers": 4,
+   "start": 1795721420847,
+   "cause": null,
+   "last_seen": 1795726215094,
+   "cleared": null
+  },
+  {
+   "key": "jackson:607360",
+   "utility": "Jackson EMC",
+   "lat": 34.10727091423303,
+   "lon": -83.76469327024121,
+   "county": "Jackson",
+   "location": "Harrison Street near Braselton (30517)",
+   "first_seen": 1795720816850,
+   "customers": 3,
+   "start": 1795720117000,
+   "cause": null,
+   "last_seen": 1795726215094,
    "cleared": null
   },
   {
@@ -41,35 +69,7 @@
    "start": 1795722031000,
    "cause": null,
    "last_seen": 1795725616415,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.9955,-83.4255",
-   "utility": "Georgia Power",
-   "lat": 33.99554,
-   "lon": -83.42553,
-   "county": "Clarke",
-   "location": "South Ridge Drive near Athens (30607)",
-   "first_seen": 1795721420847,
-   "customers": 4,
-   "start": 1795721420847,
-   "cause": null,
-   "last_seen": 1795725616415,
-   "cleared": null
-  },
-  {
-   "key": "jackson:607360",
-   "utility": "Jackson EMC",
-   "lat": 34.10727091423303,
-   "lon": -83.76469327024121,
-   "county": "Jackson",
-   "location": "Harrison Street near Braselton (30517)",
-   "first_seen": 1795720816850,
-   "customers": 3,
-   "start": 1795720117000,
-   "cause": null,
-   "last_seen": 1795725616415,
-   "cleared": null
+   "cleared": 1795726215094
   },
   {
    "key": "jackson:607400",
@@ -618,20 +618,6 @@
    "cleared": 1795642219932
   },
   {
-   "key": "gapower:34.0880,-83.1354",
-   "utility": "Georgia Power",
-   "lat": 34.08798,
-   "lon": -83.1354,
-   "county": "Madison",
-   "location": "Lowe Road near Gholston Stand Crossroads (30629)",
-   "first_seen": 1795638017164,
-   "customers": 4,
-   "start": 1795638017164,
-   "cause": null,
-   "last_seen": 1795639055847,
-   "cleared": 1795639216682
-  },
-  {
    "key": "jackson:607219",
    "utility": "Jackson EMC",
    "lat": 34.136065767133026,
@@ -650,28 +636,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "4 outage(s) in your counties",
-   "last_ok": 1795725616415,
+   "message": "3 outage(s) in your counties",
+   "last_ok": 1795726215094,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795725616415
+   "last_ok": 1795726215094
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795725616415
+   "last_ok": 1795726215094
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795725616415
+   "last_ok": 1795726215094
   }
  },
  "skipped": {
