@@ -1,6 +1,76 @@
 {
- "checked": 1795651974015,
+ "checked": 1795652416780,
  "outages": [
+  {
+   "key": "jackson:607248",
+   "utility": "Jackson EMC",
+   "lat": 34.19653869380145,
+   "lon": -83.47974766207882,
+   "county": "Jackson",
+   "location": "Hickory Drive (30599)",
+   "first_seen": 1795652416780,
+   "customers": 1,
+   "start": 1795652231000,
+   "cause": null,
+   "last_seen": 1795652416780,
+   "cleared": null
+  },
+  {
+   "key": "jackson:607241",
+   "utility": "Jackson EMC",
+   "lat": 34.20052856107329,
+   "lon": -83.4833588895215,
+   "county": "Jackson",
+   "location": "Clyde Short Road near Commerce (30599)",
+   "first_seen": 1795652416780,
+   "customers": 1,
+   "start": 1795652229000,
+   "cause": null,
+   "last_seen": 1795652416780,
+   "cleared": null
+  },
+  {
+   "key": "jackson:607249",
+   "utility": "Jackson EMC",
+   "lat": 34.202482561266024,
+   "lon": -83.48440991840405,
+   "county": "Jackson",
+   "location": "B Wilson Road near Commerce (30529)",
+   "first_seen": 1795652416780,
+   "customers": 1,
+   "start": 1795652228000,
+   "cause": null,
+   "last_seen": 1795652416780,
+   "cleared": null
+  },
+  {
+   "key": "jackson:607245",
+   "utility": "Jackson EMC",
+   "lat": 34.2022373850195,
+   "lon": -83.4852453516184,
+   "county": "Jackson",
+   "location": "B Wilson Road near Commerce (30529)",
+   "first_seen": 1795652416780,
+   "customers": 1,
+   "start": 1795652227000,
+   "cause": null,
+   "last_seen": 1795652416780,
+   "cleared": null
+  },
+  {
+   "key": "jackson:607247",
+   "utility": "Jackson EMC",
+   "lat": 34.19633065085034,
+   "lon": -83.47785221682906,
+   "county": "Jackson",
+   "location": "Delia Drive near Commerce (30529)",
+   "first_seen": 1795652416780,
+   "customers": 39,
+   "start": 1795652223000,
+   "cause": null,
+   "last_seen": 1795652416780,
+   "cleared": null
+  },
   {
    "key": "jackson:607240",
    "utility": "Jackson EMC",
@@ -12,7 +82,7 @@
    "customers": 73,
    "start": 1795649290000,
    "cause": null,
-   "last_seen": 1795651974015,
+   "last_seen": 1795652416780,
    "cleared": null
   },
   {
@@ -902,28 +972,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795651974015,
+   "message": "6 outage(s) in your counties",
+   "last_ok": 1795652416780,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795651974015
+   "last_ok": 1795652416780
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795651974015
+   "last_ok": 1795652416780
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795651974015
+   "last_ok": 1795652416780
   }
  },
  "skipped": {
