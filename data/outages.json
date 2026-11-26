@@ -1,5 +1,5 @@
 {
- "checked": 1795654215722,
+ "checked": 1795654821546,
  "outages": [
   {
    "key": "jackson:607255",
@@ -12,21 +12,7 @@
    "customers": 61,
    "start": 1795652219000,
    "cause": null,
-   "last_seen": 1795654215722,
-   "cleared": null
-  },
-  {
-   "key": "jackson:607240",
-   "utility": "Jackson EMC",
-   "lat": 34.23527774095144,
-   "lon": -83.63733911239386,
-   "county": "Jackson",
-   "location": "Deadwyler Road near Holly Springs (30558)",
-   "first_seen": 1795650617044,
-   "customers": 73,
-   "start": 1795649290000,
-   "cause": null,
-   "last_seen": 1795654215722,
+   "last_seen": 1795654821546,
    "cleared": null
   },
   {
@@ -98,6 +84,20 @@
    "cause": null,
    "last_seen": 1795652416780,
    "cleared": 1795653019179
+  },
+  {
+   "key": "jackson:607240",
+   "utility": "Jackson EMC",
+   "lat": 34.23527774095144,
+   "lon": -83.63733911239386,
+   "county": "Jackson",
+   "location": "Deadwyler Road near Holly Springs (30558)",
+   "first_seen": 1795650617044,
+   "customers": 73,
+   "start": 1795649290000,
+   "cause": null,
+   "last_seen": 1795654215722,
+   "cleared": 1795654821546
   },
   {
    "key": "gapower:33.9845,-83.4033",
@@ -986,32 +986,31 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1795654215722,
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795654821546,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795654215722
+   "last_ok": 1795654821546
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795654215722
+   "last_ok": 1795654821546
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795654215722
+   "last_ok": 1795654821546
   }
  },
  "skipped": {
-  "gapower:34.3353,-83.8491": 1795568332240,
   "gapower:34.2689,-83.5351": 1795575021276,
   "rayle:2026-11-25-0328": 1795593015455,
   "gapower:34.0082,-83.7177": 1795594216439,
