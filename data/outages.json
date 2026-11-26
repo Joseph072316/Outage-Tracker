@@ -1,5 +1,5 @@
 {
- "checked": 1795722016162,
+ "checked": 1795722617864,
  "outages": [
   {
    "key": "jackson:607400",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1795721486184,
    "cause": null,
-   "last_seen": 1795722016162,
+   "last_seen": 1795722617864,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1795721420847,
    "cause": null,
-   "last_seen": 1795722016162,
+   "last_seen": 1795722617864,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 3,
    "start": 1795720117000,
    "cause": null,
-   "last_seen": 1795722016162,
+   "last_seen": 1795722617864,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 4,
    "start": 1795717719000,
    "cause": null,
-   "last_seen": 1795722016162,
+   "last_seen": 1795722617864,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 2,
    "start": 1795716729000,
    "cause": null,
-   "last_seen": 1795722016162,
+   "last_seen": 1795722617864,
    "cleared": null
   },
   {
@@ -616,20 +616,6 @@
    "cause": "Planned",
    "last_seen": 1795641619879,
    "cleared": 1795642219932
-  },
-  {
-   "key": "walton:C1208667",
-   "utility": "Walton EMC",
-   "lat": 33.80230745072904,
-   "lon": -83.66173015440124,
-   "county": "Walton",
-   "location": "Dogwood Terrace (30656)",
-   "first_seen": 1795633816669,
-   "customers": 1,
-   "start": 1795633816669,
-   "cause": null,
-   "last_seen": 1795635808858,
-   "cleared": 1795636216050
   }
  ],
  "sources": {
@@ -637,27 +623,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "4 outage(s) in your counties",
-   "last_ok": 1795722016162,
+   "last_ok": 1795722617864,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795722016162
+   "last_ok": 1795722617864
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795722016162
+   "last_ok": 1795722617864
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795722016162
+   "last_ok": 1795722617864
   }
  },
  "skipped": {
