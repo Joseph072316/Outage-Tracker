@@ -1,5 +1,5 @@
 {
- "checked": 1795721420847,
+ "checked": 1795721466077,
  "outages": [
   {
    "key": "gapower:33.9955,-83.4255",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795721420847,
    "cause": null,
-   "last_seen": 1795721420847,
+   "last_seen": 1795721466077,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 3,
    "start": 1795720117000,
    "cause": null,
-   "last_seen": 1795721420847,
+   "last_seen": 1795721466077,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 500,
    "start": 1795718210000,
    "cause": null,
-   "last_seen": 1795721420847,
+   "last_seen": 1795721466077,
    "cleared": null
   },
   {
@@ -54,21 +54,7 @@
    "customers": 4,
    "start": 1795717719000,
    "cause": null,
-   "last_seen": 1795721420847,
-   "cleared": null
-  },
-  {
-   "key": "jackson:607308",
-   "utility": "Jackson EMC",
-   "lat": 34.10354441752707,
-   "lon": -83.63026937110685,
-   "county": "Jackson",
-   "location": "Eugene Court (30549)",
-   "first_seen": 1795718421421,
-   "customers": 1,
-   "start": 1795717320000,
-   "cause": null,
-   "last_seen": 1795721420847,
+   "last_seen": 1795721466077,
    "cleared": null
   },
   {
@@ -82,7 +68,7 @@
    "customers": 2,
    "start": 1795716729000,
    "cause": null,
-   "last_seen": 1795721420847,
+   "last_seen": 1795721466077,
    "cleared": null
   },
   {
@@ -126,6 +112,20 @@
    "cause": "This has been automatically entered for you by your dataVoice Scada interface",
    "last_seen": 1795717673328,
    "cleared": 1795717820665
+  },
+  {
+   "key": "jackson:607308",
+   "utility": "Jackson EMC",
+   "lat": 34.10354441752707,
+   "lon": -83.63026937110685,
+   "county": "Jackson",
+   "location": "Eugene Court (30549)",
+   "first_seen": 1795718421421,
+   "customers": 1,
+   "start": 1795717320000,
+   "cause": null,
+   "last_seen": 1795721420847,
+   "cleared": 1795721466077
   },
   {
    "key": "walton:C1208735",
@@ -616,48 +616,34 @@
    "cause": null,
    "last_seen": 1795635808858,
    "cleared": 1795636216050
-  },
-  {
-   "key": "walton:D1208662",
-   "utility": "Walton EMC",
-   "lat": 33.88698963836978,
-   "lon": -83.34011104604248,
-   "county": "Clarke",
-   "location": "Red Fox Run near Athens (30605)",
-   "first_seen": 1795632620109,
-   "customers": 37,
-   "start": 1795632620109,
-   "cause": null,
-   "last_seen": 1795634423971,
-   "cleared": 1795635022784
   }
  ],
  "sources": {
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "5 outage(s) in your counties",
-   "last_ok": 1795721420847,
+   "message": "4 outage(s) in your counties",
+   "last_ok": 1795721466077,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795721420847
+   "last_ok": 1795721466077
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795721420847
+   "last_ok": 1795721466077
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795721420847
+   "last_ok": 1795721466077
   }
  },
  "skipped": {
