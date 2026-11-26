@@ -1,5 +1,5 @@
 {
- "checked": 1795688976027,
+ "checked": 1795689026322,
  "outages": [
   {
    "key": "gapower:34.0843,-83.2421",
@@ -12,7 +12,7 @@
    "customers": 4,
    "start": 1795687825730,
    "cause": null,
-   "last_seen": 1795688976027,
+   "last_seen": 1795689026322,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 2,
    "start": 1795673612000,
    "cause": null,
-   "last_seen": 1795688976027,
+   "last_seen": 1795689026322,
    "cleared": null
   },
   {
@@ -940,20 +940,6 @@
    "cleared": 1795606816476
   },
   {
-   "key": "rayle:2026-11-25-0348",
-   "utility": "Rayle EMC",
-   "lat": 33.56165943612404,
-   "lon": -83.29294702083985,
-   "county": "Greene",
-   "location": "Forest Road (30642)",
-   "first_seen": 1795600620060,
-   "customers": 1,
-   "start": 1795599960000,
-   "cause": null,
-   "last_seen": 1795602015477,
-   "cleared": 1795602622236
-  },
-  {
    "key": "walton:D1208354",
    "utility": "Walton EMC",
    "lat": 33.88698963836978,
@@ -1029,27 +1015,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795688976027,
+   "last_ok": 1795689026322,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795688976027
+   "last_ok": 1795689026322
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795688976027
+   "last_ok": 1795689026322
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795688976027
+   "last_ok": 1795689026322
   }
  },
  "skipped": {
