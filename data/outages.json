@@ -1,6 +1,20 @@
 {
- "checked": 1795716617481,
+ "checked": 1795717216399,
  "outages": [
+  {
+   "key": "jackson:607307",
+   "utility": "Jackson EMC",
+   "lat": 34.104957679110306,
+   "lon": -83.63098802333424,
+   "county": "Jackson",
+   "location": "State Route 124 (30548)",
+   "first_seen": 1795717216399,
+   "customers": 2,
+   "start": 1795716729000,
+   "cause": null,
+   "last_seen": 1795717216399,
+   "cleared": null
+  },
   {
    "key": "walton:C1208735",
    "utility": "Walton EMC",
@@ -12,7 +26,7 @@
    "customers": 1,
    "start": 1795715416131,
    "cause": null,
-   "last_seen": 1795716617481,
+   "last_seen": 1795717216399,
    "cleared": null
   },
   {
@@ -552,28 +566,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795716617481,
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795717216399,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795716617481
+   "last_ok": 1795717216399
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795716617481
+   "last_ok": 1795717216399
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795716617481
+   "last_ok": 1795717216399
   }
  },
  "skipped": {
