@@ -1,5 +1,5 @@
 {
- "checked": 1795683622491,
+ "checked": 1795684221900,
  "outages": [
   {
    "key": "jackson:607275",
@@ -12,7 +12,7 @@
    "customers": 2,
    "start": 1795673612000,
    "cause": null,
-   "last_seen": 1795683622491,
+   "last_seen": 1795684221900,
    "cleared": null
   },
   {
@@ -1010,48 +1010,6 @@
    "cleared": 1795604426303
   },
   {
-   "key": "walton:C1208349",
-   "utility": "Walton EMC",
-   "lat": 33.88696061821823,
-   "lon": -83.34217008200928,
-   "county": "Clarke",
-   "location": "Red Fox Run near Athens (30605)",
-   "first_seen": 1795597224746,
-   "customers": 1,
-   "start": 1795597224746,
-   "cause": null,
-   "last_seen": 1795597224746,
-   "cleared": 1795597816496
-  },
-  {
-   "key": "walton:C1208350",
-   "utility": "Walton EMC",
-   "lat": 33.87644652634513,
-   "lon": -83.33692399055712,
-   "county": "Clarke",
-   "location": "Beaver Trail near Athens (30605)",
-   "first_seen": 1795597224746,
-   "customers": 1,
-   "start": 1795597224746,
-   "cause": null,
-   "last_seen": 1795597224746,
-   "cleared": 1795597816496
-  },
-  {
-   "key": "walton:C1208348",
-   "utility": "Walton EMC",
-   "lat": 33.879098680651424,
-   "lon": -83.34250119138244,
-   "county": "Clarke",
-   "location": "Deer Ridge near Athens (30605)",
-   "first_seen": 1795596839752,
-   "customers": 1,
-   "start": 1795596839752,
-   "cause": null,
-   "last_seen": 1795597224746,
-   "cleared": 1795597816496
-  },
-  {
    "key": "jackson:607175",
    "utility": "Jackson EMC",
    "lat": 34.15371561272866,
@@ -1113,27 +1071,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795683622491,
+   "last_ok": 1795684221900,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795683622491
+   "last_ok": 1795684221900
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795683622491
+   "last_ok": 1795684221900
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795683622491
+   "last_ok": 1795684221900
   }
  },
  "skipped": {
