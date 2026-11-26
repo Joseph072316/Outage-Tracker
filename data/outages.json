@@ -1,6 +1,20 @@
 {
- "checked": 1795680643857,
+ "checked": 1795681216173,
  "outages": [
+  {
+   "key": "jackson:607275",
+   "utility": "Jackson EMC",
+   "lat": 34.062229563647215,
+   "lon": -83.6459000570527,
+   "county": "Jackson",
+   "location": "Old Winder-Jefferson Highway (30549)",
+   "first_seen": 1795674017068,
+   "customers": 2,
+   "start": 1795673612000,
+   "cause": null,
+   "last_seen": 1795681216173,
+   "cleared": null
+  },
   {
    "key": "walton:D1208704",
    "utility": "Walton EMC",
@@ -13,21 +27,7 @@
    "start": 1795680622168,
    "cause": null,
    "last_seen": 1795680643857,
-   "cleared": null
-  },
-  {
-   "key": "jackson:607275",
-   "utility": "Jackson EMC",
-   "lat": 34.062229563647215,
-   "lon": -83.6459000570527,
-   "county": "Jackson",
-   "location": "Old Winder-Jefferson Highway (30549)",
-   "first_seen": 1795674017068,
-   "customers": 2,
-   "start": 1795673612000,
-   "cause": null,
-   "last_seen": 1795680643857,
-   "cleared": null
+   "cleared": 1795681216173
   },
   {
    "key": "walton:C1208701",
@@ -1127,27 +1127,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795680643857,
+   "last_ok": 1795681216173,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795680643857
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795681216173
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795680643857
+   "last_ok": 1795681216173
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795680643857
+   "last_ok": 1795681216173
   }
  },
  "skipped": {
@@ -1188,6 +1188,7 @@
   "walton:C1208669": 1795634423971,
   "gapower:33.6028,-83.4728": 1795634423971,
   "gapower:33.5939,-83.3744": 1795634423971,
-  "walton:C1208672": 1795637419518
+  "walton:C1208672": 1795637419518,
+  "gapower:33.8886,-83.9262": 1795681216173
  }
 }
