@@ -1,6 +1,20 @@
 {
- "checked": 1795717216399,
+ "checked": 1795717673328,
  "outages": [
+  {
+   "key": "walton:D1208736",
+   "utility": "Walton EMC",
+   "lat": 33.78518237289248,
+   "lon": -83.68388789491608,
+   "county": "Walton",
+   "location": "Poplar Street near Monroe (30655)",
+   "first_seen": 1795717673328,
+   "customers": 650,
+   "start": 1795717673328,
+   "cause": "This has been automatically entered for you by your dataVoice Scada interface",
+   "last_seen": 1795717673328,
+   "cleared": null
+  },
   {
    "key": "jackson:607307",
    "utility": "Jackson EMC",
@@ -12,7 +26,7 @@
    "customers": 2,
    "start": 1795716729000,
    "cause": null,
-   "last_seen": 1795717216399,
+   "last_seen": 1795717673328,
    "cleared": null
   },
   {
@@ -27,7 +41,7 @@
    "start": 1795715416131,
    "cause": null,
    "last_seen": 1795717216399,
-   "cleared": null
+   "cleared": 1795717673328
   },
   {
    "key": "walton:C1208734",
@@ -567,27 +581,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795717216399,
+   "last_ok": 1795717673328,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795717216399
+   "last_ok": 1795717673328
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795717216399
+   "last_ok": 1795717673328
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795717216399
+   "last_ok": 1795717673328
   }
  },
  "skipped": {
