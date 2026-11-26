@@ -1,6 +1,34 @@
 {
- "checked": 1795717820665,
+ "checked": 1795718421421,
  "outages": [
+  {
+   "key": "jackson:607312",
+   "utility": "Jackson EMC",
+   "lat": 34.11841223464956,
+   "lon": -83.27858792047793,
+   "county": "Madison",
+   "location": "Hunt Road (30633)",
+   "first_seen": 1795718421421,
+   "customers": 4,
+   "start": 1795717719000,
+   "cause": null,
+   "last_seen": 1795718421421,
+   "cleared": null
+  },
+  {
+   "key": "jackson:607308",
+   "utility": "Jackson EMC",
+   "lat": 34.10354441752707,
+   "lon": -83.63026937110685,
+   "county": "Jackson",
+   "location": "Eugene Court (30549)",
+   "first_seen": 1795718421421,
+   "customers": 1,
+   "start": 1795717320000,
+   "cause": null,
+   "last_seen": 1795718421421,
+   "cleared": null
+  },
   {
    "key": "jackson:607307",
    "utility": "Jackson EMC",
@@ -12,7 +40,7 @@
    "customers": 2,
    "start": 1795716729000,
    "cause": null,
-   "last_seen": 1795717820665,
+   "last_seen": 1795718421421,
    "cleared": null
   },
   {
@@ -548,20 +576,6 @@
    "cleared": 1795633816669
   },
   {
-   "key": "gapower:33.9447,-83.4310",
-   "utility": "Georgia Power",
-   "lat": 33.94472,
-   "lon": -83.43099,
-   "county": "Clarke",
-   "location": "Chateau Terrace near Athens (30606)",
-   "first_seen": 1795627820843,
-   "customers": 4,
-   "start": 1795627820843,
-   "cause": null,
-   "last_seen": 1795631420771,
-   "cleared": 1795632016860
-  },
-  {
    "key": "gapower:33.9655,-83.4325",
    "utility": "Georgia Power",
    "lat": 33.96554,
@@ -580,33 +594,31 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795717820665,
+   "message": "3 outage(s) in your counties",
+   "last_ok": 1795718421421,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795717820665
+   "last_ok": 1795718421421
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795717820665
+   "last_ok": 1795718421421
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795717820665
+   "last_ok": 1795718421421
   }
  },
  "skipped": {
-  "rayle:2026-11-25-0369": 1795631420771,
-  "gapower:34.3153,-83.7707": 1795632016860,
   "gapower:33.9331,-83.7292": 1795633816669,
   "walton:C1208669": 1795634423971,
   "gapower:33.6028,-83.4728": 1795634423971,
@@ -617,6 +629,14 @@
   "walton:C1208722": 1795700912917,
   "walton:D1208724": 1795701625827,
   "walton:C1208731": 1795707618209,
-  "gapower:34.2663,-83.5529": 1795710020697
+  "gapower:34.2663,-83.5529": 1795710020697,
+  "walton:C1208750": 1795718421421,
+  "walton:C1208749": 1795718421421,
+  "walton:C1208752": 1795718421421,
+  "walton:C1208751": 1795718421421,
+  "walton:C1208748": 1795718421421,
+  "walton:C1208747": 1795718421421,
+  "walton:C1208746": 1795718421421,
+  "walton:C1208745": 1795718421421
  }
 }
