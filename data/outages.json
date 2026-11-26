@@ -1,20 +1,6 @@
 {
- "checked": 1795657215355,
+ "checked": 1795657816882,
  "outages": [
-  {
-   "key": "walton:D1208684",
-   "utility": "Walton EMC",
-   "lat": 33.83806142456146,
-   "lon": -83.67847026039534,
-   "county": "Walton",
-   "location": "Mountain Creek Church Road Northwest (30656)",
-   "first_seen": 1795655415507,
-   "customers": 10,
-   "start": 1795655415507,
-   "cause": null,
-   "last_seen": 1795657215355,
-   "cleared": null
-  },
   {
    "key": "jackson:607255",
    "utility": "Jackson EMC",
@@ -26,7 +12,7 @@
    "customers": 61,
    "start": 1795652219000,
    "cause": null,
-   "last_seen": 1795657215355,
+   "last_seen": 1795657816882,
    "cleared": null
   },
   {
@@ -42,6 +28,20 @@
    "cause": null,
    "last_seen": 1795656620422,
    "cleared": 1795656736260
+  },
+  {
+   "key": "walton:D1208684",
+   "utility": "Walton EMC",
+   "lat": 33.83806142456146,
+   "lon": -83.67847026039534,
+   "county": "Walton",
+   "location": "Mountain Creek Church Road Northwest (30656)",
+   "first_seen": 1795655415507,
+   "customers": 10,
+   "start": 1795655415507,
+   "cause": null,
+   "last_seen": 1795657215355,
+   "cleared": 1795657816882
   },
   {
    "key": "jackson:607248",
@@ -1001,27 +1001,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795657215355,
+   "last_ok": 1795657816882,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795657215355
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795657816882
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795657215355
+   "last_ok": 1795657816882
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795657215355
+   "last_ok": 1795657816882
   }
  },
  "skipped": {
