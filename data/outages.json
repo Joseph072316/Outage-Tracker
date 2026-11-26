@@ -1,5 +1,5 @@
 {
- "checked": 1795712423284,
+ "checked": 1795713015629,
  "outages": [
   {
    "key": "rayle:2026-11-26-0374",
@@ -13,7 +13,7 @@
    "start": 1795711860000,
    "cause": null,
    "last_seen": 1795712423284,
-   "cleared": null
+   "cleared": 1795713015629
   },
   {
    "key": "rayle:2026-11-26-0373",
@@ -534,48 +534,6 @@
    "cleared": 1795626617939
   },
   {
-   "key": "walton:C1208644",
-   "utility": "Walton EMC",
-   "lat": 33.82265063838811,
-   "lon": -83.4487447556884,
-   "county": "Oconee",
-   "location": "Cemetery Road (30621)",
-   "first_seen": 1795623756532,
-   "customers": 1,
-   "start": 1795623756532,
-   "cause": null,
-   "last_seen": 1795625416860,
-   "cleared": 1795626025468
-  },
-  {
-   "key": "gapower:33.6739,-83.7170",
-   "utility": "Georgia Power",
-   "lat": 33.67393,
-   "lon": -83.71699,
-   "county": "Walton",
-   "location": "Beaver Drive near Social Circle (30025)",
-   "first_seen": 1795623756532,
-   "customers": 48,
-   "start": 1795623756532,
-   "cause": null,
-   "last_seen": 1795625416860,
-   "cleared": 1795626025468
-  },
-  {
-   "key": "gapower:33.6750,-83.7101",
-   "utility": "Georgia Power",
-   "lat": 33.67505,
-   "lon": -83.71006,
-   "county": "Walton",
-   "location": "Azalea Court near Social Circle (30025)",
-   "first_seen": 1795623756532,
-   "customers": 4,
-   "start": 1795623756532,
-   "cause": null,
-   "last_seen": 1795625416860,
-   "cleared": 1795626025468
-  },
-  {
    "key": "walton:C1208384",
    "utility": "Walton EMC",
    "lat": 33.89897157026487,
@@ -609,27 +567,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795712423284,
+   "last_ok": 1795713015629,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795712423284
+   "last_ok": 1795713015629
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795712423284
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795713015629
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795712423284
+   "last_ok": 1795713015629
   }
  },
  "skipped": {
