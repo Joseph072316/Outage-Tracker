@@ -1,6 +1,20 @@
 {
- "checked": 1795672825079,
+ "checked": 1795673421620,
  "outages": [
+  {
+   "key": "jackson:607273",
+   "utility": "Jackson EMC",
+   "lat": 34.127484855852245,
+   "lon": -83.26623608531958,
+   "county": "Madison",
+   "location": "Coley Davis Road (30633)",
+   "first_seen": 1795673421620,
+   "customers": 1,
+   "start": 1795673319878,
+   "cause": null,
+   "last_seen": 1795673421620,
+   "cleared": null
+  },
   {
    "key": "walton:D1208690",
    "utility": "Walton EMC",
@@ -1014,28 +1028,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795672825079,
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795673421620,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795672825079
+   "last_ok": 1795673421620
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795672825079
+   "last_ok": 1795673421620
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795672825079
+   "last_ok": 1795673421620
   }
  },
  "skipped": {
