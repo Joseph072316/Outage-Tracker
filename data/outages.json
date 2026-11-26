@@ -1,5 +1,5 @@
 {
- "checked": 1795692620623,
+ "checked": 1795693220631,
  "outages": [
   {
    "key": "rayle:2026-11-26-0372",
@@ -12,7 +12,7 @@
    "customers": 2,
    "start": 1795691340000,
    "cause": null,
-   "last_seen": 1795692620623,
+   "last_seen": 1795693220631,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1795687825730,
    "cause": null,
-   "last_seen": 1795692620623,
+   "last_seen": 1795693220631,
    "cleared": null
   },
   {
@@ -940,20 +940,6 @@
    "cleared": 1795611623634
   },
   {
-   "key": "gapower:33.6668,-83.7242",
-   "utility": "Georgia Power",
-   "lat": 33.66683,
-   "lon": -83.72418,
-   "county": "Walton",
-   "location": "Windsong Circle near Social Circle (30025)",
-   "first_seen": 1795605618125,
-   "customers": 4,
-   "start": 1795605618125,
-   "cause": null,
-   "last_seen": 1795606220165,
-   "cleared": 1795606816476
-  },
-  {
    "key": "gapower:33.5570,-83.1020",
    "utility": "Georgia Power",
    "lat": 33.55703,
@@ -987,31 +973,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795692620623,
+   "last_ok": 1795693220631,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795692620623
+   "last_ok": 1795693220631
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795692620623
+   "last_ok": 1795693220631
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795692620623
+   "last_ok": 1795693220631
   }
  },
  "skipped": {
-  "gapower:34.0582,-82.9093": 1795606816476,
   "walton:C1208368": 1795608025379,
   "gapower:33.9294,-83.7148": 1795608620535,
   "walton:C1208369": 1795611019354,
