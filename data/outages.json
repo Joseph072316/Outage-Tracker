@@ -1,5 +1,5 @@
 {
- "checked": 1795679416310,
+ "checked": 1795680025969,
  "outages": [
   {
    "key": "walton:C1208701",
@@ -12,49 +12,7 @@
    "customers": 1,
    "start": 1795678817553,
    "cause": null,
-   "last_seen": 1795679416310,
-   "cleared": null
-  },
-  {
-   "key": "walton:D1208700",
-   "utility": "Walton EMC",
-   "lat": 33.72155433033039,
-   "lon": -83.3993114864158,
-   "county": "Oconee",
-   "location": "Old Salem Road near Salem (30650)",
-   "first_seen": 1795675371741,
-   "customers": 2,
-   "start": 1795675371741,
-   "cause": null,
-   "last_seen": 1795679416310,
-   "cleared": null
-  },
-  {
-   "key": "jackson:607275",
-   "utility": "Jackson EMC",
-   "lat": 34.062229563647215,
-   "lon": -83.6459000570527,
-   "county": "Jackson",
-   "location": "Old Winder-Jefferson Highway (30549)",
-   "first_seen": 1795674017068,
-   "customers": 2,
-   "start": 1795673612000,
-   "cause": null,
-   "last_seen": 1795679416310,
-   "cleared": null
-  },
-  {
-   "key": "jackson:607276",
-   "utility": "Jackson EMC",
-   "lat": 34.128206161824686,
-   "lon": -83.26663134404464,
-   "county": "Madison",
-   "location": "Coley Davis Road (30633)",
-   "first_seen": 1795678817553,
-   "customers": 2,
-   "start": 1795673319878,
-   "cause": null,
-   "last_seen": 1795679416310,
+   "last_seen": 1795680025969,
    "cleared": null
   },
   {
@@ -68,8 +26,8 @@
    "customers": 1,
    "start": 1795678817553,
    "cause": null,
-   "last_seen": 1795678817553,
-   "cleared": 1795679416310
+   "last_seen": 1795680025969,
+   "cleared": null
   },
   {
    "key": "walton:C1208702",
@@ -82,8 +40,36 @@
    "customers": 1,
    "start": 1795678817553,
    "cause": null,
-   "last_seen": 1795678817553,
-   "cleared": 1795679416310
+   "last_seen": 1795680025969,
+   "cleared": null
+  },
+  {
+   "key": "walton:D1208700",
+   "utility": "Walton EMC",
+   "lat": 33.72155433033039,
+   "lon": -83.3993114864158,
+   "county": "Oconee",
+   "location": "Old Salem Road near Salem (30650)",
+   "first_seen": 1795675371741,
+   "customers": 2,
+   "start": 1795675371741,
+   "cause": null,
+   "last_seen": 1795680025969,
+   "cleared": null
+  },
+  {
+   "key": "jackson:607275",
+   "utility": "Jackson EMC",
+   "lat": 34.062229563647215,
+   "lon": -83.6459000570527,
+   "county": "Jackson",
+   "location": "Old Winder-Jefferson Highway (30549)",
+   "first_seen": 1795674017068,
+   "customers": 2,
+   "start": 1795673612000,
+   "cause": null,
+   "last_seen": 1795680025969,
+   "cleared": null
   },
   {
    "key": "gapower:33.8274,-83.4514",
@@ -112,6 +98,20 @@
    "cause": null,
    "last_seen": 1795675221368,
    "cleared": 1795675371741
+  },
+  {
+   "key": "jackson:607276",
+   "utility": "Jackson EMC",
+   "lat": 34.128206161824686,
+   "lon": -83.26663134404464,
+   "county": "Madison",
+   "location": "Coley Davis Road (30633)",
+   "first_seen": 1795678817553,
+   "customers": 2,
+   "start": 1795673319878,
+   "cause": null,
+   "last_seen": 1795679416310,
+   "cleared": 1795680025969
   },
   {
    "key": "jackson:607273",
@@ -1094,20 +1094,6 @@
    "cleared": 1795611019354
   },
   {
-   "key": "gapower:33.6671,-83.7273",
-   "utility": "Georgia Power",
-   "lat": 33.66708,
-   "lon": -83.7273,
-   "county": "Walton",
-   "location": "Windsong Drive near Social Circle (30025)",
-   "first_seen": 1795591823403,
-   "customers": 4,
-   "start": 1795591823403,
-   "cause": null,
-   "last_seen": 1795593307538,
-   "cleared": 1795593624083
-  },
-  {
    "key": "rayle:2026-11-25-0326",
    "utility": "Rayle EMC",
    "lat": 33.834599143031596,
@@ -1126,28 +1112,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1795679416310,
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795680025969,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1795679416310
+   "message": "4 outage(s) in your counties",
+   "last_ok": 1795680025969
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795679416310
+   "last_ok": 1795680025969
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795679416310
+   "last_ok": 1795680025969
   }
  },
  "skipped": {
