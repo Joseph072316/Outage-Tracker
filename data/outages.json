@@ -1,6 +1,48 @@
 {
- "checked": 1795678222498,
+ "checked": 1795678817553,
  "outages": [
+  {
+   "key": "walton:C1208703",
+   "utility": "Walton EMC",
+   "lat": 33.90874189141463,
+   "lon": -83.40384827792253,
+   "county": "Oconee",
+   "location": "White Oak Drive (30602)",
+   "first_seen": 1795678817553,
+   "customers": 1,
+   "start": 1795678817553,
+   "cause": null,
+   "last_seen": 1795678817553,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1208702",
+   "utility": "Walton EMC",
+   "lat": 33.908808623282965,
+   "lon": -83.40385287498317,
+   "county": "Oconee",
+   "location": "White Oak Drive (30602)",
+   "first_seen": 1795678817553,
+   "customers": 1,
+   "start": 1795678817553,
+   "cause": null,
+   "last_seen": 1795678817553,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1208701",
+   "utility": "Walton EMC",
+   "lat": 33.90867576180227,
+   "lon": -83.40384003893882,
+   "county": "Oconee",
+   "location": "Natalie Court (30602)",
+   "first_seen": 1795678817553,
+   "customers": 1,
+   "start": 1795678817553,
+   "cause": null,
+   "last_seen": 1795678817553,
+   "cleared": null
+  },
   {
    "key": "walton:D1208700",
    "utility": "Walton EMC",
@@ -12,7 +54,7 @@
    "customers": 2,
    "start": 1795675371741,
    "cause": null,
-   "last_seen": 1795678222498,
+   "last_seen": 1795678817553,
    "cleared": null
   },
   {
@@ -26,21 +68,21 @@
    "customers": 2,
    "start": 1795673612000,
    "cause": null,
-   "last_seen": 1795678222498,
+   "last_seen": 1795678817553,
    "cleared": null
   },
   {
-   "key": "jackson:607273",
+   "key": "jackson:607276",
    "utility": "Jackson EMC",
-   "lat": 34.127484855852245,
-   "lon": -83.26623608531958,
+   "lat": 34.128206161824686,
+   "lon": -83.26663134404464,
    "county": "Madison",
    "location": "Coley Davis Road (30633)",
-   "first_seen": 1795673421620,
-   "customers": 1,
+   "first_seen": 1795678817553,
+   "customers": 2,
    "start": 1795673319878,
    "cause": null,
-   "last_seen": 1795678222498,
+   "last_seen": 1795678817553,
    "cleared": null
   },
   {
@@ -70,6 +112,20 @@
    "cause": null,
    "last_seen": 1795675221368,
    "cleared": 1795675371741
+  },
+  {
+   "key": "jackson:607273",
+   "utility": "Jackson EMC",
+   "lat": 34.127484855852245,
+   "lon": -83.26623608531958,
+   "county": "Madison",
+   "location": "Coley Davis Road (30633)",
+   "first_seen": 1795673421620,
+   "customers": 1,
+   "start": 1795673319878,
+   "cause": null,
+   "last_seen": 1795678222498,
+   "cleared": 1795678817553
   },
   {
    "key": "walton:D1208690",
@@ -1071,27 +1127,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795678222498,
+   "last_ok": 1795678817553,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795678222498
+   "message": "4 outage(s) in your counties",
+   "last_ok": 1795678817553
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795678222498
+   "last_ok": 1795678817553
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795678222498
+   "last_ok": 1795678817553
   }
  },
  "skipped": {
