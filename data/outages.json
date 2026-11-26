@@ -1,6 +1,20 @@
 {
- "checked": 1795673421620,
+ "checked": 1795674017068,
  "outages": [
+  {
+   "key": "jackson:607275",
+   "utility": "Jackson EMC",
+   "lat": 34.062229563647215,
+   "lon": -83.6459000570527,
+   "county": "Jackson",
+   "location": "Old Winder-Jefferson Highway (30549)",
+   "first_seen": 1795674017068,
+   "customers": 2,
+   "start": 1795673612000,
+   "cause": null,
+   "last_seen": 1795674017068,
+   "cleared": null
+  },
   {
    "key": "jackson:607273",
    "utility": "Jackson EMC",
@@ -12,7 +26,7 @@
    "customers": 1,
    "start": 1795673319878,
    "cause": null,
-   "last_seen": 1795673421620,
+   "last_seen": 1795674017068,
    "cleared": null
   },
   {
@@ -1028,28 +1042,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795673421620,
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1795674017068,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795673421620
+   "last_ok": 1795674017068
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795673421620
+   "last_ok": 1795674017068
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795673421620
+   "last_ok": 1795674017068
   }
  },
  "skipped": {
