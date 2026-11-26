@@ -1,18 +1,18 @@
 {
- "checked": 1795722617864,
+ "checked": 1795723222612,
  "outages": [
   {
-   "key": "jackson:607400",
+   "key": "jackson:607405",
    "utility": "Jackson EMC",
-   "lat": 34.116545533642515,
-   "lon": -83.7099409536665,
-   "county": "Jackson",
-   "location": "River Branch Way (30567)",
-   "first_seen": 1795722016162,
-   "customers": 1,
-   "start": 1795721486184,
+   "lat": 34.076583793936976,
+   "lon": -83.25569884703539,
+   "county": "Madison",
+   "location": "General Daniels Avenue South near Diamond Hill (30646)",
+   "first_seen": 1795723222612,
+   "customers": 10,
+   "start": 1795722031000,
    "cause": null,
-   "last_seen": 1795722617864,
+   "last_seen": 1795723222612,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1795721420847,
    "cause": null,
-   "last_seen": 1795722617864,
+   "last_seen": 1795723222612,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 3,
    "start": 1795720117000,
    "cause": null,
-   "last_seen": 1795722617864,
+   "last_seen": 1795723222612,
    "cleared": null
   },
   {
@@ -54,22 +54,22 @@
    "customers": 4,
    "start": 1795717719000,
    "cause": null,
-   "last_seen": 1795722617864,
+   "last_seen": 1795723222612,
    "cleared": null
   },
   {
-   "key": "jackson:607307",
+   "key": "jackson:607400",
    "utility": "Jackson EMC",
-   "lat": 34.104957679110306,
-   "lon": -83.63098802333424,
+   "lat": 34.116545533642515,
+   "lon": -83.7099409536665,
    "county": "Jackson",
-   "location": "State Route 124 (30548)",
-   "first_seen": 1795717216399,
-   "customers": 2,
-   "start": 1795716729000,
+   "location": "River Branch Way (30567)",
+   "first_seen": 1795722016162,
+   "customers": 1,
+   "start": 1795721486184,
    "cause": null,
    "last_seen": 1795722617864,
-   "cleared": null
+   "cleared": 1795723222612
   },
   {
    "key": "jackson:607353",
@@ -140,6 +140,20 @@
    "cause": null,
    "last_seen": 1795721420847,
    "cleared": 1795721466077
+  },
+  {
+   "key": "jackson:607307",
+   "utility": "Jackson EMC",
+   "lat": 34.104957679110306,
+   "lon": -83.63098802333424,
+   "county": "Jackson",
+   "location": "State Route 124 (30548)",
+   "first_seen": 1795717216399,
+   "customers": 2,
+   "start": 1795716729000,
+   "cause": null,
+   "last_seen": 1795722617864,
+   "cleared": 1795723222612
   },
   {
    "key": "walton:C1208735",
@@ -622,28 +636,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "4 outage(s) in your counties",
-   "last_ok": 1795722617864,
+   "message": "3 outage(s) in your counties",
+   "last_ok": 1795723222612,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795722617864
+   "last_ok": 1795723222612
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795722617864
+   "last_ok": 1795723222612
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795722617864
+   "last_ok": 1795723222612
   }
  },
  "skipped": {
