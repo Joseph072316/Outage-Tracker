@@ -1,20 +1,6 @@
 {
- "checked": 1795656620422,
+ "checked": 1795656736260,
  "outages": [
-  {
-   "key": "walton:C1208686",
-   "utility": "Walton EMC",
-   "lat": 33.827507096840954,
-   "lon": -83.70443033595576,
-   "county": "Walton",
-   "location": "Meadow Walk Drive near Monroe (30656)",
-   "first_seen": 1795656620422,
-   "customers": 1,
-   "start": 1795656620422,
-   "cause": null,
-   "last_seen": 1795656620422,
-   "cleared": null
-  },
   {
    "key": "walton:D1208684",
    "utility": "Walton EMC",
@@ -26,7 +12,7 @@
    "customers": 10,
    "start": 1795655415507,
    "cause": null,
-   "last_seen": 1795656620422,
+   "last_seen": 1795656736260,
    "cleared": null
   },
   {
@@ -40,8 +26,22 @@
    "customers": 61,
    "start": 1795652219000,
    "cause": null,
-   "last_seen": 1795656620422,
+   "last_seen": 1795656736260,
    "cleared": null
+  },
+  {
+   "key": "walton:C1208686",
+   "utility": "Walton EMC",
+   "lat": 33.827507096840954,
+   "lon": -83.70443033595576,
+   "county": "Walton",
+   "location": "Meadow Walk Drive near Monroe (30656)",
+   "first_seen": 1795656620422,
+   "customers": 1,
+   "start": 1795656620422,
+   "cause": null,
+   "last_seen": 1795656620422,
+   "cleared": 1795656736260
   },
   {
    "key": "jackson:607248",
@@ -1001,27 +1001,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795656620422,
+   "last_ok": 1795656736260,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1795656620422
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795656736260
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795656620422
+   "last_ok": 1795656736260
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795656620422
+   "last_ok": 1795656736260
   }
  },
  "skipped": {
