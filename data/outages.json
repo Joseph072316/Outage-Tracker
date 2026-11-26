@@ -1,6 +1,20 @@
 {
- "checked": 1795723222612,
+ "checked": 1795723816632,
  "outages": [
+  {
+   "key": "jackson:607406",
+   "utility": "Jackson EMC",
+   "lat": 34.00081901225374,
+   "lon": -83.22618918994796,
+   "county": "Oglethorpe",
+   "location": "Briarwood Trail (30628)",
+   "first_seen": 1795723816632,
+   "customers": 1,
+   "start": 1795723380000,
+   "cause": null,
+   "last_seen": 1795723816632,
+   "cleared": null
+  },
   {
    "key": "jackson:607405",
    "utility": "Jackson EMC",
@@ -12,7 +26,7 @@
    "customers": 10,
    "start": 1795722031000,
    "cause": null,
-   "last_seen": 1795723222612,
+   "last_seen": 1795723816632,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 4,
    "start": 1795721420847,
    "cause": null,
-   "last_seen": 1795723222612,
+   "last_seen": 1795723816632,
    "cleared": null
   },
   {
@@ -40,21 +54,7 @@
    "customers": 3,
    "start": 1795720117000,
    "cause": null,
-   "last_seen": 1795723222612,
-   "cleared": null
-  },
-  {
-   "key": "jackson:607312",
-   "utility": "Jackson EMC",
-   "lat": 34.11841223464956,
-   "lon": -83.27858792047793,
-   "county": "Madison",
-   "location": "Hunt Road (30633)",
-   "first_seen": 1795718421421,
-   "customers": 4,
-   "start": 1795717719000,
-   "cause": null,
-   "last_seen": 1795723222612,
+   "last_seen": 1795723816632,
    "cleared": null
   },
   {
@@ -112,6 +112,20 @@
    "cause": null,
    "last_seen": 1795720216540,
    "cleared": 1795720816850
+  },
+  {
+   "key": "jackson:607312",
+   "utility": "Jackson EMC",
+   "lat": 34.11841223464956,
+   "lon": -83.27858792047793,
+   "county": "Madison",
+   "location": "Hunt Road (30633)",
+   "first_seen": 1795718421421,
+   "customers": 4,
+   "start": 1795717719000,
+   "cause": null,
+   "last_seen": 1795723222612,
+   "cleared": 1795723816632
   },
   {
    "key": "walton:D1208736",
@@ -637,27 +651,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "3 outage(s) in your counties",
-   "last_ok": 1795723222612,
+   "last_ok": 1795723816632,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795723222612
+   "last_ok": 1795723816632
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795723222612
+   "last_ok": 1795723816632
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795723222612
+   "last_ok": 1795723816632
   }
  },
  "skipped": {
@@ -679,6 +693,7 @@
   "walton:D1208753": 1795719015649,
   "walton:C1208758": 1795719623574,
   "walton:D1208760": 1795720816850,
-  "gapower:33.9917,-83.8322": 1795721420847
+  "gapower:33.9917,-83.8322": 1795721420847,
+  "gapower:34.3131,-83.8201": 1795723816632
  }
 }
