@@ -1,6 +1,20 @@
 {
- "checked": 1795721466077,
+ "checked": 1795722016162,
  "outages": [
+  {
+   "key": "jackson:607400",
+   "utility": "Jackson EMC",
+   "lat": 34.116545533642515,
+   "lon": -83.7099409536665,
+   "county": "Jackson",
+   "location": "River Branch Way (30567)",
+   "first_seen": 1795722016162,
+   "customers": 1,
+   "start": 1795721486184,
+   "cause": null,
+   "last_seen": 1795722016162,
+   "cleared": null
+  },
   {
    "key": "gapower:33.9955,-83.4255",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 4,
    "start": 1795721420847,
    "cause": null,
-   "last_seen": 1795721466077,
+   "last_seen": 1795722016162,
    "cleared": null
   },
   {
@@ -26,21 +40,7 @@
    "customers": 3,
    "start": 1795720117000,
    "cause": null,
-   "last_seen": 1795721466077,
-   "cleared": null
-  },
-  {
-   "key": "jackson:607392",
-   "utility": "Jackson EMC",
-   "lat": 34.02965006034882,
-   "lon": -83.2386218734819,
-   "county": "Madison",
-   "location": "Hardman Morris Road near Patterson (30628)",
-   "first_seen": 1795720816850,
-   "customers": 500,
-   "start": 1795718210000,
-   "cause": null,
-   "last_seen": 1795721466077,
+   "last_seen": 1795722016162,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 4,
    "start": 1795717719000,
    "cause": null,
-   "last_seen": 1795721466077,
+   "last_seen": 1795722016162,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 2,
    "start": 1795716729000,
    "cause": null,
-   "last_seen": 1795721466077,
+   "last_seen": 1795722016162,
    "cleared": null
   },
   {
@@ -84,6 +84,20 @@
    "cause": null,
    "last_seen": 1795720216540,
    "cleared": 1795720816850
+  },
+  {
+   "key": "jackson:607392",
+   "utility": "Jackson EMC",
+   "lat": 34.02965006034882,
+   "lon": -83.2386218734819,
+   "county": "Madison",
+   "location": "Hardman Morris Road near Patterson (30628)",
+   "first_seen": 1795720816850,
+   "customers": 500,
+   "start": 1795718210000,
+   "cause": null,
+   "last_seen": 1795721466077,
+   "cleared": 1795722016162
   },
   {
    "key": "jackson:607352",
@@ -623,27 +637,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "4 outage(s) in your counties",
-   "last_ok": 1795721466077,
+   "last_ok": 1795722016162,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795721466077
+   "last_ok": 1795722016162
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795721466077
+   "last_ok": 1795722016162
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795721466077
+   "last_ok": 1795722016162
   }
  },
  "skipped": {
