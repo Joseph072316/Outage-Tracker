@@ -1,6 +1,20 @@
 {
- "checked": 1795714220686,
+ "checked": 1795714736845,
  "outages": [
+  {
+   "key": "walton:C1208734",
+   "utility": "Walton EMC",
+   "lat": 33.75300848155466,
+   "lon": -83.69553743780602,
+   "county": "Walton",
+   "location": "Harrison Road (30655)",
+   "first_seen": 1795714736845,
+   "customers": 1,
+   "start": 1795714736845,
+   "cause": null,
+   "last_seen": 1795714736845,
+   "cleared": null
+  },
   {
    "key": "rayle:2026-11-26-0374",
    "utility": "Rayle EMC",
@@ -525,27 +539,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795714220686,
+   "last_ok": 1795714736845,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795714220686
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795714736845
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795714220686
+   "last_ok": 1795714736845
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795714220686
+   "last_ok": 1795714736845
   }
  },
  "skipped": {
