@@ -1,6 +1,20 @@
 {
- "checked": 1795717673328,
+ "checked": 1795717820665,
  "outages": [
+  {
+   "key": "jackson:607307",
+   "utility": "Jackson EMC",
+   "lat": 34.104957679110306,
+   "lon": -83.63098802333424,
+   "county": "Jackson",
+   "location": "State Route 124 (30548)",
+   "first_seen": 1795717216399,
+   "customers": 2,
+   "start": 1795716729000,
+   "cause": null,
+   "last_seen": 1795717820665,
+   "cleared": null
+  },
   {
    "key": "walton:D1208736",
    "utility": "Walton EMC",
@@ -13,21 +27,7 @@
    "start": 1795717673328,
    "cause": "This has been automatically entered for you by your dataVoice Scada interface",
    "last_seen": 1795717673328,
-   "cleared": null
-  },
-  {
-   "key": "jackson:607307",
-   "utility": "Jackson EMC",
-   "lat": 34.104957679110306,
-   "lon": -83.63098802333424,
-   "county": "Jackson",
-   "location": "State Route 124 (30548)",
-   "first_seen": 1795717216399,
-   "customers": 2,
-   "start": 1795716729000,
-   "cause": null,
-   "last_seen": 1795717673328,
-   "cleared": null
+   "cleared": 1795717820665
   },
   {
    "key": "walton:C1208735",
@@ -581,27 +581,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795717673328,
+   "last_ok": 1795717820665,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795717673328
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795717820665
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795717673328
+   "last_ok": 1795717820665
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795717673328
+   "last_ok": 1795717820665
   }
  },
  "skipped": {
