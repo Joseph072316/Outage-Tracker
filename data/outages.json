@@ -1,6 +1,20 @@
 {
- "checked": 1795720816850,
+ "checked": 1795721420847,
  "outages": [
+  {
+   "key": "gapower:33.9955,-83.4255",
+   "utility": "Georgia Power",
+   "lat": 33.99554,
+   "lon": -83.42553,
+   "county": "Clarke",
+   "location": "South Ridge Drive near Athens (30607)",
+   "first_seen": 1795721420847,
+   "customers": 4,
+   "start": 1795721420847,
+   "cause": null,
+   "last_seen": 1795721420847,
+   "cleared": null
+  },
   {
    "key": "jackson:607360",
    "utility": "Jackson EMC",
@@ -12,7 +26,7 @@
    "customers": 3,
    "start": 1795720117000,
    "cause": null,
-   "last_seen": 1795720816850,
+   "last_seen": 1795721420847,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 500,
    "start": 1795718210000,
    "cause": null,
-   "last_seen": 1795720816850,
+   "last_seen": 1795721420847,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 4,
    "start": 1795717719000,
    "cause": null,
-   "last_seen": 1795720816850,
+   "last_seen": 1795721420847,
    "cleared": null
   },
   {
@@ -54,7 +68,7 @@
    "customers": 1,
    "start": 1795717320000,
    "cause": null,
-   "last_seen": 1795720816850,
+   "last_seen": 1795721420847,
    "cleared": null
   },
   {
@@ -68,7 +82,7 @@
    "customers": 2,
    "start": 1795716729000,
    "cause": null,
-   "last_seen": 1795720816850,
+   "last_seen": 1795721420847,
    "cleared": null
   },
   {
@@ -623,33 +637,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "5 outage(s) in your counties",
-   "last_ok": 1795720816850,
+   "last_ok": 1795721420847,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795720816850
+   "last_ok": 1795721420847
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795720816850
+   "last_ok": 1795721420847
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
+   "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795720816850
+   "last_ok": 1795721420847
   }
  },
  "skipped": {
-  "walton:C1208669": 1795634423971,
-  "gapower:33.6028,-83.4728": 1795634423971,
-  "gapower:33.5939,-83.3744": 1795634423971,
   "walton:C1208672": 1795637419518,
   "gapower:33.8886,-83.9262": 1795681216173,
   "walton:C1208723": 1795700912917,
@@ -667,6 +678,7 @@
   "walton:C1208745": 1795718421421,
   "walton:D1208753": 1795719015649,
   "walton:C1208758": 1795719623574,
-  "walton:D1208760": 1795720816850
+  "walton:D1208760": 1795720816850,
+  "gapower:33.9917,-83.8322": 1795721420847
  }
 }
