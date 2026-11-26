@@ -1,6 +1,20 @@
 {
- "checked": 1795656015203,
+ "checked": 1795656620422,
  "outages": [
+  {
+   "key": "walton:C1208686",
+   "utility": "Walton EMC",
+   "lat": 33.827507096840954,
+   "lon": -83.70443033595576,
+   "county": "Walton",
+   "location": "Meadow Walk Drive near Monroe (30656)",
+   "first_seen": 1795656620422,
+   "customers": 1,
+   "start": 1795656620422,
+   "cause": null,
+   "last_seen": 1795656620422,
+   "cleared": null
+  },
   {
    "key": "walton:D1208684",
    "utility": "Walton EMC",
@@ -12,7 +26,7 @@
    "customers": 10,
    "start": 1795655415507,
    "cause": null,
-   "last_seen": 1795656015203,
+   "last_seen": 1795656620422,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 61,
    "start": 1795652219000,
    "cause": null,
-   "last_seen": 1795656015203,
+   "last_seen": 1795656620422,
    "cleared": null
   },
   {
@@ -968,20 +982,6 @@
    "cleared": 1795588220451
   },
   {
-   "key": "gapower:33.8437,-83.8855",
-   "utility": "Georgia Power",
-   "lat": 33.84368,
-   "lon": -83.88555,
-   "county": "Walton",
-   "location": "Bay Creek Landing near Loganville (30502)",
-   "first_seen": 1795569620673,
-   "customers": 4,
-   "start": 1795569620673,
-   "cause": null,
-   "last_seen": 1795569620673,
-   "cleared": 1795570219635
-  },
-  {
    "key": "gapower:33.8638,-83.4110",
    "utility": "Georgia Power",
    "lat": 33.86376,
@@ -1001,27 +1001,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795656015203,
+   "last_ok": 1795656620422,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795656015203
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1795656620422
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795656015203
+   "last_ok": 1795656620422
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795656015203
+   "last_ok": 1795656620422
   }
  },
  "skipped": {
