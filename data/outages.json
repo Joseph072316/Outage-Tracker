@@ -1,6 +1,20 @@
 {
- "checked": 1795743884418,
+ "checked": 1795744215225,
  "outages": [
+  {
+   "key": "jackson:607470",
+   "utility": "Jackson EMC",
+   "lat": 34.056513983310154,
+   "lon": -83.4608021927341,
+   "county": "Jackson",
+   "location": "Timber Ridge Drive (30607)",
+   "first_seen": 1795744215225,
+   "customers": 27,
+   "start": 1795743654000,
+   "cause": null,
+   "last_seen": 1795744215225,
+   "cleared": null
+  },
   {
    "key": "walton:D1208795",
    "utility": "Walton EMC",
@@ -12,7 +26,7 @@
    "customers": 133,
    "start": 1795741222943,
    "cause": null,
-   "last_seen": 1795743884418,
+   "last_seen": 1795744215225,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 117,
    "start": 1795739953000,
    "cause": null,
-   "last_seen": 1795743884418,
+   "last_seen": 1795744215225,
    "cleared": null
   },
   {
@@ -678,28 +692,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795743884418,
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1795744215225,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795743884418
+   "last_ok": 1795744215225
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795743884418
+   "last_ok": 1795744215225
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795743884418
+   "last_ok": 1795744215225
   }
  },
  "skipped": {
