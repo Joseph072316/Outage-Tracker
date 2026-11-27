@@ -1,5 +1,5 @@
 {
- "checked": 1795809015543,
+ "checked": 1795809623177,
  "outages": [
   {
    "key": "jackson:607526",
@@ -12,21 +12,7 @@
    "customers": 1,
    "start": 1795808760000,
    "cause": null,
-   "last_seen": 1795809015543,
-   "cleared": null
-  },
-  {
-   "key": "walton:C1208870",
-   "utility": "Walton EMC",
-   "lat": 33.78638639054002,
-   "lon": -83.65753244161805,
-   "county": "Walton",
-   "location": "Vasco Adcock Road (30655)",
-   "first_seen": 1795807216102,
-   "customers": 1,
-   "start": 1795807216102,
-   "cause": null,
-   "last_seen": 1795809015543,
+   "last_seen": 1795809623177,
    "cleared": null
   },
   {
@@ -42,6 +28,20 @@
    "cause": null,
    "last_seen": 1795808420289,
    "cleared": 1795809015543
+  },
+  {
+   "key": "walton:C1208870",
+   "utility": "Walton EMC",
+   "lat": 33.78638639054002,
+   "lon": -83.65753244161805,
+   "county": "Walton",
+   "location": "Vasco Adcock Road (30655)",
+   "first_seen": 1795807216102,
+   "customers": 1,
+   "start": 1795807216102,
+   "cause": null,
+   "last_seen": 1795809015543,
+   "cleared": 1795809623177
   },
   {
    "key": "walton:C1208866",
@@ -604,20 +604,6 @@
    "cleared": 1795726215094
   },
   {
-   "key": "jackson:607400",
-   "utility": "Jackson EMC",
-   "lat": 34.116545533642515,
-   "lon": -83.7099409536665,
-   "county": "Jackson",
-   "location": "River Branch Way (30567)",
-   "first_seen": 1795722016162,
-   "customers": 1,
-   "start": 1795721486184,
-   "cause": null,
-   "last_seen": 1795722617864,
-   "cleared": 1795723222612
-  },
-  {
    "key": "gapower:33.9955,-83.4255",
    "utility": "Georgia Power",
    "lat": 33.99554,
@@ -658,20 +644,6 @@
    "cause": null,
    "last_seen": 1795723222612,
    "cleared": 1795723816632
-  },
-  {
-   "key": "jackson:607307",
-   "utility": "Jackson EMC",
-   "lat": 34.104957679110306,
-   "lon": -83.63098802333424,
-   "county": "Jackson",
-   "location": "State Route 124 (30548)",
-   "first_seen": 1795717216399,
-   "customers": 2,
-   "start": 1795716729000,
-   "cause": null,
-   "last_seen": 1795722617864,
-   "cleared": 1795723222612
   }
  ],
  "sources": {
@@ -679,27 +651,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795809015543,
+   "last_ok": 1795809623177,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795809015543
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795809623177
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795809015543
+   "last_ok": 1795809623177
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795809015543
+   "last_ok": 1795809623177
   }
  },
  "skipped": {
