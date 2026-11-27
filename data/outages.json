@@ -1,5 +1,5 @@
 {
- "checked": 1795806025773,
+ "checked": 1795806615527,
  "outages": [
   {
    "key": "walton:C1208866",
@@ -12,7 +12,35 @@
    "customers": 1,
    "start": 1795803935238,
    "cause": null,
-   "last_seen": 1795806025773,
+   "last_seen": 1795806615527,
+   "cleared": null
+  },
+  {
+   "key": "gapower:34.0421,-83.0348",
+   "utility": "Georgia Power",
+   "lat": 34.04215,
+   "lon": -83.03481,
+   "county": "Madison",
+   "location": "3rd Avenue near Carlton (30629)",
+   "first_seen": 1795798827846,
+   "customers": 4,
+   "start": 1795798827846,
+   "cause": null,
+   "last_seen": 1795806615527,
+   "cleared": null
+  },
+  {
+   "key": "rayle:2026-11-27-0377",
+   "utility": "Rayle EMC",
+   "lat": 33.6920293877384,
+   "lon": -83.07795859568344,
+   "county": "Greene",
+   "location": "Ham Fork Road (30669)",
+   "first_seen": 1795790418508,
+   "customers": 1,
+   "start": 1795789860000,
+   "cause": null,
+   "last_seen": 1795806615527,
    "cleared": null
   },
   {
@@ -27,7 +55,7 @@
    "start": 1795801821414,
    "cause": null,
    "last_seen": 1795806025773,
-   "cleared": null
+   "cleared": 1795806615527
   },
   {
    "key": "walton:C1208865",
@@ -41,49 +69,7 @@
    "start": 1795801821414,
    "cause": null,
    "last_seen": 1795806025773,
-   "cleared": null
-  },
-  {
-   "key": "gapower:34.0421,-83.0348",
-   "utility": "Georgia Power",
-   "lat": 34.04215,
-   "lon": -83.03481,
-   "county": "Madison",
-   "location": "3rd Avenue near Carlton (30629)",
-   "first_seen": 1795798827846,
-   "customers": 4,
-   "start": 1795798827846,
-   "cause": null,
-   "last_seen": 1795806025773,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-27-0379",
-   "utility": "Rayle EMC",
-   "lat": 33.95423840301105,
-   "lon": -83.22773992806785,
-   "county": "Oglethorpe",
-   "location": "Hawk Creek Trail (30683)",
-   "first_seen": 1795794017401,
-   "customers": 18,
-   "start": 1795793400000,
-   "cause": null,
-   "last_seen": 1795806025773,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-27-0377",
-   "utility": "Rayle EMC",
-   "lat": 33.6920293877384,
-   "lon": -83.07795859568344,
-   "county": "Greene",
-   "location": "Ham Fork Road (30669)",
-   "first_seen": 1795790418508,
-   "customers": 1,
-   "start": 1795789860000,
-   "cause": null,
-   "last_seen": 1795806025773,
-   "cleared": null
+   "cleared": 1795806615527
   },
   {
    "key": "walton:D1208857",
@@ -168,6 +154,20 @@
    "cause": null,
    "last_seen": 1795795226086,
    "cleared": 1795795817006
+  },
+  {
+   "key": "rayle:2026-11-27-0379",
+   "utility": "Rayle EMC",
+   "lat": 33.95423840301105,
+   "lon": -83.22773992806785,
+   "county": "Oglethorpe",
+   "location": "Hawk Creek Trail (30683)",
+   "first_seen": 1795794017401,
+   "customers": 18,
+   "start": 1795793400000,
+   "cause": null,
+   "last_seen": 1795806025773,
+   "cleared": 1795806615527
   },
   {
    "key": "jackson:607515",
@@ -693,27 +693,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795806025773,
+   "last_ok": 1795806615527,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "3 outage(s) in your counties",
-   "last_ok": 1795806025773
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795806615527
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1795806025773
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795806615527
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795806025773
+   "last_ok": 1795806615527
   }
  },
  "skipped": {
