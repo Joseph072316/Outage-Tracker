@@ -1,6 +1,20 @@
 {
- "checked": 1795798827846,
+ "checked": 1795799417152,
  "outages": [
+  {
+   "key": "walton:D1208857",
+   "utility": "Walton EMC",
+   "lat": 33.77955815624916,
+   "lon": -83.60514178219299,
+   "county": "Walton",
+   "location": "GA 83 near Good Hope (30641)",
+   "first_seen": 1795799417152,
+   "customers": 4,
+   "start": 1795799417152,
+   "cause": null,
+   "last_seen": 1795799417152,
+   "cleared": null
+  },
   {
    "key": "gapower:34.0421,-83.0348",
    "utility": "Georgia Power",
@@ -12,7 +26,63 @@
    "customers": 4,
    "start": 1795798827846,
    "cause": null,
-   "last_seen": 1795798827846,
+   "last_seen": 1795799417152,
+   "cleared": null
+  },
+  {
+   "key": "gapower:33.7296,-83.1912",
+   "utility": "Georgia Power",
+   "lat": 33.72955,
+   "lon": -83.19125,
+   "county": "Oglethorpe",
+   "location": "Conger Place Road (30671)",
+   "first_seen": 1795797605713,
+   "customers": 533,
+   "start": 1795797605713,
+   "cause": null,
+   "last_seen": 1795799417152,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1208853",
+   "utility": "Walton EMC",
+   "lat": 33.950016160300976,
+   "lon": -83.46362584254013,
+   "county": "Clarke",
+   "location": "Huntington Road near Athens (30606)",
+   "first_seen": 1795795817006,
+   "customers": 1,
+   "start": 1795795817006,
+   "cause": null,
+   "last_seen": 1795799417152,
+   "cleared": null
+  },
+  {
+   "key": "rayle:2026-11-27-0379",
+   "utility": "Rayle EMC",
+   "lat": 33.95423840301105,
+   "lon": -83.22773992806785,
+   "county": "Oglethorpe",
+   "location": "Hawk Creek Trail (30683)",
+   "first_seen": 1795794017401,
+   "customers": 18,
+   "start": 1795793400000,
+   "cause": null,
+   "last_seen": 1795799417152,
+   "cleared": null
+  },
+  {
+   "key": "rayle:2026-11-27-0377",
+   "utility": "Rayle EMC",
+   "lat": 33.6920293877384,
+   "lon": -83.07795859568344,
+   "county": "Greene",
+   "location": "Ham Fork Road (30669)",
+   "first_seen": 1795790418508,
+   "customers": 1,
+   "start": 1795789860000,
+   "cause": null,
+   "last_seen": 1795799417152,
    "cleared": null
   },
   {
@@ -27,21 +97,7 @@
    "start": 1795798217346,
    "cause": null,
    "last_seen": 1795798827846,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.7296,-83.1912",
-   "utility": "Georgia Power",
-   "lat": 33.72955,
-   "lon": -83.19125,
-   "county": "Oglethorpe",
-   "location": "Conger Place Road (30671)",
-   "first_seen": 1795797605713,
-   "customers": 533,
-   "start": 1795797605713,
-   "cause": null,
-   "last_seen": 1795798827846,
-   "cleared": null
+   "cleared": 1795799417152
   },
   {
    "key": "walton:C1208854",
@@ -55,49 +111,7 @@
    "start": 1795795817006,
    "cause": null,
    "last_seen": 1795798827846,
-   "cleared": null
-  },
-  {
-   "key": "walton:C1208853",
-   "utility": "Walton EMC",
-   "lat": 33.950016160300976,
-   "lon": -83.46362584254013,
-   "county": "Clarke",
-   "location": "Huntington Road near Athens (30606)",
-   "first_seen": 1795795817006,
-   "customers": 1,
-   "start": 1795795817006,
-   "cause": null,
-   "last_seen": 1795798827846,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-27-0379",
-   "utility": "Rayle EMC",
-   "lat": 33.95423840301105,
-   "lon": -83.22773992806785,
-   "county": "Oglethorpe",
-   "location": "Hawk Creek Trail (30683)",
-   "first_seen": 1795794017401,
-   "customers": 18,
-   "start": 1795793400000,
-   "cause": null,
-   "last_seen": 1795798827846,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-27-0377",
-   "utility": "Rayle EMC",
-   "lat": 33.6920293877384,
-   "lon": -83.07795859568344,
-   "county": "Greene",
-   "location": "Ham Fork Road (30669)",
-   "first_seen": 1795790418508,
-   "customers": 1,
-   "start": 1795789860000,
-   "cause": null,
-   "last_seen": 1795798827846,
-   "cleared": null
+   "cleared": 1795799417152
   },
   {
    "key": "gapower:33.4986,-83.2572",
@@ -672,20 +686,6 @@
    "cause": null,
    "last_seen": 1795715416131,
    "cleared": 1795716023339
-  },
-  {
-   "key": "rayle:2026-11-26-0374",
-   "utility": "Rayle EMC",
-   "lat": 33.87995035623579,
-   "lon": -83.06341062699701,
-   "county": "Oglethorpe",
-   "location": "Elberton Road (30648)",
-   "first_seen": 1795712423284,
-   "customers": 3,
-   "start": 1795711860000,
-   "cause": null,
-   "last_seen": 1795712423284,
-   "cleared": 1795713015629
   }
  ],
  "sources": {
@@ -693,27 +693,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795798827846,
+   "last_ok": 1795799417152,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "3 outage(s) in your counties",
-   "last_ok": 1795798827846
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1795799417152
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795798827846
+   "last_ok": 1795799417152
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795798827846
+   "last_ok": 1795799417152
   }
  },
  "skipped": {
