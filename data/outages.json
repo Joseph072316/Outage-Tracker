@@ -1,6 +1,20 @@
 {
- "checked": 1795797022153,
+ "checked": 1795797605713,
  "outages": [
+  {
+   "key": "gapower:33.7296,-83.1912",
+   "utility": "Georgia Power",
+   "lat": 33.72955,
+   "lon": -83.19125,
+   "county": "Oglethorpe",
+   "location": "Conger Place Road (30671)",
+   "first_seen": 1795797605713,
+   "customers": 533,
+   "start": 1795797605713,
+   "cause": null,
+   "last_seen": 1795797605713,
+   "cleared": null
+  },
   {
    "key": "walton:C1208854",
    "utility": "Walton EMC",
@@ -12,7 +26,7 @@
    "customers": 1,
    "start": 1795795817006,
    "cause": null,
-   "last_seen": 1795797022153,
+   "last_seen": 1795797605713,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 1,
    "start": 1795795817006,
    "cause": null,
-   "last_seen": 1795797022153,
+   "last_seen": 1795797605713,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 1,
    "start": 1795793400000,
    "cause": null,
-   "last_seen": 1795797022153,
+   "last_seen": 1795797605713,
    "cleared": null
   },
   {
@@ -54,7 +68,7 @@
    "customers": 1,
    "start": 1795789860000,
    "cause": null,
-   "last_seen": 1795797022153,
+   "last_seen": 1795797605713,
    "cleared": null
   },
   {
@@ -665,27 +679,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795797022153,
+   "last_ok": 1795797605713,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795797022153
+   "last_ok": 1795797605713
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795797022153
+   "last_ok": 1795797605713
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
+   "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795797022153
+   "last_ok": 1795797605713
   }
  },
  "skipped": {
