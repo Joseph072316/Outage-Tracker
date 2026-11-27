@@ -1,5 +1,5 @@
 {
- "checked": 1795817420241,
+ "checked": 1795818017149,
  "outages": [
   {
    "key": "jackson:607531",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1795815923005,
    "cause": null,
-   "last_seen": 1795817420241,
+   "last_seen": 1795818017149,
    "cleared": null
   },
   {
@@ -26,21 +26,7 @@
    "customers": 1,
    "start": 1795815616138,
    "cause": null,
-   "last_seen": 1795817420241,
-   "cleared": null
-  },
-  {
-   "key": "walton:C1208855",
-   "utility": "Walton EMC",
-   "lat": 33.77953306505178,
-   "lon": -83.60539477369852,
-   "county": "Walton",
-   "location": "GA 83 near Good Hope (30641)",
-   "first_seen": 1795798217346,
-   "customers": 1,
-   "start": 1795798217346,
-   "cause": null,
-   "last_seen": 1795817420241,
+   "last_seen": 1795818017149,
    "cleared": null
   },
   {
@@ -168,6 +154,20 @@
    "cause": null,
    "last_seen": 1795807569833,
    "cleared": 1795807820916
+  },
+  {
+   "key": "walton:C1208855",
+   "utility": "Walton EMC",
+   "lat": 33.77953306505178,
+   "lon": -83.60539477369852,
+   "county": "Walton",
+   "location": "GA 83 near Good Hope (30641)",
+   "first_seen": 1795798217346,
+   "customers": 1,
+   "start": 1795798217346,
+   "cause": null,
+   "last_seen": 1795817420241,
+   "cleared": 1795818017149
   },
   {
    "key": "gapower:33.7296,-83.1912",
@@ -595,27 +595,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795817420241,
+   "last_ok": 1795818017149,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1795817420241
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795818017149
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795817420241
+   "last_ok": 1795818017149
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795817420241
+   "last_ok": 1795818017149
   }
  },
  "skipped": {
