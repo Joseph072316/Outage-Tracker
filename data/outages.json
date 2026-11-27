@@ -1,6 +1,20 @@
 {
- "checked": 1795764017222,
+ "checked": 1795764621081,
  "outages": [
+  {
+   "key": "walton:C1208834",
+   "utility": "Walton EMC",
+   "lat": 33.803049694853115,
+   "lon": -83.6619640184919,
+   "county": "Walton",
+   "location": "Dogwood Terrace (30656)",
+   "first_seen": 1795764621081,
+   "customers": 1,
+   "start": 1795764621081,
+   "cause": null,
+   "last_seen": 1795764621081,
+   "cleared": null
+  },
   {
    "key": "walton:D1208828",
    "utility": "Walton EMC",
@@ -618,20 +632,6 @@
    "cleared": 1795680622168
   },
   {
-   "key": "gapower:33.8274,-83.4514",
-   "utility": "Georgia Power",
-   "lat": 33.82741,
-   "lon": -83.4514,
-   "county": "Oconee",
-   "location": "Willow Creek Drive (30621)",
-   "first_seen": 1795676422372,
-   "customers": 4,
-   "start": 1795676422372,
-   "cause": null,
-   "last_seen": 1795677016894,
-   "cleared": 1795677617582
-  },
-  {
    "key": "walton:D1208700",
    "utility": "Walton EMC",
    "lat": 33.72155433033039,
@@ -693,27 +693,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795764017222,
+   "last_ok": 1795764621081,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795764017222
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795764621081
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795764017222
+   "last_ok": 1795764621081
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795764017222
+   "last_ok": 1795764621081
   }
  },
  "skipped": {
