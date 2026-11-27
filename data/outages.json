@@ -1,18 +1,32 @@
 {
- "checked": 1795801216585,
+ "checked": 1795801821414,
  "outages": [
   {
-   "key": "walton:D1208857",
+   "key": "walton:C1208864",
    "utility": "Walton EMC",
-   "lat": 33.77955815624916,
-   "lon": -83.60514178219299,
+   "lat": 33.74936398319826,
+   "lon": -83.79914058492393,
    "county": "Walton",
-   "location": "GA 83 near Good Hope (30641)",
-   "first_seen": 1795799417152,
-   "customers": 4,
-   "start": 1795799417152,
+   "location": "P J East Road (30655)",
+   "first_seen": 1795801821414,
+   "customers": 1,
+   "start": 1795801821414,
    "cause": null,
-   "last_seen": 1795801216585,
+   "last_seen": 1795801821414,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1208865",
+   "utility": "Walton EMC",
+   "lat": 33.71268870176281,
+   "lon": -83.80160728737002,
+   "county": "Walton",
+   "location": "Main Street near Jersey (30054)",
+   "first_seen": 1795801821414,
+   "customers": 1,
+   "start": 1795801821414,
+   "cause": null,
+   "last_seen": 1795801821414,
    "cleared": null
   },
   {
@@ -26,21 +40,7 @@
    "customers": 4,
    "start": 1795798827846,
    "cause": null,
-   "last_seen": 1795801216585,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.7296,-83.1912",
-   "utility": "Georgia Power",
-   "lat": 33.72955,
-   "lon": -83.19125,
-   "county": "Oglethorpe",
-   "location": "Conger Place Road (30671)",
-   "first_seen": 1795797605713,
-   "customers": 533,
-   "start": 1795797605713,
-   "cause": null,
-   "last_seen": 1795801216585,
+   "last_seen": 1795801821414,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 1,
    "start": 1795795817006,
    "cause": null,
-   "last_seen": 1795801216585,
+   "last_seen": 1795801821414,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 18,
    "start": 1795793400000,
    "cause": null,
-   "last_seen": 1795801216585,
+   "last_seen": 1795801821414,
    "cleared": null
   },
   {
@@ -82,8 +82,22 @@
    "customers": 1,
    "start": 1795789860000,
    "cause": null,
-   "last_seen": 1795801216585,
+   "last_seen": 1795801821414,
    "cleared": null
+  },
+  {
+   "key": "walton:D1208857",
+   "utility": "Walton EMC",
+   "lat": 33.77955815624916,
+   "lon": -83.60514178219299,
+   "county": "Walton",
+   "location": "GA 83 near Good Hope (30641)",
+   "first_seen": 1795799417152,
+   "customers": 4,
+   "start": 1795799417152,
+   "cause": null,
+   "last_seen": 1795801216585,
+   "cleared": 1795801821414
   },
   {
    "key": "walton:C1208855",
@@ -98,6 +112,20 @@
    "cause": null,
    "last_seen": 1795798827846,
    "cleared": 1795799417152
+  },
+  {
+   "key": "gapower:33.7296,-83.1912",
+   "utility": "Georgia Power",
+   "lat": 33.72955,
+   "lon": -83.19125,
+   "county": "Oglethorpe",
+   "location": "Conger Place Road (30671)",
+   "first_seen": 1795797605713,
+   "customers": 533,
+   "start": 1795797605713,
+   "cause": null,
+   "last_seen": 1795801216585,
+   "cleared": 1795801821414
   },
   {
    "key": "walton:C1208854",
@@ -693,27 +721,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795801216585,
+   "last_ok": 1795801821414,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1795801216585
+   "message": "3 outage(s) in your counties",
+   "last_ok": 1795801821414
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795801216585
+   "last_ok": 1795801821414
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
+   "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795801216585
+   "last_ok": 1795801821414
   }
  },
  "skipped": {
