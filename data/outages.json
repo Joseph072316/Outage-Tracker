@@ -1,6 +1,20 @@
 {
- "checked": 1795747342913,
+ "checked": 1795747815614,
  "outages": [
+  {
+   "key": "walton:C1208825",
+   "utility": "Walton EMC",
+   "lat": 33.89047678328453,
+   "lon": -83.40232982794961,
+   "county": "Oconee",
+   "location": "Mason Mill Road (30606)",
+   "first_seen": 1795747815614,
+   "customers": 1,
+   "start": 1795747815614,
+   "cause": null,
+   "last_seen": 1795747815614,
+   "cleared": null
+  },
   {
    "key": "jackson:607470",
    "utility": "Jackson EMC",
@@ -12,21 +26,7 @@
    "customers": 27,
    "start": 1795743654000,
    "cause": null,
-   "last_seen": 1795747342913,
-   "cleared": null
-  },
-  {
-   "key": "walton:D1208795",
-   "utility": "Walton EMC",
-   "lat": 33.89293477081296,
-   "lon": -83.41120318291392,
-   "county": "Oconee",
-   "location": "Lavista Road (30644)",
-   "first_seen": 1795741222943,
-   "customers": 133,
-   "start": 1795741222943,
-   "cause": null,
-   "last_seen": 1795747342913,
+   "last_seen": 1795747815614,
    "cleared": null
   },
   {
@@ -42,6 +42,20 @@
    "cause": null,
    "last_seen": 1795745415794,
    "cleared": 1795746015420
+  },
+  {
+   "key": "walton:D1208795",
+   "utility": "Walton EMC",
+   "lat": 33.89293477081296,
+   "lon": -83.41120318291392,
+   "county": "Oconee",
+   "location": "Lavista Road (30644)",
+   "first_seen": 1795741222943,
+   "customers": 133,
+   "start": 1795741222943,
+   "cause": null,
+   "last_seen": 1795747342913,
+   "cleared": 1795747815614
   },
   {
    "key": "walton:C1208809",
@@ -679,27 +693,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795747342913,
+   "last_ok": 1795747815614,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795747342913
+   "last_ok": 1795747815614
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795747342913
+   "last_ok": 1795747815614
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795747342913
+   "last_ok": 1795747815614
   }
  },
  "skipped": {
