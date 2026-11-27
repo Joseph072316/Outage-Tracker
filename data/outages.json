@@ -1,6 +1,118 @@
 {
- "checked": 1795740015728,
+ "checked": 1795740616341,
  "outages": [
+  {
+   "key": "walton:C1208783",
+   "utility": "Walton EMC",
+   "lat": 33.89152863445166,
+   "lon": -83.40342196701,
+   "county": "Oconee",
+   "location": "Knob Creek Drive (30644)",
+   "first_seen": 1795740616341,
+   "customers": 1,
+   "start": 1795740616341,
+   "cause": null,
+   "last_seen": 1795740616341,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1208781",
+   "utility": "Walton EMC",
+   "lat": 33.89359460869525,
+   "lon": -83.40665426055773,
+   "county": "Oconee",
+   "location": "Knox Ridge (30677)",
+   "first_seen": 1795740616341,
+   "customers": 1,
+   "start": 1795740616341,
+   "cause": null,
+   "last_seen": 1795740616341,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1208780",
+   "utility": "Walton EMC",
+   "lat": 33.884412252627875,
+   "lon": -83.40203316673191,
+   "county": "Oconee",
+   "location": "Allgood Road (30644)",
+   "first_seen": 1795740616341,
+   "customers": 1,
+   "start": 1795740616341,
+   "cause": null,
+   "last_seen": 1795740616341,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1208782",
+   "utility": "Walton EMC",
+   "lat": 33.88905863503541,
+   "lon": -83.40644836735008,
+   "county": "Oconee",
+   "location": "Lavista Road (30644)",
+   "first_seen": 1795740616341,
+   "customers": 1,
+   "start": 1795740616341,
+   "cause": null,
+   "last_seen": 1795740616341,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1208777",
+   "utility": "Walton EMC",
+   "lat": 33.8915955904713,
+   "lon": -83.40067932480716,
+   "county": "Oconee",
+   "location": "Mason Mill Road (30606)",
+   "first_seen": 1795740616341,
+   "customers": 1,
+   "start": 1795740616341,
+   "cause": null,
+   "last_seen": 1795740616341,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1208779",
+   "utility": "Walton EMC",
+   "lat": 33.88909410261713,
+   "lon": -83.40420218590798,
+   "county": "Oconee",
+   "location": "Lavista Road (30644)",
+   "first_seen": 1795740616341,
+   "customers": 1,
+   "start": 1795740616341,
+   "cause": null,
+   "last_seen": 1795740616341,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1208778",
+   "utility": "Walton EMC",
+   "lat": 33.88563874754991,
+   "lon": -83.40412158950558,
+   "county": "Oconee",
+   "location": "Allgood Road (30644)",
+   "first_seen": 1795740616341,
+   "customers": 1,
+   "start": 1795740616341,
+   "cause": null,
+   "last_seen": 1795740616341,
+   "cleared": null
+  },
+  {
+   "key": "jackson:607460",
+   "utility": "Jackson EMC",
+   "lat": 34.13968673952883,
+   "lon": -83.1468140514321,
+   "county": "Madison",
+   "location": "Transco Road near Transco",
+   "first_seen": 1795740616341,
+   "customers": 117,
+   "start": 1795739953000,
+   "cause": null,
+   "last_seen": 1795740616341,
+   "cleared": null
+  },
   {
    "key": "walton:C1208776",
    "utility": "Walton EMC",
@@ -552,28 +664,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795740015728,
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795740616341,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795740015728
+   "message": "7 outage(s) in your counties",
+   "last_ok": 1795740616341
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795740015728
+   "last_ok": 1795740616341
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795740015728
+   "last_ok": 1795740616341
   }
  },
  "skipped": {
