@@ -1,5 +1,5 @@
 {
- "checked": 1795803935238,
+ "checked": 1795804222017,
  "outages": [
   {
    "key": "walton:C1208866",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1795803935238,
    "cause": null,
-   "last_seen": 1795803935238,
+   "last_seen": 1795804222017,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 1,
    "start": 1795801821414,
    "cause": null,
-   "last_seen": 1795803935238,
+   "last_seen": 1795804222017,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 1,
    "start": 1795801821414,
    "cause": null,
-   "last_seen": 1795803935238,
+   "last_seen": 1795804222017,
    "cleared": null
   },
   {
@@ -54,7 +54,7 @@
    "customers": 4,
    "start": 1795798827846,
    "cause": null,
-   "last_seen": 1795803935238,
+   "last_seen": 1795804222017,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 18,
    "start": 1795793400000,
    "cause": null,
-   "last_seen": 1795803935238,
+   "last_seen": 1795804222017,
    "cleared": null
   },
   {
@@ -82,7 +82,7 @@
    "customers": 1,
    "start": 1795789860000,
    "cause": null,
-   "last_seen": 1795803935238,
+   "last_seen": 1795804222017,
    "cleared": null
   },
   {
@@ -660,20 +660,6 @@
    "cleared": 1795723816632
   },
   {
-   "key": "walton:D1208736",
-   "utility": "Walton EMC",
-   "lat": 33.78518237289248,
-   "lon": -83.68388789491608,
-   "county": "Walton",
-   "location": "Poplar Street near Monroe (30655)",
-   "first_seen": 1795717673328,
-   "customers": 650,
-   "start": 1795717673328,
-   "cause": "This has been automatically entered for you by your dataVoice Scada interface",
-   "last_seen": 1795717673328,
-   "cleared": 1795717820665
-  },
-  {
    "key": "jackson:607308",
    "utility": "Jackson EMC",
    "lat": 34.10354441752707,
@@ -700,20 +686,6 @@
    "cause": null,
    "last_seen": 1795722617864,
    "cleared": 1795723222612
-  },
-  {
-   "key": "walton:C1208735",
-   "utility": "Walton EMC",
-   "lat": 33.74937560537391,
-   "lon": -83.68027139725065,
-   "county": "Walton",
-   "location": "Pleasant Valley Road Northeast (30655)",
-   "first_seen": 1795715416131,
-   "customers": 1,
-   "start": 1795715416131,
-   "cause": null,
-   "last_seen": 1795717216399,
-   "cleared": 1795717673328
   }
  ],
  "sources": {
@@ -721,27 +693,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795803935238,
+   "last_ok": 1795804222017,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "3 outage(s) in your counties",
-   "last_ok": 1795803935238
+   "last_ok": 1795804222017
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795803935238
+   "last_ok": 1795804222017
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795803935238
+   "last_ok": 1795804222017
   }
  },
  "skipped": {
