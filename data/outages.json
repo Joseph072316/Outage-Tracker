@@ -1,5 +1,5 @@
 {
- "checked": 1795812016144,
+ "checked": 1795812616424,
  "outages": [
   {
    "key": "jackson:607526",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1795808760000,
    "cause": null,
-   "last_seen": 1795812016144,
+   "last_seen": 1795812616424,
    "cleared": null
   },
   {
@@ -590,20 +590,6 @@
    "cleared": 1795730421534
   },
   {
-   "key": "jackson:607405",
-   "utility": "Jackson EMC",
-   "lat": 34.076583793936976,
-   "lon": -83.25569884703539,
-   "county": "Madison",
-   "location": "General Daniels Avenue South near Diamond Hill (30646)",
-   "first_seen": 1795723222612,
-   "customers": 10,
-   "start": 1795722031000,
-   "cause": null,
-   "last_seen": 1795725616415,
-   "cleared": 1795726215094
-  },
-  {
    "key": "gapower:33.9955,-83.4255",
    "utility": "Georgia Power",
    "lat": 33.99554,
@@ -637,27 +623,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795812016144,
+   "last_ok": 1795812616424,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795812016144
+   "last_ok": 1795812616424
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795812016144
+   "last_ok": 1795812616424
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795812016144
+   "last_ok": 1795812616424
   }
  },
  "skipped": {
