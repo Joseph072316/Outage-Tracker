@@ -1,18 +1,18 @@
 {
- "checked": 1795806615527,
+ "checked": 1795807216102,
  "outages": [
   {
-   "key": "walton:C1208866",
+   "key": "walton:C1208870",
    "utility": "Walton EMC",
    "lat": 33.78638639054002,
    "lon": -83.65753244161805,
    "county": "Walton",
    "location": "Vasco Adcock Road (30655)",
-   "first_seen": 1795803935238,
+   "first_seen": 1795807216102,
    "customers": 1,
-   "start": 1795803935238,
+   "start": 1795807216102,
    "cause": null,
-   "last_seen": 1795806615527,
+   "last_seen": 1795807216102,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1795798827846,
    "cause": null,
-   "last_seen": 1795806615527,
+   "last_seen": 1795807216102,
    "cleared": null
   },
   {
@@ -40,8 +40,22 @@
    "customers": 1,
    "start": 1795789860000,
    "cause": null,
-   "last_seen": 1795806615527,
+   "last_seen": 1795807216102,
    "cleared": null
+  },
+  {
+   "key": "walton:C1208866",
+   "utility": "Walton EMC",
+   "lat": 33.78638639054002,
+   "lon": -83.65753244161805,
+   "county": "Walton",
+   "location": "Vasco Adcock Road (30655)",
+   "first_seen": 1795803935238,
+   "customers": 1,
+   "start": 1795803935238,
+   "cause": null,
+   "last_seen": 1795806615527,
+   "cleared": 1795807216102
   },
   {
    "key": "walton:C1208864",
@@ -693,27 +707,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795806615527,
+   "last_ok": 1795807216102,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795806615527
+   "last_ok": 1795807216102
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795806615527
+   "last_ok": 1795807216102
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795806615527
+   "last_ok": 1795807216102
   }
  },
  "skipped": {
@@ -741,6 +755,7 @@
   "gapower:34.3243,-83.8207": 1795798827846,
   "gapower:34.1884,-83.9263": 1795803016733,
   "gapower:34.1855,-83.9296": 1795803016733,
-  "gapower:34.1934,-83.9321": 1795803016733
+  "gapower:34.1934,-83.9321": 1795803016733,
+  "gapower:34.3353,-83.8491": 1795807216102
  }
 }
