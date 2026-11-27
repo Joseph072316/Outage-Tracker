@@ -1,32 +1,18 @@
 {
- "checked": 1795756817273,
+ "checked": 1795757419975,
  "outages": [
   {
-   "key": "walton:C1208827",
+   "key": "walton:D1208828",
    "utility": "Walton EMC",
-   "lat": 33.82883850079332,
-   "lon": -83.35474143949811,
+   "lat": 33.83706815251537,
+   "lon": -83.34643422189102,
    "county": "Oconee",
-   "location": "Kirkland Road near Pine Hills (30605)",
-   "first_seen": 1795756817273,
-   "customers": 1,
-   "start": 1795756817273,
+   "location": "Flat Rock Road near Pine Hills (30677)",
+   "first_seen": 1795757419975,
+   "customers": 22,
+   "start": 1795757419975,
    "cause": null,
-   "last_seen": 1795756817273,
-   "cleared": null
-  },
-  {
-   "key": "walton:C1208826",
-   "utility": "Walton EMC",
-   "lat": 33.83063636416081,
-   "lon": -83.34423896109328,
-   "county": "Oconee",
-   "location": "Kirkland Road near Pine Hills (30605)",
-   "first_seen": 1795756817273,
-   "customers": 1,
-   "start": 1795756817273,
-   "cause": null,
-   "last_seen": 1795756817273,
+   "last_seen": 1795757419975,
    "cleared": null
   },
   {
@@ -40,8 +26,36 @@
    "customers": 1,
    "start": 1795747815614,
    "cause": null,
-   "last_seen": 1795756817273,
+   "last_seen": 1795757419975,
    "cleared": null
+  },
+  {
+   "key": "walton:C1208827",
+   "utility": "Walton EMC",
+   "lat": 33.82883850079332,
+   "lon": -83.35474143949811,
+   "county": "Oconee",
+   "location": "Kirkland Road near Pine Hills (30605)",
+   "first_seen": 1795756817273,
+   "customers": 1,
+   "start": 1795756817273,
+   "cause": null,
+   "last_seen": 1795756817273,
+   "cleared": 1795757419975
+  },
+  {
+   "key": "walton:C1208826",
+   "utility": "Walton EMC",
+   "lat": 33.83063636416081,
+   "lon": -83.34423896109328,
+   "county": "Oconee",
+   "location": "Kirkland Road near Pine Hills (30605)",
+   "first_seen": 1795756817273,
+   "customers": 1,
+   "start": 1795756817273,
+   "cause": null,
+   "last_seen": 1795756817273,
+   "cleared": 1795757419975
   },
   {
    "key": "gapower:33.8812,-83.3969",
@@ -693,27 +707,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795756817273,
+   "last_ok": 1795757419975,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "3 outage(s) in your counties",
-   "last_ok": 1795756817273
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1795757419975
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795756817273
+   "last_ok": 1795757419975
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795756817273
+   "last_ok": 1795757419975
   }
  },
  "skipped": {
