@@ -1,5 +1,5 @@
 {
- "checked": 1795761617117,
+ "checked": 1795761823987,
  "outages": [
   {
    "key": "walton:D1208828",
@@ -12,7 +12,7 @@
    "customers": 22,
    "start": 1795757419975,
    "cause": null,
-   "last_seen": 1795761617117,
+   "last_seen": 1795761823987,
    "cleared": null
   },
   {
@@ -646,20 +646,6 @@
    "cleared": 1795680622168
   },
   {
-   "key": "walton:C1208699",
-   "utility": "Walton EMC",
-   "lat": 33.721421661208154,
-   "lon": -83.39951938965535,
-   "county": "Oconee",
-   "location": "Old Salem Road near Salem (30638)",
-   "first_seen": 1795675221368,
-   "customers": 1,
-   "start": 1795675221368,
-   "cause": null,
-   "last_seen": 1795675221368,
-   "cleared": 1795675371741
-  },
-  {
    "key": "jackson:607275",
    "utility": "Jackson EMC",
    "lat": 34.062229563647215,
@@ -707,27 +693,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795761617117,
+   "last_ok": 1795761823987,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795761617117
+   "last_ok": 1795761823987
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795761617117
+   "last_ok": 1795761823987
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795761617117
+   "last_ok": 1795761823987
   }
  },
  "skipped": {
