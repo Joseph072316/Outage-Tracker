@@ -1,6 +1,20 @@
 {
- "checked": 1795777816836,
+ "checked": 1795778252763,
  "outages": [
+  {
+   "key": "walton:D1208836",
+   "utility": "Walton EMC",
+   "lat": 33.78089409986008,
+   "lon": -83.8246938137877,
+   "county": "Walton",
+   "location": "Riverfalls View (30052)",
+   "first_seen": 1795778252763,
+   "customers": 20,
+   "start": 1795778252763,
+   "cause": null,
+   "last_seen": 1795778252763,
+   "cleared": null
+  },
   {
    "key": "walton:C1208835",
    "utility": "Walton EMC",
@@ -13,7 +27,7 @@
    "start": 1795776617323,
    "cause": null,
    "last_seen": 1795777816836,
-   "cleared": null
+   "cleared": 1795778252763
   },
   {
    "key": "walton:C1208834",
@@ -595,27 +609,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795777816836,
+   "last_ok": 1795778252763,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795777816836
+   "last_ok": 1795778252763
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795777816836
+   "last_ok": 1795778252763
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795777816836
+   "last_ok": 1795778252763
   }
  },
  "skipped": {
