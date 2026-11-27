@@ -1,6 +1,20 @@
 {
- "checked": 1795798217346,
+ "checked": 1795798827846,
  "outages": [
+  {
+   "key": "gapower:34.0421,-83.0348",
+   "utility": "Georgia Power",
+   "lat": 34.04215,
+   "lon": -83.03481,
+   "county": "Madison",
+   "location": "3rd Avenue near Carlton (30629)",
+   "first_seen": 1795798827846,
+   "customers": 4,
+   "start": 1795798827846,
+   "cause": null,
+   "last_seen": 1795798827846,
+   "cleared": null
+  },
   {
    "key": "walton:C1208855",
    "utility": "Walton EMC",
@@ -12,7 +26,7 @@
    "customers": 1,
    "start": 1795798217346,
    "cause": null,
-   "last_seen": 1795798217346,
+   "last_seen": 1795798827846,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 533,
    "start": 1795797605713,
    "cause": null,
-   "last_seen": 1795798217346,
+   "last_seen": 1795798827846,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 1,
    "start": 1795795817006,
    "cause": null,
-   "last_seen": 1795798217346,
+   "last_seen": 1795798827846,
    "cleared": null
   },
   {
@@ -54,7 +68,7 @@
    "customers": 1,
    "start": 1795795817006,
    "cause": null,
-   "last_seen": 1795798217346,
+   "last_seen": 1795798827846,
    "cleared": null
   },
   {
@@ -65,10 +79,10 @@
    "county": "Oglethorpe",
    "location": "Hawk Creek Trail (30683)",
    "first_seen": 1795794017401,
-   "customers": 1,
+   "customers": 18,
    "start": 1795793400000,
    "cause": null,
-   "last_seen": 1795798217346,
+   "last_seen": 1795798827846,
    "cleared": null
   },
   {
@@ -82,7 +96,7 @@
    "customers": 1,
    "start": 1795789860000,
    "cause": null,
-   "last_seen": 1795798217346,
+   "last_seen": 1795798827846,
    "cleared": null
   },
   {
@@ -679,27 +693,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795798217346,
+   "last_ok": 1795798827846,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "3 outage(s) in your counties",
-   "last_ok": 1795798217346
+   "last_ok": 1795798827846
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795798217346
+   "last_ok": 1795798827846
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
+   "message": "2 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795798217346
+   "last_ok": 1795798827846
   }
  },
  "skipped": {
@@ -733,6 +747,7 @@
   "gapower:33.9760,-83.8774": 1795783815788,
   "gapower:34.3030,-83.8582": 1795785023724,
   "rayle:2026-11-27-0376": 1795785616226,
-  "gapower:34.3243,-83.8216": 1795796416674
+  "gapower:34.3243,-83.8216": 1795796416674,
+  "gapower:34.3243,-83.8207": 1795798827846
  }
 }
