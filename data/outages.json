@@ -1,5 +1,5 @@
 {
- "checked": 1795793609270,
+ "checked": 1795794017401,
  "outages": [
   {
    "key": "gapower:33.4986,-83.2572",
@@ -12,7 +12,21 @@
    "customers": 4,
    "start": 1795793421399,
    "cause": null,
-   "last_seen": 1795793609270,
+   "last_seen": 1795794017401,
+   "cleared": null
+  },
+  {
+   "key": "rayle:2026-11-27-0379",
+   "utility": "Rayle EMC",
+   "lat": 33.95423840301105,
+   "lon": -83.22773992806785,
+   "county": "Oglethorpe",
+   "location": "Hawk Creek Trail (30683)",
+   "first_seen": 1795794017401,
+   "customers": 1,
+   "start": 1795793400000,
+   "cause": null,
+   "last_seen": 1795794017401,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 1,
    "start": 1795790500000,
    "cause": null,
-   "last_seen": 1795793609270,
+   "last_seen": 1795794017401,
    "cleared": null
   },
   {
@@ -40,7 +54,7 @@
    "customers": 1,
    "start": 1795789860000,
    "cause": null,
-   "last_seen": 1795793609270,
+   "last_seen": 1795794017401,
    "cleared": null
   },
   {
@@ -623,27 +637,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795793609270,
+   "last_ok": 1795794017401,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795793609270
+   "last_ok": 1795794017401
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795793609270
+   "message": "2 outage(s) in your counties",
+   "last_ok": 1795794017401
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795793609270
+   "last_ok": 1795794017401
   }
  },
  "skipped": {
