@@ -1,5 +1,5 @@
 {
- "checked": 1795752022912,
+ "checked": 1795752616810,
  "outages": [
   {
    "key": "walton:C1208825",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1795747815614,
    "cause": null,
-   "last_seen": 1795752022912,
+   "last_seen": 1795752616810,
    "cleared": null
   },
   {
@@ -660,20 +660,6 @@
    "cleared": 1795678817553
   },
   {
-   "key": "walton:D1208690",
-   "utility": "Walton EMC",
-   "lat": 33.62343129164871,
-   "lon": -83.68307256815444,
-   "county": "Walton",
-   "location": "US 278;GA 12 near Social Circle (30025)",
-   "first_seen": 1795663215991,
-   "customers": 2,
-   "start": 1795663215991,
-   "cause": null,
-   "last_seen": 1795665627428,
-   "cleared": 1795666215112
-  },
-  {
    "key": "gapower:34.0540,-83.1227",
    "utility": "Georgia Power",
    "lat": 34.05398,
@@ -693,27 +679,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795752022912,
+   "last_ok": 1795752616810,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795752022912
+   "last_ok": 1795752616810
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795752022912
+   "last_ok": 1795752616810
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795752022912
+   "last_ok": 1795752616810
   }
  },
  "skipped": {
