@@ -1,5 +1,5 @@
 {
- "checked": 1795783215327,
+ "checked": 1795783815788,
  "outages": [
   {
    "key": "walton:D1208836",
@@ -13,7 +13,7 @@
    "start": 1795778252763,
    "cause": null,
    "last_seen": 1795783215327,
-   "cleared": null
+   "cleared": 1795783815788
   },
   {
    "key": "walton:C1208835",
@@ -588,20 +588,6 @@
    "cause": null,
    "last_seen": 1795698022992,
    "cleared": 1795698616917
-  },
-  {
-   "key": "gapower:34.0843,-83.2421",
-   "utility": "Georgia Power",
-   "lat": 34.08428,
-   "lon": -83.24206,
-   "county": "Madison",
-   "location": "Moriah Church Road (30628)",
-   "first_seen": 1795687825730,
-   "customers": 4,
-   "start": 1795687825730,
-   "cause": null,
-   "last_seen": 1795696222685,
-   "cleared": 1795696816414
   }
  ],
  "sources": {
@@ -609,27 +595,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795783215327,
+   "last_ok": 1795783815788,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795783215327
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795783815788
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795783215327
+   "last_ok": 1795783815788
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795783215327
+   "last_ok": 1795783815788
   }
  },
  "skipped": {
@@ -664,6 +650,7 @@
   "gapower:33.4434,-83.8935": 1795759224993,
   "gapower:34.3096,-83.8331": 1795771820043,
   "gapower:34.3091,-83.8351": 1795771820043,
-  "gapower:34.3110,-83.8213": 1795772415222
+  "gapower:34.3110,-83.8213": 1795772415222,
+  "gapower:33.9760,-83.8774": 1795783815788
  }
 }
