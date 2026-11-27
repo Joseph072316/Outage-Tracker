@@ -1,5 +1,5 @@
 {
- "checked": 1795758218189,
+ "checked": 1795758615714,
  "outages": [
   {
    "key": "walton:D1208828",
@@ -12,21 +12,7 @@
    "customers": 22,
    "start": 1795757419975,
    "cause": null,
-   "last_seen": 1795758218189,
-   "cleared": null
-  },
-  {
-   "key": "walton:C1208825",
-   "utility": "Walton EMC",
-   "lat": 33.89047678328453,
-   "lon": -83.40232982794961,
-   "county": "Oconee",
-   "location": "Mason Mill Road (30606)",
-   "first_seen": 1795747815614,
-   "customers": 1,
-   "start": 1795747815614,
-   "cause": null,
-   "last_seen": 1795758218189,
+   "last_seen": 1795758615714,
    "cleared": null
   },
   {
@@ -56,6 +42,20 @@
    "cause": null,
    "last_seen": 1795756817273,
    "cleared": 1795757419975
+  },
+  {
+   "key": "walton:C1208825",
+   "utility": "Walton EMC",
+   "lat": 33.89047678328453,
+   "lon": -83.40232982794961,
+   "county": "Oconee",
+   "location": "Mason Mill Road (30606)",
+   "first_seen": 1795747815614,
+   "customers": 1,
+   "start": 1795747815614,
+   "cause": null,
+   "last_seen": 1795758218189,
+   "cleared": 1795758615714
   },
   {
    "key": "gapower:33.8812,-83.3969",
@@ -707,27 +707,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795758218189,
+   "last_ok": 1795758615714,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "2 outage(s) in your counties",
-   "last_ok": 1795758218189
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795758615714
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795758218189
+   "last_ok": 1795758615714
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795758218189
+   "last_ok": 1795758615714
   }
  },
  "skipped": {
