@@ -1,5 +1,5 @@
 {
- "checked": 1795807569833,
+ "checked": 1795807820916,
  "outages": [
   {
    "key": "walton:C1208870",
@@ -12,21 +12,7 @@
    "customers": 1,
    "start": 1795807216102,
    "cause": null,
-   "last_seen": 1795807569833,
-   "cleared": null
-  },
-  {
-   "key": "gapower:34.0421,-83.0348",
-   "utility": "Georgia Power",
-   "lat": 34.04215,
-   "lon": -83.03481,
-   "county": "Madison",
-   "location": "3rd Avenue near Carlton (30629)",
-   "first_seen": 1795798827846,
-   "customers": 4,
-   "start": 1795798827846,
-   "cause": null,
-   "last_seen": 1795807569833,
+   "last_seen": 1795807820916,
    "cleared": null
   },
   {
@@ -40,7 +26,7 @@
    "customers": 1,
    "start": 1795789860000,
    "cause": null,
-   "last_seen": 1795807569833,
+   "last_seen": 1795807820916,
    "cleared": null
   },
   {
@@ -98,6 +84,20 @@
    "cause": null,
    "last_seen": 1795801216585,
    "cleared": 1795801821414
+  },
+  {
+   "key": "gapower:34.0421,-83.0348",
+   "utility": "Georgia Power",
+   "lat": 34.04215,
+   "lon": -83.03481,
+   "county": "Madison",
+   "location": "3rd Avenue near Carlton (30629)",
+   "first_seen": 1795798827846,
+   "customers": 4,
+   "start": 1795798827846,
+   "cause": null,
+   "last_seen": 1795807569833,
+   "cleared": 1795807820916
   },
   {
    "key": "walton:C1208855",
@@ -679,31 +679,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795807569833,
+   "last_ok": 1795807820916,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795807569833
+   "last_ok": 1795807820916
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795807569833
+   "last_ok": 1795807820916
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
+   "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795807569833
+   "last_ok": 1795807820916
   }
  },
  "skipped": {
-  "gapower:33.9917,-83.8322": 1795721420847,
   "gapower:34.3131,-83.8201": 1795723816632,
   "gapower:33.9917,-83.8359": 1795724923556,
   "gapower:34.3040,-83.8397": 1795738793047,
