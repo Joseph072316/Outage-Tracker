@@ -1,5 +1,5 @@
 {
- "checked": 1795746618920,
+ "checked": 1795747218736,
  "outages": [
   {
    "key": "jackson:607470",
@@ -12,7 +12,7 @@
    "customers": 27,
    "start": 1795743654000,
    "cause": null,
-   "last_seen": 1795746618920,
+   "last_seen": 1795747218736,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 133,
    "start": 1795741222943,
    "cause": null,
-   "last_seen": 1795746618920,
+   "last_seen": 1795747218736,
    "cleared": null
   },
   {
@@ -672,20 +672,6 @@
    "cause": null,
    "last_seen": 1795667421673,
    "cleared": 1795668017341
-  },
-  {
-   "key": "jackson:607255",
-   "utility": "Jackson EMC",
-   "lat": 34.20278717318508,
-   "lon": -83.48633231311234,
-   "county": "Jackson",
-   "location": "B Wilson Road near Commerce (30529)",
-   "first_seen": 1795653019179,
-   "customers": 61,
-   "start": 1795652219000,
-   "cause": null,
-   "last_seen": 1795660224731,
-   "cleared": 1795660768340
   }
  ],
  "sources": {
@@ -693,27 +679,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795746618920,
+   "last_ok": 1795747218736,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795746618920
+   "last_ok": 1795747218736
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795746618920
+   "last_ok": 1795747218736
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795746618920
+   "last_ok": 1795747218736
   }
  },
  "skipped": {
