@@ -1,6 +1,20 @@
 {
- "checked": 1795814527663,
+ "checked": 1795815020819,
  "outages": [
+  {
+   "key": "walton:C1208855",
+   "utility": "Walton EMC",
+   "lat": 33.77953306505178,
+   "lon": -83.60539477369852,
+   "county": "Walton",
+   "location": "GA 83 near Good Hope (30641)",
+   "first_seen": 1795798217346,
+   "customers": 1,
+   "start": 1795798217346,
+   "cause": null,
+   "last_seen": 1795815020819,
+   "cleared": null
+  },
   {
    "key": "jackson:607529",
    "utility": "Jackson EMC",
@@ -13,7 +27,7 @@
    "start": 1795813639626,
    "cause": null,
    "last_seen": 1795814527663,
-   "cleared": null
+   "cleared": 1795815020819
   },
   {
    "key": "jackson:607526",
@@ -126,20 +140,6 @@
    "cause": null,
    "last_seen": 1795807569833,
    "cleared": 1795807820916
-  },
-  {
-   "key": "walton:C1208855",
-   "utility": "Walton EMC",
-   "lat": 33.77953306505178,
-   "lon": -83.60539477369852,
-   "county": "Walton",
-   "location": "GA 83 near Good Hope (30641)",
-   "first_seen": 1795798217346,
-   "customers": 1,
-   "start": 1795798217346,
-   "cause": null,
-   "last_seen": 1795798827846,
-   "cleared": 1795799417152
   },
   {
    "key": "gapower:33.7296,-83.1912",
@@ -608,28 +608,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "1 outage(s) in your counties",
-   "last_ok": 1795814527663,
+   "message": "0 outage(s) in your counties",
+   "last_ok": 1795815020819,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795814527663
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795815020819
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795814527663
+   "last_ok": 1795815020819
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795814527663
+   "last_ok": 1795815020819
   }
  },
  "skipped": {
