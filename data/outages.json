@@ -1,20 +1,6 @@
 {
- "checked": 1795804222017,
+ "checked": 1795804815392,
  "outages": [
-  {
-   "key": "walton:C1208866",
-   "utility": "Walton EMC",
-   "lat": 33.78638639054002,
-   "lon": -83.65753244161805,
-   "county": "Walton",
-   "location": "Vasco Adcock Road (30655)",
-   "first_seen": 1795803935238,
-   "customers": 1,
-   "start": 1795803935238,
-   "cause": null,
-   "last_seen": 1795804222017,
-   "cleared": null
-  },
   {
    "key": "walton:C1208864",
    "utility": "Walton EMC",
@@ -26,7 +12,7 @@
    "customers": 1,
    "start": 1795801821414,
    "cause": null,
-   "last_seen": 1795804222017,
+   "last_seen": 1795804815392,
    "cleared": null
   },
   {
@@ -40,7 +26,7 @@
    "customers": 1,
    "start": 1795801821414,
    "cause": null,
-   "last_seen": 1795804222017,
+   "last_seen": 1795804815392,
    "cleared": null
   },
   {
@@ -54,7 +40,21 @@
    "customers": 4,
    "start": 1795798827846,
    "cause": null,
-   "last_seen": 1795804222017,
+   "last_seen": 1795804815392,
+   "cleared": null
+  },
+  {
+   "key": "walton:C1208853",
+   "utility": "Walton EMC",
+   "lat": 33.950016160300976,
+   "lon": -83.46362584254013,
+   "county": "Clarke",
+   "location": "Huntington Road near Athens (30606)",
+   "first_seen": 1795795817006,
+   "customers": 1,
+   "start": 1795795817006,
+   "cause": null,
+   "last_seen": 1795804815392,
    "cleared": null
   },
   {
@@ -68,7 +68,7 @@
    "customers": 18,
    "start": 1795793400000,
    "cause": null,
-   "last_seen": 1795804222017,
+   "last_seen": 1795804815392,
    "cleared": null
   },
   {
@@ -82,8 +82,22 @@
    "customers": 1,
    "start": 1795789860000,
    "cause": null,
-   "last_seen": 1795804222017,
+   "last_seen": 1795804815392,
    "cleared": null
+  },
+  {
+   "key": "walton:C1208866",
+   "utility": "Walton EMC",
+   "lat": 33.78638639054002,
+   "lon": -83.65753244161805,
+   "county": "Walton",
+   "location": "Vasco Adcock Road (30655)",
+   "first_seen": 1795803935238,
+   "customers": 1,
+   "start": 1795803935238,
+   "cause": null,
+   "last_seen": 1795804222017,
+   "cleared": 1795804815392
   },
   {
    "key": "walton:D1208857",
@@ -126,20 +140,6 @@
    "cause": null,
    "last_seen": 1795801216585,
    "cleared": 1795801821414
-  },
-  {
-   "key": "walton:C1208853",
-   "utility": "Walton EMC",
-   "lat": 33.950016160300976,
-   "lon": -83.46362584254013,
-   "county": "Clarke",
-   "location": "Huntington Road near Athens (30606)",
-   "first_seen": 1795795817006,
-   "customers": 1,
-   "start": 1795795817006,
-   "cause": null,
-   "last_seen": 1795802424300,
-   "cleared": 1795803016733
   },
   {
    "key": "walton:C1208854",
@@ -693,27 +693,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795804222017,
+   "last_ok": 1795804815392,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "3 outage(s) in your counties",
-   "last_ok": 1795804222017
+   "last_ok": 1795804815392
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "2 outage(s) in your counties",
-   "last_ok": 1795804222017
+   "last_ok": 1795804815392
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795804222017
+   "last_ok": 1795804815392
   }
  },
  "skipped": {
