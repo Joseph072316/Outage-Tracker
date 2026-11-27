@@ -1,5 +1,5 @@
 {
- "checked": 1795765216997,
+ "checked": 1795765816468,
  "outages": [
   {
    "key": "walton:C1208834",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1795764621081,
    "cause": null,
-   "last_seen": 1795765216997,
+   "last_seen": 1795765816468,
    "cleared": null
   },
   {
@@ -672,20 +672,6 @@
    "cause": null,
    "last_seen": 1795679416310,
    "cleared": 1795680025969
-  },
-  {
-   "key": "jackson:607273",
-   "utility": "Jackson EMC",
-   "lat": 34.127484855852245,
-   "lon": -83.26623608531958,
-   "county": "Madison",
-   "location": "Coley Davis Road (30633)",
-   "first_seen": 1795673421620,
-   "customers": 1,
-   "start": 1795673319878,
-   "cause": null,
-   "last_seen": 1795678222498,
-   "cleared": 1795678817553
   }
  ],
  "sources": {
@@ -693,27 +679,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795765216997,
+   "last_ok": 1795765816468,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795765216997
+   "last_ok": 1795765816468
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795765216997
+   "last_ok": 1795765816468
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795765216997
+   "last_ok": 1795765816468
   }
  },
  "skipped": {
