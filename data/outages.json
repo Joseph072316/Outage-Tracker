@@ -1,6 +1,20 @@
 {
- "checked": 1795738221324,
+ "checked": 1795738793047,
  "outages": [
+  {
+   "key": "walton:C1208776",
+   "utility": "Walton EMC",
+   "lat": 33.717961535984614,
+   "lon": -83.60577106490416,
+   "county": "Walton",
+   "location": "Hester Town Road near Ebenezer (30655)",
+   "first_seen": 1795738793047,
+   "customers": 1,
+   "start": 1795738793047,
+   "cause": null,
+   "last_seen": 1795738793047,
+   "cleared": null
+  },
   {
    "key": "walton:D1208771",
    "utility": "Walton EMC",
@@ -609,27 +623,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795738221324,
+   "last_ok": 1795738793047,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795738221324
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795738793047
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795738221324
+   "last_ok": 1795738793047
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795738221324
+   "last_ok": 1795738793047
   }
  },
  "skipped": {
@@ -652,6 +666,7 @@
   "walton:D1208760": 1795720816850,
   "gapower:33.9917,-83.8322": 1795721420847,
   "gapower:34.3131,-83.8201": 1795723816632,
-  "gapower:33.9917,-83.8359": 1795724923556
+  "gapower:33.9917,-83.8359": 1795724923556,
+  "gapower:34.3040,-83.8397": 1795738793047
  }
 }
