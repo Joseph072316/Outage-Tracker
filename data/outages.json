@@ -1,5 +1,5 @@
 {
- "checked": 1795827622136,
+ "checked": 1795828216276,
  "outages": [
   {
    "key": "walton:C1208875",
@@ -450,132 +450,6 @@
    "cleared": 1795747815614
   },
   {
-   "key": "walton:C1208809",
-   "utility": "Walton EMC",
-   "lat": 33.8888049009054,
-   "lon": -83.40085770873715,
-   "county": "Oconee",
-   "location": "Mason Mill Road (30606)",
-   "first_seen": 1795741222943,
-   "customers": 1,
-   "start": 1795741222943,
-   "cause": null,
-   "last_seen": 1795741222943,
-   "cleared": 1795741814833
-  },
-  {
-   "key": "jackson:607461",
-   "utility": "Jackson EMC",
-   "lat": 34.18001997225397,
-   "lon": -83.14778423193908,
-   "county": "Madison",
-   "location": "Wildcat Bridge Road near Dalton (30662)",
-   "first_seen": 1795741222943,
-   "customers": 1,
-   "start": 1795740952768,
-   "cause": null,
-   "last_seen": 1795741222943,
-   "cleared": 1795741814833
-  },
-  {
-   "key": "walton:C1208783",
-   "utility": "Walton EMC",
-   "lat": 33.89152863445166,
-   "lon": -83.40342196701,
-   "county": "Oconee",
-   "location": "Knob Creek Drive (30644)",
-   "first_seen": 1795740616341,
-   "customers": 1,
-   "start": 1795740616341,
-   "cause": null,
-   "last_seen": 1795740616341,
-   "cleared": 1795741222943
-  },
-  {
-   "key": "walton:C1208781",
-   "utility": "Walton EMC",
-   "lat": 33.89359460869525,
-   "lon": -83.40665426055773,
-   "county": "Oconee",
-   "location": "Knox Ridge (30677)",
-   "first_seen": 1795740616341,
-   "customers": 1,
-   "start": 1795740616341,
-   "cause": null,
-   "last_seen": 1795740616341,
-   "cleared": 1795741222943
-  },
-  {
-   "key": "walton:C1208780",
-   "utility": "Walton EMC",
-   "lat": 33.884412252627875,
-   "lon": -83.40203316673191,
-   "county": "Oconee",
-   "location": "Allgood Road (30644)",
-   "first_seen": 1795740616341,
-   "customers": 1,
-   "start": 1795740616341,
-   "cause": null,
-   "last_seen": 1795740616341,
-   "cleared": 1795741222943
-  },
-  {
-   "key": "walton:C1208782",
-   "utility": "Walton EMC",
-   "lat": 33.88905863503541,
-   "lon": -83.40644836735008,
-   "county": "Oconee",
-   "location": "Lavista Road (30644)",
-   "first_seen": 1795740616341,
-   "customers": 1,
-   "start": 1795740616341,
-   "cause": null,
-   "last_seen": 1795740616341,
-   "cleared": 1795741222943
-  },
-  {
-   "key": "walton:C1208777",
-   "utility": "Walton EMC",
-   "lat": 33.8915955904713,
-   "lon": -83.40067932480716,
-   "county": "Oconee",
-   "location": "Mason Mill Road (30606)",
-   "first_seen": 1795740616341,
-   "customers": 1,
-   "start": 1795740616341,
-   "cause": null,
-   "last_seen": 1795740616341,
-   "cleared": 1795741222943
-  },
-  {
-   "key": "walton:C1208779",
-   "utility": "Walton EMC",
-   "lat": 33.88909410261713,
-   "lon": -83.40420218590798,
-   "county": "Oconee",
-   "location": "Lavista Road (30644)",
-   "first_seen": 1795740616341,
-   "customers": 1,
-   "start": 1795740616341,
-   "cause": null,
-   "last_seen": 1795740616341,
-   "cleared": 1795741222943
-  },
-  {
-   "key": "walton:C1208778",
-   "utility": "Walton EMC",
-   "lat": 33.88563874754991,
-   "lon": -83.40412158950558,
-   "county": "Oconee",
-   "location": "Allgood Road (30644)",
-   "first_seen": 1795740616341,
-   "customers": 1,
-   "start": 1795740616341,
-   "cause": null,
-   "last_seen": 1795740616341,
-   "cleared": 1795741222943
-  },
-  {
    "key": "jackson:607460",
    "utility": "Jackson EMC",
    "lat": 34.13968673952883,
@@ -595,27 +469,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795827622136,
+   "last_ok": 1795828216276,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795827622136
+   "last_ok": 1795828216276
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795827622136
+   "last_ok": 1795828216276
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795827622136
+   "last_ok": 1795828216276
   }
  },
  "skipped": {
