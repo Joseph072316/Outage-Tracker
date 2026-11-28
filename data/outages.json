@@ -1,6 +1,20 @@
 {
- "checked": 1795839015571,
+ "checked": 1795839577828,
  "outages": [
+  {
+   "key": "gapower:33.9418,-83.3888",
+   "utility": "Georgia Power",
+   "lat": 33.94177,
+   "lon": -83.38875,
+   "county": "Clarke",
+   "location": "Woodlawn Avenue near Athens (30606)",
+   "first_seen": 1795839577828,
+   "customers": 1230,
+   "start": 1795839577828,
+   "cause": null,
+   "last_seen": 1795839577828,
+   "cleared": null
+  },
   {
    "key": "gapower:33.9370,-83.3908",
    "utility": "Georgia Power",
@@ -525,27 +539,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795839015571,
+   "last_ok": 1795839577828,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795839015571
+   "last_ok": 1795839577828
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795839015571
+   "last_ok": 1795839577828
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
+   "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795839015571
+   "last_ok": 1795839577828
   }
  },
  "skipped": {
