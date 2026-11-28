@@ -1,5 +1,5 @@
 {
- "checked": 1795888215490,
+ "checked": 1795888824080,
  "outages": [
   {
    "key": "jackson:607562",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1795886100000,
    "cause": null,
-   "last_seen": 1795888215490,
+   "last_seen": 1795888824080,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 1,
    "start": 1795885860000,
    "cause": null,
-   "last_seen": 1795888215490,
+   "last_seen": 1795888824080,
    "cleared": null
   },
   {
@@ -394,20 +394,6 @@
    "cleared": 1795806615527
   },
   {
-   "key": "walton:D1208857",
-   "utility": "Walton EMC",
-   "lat": 33.77955815624916,
-   "lon": -83.60514178219299,
-   "county": "Walton",
-   "location": "GA 83 near Good Hope (30641)",
-   "first_seen": 1795799417152,
-   "customers": 4,
-   "start": 1795799417152,
-   "cause": null,
-   "last_seen": 1795801216585,
-   "cleared": 1795801821414
-  },
-  {
    "key": "gapower:34.0421,-83.0348",
    "utility": "Georgia Power",
    "lat": 34.04215,
@@ -434,20 +420,6 @@
    "cause": null,
    "last_seen": 1795817420241,
    "cleared": 1795818017149
-  },
-  {
-   "key": "gapower:33.7296,-83.1912",
-   "utility": "Georgia Power",
-   "lat": 33.72955,
-   "lon": -83.19125,
-   "county": "Oglethorpe",
-   "location": "Conger Place Road (30671)",
-   "first_seen": 1795797605713,
-   "customers": 533,
-   "start": 1795797605713,
-   "cause": null,
-   "last_seen": 1795801216585,
-   "cleared": 1795801821414
   },
   {
    "key": "walton:C1208853",
@@ -497,27 +469,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795888215490,
+   "last_ok": 1795888824080,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795888215490
+   "last_ok": 1795888824080
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795888215490
+   "last_ok": 1795888824080
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795888215490
+   "last_ok": 1795888824080
   }
  },
  "skipped": {
