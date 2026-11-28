@@ -1,6 +1,20 @@
 {
- "checked": 1795885816138,
+ "checked": 1795886415956,
  "outages": [
+  {
+   "key": "rayle:2026-11-28-0384",
+   "utility": "Rayle EMC",
+   "lat": 33.895693135502064,
+   "lon": -83.19120030139662,
+   "county": "Oglethorpe",
+   "location": "Smokey Road (30630)",
+   "first_seen": 1795886415956,
+   "customers": 1,
+   "start": 1795885860000,
+   "cause": null,
+   "last_seen": 1795886415956,
+   "cleared": null
+  },
   {
    "key": "gapower:33.8391,-83.9013",
    "utility": "Georgia Power",
@@ -436,20 +450,6 @@
    "cleared": 1795805416527
   },
   {
-   "key": "walton:C1208854",
-   "utility": "Walton EMC",
-   "lat": 33.807238611892465,
-   "lon": -83.45150914708238,
-   "county": "Oconee",
-   "location": "Price Mill Road near Bishop (30621)",
-   "first_seen": 1795795817006,
-   "customers": 1,
-   "start": 1795795817006,
-   "cause": null,
-   "last_seen": 1795798827846,
-   "cleared": 1795799417152
-  },
-  {
    "key": "rayle:2026-11-27-0379",
    "utility": "Rayle EMC",
    "lat": 33.95423840301105,
@@ -483,27 +483,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795885816138,
+   "last_ok": 1795886415956,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795885816138
+   "last_ok": 1795886415956
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795885816138
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795886415956
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795885816138
+   "last_ok": 1795886415956
   }
  },
  "skipped": {
