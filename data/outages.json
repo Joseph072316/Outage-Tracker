@@ -1,60 +1,18 @@
 {
- "checked": 1795837814776,
+ "checked": 1795838424626,
  "outages": [
   {
-   "key": "gapower:33.9577,-83.4056",
+   "key": "gapower:33.9370,-83.3908",
    "utility": "Georgia Power",
-   "lat": 33.95766,
-   "lon": -83.40565,
+   "lat": 33.93704,
+   "lon": -83.39078,
    "county": "Clarke",
-   "location": "Westover Drive near Athens (30606)",
-   "first_seen": 1795834216116,
-   "customers": 4,
-   "start": 1795834216116,
+   "location": "Milledge Circle near Athens (30606)",
+   "first_seen": 1795838424626,
+   "customers": 173,
+   "start": 1795838424626,
    "cause": null,
-   "last_seen": 1795837814776,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.9389,-83.3893",
-   "utility": "Georgia Power",
-   "lat": 33.93894,
-   "lon": -83.38925,
-   "county": "Clarke",
-   "location": "Cherokee Avenue near Athens (30606)",
-   "first_seen": 1795831815916,
-   "customers": 104,
-   "start": 1795831815916,
-   "cause": null,
-   "last_seen": 1795837814776,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.9335,-83.3929",
-   "utility": "Georgia Power",
-   "lat": 33.93347,
-   "lon": -83.39288,
-   "county": "Clarke",
-   "location": "Westview Drive near Athens (30606)",
-   "first_seen": 1795831815916,
-   "customers": 4,
-   "start": 1795831815916,
-   "cause": null,
-   "last_seen": 1795837814776,
-   "cleared": null
-  },
-  {
-   "key": "gapower:33.9346,-83.3916",
-   "utility": "Georgia Power",
-   "lat": 33.93465,
-   "lon": -83.39159,
-   "county": "Clarke",
-   "location": "Westview Drive near Athens (30606)",
-   "first_seen": 1795831815916,
-   "customers": 4,
-   "start": 1795831815916,
-   "cause": null,
-   "last_seen": 1795837814776,
+   "last_seen": 1795838424626,
    "cleared": null
   },
   {
@@ -86,6 +44,20 @@
    "cleared": 1795835420850
   },
   {
+   "key": "gapower:33.9577,-83.4056",
+   "utility": "Georgia Power",
+   "lat": 33.95766,
+   "lon": -83.40565,
+   "county": "Clarke",
+   "location": "Westover Drive near Athens (30606)",
+   "first_seen": 1795834216116,
+   "customers": 4,
+   "start": 1795834216116,
+   "cause": null,
+   "last_seen": 1795837814776,
+   "cleared": 1795838424626
+  },
+  {
    "key": "gapower:33.9350,-83.3925",
    "utility": "Georgia Power",
    "lat": 33.93495,
@@ -98,6 +70,48 @@
    "cause": null,
    "last_seen": 1795833620399,
    "cleared": 1795834216116
+  },
+  {
+   "key": "gapower:33.9389,-83.3893",
+   "utility": "Georgia Power",
+   "lat": 33.93894,
+   "lon": -83.38925,
+   "county": "Clarke",
+   "location": "Cherokee Avenue near Athens (30606)",
+   "first_seen": 1795831815916,
+   "customers": 104,
+   "start": 1795831815916,
+   "cause": null,
+   "last_seen": 1795837814776,
+   "cleared": 1795838424626
+  },
+  {
+   "key": "gapower:33.9335,-83.3929",
+   "utility": "Georgia Power",
+   "lat": 33.93347,
+   "lon": -83.39288,
+   "county": "Clarke",
+   "location": "Westview Drive near Athens (30606)",
+   "first_seen": 1795831815916,
+   "customers": 4,
+   "start": 1795831815916,
+   "cause": null,
+   "last_seen": 1795837814776,
+   "cleared": 1795838424626
+  },
+  {
+   "key": "gapower:33.9346,-83.3916",
+   "utility": "Georgia Power",
+   "lat": 33.93465,
+   "lon": -83.39159,
+   "county": "Clarke",
+   "location": "Westview Drive near Athens (30606)",
+   "first_seen": 1795831815916,
+   "customers": 4,
+   "start": 1795831815916,
+   "cause": null,
+   "last_seen": 1795837814776,
+   "cleared": 1795838424626
   },
   {
    "key": "walton:C1208875",
@@ -504,20 +518,6 @@
    "cause": null,
    "last_seen": 1795758218189,
    "cleared": 1795758615714
-  },
-  {
-   "key": "jackson:607470",
-   "utility": "Jackson EMC",
-   "lat": 34.056513983310154,
-   "lon": -83.4608021927341,
-   "county": "Jackson",
-   "location": "Timber Ridge Drive (30607)",
-   "first_seen": 1795744215225,
-   "customers": 27,
-   "start": 1795743654000,
-   "cause": null,
-   "last_seen": 1795750893856,
-   "cleared": 1795751415456
   }
  ],
  "sources": {
@@ -525,27 +525,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795837814776,
+   "last_ok": 1795838424626,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795837814776
+   "last_ok": 1795838424626
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795837814776
+   "last_ok": 1795838424626
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "4 outage(s) in your counties",
+   "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795837814776
+   "last_ok": 1795838424626
   }
  },
  "skipped": {
