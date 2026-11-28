@@ -1,5 +1,5 @@
 {
- "checked": 1795881624507,
+ "checked": 1795882220974,
  "outages": [
   {
    "key": "walton:C1208883",
@@ -12,7 +12,7 @@
    "customers": 1,
    "start": 1795871416960,
    "cause": null,
-   "last_seen": 1795881624507,
+   "last_seen": 1795882220974,
    "cleared": null
   },
   {
@@ -450,20 +450,6 @@
    "cleared": 1795799417152
   },
   {
-   "key": "gapower:33.4986,-83.2572",
-   "utility": "Georgia Power",
-   "lat": 33.49857,
-   "lon": -83.25719,
-   "county": "Greene",
-   "location": "ZIP 30652",
-   "first_seen": 1795793421399,
-   "customers": 4,
-   "start": 1795793421399,
-   "cause": null,
-   "last_seen": 1795795226086,
-   "cleared": 1795795817006
-  },
-  {
    "key": "rayle:2026-11-27-0379",
    "utility": "Rayle EMC",
    "lat": 33.95423840301105,
@@ -476,20 +462,6 @@
    "cause": null,
    "last_seen": 1795806025773,
    "cleared": 1795806615527
-  },
-  {
-   "key": "jackson:607515",
-   "utility": "Jackson EMC",
-   "lat": 34.14966405767196,
-   "lon": -83.70950077917722,
-   "county": "Jackson",
-   "location": "Creekside Drive (30567)",
-   "first_seen": 1795791624987,
-   "customers": 1,
-   "start": 1795790500000,
-   "cause": null,
-   "last_seen": 1795794617626,
-   "cleared": 1795795226086
   },
   {
    "key": "rayle:2026-11-27-0377",
@@ -511,27 +483,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795881624507,
+   "last_ok": 1795882220974,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795881624507
+   "last_ok": 1795882220974
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795881624507
+   "last_ok": 1795882220974
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795881624507
+   "last_ok": 1795882220974
   }
  },
  "skipped": {
