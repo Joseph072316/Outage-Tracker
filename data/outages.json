@@ -1,5 +1,5 @@
 {
- "checked": 1795831815916,
+ "checked": 1795832416378,
  "outages": [
   {
    "key": "gapower:33.9389,-83.3893",
@@ -12,7 +12,7 @@
    "customers": 104,
    "start": 1795831815916,
    "cause": null,
-   "last_seen": 1795831815916,
+   "last_seen": 1795832416378,
    "cleared": null
   },
   {
@@ -26,7 +26,7 @@
    "customers": 4,
    "start": 1795831815916,
    "cause": null,
-   "last_seen": 1795831815916,
+   "last_seen": 1795832416378,
    "cleared": null
   },
   {
@@ -40,7 +40,7 @@
    "customers": 4,
    "start": 1795831815916,
    "cause": null,
-   "last_seen": 1795831815916,
+   "last_seen": 1795832416378,
    "cleared": null
   },
   {
@@ -450,20 +450,6 @@
    "cleared": 1795758615714
   },
   {
-   "key": "gapower:33.8812,-83.3969",
-   "utility": "Georgia Power",
-   "lat": 33.88117,
-   "lon": -83.3969,
-   "county": "Oconee",
-   "location": "Thornwell Court (30606)",
-   "first_seen": 1795745415794,
-   "customers": 4,
-   "start": 1795745415794,
-   "cause": null,
-   "last_seen": 1795745415794,
-   "cleared": 1795746015420
-  },
-  {
    "key": "jackson:607470",
    "utility": "Jackson EMC",
    "lat": 34.056513983310154,
@@ -497,32 +483,30 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795831815916,
+   "last_ok": 1795832416378,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795831815916
+   "last_ok": 1795832416378
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795831815916
+   "last_ok": 1795832416378
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "3 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795831815916
+   "last_ok": 1795832416378
   }
  },
  "skipped": {
-  "gapower:34.2995,-83.8234": 1795746015420,
-  "gapower:34.2978,-83.8139": 1795746015420,
   "gapower:34.3053,-83.8273": 1795746618920,
   "gapower:34.2798,-83.8151": 1795748421849,
   "gapower:34.2795,-83.8116": 1795748421849,
