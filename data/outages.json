@@ -1,6 +1,20 @@
 {
- "checked": 1795868415812,
+ "checked": 1795869020906,
  "outages": [
+  {
+   "key": "rayle:2026-11-28-0383",
+   "utility": "Rayle EMC",
+   "lat": 33.81183209331714,
+   "lon": -83.17249429841932,
+   "county": "Oglethorpe",
+   "location": "Bull Bray Road (30630)",
+   "first_seen": 1795869020906,
+   "customers": 1,
+   "start": 1795868040000,
+   "cause": null,
+   "last_seen": 1795869020906,
+   "cleared": null
+  },
   {
    "key": "gapower:33.9834,-83.3574",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 11,
    "start": 1795867225655,
    "cause": null,
-   "last_seen": 1795868415812,
+   "last_seen": 1795869020906,
    "cleared": null
   },
   {
@@ -483,27 +497,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795868415812,
+   "last_ok": 1795869020906,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795868415812
+   "last_ok": 1795869020906
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795868415812
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795869020906
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795868415812
+   "last_ok": 1795869020906
   }
  },
  "skipped": {
