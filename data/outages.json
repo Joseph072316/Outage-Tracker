@@ -1,6 +1,20 @@
 {
- "checked": 1795855217245,
+ "checked": 1795855820864,
  "outages": [
+  {
+   "key": "jackson:607542",
+   "utility": "Jackson EMC",
+   "lat": 34.0460344183502,
+   "lon": -83.56217707256111,
+   "county": "Jackson",
+   "location": "GA 82 near Arcade (30549)",
+   "first_seen": 1795855820864,
+   "customers": 1,
+   "start": 1795855043286,
+   "cause": null,
+   "last_seen": 1795855820864,
+   "cleared": null
+  },
   {
    "key": "gapower:33.9418,-83.3888",
    "utility": "Georgia Power",
@@ -468,28 +482,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795855217245,
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795855820864,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795855217245
+   "last_ok": 1795855820864
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795855217245
+   "last_ok": 1795855820864
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795855217245
+   "last_ok": 1795855820864
   }
  },
  "skipped": {
