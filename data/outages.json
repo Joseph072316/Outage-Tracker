@@ -1,6 +1,20 @@
 {
- "checked": 1795886415956,
+ "checked": 1795887020510,
  "outages": [
+  {
+   "key": "jackson:607562",
+   "utility": "Jackson EMC",
+   "lat": 34.13681674130615,
+   "lon": -83.4075949784483,
+   "county": "Jackson",
+   "location": "Berea Road near Nicholson (30530)",
+   "first_seen": 1795887020510,
+   "customers": 1,
+   "start": 1795886100000,
+   "cause": null,
+   "last_seen": 1795887020510,
+   "cleared": null
+  },
   {
    "key": "rayle:2026-11-28-0384",
    "utility": "Rayle EMC",
@@ -12,7 +26,7 @@
    "customers": 1,
    "start": 1795885860000,
    "cause": null,
-   "last_seen": 1795886415956,
+   "last_seen": 1795887020510,
    "cleared": null
   },
   {
@@ -482,28 +496,28 @@
   "jackson": {
    "name": "Jackson EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795886415956,
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795887020510,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795886415956
+   "last_ok": 1795887020510
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795886415956
+   "last_ok": 1795887020510
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "0 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795886415956
+   "last_ok": 1795887020510
   }
  },
  "skipped": {
