@@ -1,6 +1,20 @@
 {
- "checked": 1795870822840,
+ "checked": 1795871416960,
  "outages": [
+  {
+   "key": "walton:C1208883",
+   "utility": "Walton EMC",
+   "lat": 33.90112549623778,
+   "lon": -83.39471837608929,
+   "county": "Oconee",
+   "location": "Cherokee Circle (30606)",
+   "first_seen": 1795871416960,
+   "customers": 1,
+   "start": 1795871416960,
+   "cause": null,
+   "last_seen": 1795871416960,
+   "cleared": null
+  },
   {
    "key": "gapower:34.1322,-83.5790",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 22,
    "start": 1795870215912,
    "cause": null,
-   "last_seen": 1795870822840,
+   "last_seen": 1795871416960,
    "cleared": null
   },
   {
@@ -26,7 +40,7 @@
    "customers": 1,
    "start": 1795868040000,
    "cause": null,
-   "last_seen": 1795870822840,
+   "last_seen": 1795871416960,
    "cleared": null
   },
   {
@@ -497,27 +511,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795870822840,
+   "last_ok": 1795871416960,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795870822840
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795871416960
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795870822840
+   "last_ok": 1795871416960
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795870822840
+   "last_ok": 1795871416960
   }
  },
  "skipped": {
