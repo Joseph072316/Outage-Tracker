@@ -1,20 +1,6 @@
 {
- "checked": 1795837218426,
+ "checked": 1795837814776,
  "outages": [
-  {
-   "key": "gapower:33.9340,-83.3933",
-   "utility": "Georgia Power",
-   "lat": 33.93395,
-   "lon": -83.39326,
-   "county": "Clarke",
-   "location": "Westview Drive near Athens (30606)",
-   "first_seen": 1795836620110,
-   "customers": 4,
-   "start": 1795836620110,
-   "cause": null,
-   "last_seen": 1795837218426,
-   "cleared": null
-  },
   {
    "key": "gapower:33.9577,-83.4056",
    "utility": "Georgia Power",
@@ -26,7 +12,7 @@
    "customers": 4,
    "start": 1795834216116,
    "cause": null,
-   "last_seen": 1795837218426,
+   "last_seen": 1795837814776,
    "cleared": null
   },
   {
@@ -40,7 +26,7 @@
    "customers": 104,
    "start": 1795831815916,
    "cause": null,
-   "last_seen": 1795837218426,
+   "last_seen": 1795837814776,
    "cleared": null
   },
   {
@@ -54,7 +40,7 @@
    "customers": 4,
    "start": 1795831815916,
    "cause": null,
-   "last_seen": 1795837218426,
+   "last_seen": 1795837814776,
    "cleared": null
   },
   {
@@ -68,8 +54,22 @@
    "customers": 4,
    "start": 1795831815916,
    "cause": null,
-   "last_seen": 1795837218426,
+   "last_seen": 1795837814776,
    "cleared": null
+  },
+  {
+   "key": "gapower:33.9340,-83.3933",
+   "utility": "Georgia Power",
+   "lat": 33.93395,
+   "lon": -83.39326,
+   "county": "Clarke",
+   "location": "Westview Drive near Athens (30606)",
+   "first_seen": 1795836620110,
+   "customers": 4,
+   "start": 1795836620110,
+   "cause": null,
+   "last_seen": 1795837218426,
+   "cleared": 1795837814776
   },
   {
    "key": "gapower:33.9343,-83.3943",
@@ -525,27 +525,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795837218426,
+   "last_ok": 1795837814776,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795837218426
+   "last_ok": 1795837814776
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795837218426
+   "last_ok": 1795837814776
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "5 outage(s) in your counties",
+   "message": "4 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795837218426
+   "last_ok": 1795837814776
   }
  },
  "skipped": {
