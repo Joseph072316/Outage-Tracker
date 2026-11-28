@@ -1,6 +1,20 @@
 {
- "checked": 1795866705762,
+ "checked": 1795867225655,
  "outages": [
+  {
+   "key": "gapower:33.9834,-83.3574",
+   "utility": "Georgia Power",
+   "lat": 33.98337,
+   "lon": -83.35743,
+   "county": "Clarke",
+   "location": "Lochmoor Ridge near Athens (30601)",
+   "first_seen": 1795867225655,
+   "customers": 11,
+   "start": 1795867225655,
+   "cause": null,
+   "last_seen": 1795867225655,
+   "cleared": null
+  },
   {
    "key": "jackson:607542",
    "utility": "Jackson EMC",
@@ -469,27 +483,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795866705762,
+   "last_ok": 1795867225655,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795866705762
+   "last_ok": 1795867225655
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795866705762
+   "last_ok": 1795867225655
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
+   "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795866705762
+   "last_ok": 1795867225655
   }
  },
  "skipped": {
