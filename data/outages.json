@@ -1,6 +1,20 @@
 {
- "checked": 1795872620363,
+ "checked": 1795873216889,
  "outages": [
+  {
+   "key": "gapower:33.8391,-83.9013",
+   "utility": "Georgia Power",
+   "lat": 33.83908,
+   "lon": -83.90135,
+   "county": "Walton",
+   "location": "Main Street near Loganville (30052)",
+   "first_seen": 1795873216889,
+   "customers": 4,
+   "start": 1795873216889,
+   "cause": null,
+   "last_seen": 1795873216889,
+   "cleared": null
+  },
   {
    "key": "walton:C1208883",
    "utility": "Walton EMC",
@@ -12,7 +26,21 @@
    "customers": 1,
    "start": 1795871416960,
    "cause": null,
-   "last_seen": 1795872620363,
+   "last_seen": 1795873216889,
+   "cleared": null
+  },
+  {
+   "key": "rayle:2026-11-28-0383",
+   "utility": "Rayle EMC",
+   "lat": 33.81183209331714,
+   "lon": -83.17249429841932,
+   "county": "Oglethorpe",
+   "location": "Bull Bray Road (30630)",
+   "first_seen": 1795869020906,
+   "customers": 1,
+   "start": 1795868040000,
+   "cause": null,
+   "last_seen": 1795873216889,
    "cleared": null
   },
   {
@@ -27,21 +55,7 @@
    "start": 1795870215912,
    "cause": null,
    "last_seen": 1795872620363,
-   "cleared": null
-  },
-  {
-   "key": "rayle:2026-11-28-0383",
-   "utility": "Rayle EMC",
-   "lat": 33.81183209331714,
-   "lon": -83.17249429841932,
-   "county": "Oglethorpe",
-   "location": "Bull Bray Road (30630)",
-   "first_seen": 1795869020906,
-   "customers": 1,
-   "start": 1795868040000,
-   "cause": null,
-   "last_seen": 1795872620363,
-   "cleared": null
+   "cleared": 1795873216889
   },
   {
    "key": "gapower:33.9834,-83.3574",
@@ -511,27 +525,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795872620363,
+   "last_ok": 1795873216889,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795872620363
+   "last_ok": 1795873216889
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "1 outage(s) in your counties",
-   "last_ok": 1795872620363
+   "last_ok": 1795873216889
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795872620363
+   "last_ok": 1795873216889
   }
  },
  "skipped": {
