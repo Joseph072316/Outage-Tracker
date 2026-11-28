@@ -1,6 +1,20 @@
 {
- "checked": 1795890622068,
+ "checked": 1795891217531,
  "outages": [
+  {
+   "key": "walton:C1208895",
+   "utility": "Walton EMC",
+   "lat": 33.830387871344904,
+   "lon": -83.3214326813665,
+   "county": "Oconee",
+   "location": "Flat Rock Loop near Pioneer Woods (30677)",
+   "first_seen": 1795891217531,
+   "customers": 1,
+   "start": 1795891217531,
+   "cause": null,
+   "last_seen": 1795891217531,
+   "cleared": null
+  },
   {
    "key": "gapower:34.0641,-83.0003",
    "utility": "Georgia Power",
@@ -12,7 +26,7 @@
    "customers": 4,
    "start": 1795889416570,
    "cause": null,
-   "last_seen": 1795890622068,
+   "last_seen": 1795891217531,
    "cleared": null
   },
   {
@@ -483,27 +497,27 @@
    "name": "Jackson EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795890622068,
+   "last_ok": 1795891217531,
    "last_error": 1794900016445
   },
   "walton": {
    "name": "Walton EMC",
    "state": "ok",
-   "message": "0 outage(s) in your counties",
-   "last_ok": 1795890622068
+   "message": "1 outage(s) in your counties",
+   "last_ok": 1795891217531
   },
   "rayle": {
    "name": "Rayle EMC",
    "state": "ok",
    "message": "0 outage(s) in your counties",
-   "last_ok": 1795890622068
+   "last_ok": 1795891217531
   },
   "gapower": {
    "name": "Georgia Power",
    "state": "ok",
    "message": "1 outage(s) in your counties",
    "last_error": 1794749259522,
-   "last_ok": 1795890622068
+   "last_ok": 1795891217531
   }
  },
  "skipped": {
